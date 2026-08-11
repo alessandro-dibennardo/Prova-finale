@@ -1,0 +1,2402 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "In Deutschland und Österreich wird das von der Firma Actelion hergestellte Bosentanpräparat unter dem Handelsnamen Tracleer® vermarktet ."
+      },
+      {
+        "from": "assistant",
+        "value": "In ##Deutschland## und ##Österreich## wird das von der Firma ##Actelion## hergestellte ##Bosentanpräparat## unter dem Handelsnamen ##Tracleer##® vermarktet ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Theorie der allgemeinen Relativitätstheorie sagt die Biegung von Licht um massereiche Objekte voraus, die als Gravitationslinsen bekannt sind."
+      },
+      {
+        "from": "assistant",
+        "value": "Die ##Theorie der allgemeinen Relativitätstheorie## sagt die Biegung von ##Licht## um massereiche Objekte voraus, die als ##Gravitationslinsen## bekannt sind."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Sie leben nur in einem sehr begrenzten Gebiet im nördlichen Western Australia , wie aus dem Namen schon schließen lässt , in der Pilbara-Region ."
+      },
+      {
+        "from": "assistant",
+        "value": "Sie leben nur in einem sehr begrenzten Gebiet im nördlichen ##Western Australia## , wie aus dem Namen schon schließen lässt , in der ##Pilbara-Region## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Ein Beatmungsgerät unterstützt Patienten mit Atembeschwerden und bietet eine mechanische Beatmung, um die Lungenfunktion in kritischen Fällen zu unterstützen."
+      },
+      {
+        "from": "assistant",
+        "value": "Ein ##Beatmungsgerät## unterstützt ##Patienten## mit ##Atembeschwerden## und bietet eine ##mechanische Beatmung##, um die ##Lungenfunktion## in kritischen Fällen zu unterstützen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "In der Radiologieabteilung des Shanghai Children's Medical Center führen Techniker eine Röntgenuntersuchung bei einem jungen Patienten durch, der im Verdacht steht, eine Fraktur zu haben, während die Ärzte die Bilder auf dem Bildschirm sorgfältig untersuchen."
+      },
+      {
+        "from": "assistant",
+        "value": "In der Radiologieabteilung des ##Shanghai Children's Medical Center## führen ##Techniker## eine ##Röntgenuntersuchung## bei einem jungen ##Patienten## durch, der im Verdacht steht, eine ##Fraktur## zu haben, während die ##Ärzte## die Bilder auf dem Bildschirm sorgfältig untersuchen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Das Stadttheater Bielefeld ist gut mit öffentlichen Verkehrsmitteln zu erreichen , es werden jedoch sporadisch ebenfalls Theaterbusse eingesetzt ."
+      },
+      {
+        "from": "assistant",
+        "value": "Das ##Stadttheater Bielefeld## ist gut mit öffentlichen Verkehrsmitteln zu erreichen , es werden jedoch sporadisch ebenfalls ##Theaterbusse## eingesetzt ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Im Louwailou Restaurant in Hangzhou verkostet eine Gruppe von Touristen die repräsentativen Werke der Hangzhou-Küche, wie z.B. West Lake Fish in Essigsauce, um die Delikatesse und den Charme der Jiangnan-Küche zu schätzen."
+      },
+      {
+        "from": "assistant",
+        "value": "Im ##Louwailou Restaurant## in ##Hangzhou## verkostet eine Gruppe von Touristen die repräsentativen Werke der ##Hangzhou##-Küche, wie z.B. ##West Lake Fish in Essigsauce##, um die Delikatesse und den Charme der ##Jiangnan-Küche## zu schätzen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "In der Dim-Sum-Halle des Guangzhou Taotaoju-Restaurants probieren die Gäste alle Arten von kantonesischem Dim Sum und erleben die authentische Guangzhou-Morgentee-Kultur."
+      },
+      {
+        "from": "assistant",
+        "value": "In der Dim-Sum-Halle des ####Guangzhou## Taotaoju-Restaurant##s probieren die Gäste alle Arten von kantonesischem ##Dim Sum## und erleben die authentische ##Guangzhou##-Morgentee-Kultur."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Auf der tropischen Obstbasis in Sanya, Hainan, erleben Touristen Mangopflückaktivitäten und genießen den Spaß an landwirtschaftlichen Besichtigungen."
+      },
+      {
+        "from": "assistant",
+        "value": "Auf der tropischen Obstbasis in ##Sanya##, ##Hainan##, erleben Touristen ##Mango##pflückaktivitäten und genießen den Spaß an landwirtschaftlichen Besichtigungen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Namib-Wüste, eine der ältesten der Welt, erstreckt sich entlang der Küste Namibias mit hoch aufragenden Sanddünen."
+      },
+      {
+        "from": "assistant",
+        "value": "Die ##Namib-Wüste##, eine der ältesten der Welt, erstreckt sich entlang der Küste ##Namibias## mit hoch aufragenden ##Sanddünen##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Konferenz der Association for Computational Linguistics (ACL) konzentriert sich auf die Verarbeitung natürlicher Sprache und bringt Forscher auf diesem Gebiet zusammen."
+      },
+      {
+        "from": "assistant",
+        "value": "Die ##Konferenz der Association for Computational Linguistics## (##ACL##) konzentriert sich auf die ##Verarbeitung natürlicher Sprache## und bringt ##Forscher## auf diesem Gebiet zusammen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Der Jäger trug Pfeil und Bogen und verfolgte schweigend seine Beute."
+      },
+      {
+        "from": "assistant",
+        "value": "Der Jäger trug ##Pfeil und Bogen## und verfolgte schweigend seine Beute."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Eine IP-Adresse ist eine eindeutige Kennung, die Geräten in einem Netzwerk zugewiesen wird und die Kommunikation zwischen Computern erleichtert."
+      },
+      {
+        "from": "assistant",
+        "value": "Eine ##IP-Adresse## ist eine eindeutige Kennung, die ##Geräten## in einem ##Netzwerk## zugewiesen wird und die ##Kommunikation## zwischen ##Computern## erleichtert."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Er verfasste zahlreiche Funkvorträge und journalistische Arbeiten für den ''Bayerischen Rundfunk '' sowie Literatur- und Sachbuchkritiken u.a ."
+      },
+      {
+        "from": "assistant",
+        "value": "Er verfasste zahlreiche Funkvorträge und journalistische Arbeiten für den ''##Bayerischen Rundfunk## '' sowie Literatur- und Sachbuchkritiken u.a ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Ein Bo-Mitarbeiter erfordert Geschick und Praxis, um effektiv in Kampfkünsten zu arbeiten."
+      },
+      {
+        "from": "assistant",
+        "value": "Ein ##Bo-Mitarbeiter## erfordert Geschick und Praxis, um effektiv in Kampfkünsten zu arbeiten."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Art kommt in Brasilien im Distrito Federal und in den Bundesstaaten Goiás , Minas Gerais , Paraná , Rio de Janeiro , São Paulo und Santa Catarina vor ."
+      },
+      {
+        "from": "assistant",
+        "value": "Die Art kommt in ##Brasilien## im ##Distrito Federal## und in den Bundesstaaten ##Goiás## , ##Minas Gerais## , ##Paraná## , ##Rio de Janeiro## , ##São Paulo## und ##Santa Catarina## vor ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Diesen verließ er jedoch schon wieder nach einem halben Jahr und nur zwölf Einsätzen und wechselte zum abstiegsbedrohten Ligakonkurrenten ŁKS Łódź ."
+      },
+      {
+        "from": "assistant",
+        "value": "Diesen verließ er jedoch schon wieder nach einem halben Jahr und nur zwölf Einsätzen und wechselte zum abstiegsbedrohten Ligakonkurrenten ##ŁKS Łódź## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "1970 inszenierte er sich selbst in der Hauptrolle des aus mehreren Klassikern gespeisten Theaterstückes ''Oreste '' von Vittorio Alfieri ."
+      },
+      {
+        "from": "assistant",
+        "value": "1970 inszenierte er sich selbst in der Hauptrolle des aus mehreren Klassikern gespeisten Theaterstückes ''##Oreste## '' von ##Vittorio Alfieri## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Pinal County kündigte an , 1.500 Wohnungen und ein Themenhotel in der Umgebung zu errichten , hat diesen Plan bisher jedoch noch nicht umgesetzt ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Pinal County## kündigte an , 1.500 Wohnungen und ein Themenhotel in der Umgebung zu errichten , hat diesen Plan bisher jedoch noch nicht umgesetzt ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Beim Verdrehen von Ballons, das auf Partys und Veranstaltungen beliebt ist, werden Luftballons zu Tieren, Hüten und anderen skurrilen Formen geformt."
+      },
+      {
+        "from": "assistant",
+        "value": "Beim ##Verdrehen von Ballons##, das auf Partys und Veranstaltungen beliebt ist, werden ##Luftballons## zu ##Tieren##, ##Hüten## und anderen skurrilen Formen geformt."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Eine Datenstruktur organisiert Daten effizient, wie Arrays, verknüpfte Listen, Stapel und Warteschlangen, um die Verarbeitung zu optimieren."
+      },
+      {
+        "from": "assistant",
+        "value": "Eine ####Daten##struktur## organisiert ##Daten## effizient, wie ##Arrays##, ##verknüpfte Listen##, ##Stapel## und ##Warteschlangen##, um die Verarbeitung zu optimieren."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Bill of Rights besteht aus den ersten zehn Änderungen der USA. Verfassung, die Grundfreiheiten garantiert."
+      },
+      {
+        "from": "assistant",
+        "value": "Die ##Bill of Rights## besteht aus den ersten zehn Änderungen der ##USA. Verfassung##, die Grundfreiheiten garantiert."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Dieses ist auch insofern nicht unlogisch , als das Moseltal und das Gießen-Koblenzer Lahntal die links- und rechtsrheinischen Fortsetzungen ein und derselben Talsenke darstellen ."
+      },
+      {
+        "from": "assistant",
+        "value": "Dieses ist auch insofern nicht unlogisch , als das ##Moseltal## und das ##Gießen-Koblenzer Lahntal## die links- und rechtsrheinischen Fortsetzungen ein und derselben Talsenke darstellen ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Seit 2015 ist sie die nicht stimmberechtigte Delegierte des US-amerikanischen Außengebietes Amerikanische Jungferninseln im Repräsentantenhaus der Vereinigten Staaten ."
+      },
+      {
+        "from": "assistant",
+        "value": "Seit 2015 ist sie die nicht stimmberechtigte Delegierte des US-amerikanischen Außengebietes ##Amerikanische Jungferninseln## im ##Repräsentantenhaus der Vereinigten Staaten## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Franchise-Netzwerke wie Subway oder 7-Eleven sind kommerzielle Organisationen, die es einzelnen Unternehmern ermöglichen, ihre Geschäfte unter dem etablierten System und der Unterstützung einer Marke zu betreiben."
+      },
+      {
+        "from": "assistant",
+        "value": "##Franchise-Netzwerke## wie ##Subway## oder ##7-Eleven## sind kommerzielle Organisationen, die es einzelnen Unternehmern ermöglichen, ihre Geschäfte unter dem etablierten System und der Unterstützung einer Marke zu betreiben."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Eine Prellung, allgemein bekannt als Prellung, entsteht durch Blutgefäße, die unter der Haut aufgrund eines stumpfen Krafttraumas brechen."
+      },
+      {
+        "from": "assistant",
+        "value": "Eine ##Prellung##, allgemein bekannt als ##Prellung##, entsteht durch ##Blutgefäße##, die unter der ##Haut## aufgrund eines stumpfen ##Krafttrauma##s brechen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "\"Die Odyssee\" von Homer ist eine epische Geschichte von Odysseus' Heimreise nach dem Trojanischen Krieg, gefüllt mit Prüfungen und Trübsal."
+      },
+      {
+        "from": "assistant",
+        "value": "\"##Die Odyssee##\" von ##Homer## ist eine epische Geschichte von ##Odysseus##' Heimreise nach dem ##Trojanischen Krieg##, gefüllt mit Prüfungen und Trübsal."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "PHP ist eine serverseitige Skriptsprache, die häufig in der Webentwicklung verwendet wird, um dynamische und interaktive Websites zu erstellen."
+      },
+      {
+        "from": "assistant",
+        "value": "##PHP## ist eine serverseitige ##Skriptsprache##, die häufig in der ##Webentwicklung## verwendet wird, um dynamische und interaktive ##Websites## zu erstellen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Als Schnittassistent war er auch an Kill Bill – Volume 1 '' und Kill Bill – Volume 2 '' beteiligt , was seine erste Zusammenarbeit mit Quentin Tarantino bedeutete ."
+      },
+      {
+        "from": "assistant",
+        "value": "Als Schnittassistent war er auch an ##Kill Bill – Volume 1## '' und ##Kill Bill – Volume 2## '' beteiligt , was seine erste Zusammenarbeit mit ##Quentin Tarantino## bedeutete ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Lokomotiven wurden 1850 von Maffei in München geliefert und erhielten die Namen ''GALANTHA '' , ''SELLYE '' , ''UDVARD '' und ''SZOBB '' und die Betriebsnummern 53–56 ."
+      },
+      {
+        "from": "assistant",
+        "value": "Die Lokomotiven wurden 1850 von ##Maffei## in ##München## geliefert und erhielten die Namen ''##GALANTHA## '' , ''##SELLYE## '' , ''##UDVARD## '' und ''##SZOBB## '' und die Betriebsnummern 53–56 ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die bahá'í religiöse Gruppe betont Einheit und Gleichheit, mit Anhängern, die über viele Länder verteilt sind."
+      },
+      {
+        "from": "assistant",
+        "value": "Die ##bahá'í## religiöse Gruppe betont Einheit und Gleichheit, mit Anhängern, die über viele Länder verteilt sind."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Das A-Team '' , Inspektor Hooperman '' , Jake und McCabe – Durch dick und dünn '' , Magnum '' , Schatten der Leidenschaft '' , California Clan '' oder General Hospital '' ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Das A-Team## '' , ##Inspektor Hooperman## '' , ##Jake und McCabe – Durch dick und dünn## '' , ##Magnum## '' , ##Schatten der Leidenschaft## '' , ##California Clan## '' oder ##General Hospital## '' ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Dennoch wurde sie von anti-habsburgischen Aufständischen erobert , zuerst durch jene von Emmerich Thököly und dann auch von Franz II. Rákóczi ."
+      },
+      {
+        "from": "assistant",
+        "value": "Dennoch wurde sie von anti-habsburgischen Aufständischen erobert , zuerst durch jene von ##Emmerich Thököly## und dann auch von ##Franz II. Rákóczi## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Südamerika ist bekannt für den Amazonas-Regenwald, der den größten Regenwald des Kontinents darstellt."
+      },
+      {
+        "from": "assistant",
+        "value": "##Südamerika## ist bekannt für den ##Amazonas-Regenwald##, der den größten Regenwald des Kontinents darstellt."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Der Verein legte Revision ein und konnte einem Komplettausschluss der Zuschauer im ersten Heimspiel gegen Borussia Mönchengladbach entgehen ."
+      },
+      {
+        "from": "assistant",
+        "value": "Der Verein legte Revision ein und konnte einem Komplettausschluss der Zuschauer im ersten Heimspiel gegen ##Borussia Mönchengladbach## entgehen ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "In der optoelektronischen Informationsindustrie in Wuhan, Hubei, entwickeln Forscher eine neue Generation von optischen Kommunikationsgeräten, um die Weiterentwicklung der 5G-Technologie zu fördern."
+      },
+      {
+        "from": "assistant",
+        "value": "In der optoelektronischen Informationsindustrie in ##Wuhan##, ##Hubei##, entwickeln Forscher eine neue Generation von optischen Kommunikationsgeräten, um die Weiterentwicklung der ##5G-Technologie## zu fördern."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Der Golfkrieg 1990-1991 war eine militärische Operation, um Kuwait von der irakischen Besatzung zu befreien."
+      },
+      {
+        "from": "assistant",
+        "value": "Der ##Golfkrieg## 1990-1991 war eine militärische Operation, um ##Kuwait## von der ##irakischen## Besatzung zu befreien."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Der KI-Chatbot, der für viele Unternehmen im Kundenservice verwendet wird, kann mehrere Anfragen gleichzeitig bearbeiten."
+      },
+      {
+        "from": "assistant",
+        "value": "Der ##KI-Chatbot##, der für viele Unternehmen im Kundenservice verwendet wird, kann mehrere Anfragen gleichzeitig bearbeiten."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Seit 1973 war sie auch mit dem Smithsonian Tropical Research Institute in Panama verbunden , an dem sie seit 1975 fest angestellt war ."
+      },
+      {
+        "from": "assistant",
+        "value": "Seit 1973 war sie auch mit dem ##Smithsonian Tropical Research Institute## in ##Panama## verbunden , an dem sie seit 1975 fest angestellt war ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Ab 1840 bis 1850 setzte der Hauptabnehmer Frankreich mehr und mehr Militärpferde aus eigenen Zuchten ein , sodass die Zucht des Freibergers fast zum Erliegen kam ."
+      },
+      {
+        "from": "assistant",
+        "value": "Ab 1840 bis 1850 setzte der Hauptabnehmer ##Frankreich## mehr und mehr Militärpferde aus eigenen Zuchten ein , sodass die Zucht des ##Freiberger##s fast zum Erliegen kam ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Im Xi'an-Museum war die Ausstellungshalle der Terra-Cotta-Krieger mit Touristen aus dem In- und Ausland überfüllt, und alle waren schockiert über die Tausenden von Jahren, in denen die unterirdische Armee schlief."
+      },
+      {
+        "from": "assistant",
+        "value": "Im ##Xi'an-Museum## war die Ausstellungshalle der ##Terra-Cotta-Krieger## mit Touristen aus dem In- und Ausland überfüllt, und alle waren schockiert über die Tausenden von Jahren, in denen die unterirdische Armee schlief."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Christen sind die größte religiöse Gruppe der Welt, mit Konfessionen wie Katholik, Protestant und Orthodoxe."
+      },
+      {
+        "from": "assistant",
+        "value": "##Christen## sind die größte religiöse Gruppe der Welt, mit Konfessionen wie ##Katholik##, ##Protestant## und ##Orthodoxe##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Das gelbe Trikot der Tour de France wird an den Radfahrer mit der schnellsten Gesamtzeit am Ende des Rennens verliehen."
+      },
+      {
+        "from": "assistant",
+        "value": "Das ##gelbe Trikot## der ##Tour de France## wird an den Radfahrer mit der schnellsten Gesamtzeit am Ende des Rennens verliehen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Ab dem Jahr 2005 wurde eine mutierte Variante , VGIIc , in den nordwestlichen US-Bundesstaaten Washington , Idaho und Oregon nachgewiesen ."
+      },
+      {
+        "from": "assistant",
+        "value": "Ab dem Jahr 2005 wurde eine mutierte Variante , ##VGIIc## , in den nordwestlichen US-Bundesstaaten ##Washington## , ##Idaho## und ##Oregon## nachgewiesen ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "In der Haier Intelligent Factory in Qingdao, Shandong, sind Besucher von der hochautomatisierten Produktionslinie begeistert und erleben den Charme der Industrie 4.0."
+      },
+      {
+        "from": "assistant",
+        "value": "In der ##Haier Intelligent Factory## in ##Qingdao##, ##Shandong##, sind Besucher von der hochautomatisierten Produktionslinie begeistert und erleben den Charme der ##Industrie 4.0##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Liebesliteratur, wie \"Stolz und Vorurteil\", erforscht Themen wie Liebe, Beziehungen und gesellschaftliche Erwartungen."
+      },
+      {
+        "from": "assistant",
+        "value": "##Liebesliteratur##, wie \"##Stolz und Vorurteil##\", erforscht Themen wie Liebe, Beziehungen und gesellschaftliche Erwartungen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Auf dieser zehn Tage dauernden Unternehmung in die Ostsee um die Danziger Bucht und in der Nähe von Bornholm wurden keine Schiffe versenkt oder beschädigt ."
+      },
+      {
+        "from": "assistant",
+        "value": "Auf dieser zehn Tage dauernden Unternehmung in die ##Ostsee## um die ##Danziger Bucht## und in der Nähe von ##Bornholm## wurden keine Schiffe versenkt oder beschädigt ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die jeweils rund zwölf Meter hohen und dreieinhalb Tonnen schweren Figuren zierten bis ins Jahr 2003 den Turm und kamen anschließend ins Australian Institute of Sport in Canberra und den Olympischen Park ."
+      },
+      {
+        "from": "assistant",
+        "value": "Die jeweils rund zwölf Meter hohen und dreieinhalb Tonnen schweren Figuren zierten bis ins Jahr 2003 den Turm und kamen anschließend ins ##Australian Institute of Sport## in ##Canberra## und den ##Olympischen Park## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Der Ortsname wird als eine Namensübertragung angenommen , entweder abgeleitet von Frankenfelde ( Fläming ) , da nicht wenige Dörfer auf dem Barnim Mitte des 13 ."
+      },
+      {
+        "from": "assistant",
+        "value": "Der Ortsname wird als eine Namensübertragung angenommen , entweder abgeleitet von ##Frankenfelde## ( ##Fläming## ) , da nicht wenige Dörfer auf dem ##Barnim## Mitte des 13 ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Der Bürostandort der Versicherungsgesellschaft ist im 37. Stock, Gebäude B, Ningbo Center."
+      },
+      {
+        "from": "assistant",
+        "value": "Der Bürostandort der Versicherungsgesellschaft ist im 37. Stock, Gebäude B, ##Ningbo Center##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "20th Century Fox nahm das Paar wieder unter Vertrag , doch die meisten neuen Produktionen konnten nicht an den Erfolg ihrer früheren Filme anknüpfen ."
+      },
+      {
+        "from": "assistant",
+        "value": "##20th Century Fox## nahm das Paar wieder unter Vertrag , doch die meisten neuen Produktionen konnten nicht an den Erfolg ihrer früheren Filme anknüpfen ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die muslimische religiöse Gruppe beachtet die fünf Säulen des Islam, einschließlich der täglichen Gebete und des Fastens während des Ramadan."
+      },
+      {
+        "from": "assistant",
+        "value": "Die ##muslimische## religiöse Gruppe beachtet die fünf Säulen des ##Islam##, einschließlich der täglichen Gebete und des Fastens während des ##Ramadan##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Juris Doctor (JD) ist ein professioneller Abschluss für diejenigen, die eine Karriere in der Rechtswissenschaften anstreben."
+      },
+      {
+        "from": "assistant",
+        "value": "##Juris Doctor## (##JD##) ist ein professioneller Abschluss für diejenigen, die eine Karriere in der Rechtswissenschaften anstreben."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Künstlergemeinschaft versammelt sich oft in Galerien, um ihre Gemälde, Skulpturen und Fotografien zu präsentieren."
+      },
+      {
+        "from": "assistant",
+        "value": "Die ##Künstlergemeinschaft## versammelt sich oft in Galerien, um ihre Gemälde, Skulpturen und Fotografien zu präsentieren."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Der Zellkern, der das genetische Material der Zelle enthält, steuert die Wachstums-, Stoffwechsel- und Fortpflanzungsprozesse der Zelle."
+      },
+      {
+        "from": "assistant",
+        "value": "Der ##Zellkern##, der das genetische Material der ##Zelle## enthält, steuert die Wachstums-, Stoffwechsel- und ##Fortpflanzungsprozesse## der ##Zelle##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "\"Sonnet 18\" von William Shakespeare vergleicht die Schönheit eines geliebten Menschen mit einem Sommertag und stellt sicher, dass er in der Poesie ewig lebt."
+      },
+      {
+        "from": "assistant",
+        "value": "\"##Sonnet 18##\" von ##William Shakespeare## vergleicht die Schönheit eines geliebten Menschen mit einem Sommertag und stellt sicher, dass er in der Poesie ewig lebt."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Nach dem Tode des Fürsten Julius Franz von Sachsen-Lauenburg erbte die Herrschaft als Teil des Schlackenwerther Anteils dessen Tochter Franziska Sibylla und brachte ihre Güter in die Ehe mit dem Türkenlouis ein ."
+      },
+      {
+        "from": "assistant",
+        "value": "Nach dem Tode des Fürsten ##Julius Franz von Sachsen-Lauenburg## erbte die Herrschaft als Teil des Schlackenwerther Anteils dessen Tochter ##Franziska Sibylla## und brachte ihre Güter in die Ehe mit dem ##Türkenlouis## ein ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Ab dem Autobahnanschluss verläuft die ''B 471 '' zweistreifig Richtung Nordosten weiter zur Anschlussstelle Dachau-West und erreicht hier die Umfahrung der Stadt ."
+      },
+      {
+        "from": "assistant",
+        "value": "Ab dem Autobahnanschluss verläuft die ''##B 471## '' zweistreifig Richtung Nordosten weiter zur Anschlussstelle ##Dachau-West## und erreicht hier die Umfahrung der Stadt ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Das Militär setzt Flammenwerfer ein, um die Vegetation in Kampfgebieten zu entfernen."
+      },
+      {
+        "from": "assistant",
+        "value": "Das ##Militär## setzt ##Flammenwerfer## ein, um die Vegetation in Kampfgebieten zu entfernen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "an Anton Bruckner , Hugo von Hofmannsthal , Karl Kraus , Adolf Loos , Robert Musil , Rainer Maria Rilke , Felix Salten , Arthur Schnitzler , Franz Werfel , Hugo Wolf ."
+      },
+      {
+        "from": "assistant",
+        "value": "an ##Anton Bruckner## , ##Hugo von Hofmannsthal## , ##Karl Kraus## , ##Adolf Loos## , ##Robert Musil## , ##Rainer Maria Rilke## , ##Felix Salten## , ##Arthur Schnitzler## , ##Franz Werfel## , ##Hugo Wolf## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Ein weiteres fünftes Gleis stellte eine Pendel-Verbindung zum Bahnhof Barmen dar und wurde für den Rangierbetrieb genutzt , ohne die Fernverkehrs- oder Nahverkehrsgleise zu blockieren ."
+      },
+      {
+        "from": "assistant",
+        "value": "Ein weiteres fünftes Gleis stellte eine Pendel-Verbindung zum ##Bahnhof Barmen## dar und wurde für den Rangierbetrieb genutzt , ohne die Fernverkehrs- oder Nahverkehrsgleise zu blockieren ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Zu den Künstlern die an den Schwarz-Weiß-Geschichten im hinteren Teil der Hefte arbeiteten zählen unter anderem Jim Lee , Dave Gibbons , Gene Ha , Harlan Ellison und Jill Thompson ."
+      },
+      {
+        "from": "assistant",
+        "value": "Zu den Künstlern die an den Schwarz-Weiß-Geschichten im hinteren Teil der Hefte arbeiteten zählen unter anderem ##Jim Lee## , ##Dave Gibbons## , ##Gene Ha## , ##Harlan Ellison## und ##Jill Thompson## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "2007 rückte er in die Wettkampfmannschaft auf , bei der er in seinem ersten Jahr vornehmlich als Einwechselspieler elf Ligapartien in der Landsbankadeild bestritt ."
+      },
+      {
+        "from": "assistant",
+        "value": "2007 rückte er in die Wettkampfmannschaft auf , bei der er in seinem ersten Jahr vornehmlich als Einwechselspieler elf Ligapartien in der ##Landsbankadeild## bestritt ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Militärische Diplomaten nehmen an internationalen Rüstungskontrollverhandlungen teil und verpflichten sich, militärische Konflikte zu reduzieren und den Weltfrieden und die Sicherheit mit diplomatischen Mitteln zu wahren."
+      },
+      {
+        "from": "assistant",
+        "value": "##Militärische Diplomaten## nehmen an internationalen Rüstungskontrollverhandlungen teil und verpflichten sich, militärische Konflikte zu reduzieren und den Weltfrieden und die Sicherheit mit diplomatischen Mitteln zu wahren."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Im Einkaufszentrum Hangzhou Hubin Yintai nehmen junge Menschen an einem Flashmob-Event mit einer lebhaften Atmosphäre teil."
+      },
+      {
+        "from": "assistant",
+        "value": "Im Einkaufszentrum ##Hangzhou Hubin Yintai## nehmen junge Menschen an einem ##Flashmob-Event## mit einer lebhaften Atmosphäre teil."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Hier besteht der Gegensatz zum Konzept der Lokativen Medien , wo entsprechende Wiedergabegeräte die Informationen aus dem lokalen Nahbereich beziehen ."
+      },
+      {
+        "from": "assistant",
+        "value": "Hier besteht der Gegensatz zum Konzept der Lokativen Medien , wo entsprechende Wiedergabegeräte die Informationen aus dem lokalen Nahbereich beziehen ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Für dieses Gebäude prägte der Volksmund den Namen Tränenpalast '' , weil sich hier die West-Besucher vor der Rückreise von ihren DDR-Verwandten verabschiedeten ."
+      },
+      {
+        "from": "assistant",
+        "value": "Für dieses Gebäude prägte der Volksmund den Namen ##Tränenpalast## '' , weil sich hier die West-Besucher vor der Rückreise von ihren ##DDR##-Verwandten verabschiedeten ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Hangzhou-Bibliothek veranstaltete einen Wettbewerb zur Erstellung von Bilderbüchern für Kinder, bei dem Kinder in Begleitung ihrer Eltern aufgeregt ihre Werke zeigten und die Richter sie sorgfältig auswählten."
+      },
+      {
+        "from": "assistant",
+        "value": "Die ##Hangzhou-Bibliothek## veranstaltete einen ##Wettbewerb## zur Erstellung von ##Bilderbüchern## für ##Kinder##, bei dem ##Kinder## in Begleitung ihrer ##Eltern## aufgeregt ihre ##Werke## zeigten und die ##Richter## sie sorgfältig auswählten."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "\"Nevermind\" von Nirvana veränderte das Gesicht der Rockmusik und brachte Grunge in die Mainstream-Popularität in den 1990er Jahren."
+      },
+      {
+        "from": "assistant",
+        "value": "\"##Nevermind##\" von ##Nirvana## veränderte das Gesicht der ##Rockmusik## und brachte ##Grunge## in die Mainstream-Popularität in den 1990er Jahren."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Satya Nadella hat den Fokus von Microsoft von traditionellen Softwareprodukten auf Cloud Computing umgestellt, was zu einem großen Wandel in der Strategie des Unternehmens geführt hat."
+      },
+      {
+        "from": "assistant",
+        "value": "##Satya Nadella## hat den Fokus von ##Microsoft## von traditionellen Softwareprodukten auf Cloud Computing umgestellt, was zu einem großen Wandel in der Strategie des Unternehmens geführt hat."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Ein Pulsar ist ein sich schnell drehender Neutronenstern, der Strahlungsstrahlen aussendet, die von der Erde als regelmäßige Impulse erfasst werden können."
+      },
+      {
+        "from": "assistant",
+        "value": "Ein ##Pulsar## ist ein sich schnell drehender ##Neutronenstern##, der ##Strahlungsstrahlen## aussendet, die von der ##Erde## als regelmäßige Impulse erfasst werden können."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Funktionen von intelligenten Toiletten werden ständig verbessert, von der automatischen Spülung, beheizten Sitzen bis hin zur Gesundheitsüberwachung, was den Komfort und die Praktikabilität des Badezimmers erheblich verbessert."
+      },
+      {
+        "from": "assistant",
+        "value": "Die Funktionen von intelligenten Toiletten werden ständig verbessert, von der automatischen Spülung, beheizten Sitzen bis hin zur Gesundheitsüberwachung, was den Komfort und die Praktikabilität des Badezimmers erheblich verbessert."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Luftreiniger spielen eine wichtige Rolle bei der Verbesserung der Luftqualität in Innenräumen, insbesondere in Städten mit starker Luftverschmutzung, und sind für viele Familien zu einer Notwendigkeit geworden, um ihre Gesundheit zu schützen."
+      },
+      {
+        "from": "assistant",
+        "value": "##Luftreiniger## spielen eine wichtige Rolle bei der Verbesserung der Luftqualität in Innenräumen, insbesondere in Städten mit starker Luftverschmutzung, und sind für viele Familien zu einer Notwendigkeit geworden, um ihre Gesundheit zu schützen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Elektromagnetismus ist ein physikalisches Phänomen mit elektrischen und magnetischen Feldern, das für die Stromerzeugung und den Magnetbetrieb von grundlegender Bedeutung ist."
+      },
+      {
+        "from": "assistant",
+        "value": "##Elektromagnetismus## ist ein ##physikalisches Phänomen## mit elektrischen und ##magnetischen Feldern##, das für die ##Stromerzeugung## und den ##Magnetbetrieb## von grundlegender Bedeutung ist."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Stilvielfalt der dort zu dieser Zeit auftretenden Bands – neben anderen Television , Blondie , Patti Smith und die Ramones – wurde von Club-Inhaber Hilly Kristal zunächst als ''„Street Rock '' bezeichnet ."
+      },
+      {
+        "from": "assistant",
+        "value": "Die Stilvielfalt der dort zu dieser Zeit auftretenden Bands – neben anderen ##Television## , ##Blondie## , ##Patti Smith## und die ##Ramones## – wurde von Club-Inhaber ##Hilly Kristal## zunächst als ''„##Street Rock## '' bezeichnet ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "St. Der Patrick's Day wird mit Paraden und Grün gefeiert, um die irische Kultur zu ehren."
+      },
+      {
+        "from": "assistant",
+        "value": "St. Der Patrick's Day wird mit Paraden und Grün gefeiert, um die ##irische Kultur## zu ehren."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Pinal County kündigte an, 1.500 Wohnungen und ein Themenhotel in der Gegend zu bauen, aber der Plan wurde noch nicht umgesetzt."
+      },
+      {
+        "from": "assistant",
+        "value": "##Pinal County## kündigte an, 1.500 Wohnungen und ein Themenhotel in der Gegend zu bauen, aber der Plan wurde noch nicht umgesetzt."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Am stärksten betroffen war die Stadt Mashiki , jedoch stürzten auch in anderen Teilen der Präfektur Kumamoto Gebäude ein oder wurden beschädigt ."
+      },
+      {
+        "from": "assistant",
+        "value": "Am stärksten betroffen war die Stadt ##Mashiki## , jedoch stürzten auch in anderen Teilen der ##Präfektur Kumamoto## Gebäude ein oder wurden beschädigt ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Chwalęcin liegt im Nordosten der Woiwodschaft Ermland-Masuren , neun Kilometer nordwestlich von Orneta , 37 Kilometer westlich von Lidzbark Warmiński und 53 km nordwestlich der Landeshauptstadt Olsztyn ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Chwalęcin## liegt im Nordosten der ##Woiwodschaft Ermland-Masuren## , neun Kilometer nordwestlich von ##Orneta## , 37 Kilometer westlich von ##Lidzbark Warmiński## und 53 km nordwestlich der Landeshauptstadt ##Olsztyn## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Das Paul-Janes-Stadion am „Flinger Broich , Spielstätte von Fußballlegenden wie Toni Turek , Jupp Derwall , Klaus Allofs und Paul Janes , ist die Keimzelle des Fußballvereins Fortuna Düsseldorf ."
+      },
+      {
+        "from": "assistant",
+        "value": "Das ##Paul-Janes-Stadion## am „##Flinger Broich## , Spielstätte von Fußballlegenden wie ##Toni Turek## , ##Jupp Derwall## , ##Klaus Allofs## und ##Paul Janes## , ist die Keimzelle des Fußballvereins ##Fortuna Düsseldorf## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Gold, ein kostbares Element, wird seit Jahrhunderten in Schmuck, Währungen und verschiedenen elektronischen Anwendungen verwendet."
+      },
+      {
+        "from": "assistant",
+        "value": "##Gold##, ein kostbares Element, wird seit Jahrhunderten in ##Schmuck##, ##Währungen## und verschiedenen ##elektronischen Anwendungen## verwendet."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Verwendung von Nitroglycerin in Sprengstoffen ist trotz seiner sehr instabilen Natur seit dem 19. Jahrhundert üblich."
+      },
+      {
+        "from": "assistant",
+        "value": "Die Verwendung von ##Nitroglycerin## in Sprengstoffen ist trotz seiner sehr instabilen Natur seit dem 19. Jahrhundert üblich."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Indra Nooyi, die ehemalige CEO von PepsiCo, diskutierte die Bedeutung nachhaltiger Geschäftspraktiken und ihre Auswirkungen auf den langfristigen Erfolg von Unternehmen."
+      },
+      {
+        "from": "assistant",
+        "value": "##Indra Nooyi##, die ehemalige CEO von ##PepsiCo##, diskutierte die Bedeutung nachhaltiger Geschäftspraktiken und ihre Auswirkungen auf den langfristigen Erfolg von Unternehmen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "So wird die Reichweite der von der Universidad Nacional Autónoma de México und dem Instituto Politécnico Nacional betriebenen Radio- und Fernsehprogramme erweitert ."
+      },
+      {
+        "from": "assistant",
+        "value": "So wird die Reichweite der von der ##Universidad Nacional Autónoma de México## und dem ##Instituto Politécnico Nacional## betriebenen Radio- und Fernsehprogramme erweitert ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Am Bahnhof Hangzhou Ost nutzen die Mitarbeiter intelligente Roboter, um den Passagieren Orientierungsdienste anzubieten und den Modernisierungsgrad des Bahnhofs zu präsentieren."
+      },
+      {
+        "from": "assistant",
+        "value": "Am ##Bahnhof Hangzhou Ost## nutzen die Mitarbeiter ##intelligente Roboter##, um den Passagieren Orientierungsdienste anzubieten und den Modernisierungsgrad des Bahnhofs zu präsentieren."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Wasserstoffperoxid (H2O2) wird als Desinfektionsmittel und Bleichmittel verwendet und zerlegt sich mit der Zeit in Wasser und Sauerstoff."
+      },
+      {
+        "from": "assistant",
+        "value": "####Wasser##stoffperoxid## (##H2O2##) wird als ##Desinfektionsmittel## und ##Bleichmittel## verwendet und zerlegt sich mit der Zeit in ##Wasser## und ##Sauerstoff##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Der PEN/Faulkner Award for Fiction ist der größte Literaturpreis in den Vereinigten Staaten, der das Beste der amerikanischen Fiktion würdigt."
+      },
+      {
+        "from": "assistant",
+        "value": "Der ##PEN/Faulkner Award for Fiction## ist der größte Literaturpreis in den ##Vereinigten Staaten##, der das Beste der amerikanischen Fiktion würdigt."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Schutzanzüge sind für den Umgang mit jeder Form von chemischen Wirkstoffen unerlässlich."
+      },
+      {
+        "from": "assistant",
+        "value": "##Schutzanzüge## sind für den Umgang mit jeder Form von chemischen Wirkstoffen unerlässlich."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Der National Book Award würdigt amerikanische Autoren, die bedeutende Beiträge zur Literatur in den Bereichen Belletristik, Sachbücher, Poesie und Jugendliteratur geleistet haben."
+      },
+      {
+        "from": "assistant",
+        "value": "Der ##National Book Award## würdigt amerikanische Autoren, die bedeutende Beiträge zur Literatur in den Bereichen Belletristik, Sachbücher, Poesie und Jugendliteratur geleistet haben."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Soziologie untersucht soziales Verhalten, Institutionen und menschliche Interaktionen und hilft zu verstehen, wie Gesellschaften funktionieren und sich verändern."
+      },
+      {
+        "from": "assistant",
+        "value": "Die ##Soziologie## untersucht ##soziales Verhalten##, ##Institutionen## und ##menschliche Interaktionen## und hilft zu verstehen, wie ##Gesellschaften## funktionieren und sich verändern."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Er studierte zunächst an der University of Delaware , wechselte dann zum New England Conservatory of Music , wo er Schüler von Ran Blake wurde ."
+      },
+      {
+        "from": "assistant",
+        "value": "Er studierte zunächst an der ##University of Delaware## , wechselte dann zum ##New England Conservatory of Music## , wo er Schüler von ##Ran Blake## wurde ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Tiefkühlpizza ist eine großartige Option, wenn Sie eine schnelle Mahlzeit benötigen, aber keine Lust zum Kochen haben."
+      },
+      {
+        "from": "assistant",
+        "value": "##Tiefkühlpizza## ist eine großartige Option, wenn Sie eine schnelle Mahlzeit benötigen, aber keine Lust zum Kochen haben."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Eine Schnittwunde ist ein tiefer Schnitt oder Riss in der Haut, der möglicherweise Stiche benötigt, um richtig zu heilen und Infektionen zu verhindern."
+      },
+      {
+        "from": "assistant",
+        "value": "Eine ####Schnitt##wunde## ist ein tiefer ##Schnitt## oder ##Riss## in der ##Haut##, der möglicherweise ##Stiche## benötigt, um richtig zu heilen und ##Infektionen## zu verhindern."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "In der Talentwohnung der Shenzhen Qianhai Free Trade Zone tauschen junge Berufstätige aus der ganzen Welt Arbeitserfahrungen im öffentlichen Rastplatz aus."
+      },
+      {
+        "from": "assistant",
+        "value": "In der ##Talentwohnung## der ##Shenzhen Qianhai Free Trade Zone## tauschen junge Berufstätige aus der ganzen Welt Arbeitserfahrungen im öffentlichen Rastplatz aus."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "\"Science\" ist eine angesehene Zeitschrift, die wirkungsvolle Forschungsergebnisse in allen Bereichen der Wissenschaft und Technologie veröffentlicht."
+      },
+      {
+        "from": "assistant",
+        "value": "\"##Science##\" ist eine angesehene ##Zeitschrift##, die wirkungsvolle ##Forschungsergebnisse## in allen Bereichen der ##Wissenschaft## und ##Technologie## veröffentlicht."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Designer von Lernspielzeug integrieren clever Lernelemente in die Spielzeuge, so dass Kinder beim Spielen Mathematik, Sprache und anderes Wissen lernen können, indem sie Bildung mit Unterhaltung kombinieren."
+      },
+      {
+        "from": "assistant",
+        "value": "Die Designer von ##Lernspielzeug## integrieren clever Lernelemente in die Spielzeuge, so dass Kinder beim Spielen Mathematik, Sprache und anderes Wissen lernen können, indem sie Bildung mit Unterhaltung kombinieren."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Am häufigsten wurde die Auszeichnung bisher an Spieler der Canadiens de Montréal verliehen , die insgesamt neun Mal erfolgreich waren ."
+      },
+      {
+        "from": "assistant",
+        "value": "Am häufigsten wurde die Auszeichnung bisher an Spieler der ##Canadiens de Montréal## verliehen , die insgesamt neun Mal erfolgreich waren ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Der VEÖ stand in Kontakt mit Beamten der Ministerien , Politikern , der Wirtschaftskammer Österreich , der Arbeiterkammer , der Industriellenvereinigung und anderen Institutionen und Branchen ."
+      },
+      {
+        "from": "assistant",
+        "value": "Der ##VEÖ## stand in Kontakt mit Beamten der Ministerien , Politikern , der ##Wirtschaftskammer Österreich## , der ##Arbeiterkammer## , der ##Industriellenvereinigung## und anderen Institutionen und Branchen ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Auftraggeber ist die Senatsverwaltung für Stadtentwicklung , als Bauherr fungiert die neu gegründete Grundstücksgesellschaft ‚Friedrichswerder Grundstücks GmbH' ."
+      },
+      {
+        "from": "assistant",
+        "value": "Auftraggeber ist die ##Senatsverwaltung für Stadtentwicklung## , als Bauherr fungiert die neu gegründete Grundstücksgesellschaft ‚##Friedrichswerder Grundstücks GmbH##' ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Dystopische Fiktion, wie in \"Die Tribute von Panem\", schildert unterdrückende Gesellschaften und erforscht Themen wie Macht, Kontrolle und Rebellion."
+      },
+      {
+        "from": "assistant",
+        "value": "##Dystopische Fiktion##, wie in \"##Die Tribute von Panem##\", schildert unterdrückende Gesellschaften und erforscht Themen wie Macht, Kontrolle und Rebellion."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Neben Kopien von Peter Paul Rubens fertigte er auch eigene Entwürfe an , die er unter dem Titel „Speculum illustrium virginum und „Marienleben zusammenstellte ."
+      },
+      {
+        "from": "assistant",
+        "value": "Neben Kopien von ##Peter Paul Rubens## fertigte er auch eigene Entwürfe an , die er unter dem Titel „##Speculum illustrium virginum## und „##Marienleben## zusammenstellte ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "\"Hey Jude\" von den Beatles mit seiner einfachen, aber kraftvollen Botschaft wurde zu einem ihrer beständigsten Hits."
+      },
+      {
+        "from": "assistant",
+        "value": "\"##Hey Jude##\" von den ##Beatles## mit seiner einfachen, aber kraftvollen Botschaft wurde zu einem ihrer beständigsten Hits."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Ostereiersuche ist eine beliebte Tradition, bei der Kinder nach versteckten Eiern suchen."
+      },
+      {
+        "from": "assistant",
+        "value": "Die ##Ostereiersuche## ist eine beliebte Tradition, bei der Kinder nach versteckten Eiern suchen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Der Merge-Sort-Algorithmus teilt ein Array rekursiv in Hälften und führt sie in sortierter Reihenfolge zusammen, um eine hohe Effizienz zu erreichen."
+      },
+      {
+        "from": "assistant",
+        "value": "Der ##Merge-Sort-Algorithmus## teilt ein ##Array## rekursiv in Hälften und führt sie in sortierter Reihenfolge zusammen, um eine hohe Effizienz zu erreichen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Deepfake-Technologie nutzt KI, um realistische Videos zu erstellen, indem sie Gesichter tauscht, was Bedenken hinsichtlich Fehlinformationen aufwirft."
+      },
+      {
+        "from": "assistant",
+        "value": "Die ##Deepfake-Technologie## nutzt KI, um realistische Videos zu erstellen, indem sie Gesichter tauscht, was Bedenken hinsichtlich Fehlinformationen aufwirft."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Vor dem großen Bildschirm des Wuhan Urban Management Command Center koordinieren die Mitarbeiter verschiedene Abteilungen, um Notfälle im täglichen Betrieb der Stadt zu bewältigen."
+      },
+      {
+        "from": "assistant",
+        "value": "Vor dem großen Bildschirm des ####Wuhan## Urban Management Command Center## koordinieren die Mitarbeiter verschiedene Abteilungen, um Notfälle im täglichen Betrieb der Stadt zu bewältigen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Jazz Fusion verbindet Jazz mit Rock-, Funk- oder R&B-Elementen und schafft ein dynamisches Genre, das von Künstlern wie Herbie Hancock vorangetrieben wurde."
+      },
+      {
+        "from": "assistant",
+        "value": "####Jazz## Fusion## verbindet ##Jazz## mit ##Rock##-, ##Funk##- oder ##R&B##-Elementen und schafft ein dynamisches Genre, das von Künstlern wie ##Herbie Hancock## vorangetrieben wurde."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Der von Google entwickelte PageRank-Algorithmus ordnet Webseiten nach ihrer Bedeutung ein, indem er eingehende Links analysiert."
+      },
+      {
+        "from": "assistant",
+        "value": "Der von ##Google## entwickelte ##PageRank-Algorithmus## ordnet ##Webseiten## nach ihrer Bedeutung ein, indem er eingehende ##Links## analysiert."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Eine mit Semtex-Sprengstoff gefüllte Kofferbombe wurde auf einem öffentlichen Platz gezündet und verursachte große Schäden und Verletzungen."
+      },
+      {
+        "from": "assistant",
+        "value": "Eine mit ##Semtex-Sprengstoff## gefüllte ##Kofferbombe## wurde auf einem öffentlichen Platz gezündet und verursachte große Schäden und Verletzungen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Ein Paradigmenwechsel ist eine grundlegende Veränderung des wissenschaftlichen Denkens oder der wissenschaftlichen Praxis, die oft durch neue Entdeckungen oder Erkenntnisse ausgelöst wird."
+      },
+      {
+        "from": "assistant",
+        "value": "Ein ##Paradigmenwechsel## ist eine grundlegende Veränderung des ##wissenschaftlichen Denkens## oder der ##wissenschaftlichen Praxis##, die oft durch neue ##Entdeckungen## oder ##Erkenntnisse## ausgelöst wird."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Plasmide, kleine DNA-Moleküle, die in Bakterien vorkommen, können Gene tragen, die Antibiotikaresistenz und andere Merkmale bieten."
+      },
+      {
+        "from": "assistant",
+        "value": "##Plasmide##, kleine ##DNA-Moleküle##, die in ##Bakterien## vorkommen, können ##Gene## tragen, die ##Antibiotikaresistenz## und andere Merkmale bieten."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Fidschi ist ein Inselstaat mit über 300 Inseln, der kristallklare Lagunen und Korallenriffe für Taucher bietet."
+      },
+      {
+        "from": "assistant",
+        "value": "##Fidschi## ist ein Inselstaat mit über 300 Inseln, der kristallklare Lagunen und ##Korallenriffe## für Taucher bietet."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Neuansiedlung israelischer Siedlungen im Westjordanland und im Gazastreifen."
+      },
+      {
+        "from": "assistant",
+        "value": "Neuansiedlung ##israelischer Siedlungen## im ##Westjordanland## und im ##Gazastreifen##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Das ''Queens-Chess '' -Frauengroßmeisterturnier in Bad Homburg vor der Höhe gewann sie 2007 mit zwei Punkten Vorsprung vor Elisabeth Pähtz ."
+      },
+      {
+        "from": "assistant",
+        "value": "Das ''##Queens-Chess## '' -Frauengroßmeisterturnier in ##Bad Homburg vor der Höhe## gewann sie 2007 mit zwei Punkten Vorsprung vor ##Elisabeth Pähtz## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Swahili dient als Lingua franca in Ostafrika und verbindet verschiedene Gemeinschaften in der gesamten Region."
+      },
+      {
+        "from": "assistant",
+        "value": "##Swahili## dient als Lingua franca in ##Ostafrika## und verbindet verschiedene Gemeinschaften in der gesamten Region."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Pinterest dient als Website für Inspiration, auf der Benutzer neue Ideen durch Bilder teilen und entdecken können."
+      },
+      {
+        "from": "assistant",
+        "value": "##Pinterest## dient als Website für Inspiration, auf der Benutzer neue Ideen durch Bilder teilen und entdecken können."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Hautausschlag ist ein Hautsymptom, das auf eine allergische Reaktion, Infektion oder Autoimmunerkrankung hinweisen kann, die im Aussehen variiert."
+      },
+      {
+        "from": "assistant",
+        "value": "##Hautausschlag## ist ein ##Hautsymptom##, das auf eine ##allergische Reaktion##, ##Infektion## oder ##Autoimmunerkrankung## hinweisen kann, die im Aussehen variiert."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "1993 wurde der Standort in den Hauptsitz im benachbarten Chester verlegt, dem Verwaltungssitz der heutigen Vereinigungsbehörde West Cheshire und Chester."
+      },
+      {
+        "from": "assistant",
+        "value": "1993 wurde der Standort in den Hauptsitz im benachbarten ##Chester## verlegt, dem Verwaltungssitz der heutigen Vereinigungsbehörde ##West Cheshire und ##Chester####."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Der ' '' Kinderbuchhandlungspreis '' ' wurde von 2004 bis 2014 einmal jährlich an die kreativsten Buchhandlungen aus Deutschland , Österreich und der Schweiz verliehen ."
+      },
+      {
+        "from": "assistant",
+        "value": "Der ' '' ##Kinderbuchhandlungspreis## '' ' wurde von 2004 bis 2014 einmal jährlich an die kreativsten Buchhandlungen aus ##Deutschland## , ##Österreich## und der ##Schweiz## verliehen ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Während seiner Blütezeit zählte es 50 Schüler und 12 Lehrer , vor allem Söhne vornehmer Fabrikantenfamilien aus Basel und dem Elsass erhielten hier ihre Ausbildung ."
+      },
+      {
+        "from": "assistant",
+        "value": "Während seiner Blütezeit zählte es 50 Schüler und 12 Lehrer , vor allem Söhne vornehmer Fabrikantenfamilien aus ##Basel## und dem ##Elsass## erhielten hier ihre Ausbildung ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Im Jahr 1983 fand man Exemplare der Art zum ersten mal an der Küste Südafrikas bei Kapstadt , wobei sie sich auch hier invasionsartig vermehrte und ausbreitete ."
+      },
+      {
+        "from": "assistant",
+        "value": "Im Jahr 1983 fand man Exemplare der Art zum ersten mal an der Küste ##Südafrika##s bei ##Kapstadt## , wobei sie sich auch hier invasionsartig vermehrte und ausbreitete ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Mosaikkunst, die in antiken römischen und byzantinischen Stätten zu sehen ist, verwendet kleine Stücke aus farbigem Glas oder Stein, um aufwendige Bilder zu erzeugen."
+      },
+      {
+        "from": "assistant",
+        "value": "##Mosaikkunst##, die in antiken römischen und byzantinischen Stätten zu sehen ist, verwendet kleine Stücke aus farbigem Glas oder Stein, um aufwendige Bilder zu erzeugen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "The Romani, often referred to as Gypsies, are an ethnic group with a distinct culture found across Europe."
+      },
+      {
+        "from": "assistant",
+        "value": "The ##Romani##, often referred to as ##Gypsies##, are an ethnic group with a distinct culture found across ##Europe##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Eine Variable im Forschungs design ist eine Einheit, die sich verändern oder manipuliert werden kann und das Ergebnis wissenschaftlicher Experimente beeinflusst."
+      },
+      {
+        "from": "assistant",
+        "value": "Eine ##Variable## im ##Forschungs design## ist eine ##Einheit##, die sich verändern oder manipuliert werden kann und das Ergebnis ##wissenschaftlicher Experimente## beeinflusst."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Spider-Man, das Superhelden-Alter Ego von Peter Parker, erlangte außergewöhnliche Fähigkeiten, nachdem er von einer radioaktiven Spinne gebissen wurde, und widmete sein Leben dem Schutz von New York City."
+      },
+      {
+        "from": "assistant",
+        "value": "##Spider-Man##, das Superhelden-Alter Ego von ##Peter Parker##, erlangte außergewöhnliche Fähigkeiten, nachdem er von einer radioaktiven Spinne gebissen wurde, und widmete sein Leben dem Schutz von ##New York City##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Aspirin wird als Schmerzmittel, Fiebersenkmittel und Blutverdünner verwendet, um Herzinfarkte und Schlaganfälle zu verhindern."
+      },
+      {
+        "from": "assistant",
+        "value": "##Aspirin## wird als ##Schmerzmittel##, ##Fiebersenkmittel## und ##Blutverdünner## verwendet, um ##Herzinfarkte## und ##Schlaganfälle## zu verhindern."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Sonora-Wüste, die in Nordamerika zu finden ist, hat eine überraschende Vielfalt an Kakteen und anderen einzigartigen Pflanzen."
+      },
+      {
+        "from": "assistant",
+        "value": "Die ##Sonora-Wüste##, die in ##Nordamerika## zu finden ist, hat eine überraschende Vielfalt an ##Kakteen## und anderen einzigartigen Pflanzen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "''M1 '' kam nicht mehr zu nennenswerten Kampfeinsätzen , angeblich auch deshalb , weil man fürchtete , der deutsche Kriegsgegner könnte das Konzept aufgreifen und gegen seine Urheber verwenden ."
+      },
+      {
+        "from": "assistant",
+        "value": "''##M1## '' kam nicht mehr zu nennenswerten Kampfeinsätzen , angeblich auch deshalb , weil man fürchtete , der deutsche Kriegsgegner könnte das Konzept aufgreifen und gegen seine Urheber verwenden ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Der Verkehrsunfall ereignete sich an der Kreuzung von Xixi Road und Yugu Road."
+      },
+      {
+        "from": "assistant",
+        "value": "Der Verkehrsunfall ereignete sich an der Kreuzung von ##Xixi Road## und ##Yugu Road##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Noch vor seiner Bundesligakarriere als Abwehrspieler begann er 1981 sein Studium zum Stahlbau , welches er nach sieben Jahren mit Erfolg abschloss ."
+      },
+      {
+        "from": "assistant",
+        "value": "Noch vor seiner ##Bundesliga##karriere als Abwehrspieler begann er 1981 sein Studium zum ##Stahlbau## , welches er nach sieben Jahren mit Erfolg abschloss ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Nachdem er hier bis zum Jahr 2012 tätig gewesen war , wurde er mit einem Profivertrag ausgestattet und an den Ligarivalen Rio Ave FC ausgeliehen ."
+      },
+      {
+        "from": "assistant",
+        "value": "Nachdem er hier bis zum Jahr 2012 tätig gewesen war , wurde er mit einem Profivertrag ausgestattet und an den Ligarivalen ##Rio Ave FC## ausgeliehen ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Der Erasmus-Preis wird an Einzelpersonen oder Institutionen verliehen, die außergewöhnliche Beiträge zu Kultur, Gesellschaft oder Sozialwissenschaften geleistet haben."
+      },
+      {
+        "from": "assistant",
+        "value": "Der ##Erasmus-Preis## wird an Einzelpersonen oder Institutionen verliehen, die außergewöhnliche Beiträge zu Kultur, Gesellschaft oder Sozialwissenschaften geleistet haben."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Umweltschutzorganisationen bemängeln außerdem , dass eine fachgerechte und sichere Entsorgung solcher Materialien in den entsprechenden Ländern nicht stattfinde ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Umweltschutzorganisationen## bemängeln außerdem , dass eine fachgerechte und sichere Entsorgung solcher Materialien in den entsprechenden Ländern nicht stattfinde ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Am Gepäckausgabebereich des Guangzhou Baiyun International Airport warten neu angekommene Passagiere gespannt darauf, dass ihr Gepäck auf dem Förderband erscheint."
+      },
+      {
+        "from": "assistant",
+        "value": "Am Gepäckausgabebereich des ##Guangzhou Baiyun International Airport## warten neu angekommene Passagiere gespannt darauf, dass ihr Gepäck auf dem Förderband erscheint."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "In seinem Verlagsprogramm tauchen zahlreiche Schriften der Humanisten auf , vor allem stellte er sich in den Dienst der Reformationsbewegung ."
+      },
+      {
+        "from": "assistant",
+        "value": "In seinem Verlagsprogramm tauchen zahlreiche Schriften der Humanisten auf , vor allem stellte er sich in den Dienst der ##Reformationsbewegung## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Verschiedene Organisationen versuchen , die Bevölkerung auf die Umweltproblematik aufmerksam zu machen , so etwa in der California Academy of Sciences oder im Monterey Bay Aquarium ."
+      },
+      {
+        "from": "assistant",
+        "value": "Verschiedene Organisationen versuchen , die Bevölkerung auf die Umweltproblematik aufmerksam zu machen , so etwa in der ##California Academy of Sciences## oder im ##Monterey Bay Aquarium## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Twitter ist eine Social-Media-Website, die es Benutzern ermöglicht, ihre Gedanken in kurzen, 280-Zeichen-Nachrichten zu teilen."
+      },
+      {
+        "from": "assistant",
+        "value": "##Twitter## ist eine Social-Media-Website, die es Benutzern ermöglicht, ihre Gedanken in kurzen, 280-Zeichen-Nachrichten zu teilen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Ein Salz ist eine ionische Verbindung, die aus der Neutralisationsreaktion einer Säure und einer Base, wie Natriumchlorid (NaCl), gebildet wird."
+      },
+      {
+        "from": "assistant",
+        "value": "Ein ##Salz## ist eine ##ionische Verbindung##, die aus der ##Neutralisationsreaktion## einer ##Säure## und einer ##Base##, wie ##Natriumchlorid## (##NaCl##), gebildet wird."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Das Kinder-Balance-Bike ist zum bevorzugten Werkzeug für kleine Kinder geworden, um das Fahren zu lernen, das ihnen hilft, ein Gefühl von Gleichgewicht und Koordination beim Spielen zu entwickeln und den Grundstein für zukünftiges Radfahren zu legen."
+      },
+      {
+        "from": "assistant",
+        "value": "Das ##Kinder-Balance-Bike## ist zum bevorzugten Werkzeug für kleine Kinder geworden, um das Fahren zu lernen, das ihnen hilft, ein Gefühl von Gleichgewicht und Koordination beim Spielen zu entwickeln und den Grundstein für zukünftiges Radfahren zu legen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Zu Wiseaus cineastischen Vorbildern zählen unter anderem James Dean , Marlon Brando , Tennessee Williams , Orson Welles , Elizabeth Taylor und Alfred Hitchcock ."
+      },
+      {
+        "from": "assistant",
+        "value": "Zu ##Wiseau##s cineastischen Vorbildern zählen unter anderem ##James Dean## , ##Marlon Brando## , ##Tennessee Williams## , ##Orson Welles## , ##Elizabeth Taylor## und ##Alfred Hitchcock## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Im Jahre 1989 nahm er an einem Lehrgang des Command and General Staff College '' der United States Army '' in Fort Leavenworth , Kansas , teil ."
+      },
+      {
+        "from": "assistant",
+        "value": "Im Jahre 1989 nahm er an einem Lehrgang des ##Command and General Staff College## '' der ##United States Army## '' in ##Fort Leavenworth## , ##Kansas## , teil ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Osteoporose ist eine Knochenerkrankung, die dazu führt, dass die Knochen schwach und brüchig werden, was das Risiko von Frakturen erhöht."
+      },
+      {
+        "from": "assistant",
+        "value": "##Osteoporose## ist eine ####Knochen##erkrankung##, die dazu führt, dass die ##Knochen## schwach und brüchig werden, was das Risiko von ##Frakturen## erhöht."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Er entstammt wie seine Vorgänger beim FCK Roman Weidenfeller , Tim Wiese , Florian Fromlowitz und Tobias Sippel der Torwartschule von Gerald Ehrmann ."
+      },
+      {
+        "from": "assistant",
+        "value": "Er entstammt wie seine Vorgänger beim ##FCK## ##Roman Weidenfeller## , ##Tim Wiese## , ##Florian Fromlowitz## und ##Tobias Sippel## der Torwartschule von ##Gerald Ehrmann## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "\"Cell\" ist eine akademische Zeitschrift, die sich auf Molekularbiologie, Genetik und Biochemie konzentriert und Spitzenforschung präsentiert."
+      },
+      {
+        "from": "assistant",
+        "value": "\"##Cell##\" ist eine ##akademische Zeitschrift##, die sich auf ##Molekularbiologie##, ##Genetik## und ##Biochemie## konzentriert und Spitzenforschung präsentiert."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "In den Folgejahren kam es sowohl zu Erweiterungen der Kapazität des Hauses als auch zu vorübergehenden Rückgängen durch die Weltwirtschaftskrise ."
+      },
+      {
+        "from": "assistant",
+        "value": "In den Folgejahren kam es sowohl zu Erweiterungen der Kapazität des Hauses als auch zu vorübergehenden Rückgängen durch die ##Weltwirtschaftskrise## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Dem Buch voraus ging eine Vortragsreihe an der Ernst-Moritz-Arndt-Universität Greifswald , die im Wintersemester 1998 / 99 und Sommersemester 1999 stattfand ."
+      },
+      {
+        "from": "assistant",
+        "value": "Dem Buch voraus ging eine Vortragsreihe an der ##Ernst-Moritz-Arndt-Universität Greifswald## , die im Wintersemester 1998 / 99 und Sommersemester 1999 stattfand ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "\"Stranger Things\", das in den 1980er Jahren spielt, kombiniert übernatürliche Elemente mit einer nostalgischen Hommage an Science-Fiction- und Horror-Genres."
+      },
+      {
+        "from": "assistant",
+        "value": "\"##Stranger Things##\", das in den ##1980er Jahren## spielt, kombiniert übernatürliche Elemente mit einer nostalgischen Hommage an ##Science-Fiction##- und ##Horror##-Genres."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "1993 schritt die WTA während der French Open ein und erließ die sogenannte „Jim-Pierce-Rule , die ihn für fünf Jahre von allen offiziellen Turnieren ausschloss ."
+      },
+      {
+        "from": "assistant",
+        "value": "1993 schritt die ##WTA## während der ##French Open## ein und erließ die sogenannte „##Jim-Pierce-Rule## , die ihn für fünf Jahre von allen offiziellen Turnieren ausschloss ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Bahle erweiterte später seinen Ansatz zur Analyse des schöpferischen Denkens auf Dichter und Denker wie Johann Wolfgang von Goethe und Franz Grillparzer ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Bahle## erweiterte später seinen Ansatz zur Analyse des schöpferischen Denkens auf Dichter und Denker wie ##Johann Wolfgang von Goethe## und ##Franz Grillparzer## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Er spielte nicht nur Lead-Trompete bei Herman , sondern auch bei Count Basie , Buddy Rich , Machito , Clark Terry und im Thad Jones / Mel Lewis Orchestra ."
+      },
+      {
+        "from": "assistant",
+        "value": "Er spielte nicht nur Lead-Trompete bei ##Herman## , sondern auch bei ##Count Basie## , ##Buddy Rich## , ##Machito## , ##Clark Terry## und im ##Thad Jones / Mel Lewis Orchestra## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Sie haben immer ein Glas Erdnussbutter in der Speisekammer für einfache Sandwiches."
+      },
+      {
+        "from": "assistant",
+        "value": "Sie haben immer ein Glas ##Erdnussbutter## in der Speisekammer für einfache Sandwiches."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Regie führte George Lucas , die Hauptrollen sind mit Ewan McGregor , Natalie Portman , Hayden Christensen , Ian McDiarmid und Frank Oz besetzt ."
+      },
+      {
+        "from": "assistant",
+        "value": "Regie führte ##George Lucas## , die Hauptrollen sind mit ##Ewan McGregor## , ##Natalie Portman## , ##Hayden Christensen## , ##Ian McDiarmid## und ##Frank Oz## besetzt ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Das Kyoto-Protokoll ist ein internationaler Vertrag zur Reduzierung der Treibhausgasemissionen."
+      },
+      {
+        "from": "assistant",
+        "value": "Das ##Kyoto-Protokoll## ist ein internationaler Vertrag zur Reduzierung der Treibhausgasemissionen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "The Kurdish people, an ethnic group spread across Turkey, Iraq, and Iran, seek greater autonomy in their regions."
+      },
+      {
+        "from": "assistant",
+        "value": "The ##Kurdish people##, an ethnic group spread across ##Turkey##, ##Iraq##, and ##Iran##, seek greater autonomy in their regions."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Reddit ist eine Website, die Diskussionen zu praktisch jedem Thema veranstaltet, von Nachrichten bis hin zu Nischenhobbys."
+      },
+      {
+        "from": "assistant",
+        "value": "##Reddit## ist eine Website, die Diskussionen zu praktisch jedem Thema veranstaltet, von Nachrichten bis hin zu Nischenhobbys."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Verbreitung von mit der Pest infizierten Flöhen durch die Streitkräfte wurde als eine der frühesten Verwendungen einer biologischen Waffe dokumentiert."
+      },
+      {
+        "from": "assistant",
+        "value": "Die Verbreitung von mit der ##Pest## infizierten Flöhen durch die Streitkräfte wurde als eine der frühesten Verwendungen einer biologischen Waffe dokumentiert."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "In der Mitte der kreisförmig ausgeprägten Kreuzung von Nordstraße und Brucknerallee steht das „Denkmal der Allee , „der Fischerturm ."
+      },
+      {
+        "from": "assistant",
+        "value": "In der Mitte der kreisförmig ausgeprägten Kreuzung von ##Nordstraße## und ##Brucknerallee## steht das „Denkmal der Allee , „der ##Fischerturm## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Er gilt als bedeutender Chronist der Auseinandersetzungen zwischen Sigmund Freud und Sándor Ferenczi und hat auch deren Briefwechsel herausgegeben ."
+      },
+      {
+        "from": "assistant",
+        "value": "Er gilt als bedeutender Chronist der Auseinandersetzungen zwischen ##Sigmund Freud## und ##Sándor Ferenczi## und hat auch deren Briefwechsel herausgegeben ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Jahrhunderts sind vergleichbar mit denen eines Frederick Banting oder eines Alexander Fleming , ohne jemals über die Fachwelt hinaus deren Bekanntheit erreicht zu haben ."
+      },
+      {
+        "from": "assistant",
+        "value": "Jahrhunderts sind vergleichbar mit denen eines ##Frederick Banting## oder eines ##Alexander Fleming## , ohne jemals über die Fachwelt hinaus deren Bekanntheit erreicht zu haben ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Laut einem Bericht des Nachrichtenmagazins Focus befinden sich darunter Werke von Pablo Picasso , Henri Matisse , Marc Chagall , Emil Nolde , Franz Marc , Max Beckmann und Max Liebermann ."
+      },
+      {
+        "from": "assistant",
+        "value": "Laut einem Bericht des Nachrichtenmagazins ##Focus## befinden sich darunter Werke von ##Pablo Picasso## , ##Henri Matisse## , ##Marc Chagall## , ##Emil Nolde## , ##Franz Marc## , ##Max Beckmann## und ##Max Liebermann## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "In der Ankunftshalle des internationalen Flughafens Xi'an Xianyang begrüßen begeisterte Familienmitglieder ihre längst verlorenen und wiedervereinigten Angehörigen und schaffen eine warme und berührende Szene."
+      },
+      {
+        "from": "assistant",
+        "value": "In der Ankunftshalle des internationalen Flughafens Xi'an Xianyang begrüßen begeisterte Familienmitglieder ihre längst verlorenen und wiedervereinigten Angehörigen und schaffen eine warme und berührende Szene."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Das Wesen eines Koordinationsspiels besteht darin , dass es mehrere strikte Nash-Gleichgewichte gibt und keine weiteren nicht-strikten Gleichgewichte in reinen Strategien ."
+      },
+      {
+        "from": "assistant",
+        "value": "Das Wesen eines Koordinationsspiels besteht darin , dass es mehrere strikte ##Nash-Gleichgewichte## gibt und keine weiteren nicht-strikten Gleichgewichte in reinen Strategien ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Der Nichtverbreitungsvertrag zielt darauf ab, die Verbreitung von Atomwaffen in Länder ohne sie zu verhindern."
+      },
+      {
+        "from": "assistant",
+        "value": "Der ##Nichtverbreitungsvertrag## zielt darauf ab, die Verbreitung von ##Atomwaffen## in Länder ohne sie zu verhindern."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Es finanziert sich aus Spenden und hat unter anderem von der Europäischen Kommission und dem Entwicklungsprogramm der Vereinten Nationen Unterstützung erhalten ."
+      },
+      {
+        "from": "assistant",
+        "value": "Es finanziert sich aus Spenden und hat unter anderem von der Europäischen Kommission und dem ##Entwicklungsprogramm der Vereinten Nationen## Unterstützung erhalten ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Mit der Mannschaft zog das junge Stürmertalent bis ins Halbfinale ein , wo es der Jugend des ukrainischen Topklubs Schachtar Donezk mit 1:3 unterlegen war ."
+      },
+      {
+        "from": "assistant",
+        "value": "Mit der Mannschaft zog das junge Stürmertalent bis ins Halbfinale ein , wo es der Jugend des ukrainischen Topklubs ##Schachtar Donezk## mit 1:3 unterlegen war ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Er gewann gleich bei seinem Saisonauftakt in Silverstone ein Rennen und wurde mit einem weiteren Sieg und insgesamt zehn Podest-Platzierungen Gesamtfünfter ."
+      },
+      {
+        "from": "assistant",
+        "value": "Er gewann gleich bei seinem Saisonauftakt in ##Silverstone## ein Rennen und wurde mit einem weiteren Sieg und insgesamt zehn Podest-Platzierungen Gesamtfünfter ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Er durchfließt in östlicher Richtung Stratford , wendet sich dann nach Süden , passiert nordöstlich von Patea und mündet bald darauf in die South Taranaki Bight der Tasmansee ."
+      },
+      {
+        "from": "assistant",
+        "value": "Er durchfließt in östlicher Richtung ##Stratford## , wendet sich dann nach Süden , passiert nordöstlich von ##Patea## und mündet bald darauf in die ##South Taranaki Bight## der ##Tasmansee## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "In dem \"Internet berühmten\"-Gebäude in Yihua Li, Nanshan, Chongqing, veranstalten junge Leute Partys im Freien auf dem Dach und genießen den schillernden Nachtblick auf die Stadt."
+      },
+      {
+        "from": "assistant",
+        "value": "In dem \"Internet berühmten\"-Gebäude in ##Yihua Li##, ##Nanshan##, ##Chongqing##, veranstalten junge Leute Partys im Freien auf dem Dach und genießen den schillernden Nachtblick auf die Stadt."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "erfolgreich Alexander , den Sohn des Kassander-Gegners Polyperchon , zu einem Seitenwechsel bewegt und damit fast den gesamten Peloponnes für seinen Herrn gewonnen ."
+      },
+      {
+        "from": "assistant",
+        "value": "erfolgreich ##Alexander## , den Sohn des Kassander-Gegners ##Polyperchon## , zu einem Seitenwechsel bewegt und damit fast den gesamten ##Peloponnes## für seinen Herrn gewonnen ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Er war Vorsitzender der SPD-Ortsvereine in Gottenheim und Umkirch und von 1993 bis 1998 Vorsitzender des SPD-Kreisverbands Breisgau-Hochschwarzwald ."
+      },
+      {
+        "from": "assistant",
+        "value": "Er war Vorsitzender der ##SPD##-Ortsvereine in ##Gottenheim## und ##Umkirch## und von 1993 bis 1998 Vorsitzender des ##SPD##-Kreisverbands Breisgau-Hochschwarzwald ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "In der Nähe der zerbrochenen Brücke und des verbleibenden Schnees im Hangzhou West Lake Park stehen Touristen an, um ein Kreuzfahrtschiff zu nehmen, während die ferne Leifeng-Pagode hell in der Sonne scheint."
+      },
+      {
+        "from": "assistant",
+        "value": "In der Nähe der ##zerbrochenen Brücke## und des verbleibenden ##Schnee##s im ##Hangzhou West Lake Park## stehen ##Touristen## an, um ein ##Kreuzfahrtschiff## zu nehmen, während die ferne ##Leifeng-Pagode## hell in der ##Sonne## scheint."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Kubakrise 1962 war eine 13-tägige Konfrontation zwischen den Vereinigten Staaten und der Sowjetunion, die die Welt einem Atomkonflikt nahe brachte."
+      },
+      {
+        "from": "assistant",
+        "value": "Die ##Kubakrise## 1962 war eine 13-tägige Konfrontation zwischen den ##Vereinigten Staaten## und der ##Sowjetunion##, die die Welt einem Atomkonflikt nahe brachte."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Das F&E-Personal von Magnet-Zügen durchbricht ständig technische Schwierigkeiten, in der Hoffnung, dass dieses hochgeschwindigkeits-, lärmarme Transportwerkzeug die neue Richtung des zukünftigen Schienenverkehrs einleiten kann."
+      },
+      {
+        "from": "assistant",
+        "value": "Das ##F&E-Personal## von ##Magnet-Züge##n durchbricht ständig technische Schwierigkeiten, in der Hoffnung, dass dieses hochgeschwindigkeits-, lärmarme Transportwerkzeug die neue Richtung des zukünftigen Schienenverkehrs einleiten kann."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "\"The Oprah Winfrey Show\" veränderte das Tagesfernsehen mit seinen wirkungsvollen Interviews, Buchclubs und Diskussionen über soziale Themen."
+      },
+      {
+        "from": "assistant",
+        "value": "\"##The ##Oprah Winfrey## Show##\" veränderte das ##Tagesfernsehen## mit seinen wirkungsvollen Interviews, ##Buchclubs## und Diskussionen über soziale Themen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Das Guangdong Provincial Museum veranstaltet eine Sonderausstellung über die Lingnan-Kultur, die das einzigartige Guangfu-Kulturerbe und das immaterielle Kulturerbe präsentiert."
+      },
+      {
+        "from": "assistant",
+        "value": "Das ##Guangdong Provincial Museum## veranstaltet eine Sonderausstellung über die ##Lingnan-Kultur##, die das einzigartige ##Guangfu-Kulturerbe## und das immaterielle Kulturerbe präsentiert."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Hier befindet sich eine alte Packpferdebrücke , die heute Fußgängern dient und eine in den 1950er Jahren gebaute Niedrigwasserbrücke , die bei hohem Wasserstand als Furt befahrbar ist ."
+      },
+      {
+        "from": "assistant",
+        "value": "Hier befindet sich eine alte ##Packpferdebrücke## , die heute Fußgängern dient und eine in den 1950er Jahren gebaute ##Niedrigwasserbrücke## , die bei hohem Wasserstand als Furt befahrbar ist ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "In den Bio-Teegärten von Pu'er in Yunnan pflücken Teebauern sorgfältig die zarten Knospen des Frühlingstees, um sich auf die Herstellung von hochwertigem Pu'er-Tee vorzubereiten."
+      },
+      {
+        "from": "assistant",
+        "value": "In den ##Bio-Teegärten von Pu'er## in ##Yunnan## pflücken Teebauern sorgfältig die zarten Knospen des Frühlingstees, um sich auf die Herstellung von hochwertigem ##Pu'er-Tee## vorzubereiten."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Sein umfänglicher Nachlass , in dem sich eine Vielzahl von Werkmanuskripten , Bühnenbildentwürfen , Lebensdokumenten und auch eine Autobiographie befinden , wird in der Badischen Landesbibliothek aufbewahrt ."
+      },
+      {
+        "from": "assistant",
+        "value": "Sein umfänglicher Nachlass , in dem sich eine Vielzahl von Werkmanuskripten , Bühnenbildentwürfen , Lebensdokumenten und auch eine Autobiographie befinden , wird in der Badischen Landesbibliothek aufbewahrt ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Er wurde aber zunächst von seinen Bundesratskollegen überstimmt , die zwei Linien über den Simplonpass und den Lukmanierpass bevorzugten ."
+      },
+      {
+        "from": "assistant",
+        "value": "Er wurde aber zunächst von seinen Bundesratskollegen überstimmt , die zwei Linien über den ##Simplonpass## und den ##Lukmanierpass## bevorzugten ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Er wurde zu einem Publikumsliebling und stieg mit dem Verein mit der Rekordausbeute von 101 Punkten in die zweitklassige First Division auf ."
+      },
+      {
+        "from": "assistant",
+        "value": "Er wurde zu einem Publikumsliebling und stieg mit dem Verein mit der Rekordausbeute von 101 Punkten in die zweitklassige ##First Division## auf ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "In der nationalen Golddemonstrationszone in Zhaoyuan, Shandong, schürfen Bergleute Gold Hunderte von Metern unter der Erde, um eine sichere Produktion zu gewährleisten."
+      },
+      {
+        "from": "assistant",
+        "value": "In der nationalen ##Gold##demonstrationszone in ##Zhaoyuan##, ##Shandong##, schürfen Bergleute ##Gold## Hunderte von Metern unter der Erde, um eine sichere Produktion zu gewährleisten."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Stiftung Warentest urteilt zusammenfassend zu ihrem Themenpaket Sparlampen über verbreitete Negativmeldungen , dass viele Vorwürfe unbegründet seien oder nur für einige wenige Produkte gelten ."
+      },
+      {
+        "from": "assistant",
+        "value": "Die ##Stiftung Warentest## urteilt zusammenfassend zu ihrem Themenpaket Sparlampen über verbreitete Negativmeldungen , dass viele Vorwürfe unbegründet seien oder nur für einige wenige Produkte gelten ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Plasmide, kleine DNA-Moleküle, die in Bakterien vorkommen, können Gene tragen, die Antibiotikaresistenz und andere Merkmale bieten."
+      },
+      {
+        "from": "assistant",
+        "value": "##Plasmide##, kleine ##DNA-Moleküle##, die in ##Bakterien## vorkommen, können ##Gene## tragen, die ##Antibiotikaresistenz## und andere ##Merkmale## bieten."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "YouTube ist eine beliebte Video-Sharing-Website, auf der Schöpfer Inhalte hochladen, die von Tutorials bis hin zu Unterhaltung reichen."
+      },
+      {
+        "from": "assistant",
+        "value": "##YouTube## ist eine beliebte Video-Sharing-Website, auf der Schöpfer Inhalte hochladen, die von Tutorials bis hin zu Unterhaltung reichen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Etwa 1 km südlich des Ortes treffen diese auf den U.S. Highway 151 und führen mit diesem gemeinsam auf einer vierspurig ausgebauten Straße südwärts ."
+      },
+      {
+        "from": "assistant",
+        "value": "Etwa 1 km südlich des Ortes treffen diese auf den ##U.S. Highway 151## und führen mit diesem gemeinsam auf einer vierspurig ausgebauten Straße südwärts ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Dies basierte in erster Linie auf der Tatsache , dass der Verein das Budget für einen Aufstieg in die Extraliga nicht aufbringen konnte ."
+      },
+      {
+        "from": "assistant",
+        "value": "Dies basierte in erster Linie auf der Tatsache , dass der Verein das Budget für einen Aufstieg in die ##Extraliga## nicht aufbringen konnte ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Im Hafen von Dalian entlädt ein mit Sojabohnen beladenes Großfrachtschiff, und diese Charge importierter Sojabohnen wird zu Verarbeitungsbetrieben im ganzen Land transportiert."
+      },
+      {
+        "from": "assistant",
+        "value": "Im ##Hafen von Dalian## entlädt ein mit ##Sojabohnen## beladenes ##Großfrachtschiff##, und diese Charge importierter ##Sojabohnen## wird zu Verarbeitungsbetrieben im ganzen Land transportiert."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Das Manila-Manuskript, auch bekannt als Boxer Codex, ist ein spanisches Dokument, das vermutlich um die 1590er Jahre fertiggestellt wurde."
+      },
+      {
+        "from": "assistant",
+        "value": "Das ##Manila-Manuskript##, auch bekannt als ##Boxer Codex##, ist ein ##spanisches Dokument##, das vermutlich um die ##1590er Jahre## fertiggestellt wurde."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Im Sommer 2010 wechselte er mit einem Profi-Vertrag versehen zu MKE Ankaragücü , spielte aber weiterhin überwiegend für die Reservemannschaft ."
+      },
+      {
+        "from": "assistant",
+        "value": "Im Sommer 2010 wechselte er mit einem Profi-Vertrag versehen zu ##MKE Ankaragücü## , spielte aber weiterhin überwiegend für die Reservemannschaft ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "\"The Matrix\" mit Keanu Reeves in der Hauptrolle verbindet Kampfsport und Philosophie in einer Geschichte über eine computergenerierte Realität."
+      },
+      {
+        "from": "assistant",
+        "value": "\"##The Matrix##\" mit ##Keanu Reeves## in der Hauptrolle verbindet ##Kampfsport## und ##Philosophie## in einer Geschichte über eine ##computergenerierte Realität##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Nagelstudios konzentrieren sich darauf, schöne Muster auf die Nägel der Gäste zu zeichnen, und empfehlen die Verwendung von pflegendem Nagellack und Handcreme, um ihre Hände weich und zart zu halten."
+      },
+      {
+        "from": "assistant",
+        "value": "##Nagelstudios## konzentrieren sich darauf, schöne Muster auf die Nägel der Gäste zu zeichnen, und empfehlen die Verwendung von pflegendem ##Nagellack## und ##Handcreme##, um ihre Hände weich und zart zu halten."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Im Geschäftsviertel des Konfuzius-Tempels von Nanjing kaufen Touristen in den antiken Gebäuden verschiedene Jiangnan-Spezialprodukte und Kunsthandwerk ein."
+      },
+      {
+        "from": "assistant",
+        "value": "Im Geschäftsviertel des ##Konfuzius-Tempel##s von ##Nanjing## kaufen Touristen in den antiken Gebäuden verschiedene ##Jiangnan##-Spezialprodukte und Kunsthandwerk ein."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Entdeckung des Penicillins durch Alexander Fleming im Jahr 1928 revolutionierte die Medizin."
+      },
+      {
+        "from": "assistant",
+        "value": "Die Entdeckung des ##Penicillins## durch ##Alexander Fleming## im Jahr 1928 revolutionierte die Medizin."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Quantenchemie wendet die Quantenmechanik an, um zu erklären, wie sich Elektronen in Atomen und Molekülen verhalten und die chemische Bindung beeinflussen."
+      },
+      {
+        "from": "assistant",
+        "value": "Die ##Quantenchemie## wendet die ##Quantenmechanik## an, um zu erklären, wie sich ##Elektronen## in ##Atomen## und ##Molekülen## verhalten und die ##chemische Bindung## beeinflussen."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Russisch ist die am weitesten verbreitete slawische Sprache und eine Amtssprache der Vereinten Nationen."
+      },
+      {
+        "from": "assistant",
+        "value": "##Russisch## ist die am weitesten verbreitete slawische Sprache und eine Amtssprache der ##Vereinten Nationen##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Das modulare Möbeldesign ermöglicht es den Benutzern, flexibel nach ihren eigenen Bedürfnissen und ihrem Platz zu kombinieren, was nicht nur die Raumnutzung verbessert, sondern auch die Bedürfnisse einer personalisierten Dekoration erfüllt."
+      },
+      {
+        "from": "assistant",
+        "value": "Das modulare Möbeldesign ermöglicht es den Benutzern, flexibel nach ihren eigenen Bedürfnissen und ihrem Platz zu kombinieren, was nicht nur die Raumnutzung verbessert, sondern auch die Bedürfnisse einer personalisierten Dekoration erfüllt."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Die Rocky Mountaineer-Eisenbahn bietet malerische Reisen durch die kanadischen Rockies und zieht Touristen an."
+      },
+      {
+        "from": "assistant",
+        "value": "Die ##Rocky Mountaineer-Eisenbahn## bietet malerische Reisen durch die ##kanadischen Rockies## und zieht Touristen an."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Thor ist der nordische Gott des Donners, der oft mit seinem Hammer Mjölnir dargestellt wird."
+      },
+      {
+        "from": "assistant",
+        "value": "##Thor## ist der nordische Gott des Donners, der oft mit seinem Hammer ##Mjölnir## dargestellt wird."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Im Westen erstreckt sich der Schwarzwald , dessen höchste Punkte Feldberg im Südwesten und Hornisgrinde im Nordwesten gut zu erkennen sind ."
+      },
+      {
+        "from": "assistant",
+        "value": "Im Westen erstreckt sich der ##Schwarzwald## , dessen höchste Punkte ##Feldberg## im Südwesten und ##Hornisgrinde## im Nordwesten gut zu erkennen sind ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "In seinem Wahlkreis Edinburgh Central erhielt er hinter der Labour-Kandidatin Sarah Boyack nur die zweithöchste Stimmenanzahl und verpasste damit den Einzug in das neugeschaffene Schottische Parlament ."
+      },
+      {
+        "from": "assistant",
+        "value": "In seinem Wahlkreis ##Edinburgh Central## erhielt er hinter der ##Labour##-Kandidatin ##Sarah Boyack## nur die zweithöchste Stimmenanzahl und verpasste damit den Einzug in das neugeschaffene ##Schottische Parlament## ."
+      }
+    ]
+  }
+]

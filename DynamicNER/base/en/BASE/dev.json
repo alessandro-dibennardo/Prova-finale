@@ -1,0 +1,3910 @@
+{
+    "sentence1": {
+        "sentence": "Jazz, with its improvisational elements, has influenced countless artists and is best exemplified by musicians like Miles Davis.",
+        "entity": [
+            "Jazz",
+            "Miles Davis"
+        ],
+        "category": [
+            "music genre",
+            "musician"
+        ]
+    },
+    "sentence2": {
+        "sentence": "He was named as an All-City selection and as an All-Metro selection , and the Clarion Herald '' and the New Orleans Times-Picayune '' named him as an All-District selection .",
+        "entity": [
+            "Clarion Herald",
+            "New Orleans Times-Picayune"
+        ],
+        "category": [
+            "media",
+            "media"
+        ]
+    },
+    "sentence3": {
+        "sentence": "WeChat has become an essential communication tool in China, offering chat, payments, and social networking features.",
+        "entity": [
+            "WeChat",
+            "China"
+        ],
+        "category": [
+            "software",
+            "country"
+        ]
+    },
+    "sentence4": {
+        "sentence": "It contains the species ' '' ''Crambodoxa platyaula '' ' '' , which is found in Colombia .",
+        "entity": [
+            "Crambodoxa platyaula",
+            "Colombia"
+        ],
+        "category": [
+            "species",
+            "country"
+        ]
+    },
+    "sentence5": {
+        "sentence": "Prior to the digging , the area had been tested and examined by experts from Brigham Young University , the U.S. Forest Service and The Army Corps of Engineers .",
+        "entity": [
+            "Brigham Young University",
+            "U.S. Forest Service",
+            "Army Corps of Engineers"
+        ],
+        "category": [
+            "school",
+            "government facility",
+            "government facility"
+        ]
+    },
+    "sentence6": {
+        "sentence": "The knight drew his sword, ready to defend his honor in the duel.",
+        "entity": [
+            "sword"
+        ],
+        "category": [
+            "cold weapon"
+        ]
+    },
+    "sentence7": {
+        "sentence": "The Presidential Medal of Freedom is the highest civilian award in the United States, recognizing significant contributions to national interests, culture, or peace.",
+        "entity": [
+            "Presidential Medal of Freedom",
+            "United States"
+        ],
+        "category": [
+            "other award",
+            "country"
+        ]
+    },
+    "sentence8": {
+        "sentence": "The issue featured artworks from twelve artists , including Sophie Calle , Rebecca Horn , Annie Leibovitz and Lawrence Weiner .",
+        "entity": [
+            "Sophie Calle",
+            "Rebecca Horn",
+            "Annie Leibovitz",
+            "Lawrence Weiner"
+        ],
+        "category": [
+            "artist",
+            "artist",
+            "artist",
+            "artist"
+        ]
+    },
+    "sentence9": {
+        "sentence": "Camels are well adapted to the harsh conditions of the Arabian Desert, carrying travelers across its endless dunes.",
+        "entity": [
+            "Arabian Desert",
+            "Camels"
+        ],
+        "category": [
+            "desert",
+            "species"
+        ]
+    },
+    "sentence10": {
+        "sentence": "\" Unfortunately , in the auto industry these days , a $ 500 million company is not a big company anymore , \" Hoey said . \"",
+        "entity": [
+            "Hoey"
+        ],
+        "category": [
+            "other person"
+        ]
+    },
+    "sentence11": {
+        "sentence": "The World Economic Forum (WEF) Annual Meeting gathers global leaders to discuss economic, political, and environmental challenges.",
+        "entity": [
+            "World Economic Forum",
+            "WEF Annual Meeting"
+        ],
+        "category": [
+            "other organization",
+            "conference"
+        ]
+    },
+    "sentence12": {
+        "sentence": "It began on 10 June at Motorsport Arena Oschersleben and finished on 21 September at Sachsenring after seven double-header meetings .",
+        "entity": [
+            "Motorsport Arena Oschersleben",
+            "Sachsenring"
+        ],
+        "category": [
+            "sports facility",
+            "sports facility"
+        ]
+    },
+    "sentence13": {
+        "sentence": "After that he studied at the Norwegian National Academy of Fine Arts first in 1927 and later , in 1932-1933 with Axel Revold , in 1935-1936 with Georg Jacobsen .",
+        "entity": [
+            "Norwegian National Academy of Fine Arts",
+            "Axel Revold",
+            "Georg Jacobsen"
+        ],
+        "category": [
+            "school",
+            "artist",
+            "artist"
+        ]
+    },
+    "sentence14": {
+        "sentence": "C++ offers high performance and efficiency, making it ideal for system software, game development, and real-time simulations.",
+        "entity": [
+            "C++",
+            "system software",
+            "game development",
+            "real-time simulations"
+        ],
+        "category": [
+            "programlang",
+            "software",
+            "other computer science entity",
+            "other computer science entity"
+        ]
+    },
+    "sentence15": {
+        "sentence": "Lichfield District Council appointed Galliford Try as principal contractor for works to start in December 2010 .",
+        "entity": [
+            "Lichfield District Council",
+            "Galliford Try"
+        ],
+        "category": [
+            "government facility",
+            "company"
+        ]
+    },
+    "sentence16": {
+        "sentence": "Opera combines orchestral music with dramatic singing to tell epic stories, as seen in Giuseppe Verdi's \"La Traviata.\"",
+        "entity": [
+            "Opera",
+            "Giuseppe Verdi",
+            "La Traviata"
+        ],
+        "category": [
+            "music genre",
+            "musician",
+            "other music"
+        ]
+    },
+    "sentence17": {
+        "sentence": "A molecule is a chemical entity composed of two or more atoms bonded together, such as a water molecule (H2O).",
+        "entity": [
+            "molecule",
+            "atoms",
+            "water molecule",
+            "H2O"
+        ],
+        "category": [
+            "other chemical entity",
+            "other chemical entity",
+            "other chemical entity",
+            "compound"
+        ]
+    },
+    "sentence18": {
+        "sentence": "He exhibited regularly at the Royal Academy and several of his paintings are now in the collection of the National Maritime Museum in London .",
+        "entity": [
+            "Royal Academy",
+            "National Maritime Museum",
+            "London"
+        ],
+        "category": [
+            "school",
+            "museum",
+            "city"
+        ]
+    },
+    "sentence19": {
+        "sentence": "It is served by Landywood railway station on the Chase Line , which runs from Birmingham via Walsall to Rugeley Trent Valley .",
+        "entity": [
+            "Landywood railway station",
+            "Chase Line",
+            "Birmingham",
+            "Walsall",
+            "Rugeley Trent Valley"
+        ],
+        "category": [
+            "station",
+            "railway",
+            "city",
+            "city",
+            "city"
+        ]
+    },
+    "sentence20": {
+        "sentence": "A digital camera captures high-quality images, perfect for photography enthusiasts.",
+        "entity": [
+            "digital camera"
+        ],
+        "category": [
+            "electronics"
+        ]
+    },
+    "sentence21": {
+        "sentence": "He wrote hundreds of books on Pali language , and was a member of the inaugural staff of Nalanda College , Colombo and a member of the Ananda College staff .",
+        "entity": [
+            "Pali",
+            "Nalanda College",
+            "Colombo",
+            "Ananda College"
+        ],
+        "category": [
+            "language",
+            "school",
+            "city",
+            "school"
+        ]
+    },
+    "sentence22": {
+        "sentence": "Her daughter from the second marriage was Marie d'Agoult ( 1805–1876 ) , who in turn gave birth to several children , among them—from her liaison to Franz Liszt –- Cosima Wagner ( 1837–1930 ) .",
+        "entity": [
+            "Marie d'Agoult",
+            "Franz Liszt",
+            "Cosima Wagner"
+        ],
+        "category": [
+            "author",
+            "musician",
+            "other person"
+        ]
+    },
+    "sentence23": {
+        "sentence": "Muharem Serbezovski is known as singer in the Macedonia and Bosnia and Herzegovina where he issued his translation .",
+        "entity": [
+            "Muharem Serbezovski",
+            "Macedonia",
+            "Bosnia and Herzegovina"
+        ],
+        "category": [
+            "musician",
+            "country",
+            "country"
+        ]
+    },
+    "sentence24": {
+        "sentence": "The Hindu religious group practices rituals and worships multiple deities, with the Ganges River being a sacred site.",
+        "entity": [
+            "Hindu",
+            "Ganges River"
+        ],
+        "category": [
+            "religious group",
+            "water body"
+        ]
+    },
+    "sentence25": {
+        "sentence": "Prior to the album 's release , on April 24 , 2009 , NME '' posted the song `` Mirrored and Reverse '' on their website , giving fans their first taste of ''Fits '' .",
+        "entity": [
+            "NME",
+            "Mirrored and Reverse",
+            "Fits"
+        ],
+        "category": [
+            "other commercial organization",
+            "song",
+            "album"
+        ]
+    },
+    "sentence26": {
+        "sentence": "The children sat together, using LEGO bricks to build their dream castle and spaceship. These colorful small pieces not only stimulated their creativity, but also cultivated their spatial thinking ability.",
+        "entity": [
+            "LEGO bricks"
+        ],
+        "category": [
+            "toys"
+        ]
+    },
+    "sentence27": {
+        "sentence": "The Jewish Federation supports Jewish communities worldwide through charitable programs and religious activities.",
+        "entity": [
+            "Jewish Federation"
+        ],
+        "category": [
+            "religious organization"
+        ]
+    },
+    "sentence28": {
+        "sentence": "A tourist from Jordan was also told by Israeli soldiers at the al-Ram checkpoint that he could not enter Jerusalem .",
+        "entity": [
+            "Jordan",
+            "Israeli",
+            "al-Ram",
+            "Jerusalem"
+        ],
+        "category": [
+            "country",
+            "ethnic group",
+            "district",
+            "city"
+        ]
+    },
+    "sentence29": {
+        "sentence": "Wills favored jazz-like arrangements and the band found national popularity into the 1940s with such hits as Steel Guitar Rag , New San Antonio Rose , Smoke On The Water , Stars And Stripes On Iwo Jima , and New Spanish Two Step .",
+        "entity": [
+            "Wills",
+            "Steel Guitar Rag",
+            "New San Antonio Rose",
+            "Smoke On The Water",
+            "Stars And Stripes On Iwo Jima",
+            "New Spanish Two Step"
+        ],
+        "category": [
+            "musician",
+            "song",
+            "song",
+            "song",
+            "song",
+            "song"
+        ]
+    },
+    "sentence30": {
+        "sentence": "Mining companies rely on dynamite as one of the most efficient explosives to break through layers of rock and extract minerals.",
+        "entity": [
+            "dynamite"
+        ],
+        "category": [
+            "explosives"
+        ]
+    },
+    "sentence31": {
+        "sentence": "In 1998 , Oldman was honored at the Camerimage Film Festival , where he was awarded the Krzysztof Kieślowski Award for Acting , the first recipient of the award .",
+        "entity": [
+            "Oldman",
+            "Camerimage Film Festival",
+            "Krzysztof Kieślowski Award for Acting"
+        ],
+        "category": [
+            "actor",
+            "business event",
+            "artistic award"
+        ]
+    },
+    "sentence32": {
+        "sentence": "After this , he moved around from job to job for a short period of time , teaching children 's classes in Oakland , California .",
+        "entity": [
+            "Oakland",
+            "California"
+        ],
+        "category": [
+            "city",
+            "state or province"
+        ]
+    },
+    "sentence33": {
+        "sentence": "It was built next to the Locarno Ballroom which is now known as the Liverpool Olympia .",
+        "entity": [
+            "Locarno Ballroom",
+            "Liverpool Olympia"
+        ],
+        "category": [
+            "other facility",
+            "theater/cinema"
+        ]
+    },
+    "sentence34": {
+        "sentence": "In 2003 , Van Sant 's film about the Columbine High School massacre , Elephant , won the Palme d 'Or at the Cannes Film Festival .",
+        "entity": [
+            "Van Sant",
+            "Columbine High School massacre",
+            "Elephant",
+            "Palme d 'Or",
+            "Cannes Film Festival"
+        ],
+        "category": [
+            "director",
+            "political/military event",
+            "film",
+            "artistic award",
+            "business event"
+        ]
+    },
+    "sentence35": {
+        "sentence": "Since the 12th century the area was part of the Holy Roman Empire ( Duchy of Pomerania ) , 1648-1945 Prussia and Germany .",
+        "entity": [
+            "Holy Roman Empire",
+            "Duchy of Pomerania",
+            "Prussia",
+            "Germany"
+        ],
+        "category": [
+            "country",
+            "state or province",
+            "country",
+            "country"
+        ]
+    },
+    "sentence36": {
+        "sentence": "He was graduated from Georgetown College , Washington , D.C . in 1848 , and from the University of Pennsylvania Law School at Philadelphia in 1850 .",
+        "entity": [
+            "Georgetown College",
+            "Washington , D.C .",
+            "University of Pennsylvania Law School",
+            "Philadelphia"
+        ],
+        "category": [
+            "school",
+            "city",
+            "school",
+            "city"
+        ]
+    },
+    "sentence37": {
+        "sentence": "As built it ran from Wolverhampton to Huddlesford Junction near Lichfield , with a number of branches : some parts are currently derelict .",
+        "entity": [
+            "Wolverhampton",
+            "Huddlesford Junction",
+            "Lichfield"
+        ],
+        "category": [
+            "city",
+            "other geographical entity",
+            "city"
+        ]
+    },
+    "sentence38": {
+        "sentence": "The second painting ( F655 ) is `` the most resolved and stylized of the three , '' intended for his sister and mother , is located at the Metropolitan Museum of Art in New York City .",
+        "entity": [
+            "Metropolitan Museum of Art",
+            "New York City"
+        ],
+        "category": [
+            "museum",
+            "city"
+        ]
+    },
+    "sentence39": {
+        "sentence": "Frodo Baggins, a hobbit from J.R.R. Tolkien's \"The Lord of the Rings,\" embarked on a perilous journey to destroy the One Ring in Mount Doom.",
+        "entity": [
+            "Frodo Baggins",
+            "J.R.R. Tolkien",
+            "The Lord of the Rings",
+            "Mount Doom"
+        ],
+        "category": [
+            "other figure",
+            "author",
+            "fiction",
+            "other geographical entity"
+        ]
+    },
+    "sentence40": {
+        "sentence": "Bill Gates, co-founder of Microsoft, has pledged billions of dollars towards fighting climate change through his philanthropic foundation.",
+        "entity": [
+            "Bill Gates",
+            "Microsoft"
+        ],
+        "category": [
+            "business executive",
+            "company"
+        ]
+    },
+    "sentence41": {
+        "sentence": "The reports fanned worries on Wall Street that the Fed , the nation 's central bank , would raise rates next month in a bid to ward off inflation , driving stock and bond prices sharply lower for a second day running .",
+        "entity": [
+            "Wall Street",
+            "Fed"
+        ],
+        "category": [
+            "district",
+            "other commercial organization"
+        ]
+    },
+    "sentence42": {
+        "sentence": "President John Adams , a Federalist Party elected two years prior in the 1796 United States presidential election , remained popular during a time of national economic growth , and the Federalists made a modest gain of three seats at the expense of the opposition Democratic-Republican Party , the party of Vice President and future President Thomas Jefferson .",
+        "entity": [
+            "John Adams",
+            "Federalist Party",
+            "1796 United States presidential election",
+            "Democratic-Republican Party",
+            "Thomas Jefferson"
+        ],
+        "category": [
+            "politician",
+            "political/military",
+            "political/military event",
+            "political/military",
+            "politician"
+        ]
+    },
+    "sentence43": {
+        "sentence": "His debut single , `` Can't Say No '' , was released in the United Kingdom on 16 April 2012 .",
+        "entity": [
+            "Can't Say No",
+            "United Kingdom"
+        ],
+        "category": [
+            "song",
+            "country"
+        ]
+    },
+    "sentence44": {
+        "sentence": "The A* search algorithm combines heuristic and cost-based strategies to find the shortest path in complex environments.",
+        "entity": [
+            "A* search algorithm",
+            "heuristic"
+        ],
+        "category": [
+            "algorithm",
+            "other computer science entity"
+        ]
+    },
+    "sentence45": {
+        "sentence": "Hymns based on Psalm 36 include in English `` Praise to the Lord , the Almighty `` and `` Immortal , Invisible , God Only Wise `` .",
+        "entity": [
+            "Psalm 36",
+            "English",
+            "Praise to the Lord , the Almighty",
+            "Immortal , Invisible , God Only Wise"
+        ],
+        "category": [
+            "poem",
+            "language",
+            "poem",
+            "poem"
+        ]
+    },
+    "sentence46": {
+        "sentence": "He sends his crew off in teams to explore the ship , while he and Zoe head to a section that he suspects holds the more valuable supplies .",
+        "entity": [
+            "Zoe"
+        ],
+        "category": [
+            "other person"
+        ]
+    },
+    "sentence47": {
+        "sentence": "My kids love munching on potato chips while watching their favorite cartoons.",
+        "entity": [
+            "potato chips"
+        ],
+        "category": [
+            "packaged foods"
+        ]
+    },
+    "sentence48": {
+        "sentence": "The soldier was trained to handle a rifle with precision and accuracy.",
+        "entity": [
+            "rifle"
+        ],
+        "category": [
+            "firearms"
+        ]
+    },
+    "sentence49": {
+        "sentence": "The Civil Rights Act of 1964 prohibits discrimination based on race, color, religion, sex, or national origin.",
+        "entity": [
+            "Civil Rights Act of 1964"
+        ],
+        "category": [
+            "law"
+        ]
+    },
+    "sentence50": {
+        "sentence": "IGC researchers include Esther Duflo , Nicholas Bloom , Rachel Glennerster , Lant Pritchett , John Van Reenen ( economist ) , Nicholas Stern , Dean Karlan , Edward Miguel , and Maurice Obstfeld .",
+        "entity": [
+            "Esther Duflo",
+            "Nicholas Bloom",
+            "Rachel Glennerster",
+            "Lant Pritchett",
+            "John Van Reenen",
+            "Nicholas Stern",
+            "Dean Karlan",
+            "Edward Miguel",
+            "Maurice Obstfeld"
+        ],
+        "category": [
+            "scholar",
+            "scholar",
+            "scholar",
+            "scholar",
+            "scholar",
+            "scholar",
+            "scholar",
+            "scholar",
+            "scholar"
+        ]
+    },
+    "sentence51": {
+        "sentence": "The BAFTA Award is presented by the British Academy of Film and Television Arts to recognize excellence in film, television, and video games.",
+        "entity": [
+            "BAFTA Award",
+            "British Academy of Film and Television Arts"
+        ],
+        "category": [
+            "artistic award",
+            "other commercial organization"
+        ]
+    },
+    "sentence52": {
+        "sentence": "\"The Shawshank Redemption,\" based on a Stephen King novella, follows the journey of hope and friendship inside a prison.",
+        "entity": [
+            "The Shawshank Redemption",
+            "Stephen King"
+        ],
+        "category": [
+            "film",
+            "author"
+        ]
+    },
+    "sentence53": {
+        "sentence": "He adopted a pseudonym from Edward Lear ' s poem The Scroobious Pip and in 2002 whilst working in a HMV store he made the decision to start saving his writing .",
+        "entity": [
+            "Edward Lear",
+            "poem",
+            "The Scroobious Pip",
+            "HMV"
+        ],
+        "category": [
+            "author",
+            "literature genre",
+            "poem",
+            "company"
+        ]
+    },
+    "sentence54": {
+        "sentence": "\"Imagine\" by John Lennon encourages listeners to envision a world of peace, without borders or conflicts.",
+        "entity": [
+            "Imagine",
+            "John Lennon"
+        ],
+        "category": [
+            "song",
+            "musician"
+        ]
+    },
+    "sentence55": {
+        "sentence": "He had previously been leader of St Helens Metropolitan Borough Council for four years .",
+        "entity": [
+            "St Helens Metropolitan Borough Council"
+        ],
+        "category": [
+            "government facility"
+        ]
+    },
+    "sentence56": {
+        "sentence": "Born in Highnam , Gloucestershire , he was most famous for his appearances on That 's Life ! '' ( where he was teamed with Kieran Prendiville from 1973 to 1978 ) and on Nationwide '' .",
+        "entity": [
+            "Highnam",
+            "Gloucestershire",
+            "That 's Life !",
+            "Kieran Prendiville",
+            "Nationwide"
+        ],
+        "category": [
+            "city",
+            "state or province",
+            "broadcast program",
+            "other person",
+            "broadcast program"
+        ]
+    },
+    "sentence57": {
+        "sentence": "1940 - World War II : Soviet Union leader Joseph Stalin and the Politburo signed an order for the execution of about 22,000 Polish military officers , policemen , intellectuals and civilian prisoners of war that were captured during the Soviet invasion of Poland .",
+        "entity": [
+            "World War II",
+            "Soviet Union",
+            "Joseph Stalin",
+            "Politburo",
+            "Polish",
+            "Soviet invasion of Poland"
+        ],
+        "category": [
+            "political/military event",
+            "country",
+            "politician",
+            "political/military",
+            "ethnic group",
+            "political/military event"
+        ]
+    },
+    "sentence58": {
+        "sentence": "The Document Understanding Conferences , conducted annually by NIST , have developed sophisticated evaluation criteria for techniques accepting the multi-document summarization challenge .",
+        "entity": [
+            "Document Understanding Conferences",
+            "NIST",
+            "multi-document summarization"
+        ],
+        "category": [
+            "conference",
+            "educational and research",
+            "other computer science entity"
+        ]
+    },
+    "sentence59": {
+        "sentence": "She had one son by her last marriage , Frederick Henry , Prince of Orange ( 29 January 1584 – 14 March 1647 )",
+        "entity": [
+            "Frederick Henry, Prince of Orange"
+        ],
+        "category": [
+            "other person"
+        ]
+    },
+    "sentence60": {
+        "sentence": "Boroughmuir 20 Hawick 23",
+        "entity": [
+            "Boroughmuir",
+            "Hawick"
+        ],
+        "category": [
+            "district",
+            "district"
+        ]
+    },
+    "sentence61": {
+        "sentence": "According to Joe D'Angelo of MTV News , the shots of Lee drowning in the video , show a `` distressed and emotionally wrought heroine '' .",
+        "entity": [
+            "Joe D'Angelo",
+            "MTV News",
+            "Lee"
+        ],
+        "category": [
+            "other person",
+            "media",
+            "artist"
+        ]
+    },
+    "sentence62": {
+        "sentence": "He praise the graphics but in his final verdict he wrote `` Ninja Gaiden is not a bad game ; it 's just not a good game , either . ''",
+        "entity": [
+            "Ninja Gaiden"
+        ],
+        "category": [
+            "game"
+        ]
+    },
+    "sentence63": {
+        "sentence": "This area was to become part of Lincoln County , North Carolina in 1779 , and eventually Gaston County , in 1846 .",
+        "entity": [
+            "Lincoln County",
+            "North Carolina",
+            "Gaston County"
+        ],
+        "category": [
+            "district",
+            "state or province",
+            "district"
+        ]
+    },
+    "sentence64": {
+        "sentence": "African drummers sit on the ground, tapping drums of various sizes with their nimble fingers, creating complex rhythms that convey the pulse and vitality of ancient culture.",
+        "entity": [
+            "African drummers",
+            "drums"
+        ],
+        "category": [
+            "other person",
+            "musical instruments"
+        ]
+    },
+    "sentence65": {
+        "sentence": "His improvements improved in his next three matches , highlighted by a half-century against Gloucestershire , scored during a 135 run partnership with Edward Sainsbury .",
+        "entity": [
+            "Gloucestershire",
+            "Edward Sainsbury"
+        ],
+        "category": [
+            "sports team/league",
+            "athlete"
+        ]
+    },
+    "sentence66": {
+        "sentence": "' '' PP-69 ( Faisalabad-XIX ) ' '' is a Constituency of Provincial Assembly of Punjab .",
+        "entity": [
+            "PP-69",
+            "Faisalabad-XIX",
+            "Provincial Assembly of Punjab"
+        ],
+        "category": [
+            "region",
+            "region",
+            "political/military"
+        ]
+    },
+    "sentence67": {
+        "sentence": "Released on June 26 , 2001 , it was the singer 's debut single and lead one from his album Rosso Relativo '' , which was released four months later .",
+        "entity": [
+            "Rosso Relativo"
+        ],
+        "category": [
+            "album"
+        ]
+    },
+    "sentence68": {
+        "sentence": "Hence , in 1996 , RC Strasbourg could not rely on a large attendance when they hosted AC Milan for the 1995–96 UEFA Cup .",
+        "entity": [
+            "RC Strasbourg",
+            "AC Milan",
+            "UEFA Cup"
+        ],
+        "category": [
+            "sports team/league",
+            "sports team/league",
+            "sports award"
+        ]
+    },
+    "sentence69": {
+        "sentence": "\" This is really positive news for Pirelli , and I expect that it will produce one of the best half-year results in late September compared to other industrial Italian companies , \" said analyst Paula Buratti at Indosuez .",
+        "entity": [
+            "Pirelli",
+            "Italian",
+            "Paula Buratti",
+            "Indosuez"
+        ],
+        "category": [
+            "company",
+            "ethnic group",
+            "business executive",
+            "company"
+        ]
+    },
+    "sentence70": {
+        "sentence": "He then worked at the Harvard-Smithsonian Center for Astrophysics in Cambridge , Massachusetts .",
+        "entity": [
+            "Harvard-Smithsonian Center for Astrophysics",
+            "Cambridge",
+            "Massachusetts"
+        ],
+        "category": [
+            "educational and research",
+            "city",
+            "state or province"
+        ]
+    },
+    "sentence71": {
+        "sentence": "His work inspired subsequent generations of robotics researchers such as Rodney Brooks , Hans Moravec and Mark Tilden .",
+        "entity": [
+            "Rodney Brooks",
+            "Hans Moravec",
+            "Mark Tilden"
+        ],
+        "category": [
+            "scholar",
+            "scholar",
+            "scholar"
+        ]
+    },
+    "sentence72": {
+        "sentence": "Bernie Sanders , the Liberty Union Party candidate , was later elected to this seat in 2006 United States Senate election in Vermont , serving as an Independent .",
+        "entity": [
+            "Bernie Sanders",
+            "Liberty Union Party",
+            "2006 United States Senate election in Vermont"
+        ],
+        "category": [
+            "politician",
+            "political/military",
+            "political/military event"
+        ]
+    },
+    "sentence73": {
+        "sentence": "The Peking University Library held a lecture called \"The Power of Reading\", which attracted many students to come and listen, and the entire lecture hall was packed.",
+        "entity": [
+            "Peking University Library",
+            "The Power of Reading",
+            "students",
+            "lecture hall"
+        ],
+        "category": [
+            "library",
+            "other event",
+            "other person",
+            "other facility"
+        ]
+    },
+    "sentence74": {
+        "sentence": "Through extensive promoting , including appearances on 1999 MTV VMA ( including a performance alongside Aerosmith and Run-DMC ) and performing at Woodstock 1999 , Devil Without a Cause sold 14 million copies , the album 's success spurred by Kid Rock 's breakthrough hit single Bawitdaba .",
+        "entity": [
+            "MTV VMA",
+            "Aerosmith",
+            "Run-DMC",
+            "Woodstock 1999",
+            "Devil Without a Cause",
+            "Kid Rock",
+            "Bawitdaba"
+        ],
+        "category": [
+            "artistic award",
+            "band",
+            "band",
+            "other event",
+            "album",
+            "musician",
+            "song"
+        ]
+    },
+    "sentence75": {
+        "sentence": "The problem , however , is that proper names are often taken to have no meaning beyond their reference ( a view often associated with John Stuart Mill ) .",
+        "entity": [
+            "John Stuart Mill"
+        ],
+        "category": [
+            "scholar"
+        ]
+    },
+    "sentence76": {
+        "sentence": "In 1972 , Ian Angus found the original typescript titled The Freedom of the Press , and Bernard Crick published it , together with his own introduction , in The Times Literary Supplement on 15 September 1972 as How the essay came to be written .",
+        "entity": [
+            "Ian Angus",
+            "The Freedom of the Press",
+            "Bernard Crick",
+            "The Times Literary Supplement",
+            "How the essay came to be written"
+        ],
+        "category": [
+            "scholar",
+            "non-fiction",
+            "scholar",
+            "media",
+            "non-fiction"
+        ]
+    },
+    "sentence77": {
+        "sentence": "\"Sapiens: A Brief History of Humankind\" by Yuval Noah Harari examines the history and evolution of our species.",
+        "entity": [
+            "Sapiens: A Brief History of Humankind",
+            "Yuval Noah Harari"
+        ],
+        "category": [
+            "non-fiction",
+            "author"
+        ]
+    },
+    "sentence78": {
+        "sentence": "Artists and celebrities such as Woody Allen , Almodovar , Michael Jackson , Madonna , Pavarotti , Martin Scorsese , Fellini , Pee-Wee Herman , and Nabokov are celebrated and derided .",
+        "entity": [
+            "Woody Allen",
+            "Almodovar",
+            "Michael Jackson",
+            "Madonna",
+            "Pavarotti",
+            "Martin Scorsese",
+            "Fellini",
+            "Pee-Wee Herman",
+            "Nabokov"
+        ],
+        "category": [
+            "director",
+            "director",
+            "musician",
+            "musician",
+            "musician",
+            "director",
+            "director",
+            "actor",
+            "author"
+        ]
+    },
+    "sentence79": {
+        "sentence": "** Bathavon Rural District , Long Ashton Rural District , part of Axbridge Rural District and part of Clutton Rural District .",
+        "entity": [
+            "Bathavon Rural District",
+            "Long Ashton Rural District",
+            "Axbridge Rural District",
+            "Clutton Rural District"
+        ],
+        "category": [
+            "district",
+            "district",
+            "district",
+            "district"
+        ]
+    },
+    "sentence80": {
+        "sentence": "It was originally commissioned in 1991 by Charles Saatchi , who sold it in 2004 , to Steven A. Cohen for an undisclosed amount , widely reported to have been $ 8 million .",
+        "entity": [
+            "Charles Saatchi",
+            "Steven A. Cohen"
+        ],
+        "category": [
+            "business executive",
+            "business executive"
+        ]
+    },
+    "sentence81": {
+        "sentence": "The cell theory states that all living organisms are composed of cells, which are the basic units of life.",
+        "entity": [
+            "cell theory",
+            "cells"
+        ],
+        "category": [
+            "biological theory",
+            "other biological entity"
+        ]
+    },
+    "sentence82": {
+        "sentence": "It was founded by Herbert E. Balch in 1893 to display his collection of local artefacts and memorabilia , and further exhibits have been added since .",
+        "entity": [
+            "Herbert E. Balch"
+        ],
+        "category": [
+            "other person"
+        ]
+    },
+    "sentence83": {
+        "sentence": "On 30 July she steamed to Charleston , South Carolina , where she decommissioned 14 October 1955 , and entered the Atlantic Reserve Fleet .",
+        "entity": [
+            "Charleston",
+            "South Carolina",
+            "Atlantic Reserve Fleet"
+        ],
+        "category": [
+            "city",
+            "state or province",
+            "political/military"
+        ]
+    },
+    "sentence84": {
+        "sentence": "A defibrillator is a life-saving device that delivers an electric shock to restore a normal heartbeat during cardiac arrest.",
+        "entity": [
+            "defibrillator",
+            "heartbeat",
+            "cardiac arrest"
+        ],
+        "category": [
+            "other medical entity",
+            "other medical entity",
+            "disease"
+        ]
+    },
+    "sentence85": {
+        "sentence": "The Muslim religious group observes the five pillars of Islam, including daily prayers and fasting during Ramadan.",
+        "entity": [
+            "Muslim",
+            "Islam",
+            "Ramadan"
+        ],
+        "category": [
+            "religious group",
+            "religious group",
+            "other event"
+        ]
+    },
+    "sentence86": {
+        "sentence": "He served as United States Ambassador to Morocco from 1981 to 1985 , and as Chief of Protocol of the United States from 1989 to 1991 .",
+        "entity": [
+            "United States",
+            "Morocco",
+            "Chief of Protocol of the United States"
+        ],
+        "category": [
+            "country",
+            "country",
+            "other person"
+        ]
+    },
+    "sentence87": {
+        "sentence": "Optimization techniques of operations research such as linear programming or dynamic programming are often impractical for large scale software engineering problems because of their computational complexity .",
+        "entity": [
+            "Optimization",
+            "operations research",
+            "linear programming",
+            "dynamic programming",
+            "software engineering",
+            "computational complexity"
+        ],
+        "category": [
+            "discipline",
+            "discipline",
+            "algorithm",
+            "algorithm",
+            "discipline",
+            "metrics"
+        ]
+    },
+    "sentence88": {
+        "sentence": "Kilwinning Abbey was being sacked and progressively demolished at this time and stonework may have been removed to build this doorway and also used for the building of the rest of the structure .",
+        "entity": [
+            "Kilwinning Abbey"
+        ],
+        "category": [
+            "landmark"
+        ]
+    },
+    "sentence89": {
+        "sentence": "In the laboratory of the First Affiliated Hospital of Zhejiang University School of Medicine, researchers are conducting cutting-edge research on early cancer diagnosis, hoping to break through existing diagnostic bottlenecks.",
+        "entity": [
+            "First Affiliated Hospital of Zhejiang University School of Medicine",
+            "laboratory",
+            "researchers",
+            "cancer diagnosis"
+        ],
+        "category": [
+            "hospital",
+            "other facility",
+            "other person",
+            "medical theory"
+        ]
+    },
+    "sentence90": {
+        "sentence": "Ceres , 2 Pallas , 3 Juno and 4 Vesta lost their planet status after the discovery of many other asteroid s .",
+        "entity": [
+            "Ceres",
+            "2 Pallas",
+            "3 Juno",
+            "4 Vesta"
+        ],
+        "category": [
+            "astronomical object",
+            "astronomical object",
+            "astronomical object",
+            "astronomical object"
+        ]
+    },
+    "sentence91": {
+        "sentence": "At the 2001 Italian general election the Greens formed a joint list with the Italian Democratic Socialists ( SDI ) : The Sunflower .",
+        "entity": [
+            "2001 Italian general election",
+            "Greens",
+            "Italian Democratic Socialists",
+            "SDI",
+            "The Sunflower"
+        ],
+        "category": [
+            "political/military event",
+            "political/military",
+            "political/military",
+            "political/military",
+            "political/military"
+        ]
+    },
+    "sentence92": {
+        "sentence": "China 's second largest telecoms operator Unicom already has a mandate from the central government to establish 15 million new phone lines by the year 2000 , which will necessitate new trunk line systems and local distribution networks .",
+        "entity": [
+            "China",
+            "Unicom"
+        ],
+        "category": [
+            "country",
+            "company"
+        ]
+    },
+    "sentence93": {
+        "sentence": "( for logistic regression ) .",
+        "entity": [
+            "logistic regression"
+        ],
+        "category": [
+            "algorithm"
+        ]
+    },
+    "sentence94": {
+        "sentence": "In a high-end apartment building near Wangjing SOHO in Beijing, young white-collar workers are enjoying their leisure time after work, admiring the city night view outside the window.",
+        "entity": [
+            "high-end apartment building",
+            "Wangjing SOHO",
+            "Beijing"
+        ],
+        "category": [
+            "residential",
+            "landmark",
+            "city"
+        ]
+    },
+    "sentence95": {
+        "sentence": "He attended St. Charles College in Ellicott City , Maryland before furthering his studies in Rome at the Pontifical North American College in 1869 .",
+        "entity": [
+            "St. Charles College",
+            "Ellicott City",
+            "Maryland",
+            "Rome",
+            "Pontifical North American College"
+        ],
+        "category": [
+            "school",
+            "city",
+            "state or province",
+            "city",
+            "school"
+        ]
+    },
+    "sentence96": {
+        "sentence": "At Wimbledon , he reached the fourth round in 1953 when he was in the fifth set against in his compatriot Ken Rosewall , whom he had lost against previously .",
+        "entity": [
+            "Wimbledon",
+            "Ken Rosewall"
+        ],
+        "category": [
+            "sporting event",
+            "athlete"
+        ]
+    },
+    "sentence97": {
+        "sentence": "The species is solely known from the Latest Paleocene sediments exposed in the Matanuska River Valley , Matanuska-Susitna Borough , Alaska .",
+        "entity": [
+            "Latest Paleocene",
+            "Matanuska River Valley",
+            "Matanuska-Susitna Borough",
+            "Alaska"
+        ],
+        "category": [
+            "miscellaneous",
+            "other geographical entity",
+            "district",
+            "state or province"
+        ]
+    },
+    "sentence98": {
+        "sentence": "The September 11 Attacks (9/11) in 2001 led to significant changes in global security and the War on Terror.",
+        "entity": [
+            "September 11 Attacks",
+            "9/11",
+            "War on Terror"
+        ],
+        "category": [
+            "political/military event",
+            "political/military event",
+            "political/military event"
+        ]
+    },
+    "sentence99": {
+        "sentence": "A large view of London in 14 sheets is dated to 1544 , including a plan of Whitehall Palace , which he remodeled for Henry VIII of England .",
+        "entity": [
+            "London",
+            "Whitehall Palace",
+            "Henry VIII of England"
+        ],
+        "category": [
+            "city",
+            "landmark",
+            "other person"
+        ]
+    },
+    "sentence100": {
+        "sentence": "The package was delivered to 123 Elm Street, causing excitement as the new furniture finally arrived.",
+        "entity": [
+            "123 Elm Street"
+        ],
+        "category": [
+            "address"
+        ]
+    },
+    "sentence101": {
+        "sentence": "The tournament was staged on two artificial pitches at the complex of Dutch football club FC Utrecht .",
+        "entity": [
+            "Dutch",
+            "FC Utrecht"
+        ],
+        "category": [
+            "ethnic group",
+            "sports team/league"
+        ]
+    },
+    "sentence102": {
+        "sentence": "2. Claudia Mues ( Germany ) 18.80",
+        "entity": [
+            "Claudia Mues",
+            "Germany"
+        ],
+        "category": [
+            "athlete",
+            "country"
+        ]
+    },
+    "sentence103": {
+        "sentence": "The expatriate community is a social group of people living outside their home country, often forming close networks in foreign cities.",
+        "entity": [
+            "expatriate community"
+        ],
+        "category": [
+            "other social group"
+        ]
+    },
+    "sentence104": {
+        "sentence": "Fatigue is a symptom characterized by extreme tiredness, which can be caused by sleep deprivation, stress, or medical conditions.",
+        "entity": [
+            "Fatigue",
+            "sleep deprivation",
+            "stress",
+            "medical conditions"
+        ],
+        "category": [
+            "symptom",
+            "medical theory",
+            "medical theory",
+            "disease"
+        ]
+    },
+    "sentence105": {
+        "sentence": "The George Washington University is one of the largest United States private universities in terms of enrollment .",
+        "entity": [
+            "George Washington University",
+            "United States"
+        ],
+        "category": [
+            "school",
+            "country"
+        ]
+    },
+    "sentence106": {
+        "sentence": "In 2013 Blood Brothers was produced by the Harvest Rain Theatre Company of Brisbane playing the Cremorne Theatre August 3-17 : directed by Tim O 'Connor , the production featured Amanda Muggleton in the role of Mrs. Johnstone.2011 .",
+        "entity": [
+            "Blood Brothers",
+            "Harvest Rain Theatre Company",
+            "Brisbane",
+            "Cremorne Theatre",
+            "Tim O 'Connor",
+            "Amanda Muggleton",
+            "Mrs. Johnstone.2011"
+        ],
+        "category": [
+            "play",
+            "company",
+            "city",
+            "theater/cinema",
+            "director",
+            "actor",
+            "other figure"
+        ]
+    },
+    "sentence107": {
+        "sentence": "`` She reunited with producer William Orbit over a decade after their last collaboration .",
+        "entity": [
+            "William Orbit"
+        ],
+        "category": [
+            "musician"
+        ]
+    },
+    "sentence108": {
+        "sentence": "At the business hall of Bank of China Beijing Branch, customers are handling various financial transactions, and tellers are professionally answering their questions.",
+        "entity": [
+            "Bank of China Beijing Branch",
+            "business hall",
+            "customers",
+            "tellers",
+            "financial transactions"
+        ],
+        "category": [
+            "bank",
+            "other facility",
+            "other person",
+            "other person",
+            "other event"
+        ]
+    },
+    "sentence109": {
+        "sentence": "At Beijing South Station, passengers are waiting in the waiting hall for the upcoming high-speed train, preparing to start their journey.",
+        "entity": [
+            "Beijing South Station"
+        ],
+        "category": [
+            "station"
+        ]
+    },
+    "sentence110": {
+        "sentence": "In Oakland , Dave Telgheder scattered seven hits over eight innings and Mark McGwire hit his major-league leading 45th homer and drove in three runs as the Athetlics blanked the Boston Red Sox 7-0 .",
+        "entity": [
+            "Oakland",
+            "Dave Telgheder",
+            "Mark McGwire",
+            "Athetlics",
+            "Boston Red Sox"
+        ],
+        "category": [
+            "city",
+            "athlete",
+            "athlete",
+            "sports team/league",
+            "sports team/league"
+        ]
+    },
+    "sentence111": {
+        "sentence": "He came to California via the Central American isthmus in 1851 , at the age of twenty-two .",
+        "entity": [
+            "California",
+            "Central American isthmus"
+        ],
+        "category": [
+            "state or province",
+            "region"
+        ]
+    },
+    "sentence112": {
+        "sentence": "alt=A view of a long bridge over water : a number of cars are visible in the left hand lane",
+        "entity": [],
+        "category": []
+    },
+    "sentence113": {
+        "sentence": "Novels and series such as the Cornelius Quartet , Mother London , King of the City , the Pyat Quartet and the short story collection London Bone have established him in the eyes of critics such as Iain Sinclair , Peter Ackroyd and Allan Massie in publications including The Times Literary Supplement and the London Review of Books as a major contemporary literary novelist .",
+        "entity": [
+            "Novels",
+            "series",
+            "Cornelius Quartet",
+            "Mother London",
+            "King of the City",
+            "Pyat Quartet",
+            "short story",
+            "London Bone",
+            "Iain Sinclair",
+            "Peter Ackroyd",
+            "Allan Massie",
+            "The Times Literary Supplement",
+            "London Review of Books"
+        ],
+        "category": [
+            "literature genre",
+            "literature genre",
+            "fiction",
+            "fiction",
+            "fiction",
+            "fiction",
+            "fiction",
+            "fiction",
+            "author",
+            "author",
+            "author",
+            "non-fiction",
+            "non-fiction"
+        ]
+    },
+    "sentence114": {
+        "sentence": "In the power plant of the Three Gorges Dam, huge hydroelectric generating units are operating at high speed, converting the water energy of the Yangtze River into clean electricity and supplying it to various parts of the country.",
+        "entity": [
+            "Three Gorges Dam",
+            "Yangtze River"
+        ],
+        "category": [
+            "energy",
+            "water body"
+        ]
+    },
+    "sentence115": {
+        "sentence": "In this position he became an educator , and his students included Gottfried Heinrich Stölzel .",
+        "entity": [
+            "Gottfried Heinrich Stölzel"
+        ],
+        "category": [
+            "scholar"
+        ]
+    },
+    "sentence116": {
+        "sentence": "Sherlock Holmes, the brilliant detective created by Arthur Conan Doyle, used his incredible powers of deduction to solve the most challenging mysteries.",
+        "entity": [
+            "Sherlock Holmes",
+            "Arthur Conan Doyle"
+        ],
+        "category": [
+            "other figure",
+            "author"
+        ]
+    },
+    "sentence117": {
+        "sentence": "Metformin is an oral medication used to control high blood sugar in people with type 2 diabetes.",
+        "entity": [
+            "Metformin",
+            "high blood sugar",
+            "type 2 diabetes"
+        ],
+        "category": [
+            "medication",
+            "symptom",
+            "disease"
+        ]
+    },
+    "sentence118": {
+        "sentence": "On the recommendation of Grimm , he was elected a corresponding member of the Royal Academy of Prussia in 1856 .",
+        "entity": [
+            "Grimm",
+            "Royal Academy of Prussia"
+        ],
+        "category": [
+            "other person",
+            "other commercial organization"
+        ]
+    },
+    "sentence119": {
+        "sentence": "Rocks and Honey was released in 2013 and features the single Believe in Me which she performed representing the United Kingdom at the Eurovision Song Contest 2013 in Malmö , Sweden .",
+        "entity": [
+            "Rocks and Honey",
+            "Believe in Me",
+            "United Kingdom",
+            "Eurovision Song Contest 2013",
+            "Malmö",
+            "Sweden"
+        ],
+        "category": [
+            "album",
+            "song",
+            "country",
+            "other event",
+            "city",
+            "country"
+        ]
+    },
+    "sentence120": {
+        "sentence": "The Heisman Trophy is awarded annually to the most outstanding player in college football in the United States.",
+        "entity": [
+            "Heisman Trophy",
+            "United States"
+        ],
+        "category": [
+            "sports award",
+            "country"
+        ]
+    },
+    "sentence121": {
+        "sentence": "Pepper spray is a common self-defense weapon used by civilians.",
+        "entity": [
+            "Pepper spray"
+        ],
+        "category": [
+            "other weapon"
+        ]
+    },
+    "sentence122": {
+        "sentence": "The third album , titled Spark '' was released in Norway , Denmark , Sweden , Finland on 18 November 2011 and Germany , Austria , Switzerland on 16 December 2011 .",
+        "entity": [
+            "Spark",
+            "Norway",
+            "Denmark",
+            "Sweden",
+            "Finland",
+            "Germany",
+            "Austria",
+            "Switzerland"
+        ],
+        "category": [
+            "album",
+            "country",
+            "country",
+            "country",
+            "country",
+            "country",
+            "country",
+            "country"
+        ]
+    },
+    "sentence123": {
+        "sentence": "The café serves a variety of iced teas, but the peach flavor is the most popular.",
+        "entity": [
+            "iced teas",
+            "peach flavor"
+        ],
+        "category": [
+            "beverages",
+            "miscellaneous"
+        ]
+    },
+    "sentence124": {
+        "sentence": "At UCSD , Norman was a founder of the Institute for Cognitive Science and one of the organizers of the Cognitive Science Society ( along with Roger Schank , Allan M. Collins , and others ) , which held its first meeting at the UCSD campus in 1979 .",
+        "entity": [
+            "UCSD",
+            "Norman",
+            "the Institute for Cognitive Science",
+            "Cognitive Science Society",
+            "Roger Schank",
+            "Allan M. Collins",
+            "UCSD"
+        ],
+        "category": [
+            "school",
+            "scholar",
+            "educational and research",
+            "educational and research",
+            "scholar",
+            "scholar",
+            "school"
+        ]
+    },
+    "sentence125": {
+        "sentence": "Those parties are : the Liberal Democratic Party ( Partido Liberal Democrático , observer Liberal International ) , the Democratic Solidarity Party ( Partido Solidaridad Democrática , observer Liberal International ) and the illegal Cuban Liberal Movement ( Movimiento Liberal Cubano ) .",
+        "entity": [
+            "Liberal Democratic Party",
+            "Partido Liberal Democrático",
+            "Liberal International",
+            "Democratic Solidarity Party",
+            "Partido Solidaridad Democrática",
+            "Liberal International",
+            "Cuban Liberal Movement",
+            "Movimiento Liberal Cubano"
+        ],
+        "category": [
+            "political/military",
+            "political/military",
+            "political/military",
+            "political/military",
+            "political/military",
+            "political/military",
+            "political/military event",
+            "political/military event"
+        ]
+    },
+    "sentence126": {
+        "sentence": "In January 1888 , he was appointed to the New York Court of Appeals to fill the vacancy caused by the death of Charles A. Rapallo .",
+        "entity": [
+            "New York Court of Appeals",
+            "Charles A. Rapallo"
+        ],
+        "category": [
+            "government facility",
+            "other person"
+        ]
+    },
+    "sentence127": {
+        "sentence": "A news programme , `` Newsbeat `` , was added to the schedules in response to criticisms that RTÉ 2fm was not fulfilling its remit as a public service broadcaster .",
+        "entity": [
+            "Newsbeat",
+            "RTÉ 2fm"
+        ],
+        "category": [
+            "broadcast program",
+            "media"
+        ]
+    },
+    "sentence128": {
+        "sentence": "A photon is a particle of light that carries energy, playing a crucial role in electromagnetic radiation and quantum physics.",
+        "entity": [
+            "photon",
+            "light",
+            "energy",
+            "electromagnetic radiation",
+            "quantum physics"
+        ],
+        "category": [
+            "other physical entity",
+            "physical phenomenon",
+            "other physical entity",
+            "physical phenomenon",
+            "physical theory"
+        ]
+    },
+    "sentence129": {
+        "sentence": "In the ticket hall of Guangzhou East Station, staff are patiently answering questions about tickets and itineraries for passengers.",
+        "entity": [
+            "Guangzhou East Station"
+        ],
+        "category": [
+            "station"
+        ]
+    },
+    "sentence130": {
+        "sentence": "Several albums that continued this style , which had come to be known as technical thrash metal , were released in 1991 , such as Overkill 's Horrorscope , Heathen ' s Victims of Deception , Dark Angel ' s Time Does Not Heal , Sepultura 's Arise , and Coroner 's Mental Vortex .",
+        "entity": [
+            "technical thrash metal",
+            "Overkill",
+            "Horrorscope",
+            "Heathen",
+            "Victims of Deception",
+            "Dark Angel",
+            "Time Does Not Heal",
+            "Sepultura",
+            "Arise",
+            "Coroner",
+            "Mental Vortex"
+        ],
+        "category": [
+            "music genre",
+            "band",
+            "album",
+            "band",
+            "album",
+            "band",
+            "album",
+            "band",
+            "album",
+            "band",
+            "album"
+        ]
+    },
+    "sentence131": {
+        "sentence": "The counts of TP , TN , FP , and FN are usually kept on a table known as the confusion matrix .",
+        "entity": [
+            "TP",
+            "TN",
+            "FP",
+            "FN",
+            "confusion matrix"
+        ],
+        "category": [
+            "metrics",
+            "metrics",
+            "metrics",
+            "metrics",
+            "metrics"
+        ]
+    },
+    "sentence132": {
+        "sentence": "Improved maximum likelihood method ( IMLM ) is a combination of two MLM ( maximum likelihood ) estimators .",
+        "entity": [
+            "Improved maximum likelihood method",
+            "IMLM",
+            "MLM",
+            "maximum likelihood"
+        ],
+        "category": [
+            "algorithm",
+            "algorithm",
+            "algorithm",
+            "algorithm"
+        ]
+    },
+    "sentence133": {
+        "sentence": "Oxidation-reduction (redox) reactions involve the transfer of electrons between substances, essential in processes like respiration.",
+        "entity": [
+            "Oxidation-reduction",
+            "redox reactions",
+            "respiration"
+        ],
+        "category": [
+            "reaction",
+            "reaction",
+            "biological theory"
+        ]
+    },
+    "sentence134": {
+        "sentence": "Khaniyara , Dharamsala affiliated with Himachal Pradesh University lies on Lesser Himalaya .",
+        "entity": [
+            "Khaniyara",
+            "Dharamsala",
+            "Himachal Pradesh University",
+            "Lesser Himalaya"
+        ],
+        "category": [
+            "city",
+            "city",
+            "school",
+            "mountain"
+        ]
+    },
+    "sentence135": {
+        "sentence": "Mazowiecki remained a member of the Sejm until 1971 , serving his 1965 Polish legislative election , 1969 Polish legislative election and 1972 Polish legislative election as a member of the Catholic party .",
+        "entity": [
+            "Mazowiecki",
+            "Sejm",
+            "1965 Polish legislative election",
+            "1969 Polish legislative election",
+            "1972 Polish legislative election",
+            "Catholic party"
+        ],
+        "category": [
+            "politician",
+            "political/military",
+            "political/military event",
+            "political/military event",
+            "political/military event",
+            "political/military"
+        ]
+    },
+    "sentence136": {
+        "sentence": "The production did consultation and post-show talkbacks with Independent Jewish Voices .",
+        "entity": [
+            "Independent Jewish Voices"
+        ],
+        "category": [
+            "other non-commercial organization"
+        ]
+    },
+    "sentence137": {
+        "sentence": "It was created on 28 January 1831 for Standish O'Grady , Attorney-General for Ireland and Lord Chief Baron of the Exchequer for Ireland .",
+        "entity": [
+            "Standish O'Grady",
+            "Attorney-General for Ireland",
+            "Lord Chief Baron of the Exchequer for Ireland"
+        ],
+        "category": [
+            "politician",
+            "miscellaneous",
+            "miscellaneous"
+        ]
+    },
+    "sentence138": {
+        "sentence": "While funding for the project has been identified as of December 2011 work had not begun , though that at Little Ferry Circle was underway .",
+        "entity": [
+            "Little Ferry Circle"
+        ],
+        "category": [
+            "other geographical entity"
+        ]
+    },
+    "sentence139": {
+        "sentence": "The painter and diarist Joseph Farington recorded that this was a result of the poor engravings :",
+        "entity": [
+            "Joseph Farington"
+        ],
+        "category": [
+            "artist"
+        ]
+    },
+    "sentence140": {
+        "sentence": "Meanwhile , he continued to build instruments for artists such as These Are Powers , Women and Kate Nash .",
+        "entity": [
+            "These Are Powers",
+            "Women",
+            "Kate Nash"
+        ],
+        "category": [
+            "band",
+            "band",
+            "musician"
+        ]
+    },
+    "sentence141": {
+        "sentence": "Military satellites operate in space orbit, providing real-time communication and intelligence support to ground forces and playing a critical role in modern warfare.",
+        "entity": [
+            "Military satellites"
+        ],
+        "category": [
+            "other technology"
+        ]
+    },
+    "sentence142": {
+        "sentence": "Its boundaries include Beachmere , Bribie Island , Burpengary , Dakabin , Donnybrook , Kallangur , Ningi , Toorbul , Caboolture , Morayfield , Wamuran Woodford and Narangba .",
+        "entity": [
+            "Beachmere",
+            "Bribie Island",
+            "Burpengary",
+            "Dakabin",
+            "Donnybrook",
+            "Kallangur",
+            "Ningi",
+            "Toorbul",
+            "Caboolture",
+            "Morayfield",
+            "Wamuran Woodford",
+            "Narangba"
+        ],
+        "category": [
+            "city",
+            "island",
+            "city",
+            "city",
+            "city",
+            "city",
+            "city",
+            "city",
+            "city",
+            "city",
+            "city",
+            "city"
+        ]
+    },
+    "sentence143": {
+        "sentence": "After returning to New York City in 1948 , he was hired by Show Business '' as an editor .",
+        "entity": [
+            "New York City",
+            "Show Business"
+        ],
+        "category": [
+            "city",
+            "media"
+        ]
+    },
+    "sentence144": {
+        "sentence": "At the entrance to the Gerasimov Institute of Cinematography in Moscow , there is a monument that includes statues of Tarkovsky , Gennady Shpalikov and Vasily Shukshin .",
+        "entity": [
+            "Gerasimov Institute of Cinematography",
+            "Moscow",
+            "Tarkovsky",
+            "Gennady Shpalikov",
+            "Vasily Shukshin"
+        ],
+        "category": [
+            "educational and research",
+            "city",
+            "author",
+            "author",
+            "author"
+        ]
+    },
+    "sentence145": {
+        "sentence": "The traffic accident occurred at the intersection of Xixi Road and Yugu Road.",
+        "entity": [
+            "the intersection of Xixi Road and Yugu Road"
+        ],
+        "category": [
+            "other address"
+        ]
+    },
+    "sentence146": {
+        "sentence": "Some of its elements , such as certain choices in its ordering , reflect features particular to the Tang dynasty , but no conclusive proof of an actual date of composition has yet been found .",
+        "entity": [
+            "Tang dynasty"
+        ],
+        "category": [
+            "tradition"
+        ]
+    },
+    "sentence147": {
+        "sentence": "Vienna University of Economics and Business Administration , Chinese University of Hong Kong , Harvard University , Michigan State University",
+        "entity": [
+            "Vienna University of Economics and Business Administration",
+            "Chinese University of Hong Kong",
+            "Harvard University",
+            "Michigan State University"
+        ],
+        "category": [
+            "school",
+            "school",
+            "school",
+            "school"
+        ]
+    },
+    "sentence148": {
+        "sentence": "Governor of Georgia : David Brydie Mitchell ( Democratic-Republican ) ( until November 5 ) , Peter Early ( Democratic-Republican ) ( starting November 5 )",
+        "entity": [
+            "David Brydie Mitchell",
+            "Democratic-Republican",
+            "Peter Early"
+        ],
+        "category": [
+            "politician",
+            "political/military",
+            "politician"
+        ]
+    },
+    "sentence149": {
+        "sentence": "In the 2007 Swiss Council of States election a total of 147 votes were cast , of which 3 or about 2.0 % were invalid .",
+        "entity": [
+            "Swiss Council of States",
+            "2007 Swiss Council of States election"
+        ],
+        "category": [
+            "government facility",
+            "political/military event"
+        ]
+    },
+    "sentence150": {
+        "sentence": "According to EPTB Saône and Doubs , Lamarche-sur-Saône , Pontailler-sur-Saône and Vonges turn to the Saône , which then receives the waste .",
+        "entity": [
+            "Saône",
+            "Doubs",
+            "Lamarche-sur-Saône",
+            "Pontailler-sur-Saône",
+            "Vonges",
+            "Saône"
+        ],
+        "category": [
+            "water body",
+            "water body",
+            "water body",
+            "water body",
+            "water body",
+            "water body"
+        ]
+    },
+    "sentence151": {
+        "sentence": "It is currently under the direction of Nola A. Nāhulu as well as several assistant directors , accompanists , and various other instructors .",
+        "entity": [
+            "Nola A. Nāhulu"
+        ],
+        "category": [
+            "other person"
+        ]
+    },
+    "sentence152": {
+        "sentence": "Evaporation is a phenomenon where a liquid changes into a gas, such as water evaporating from a puddle on a hot day.",
+        "entity": [
+            "Evaporation",
+            "liquid",
+            "gas",
+            "water"
+        ],
+        "category": [
+            "physical phenomenon",
+            "other physical entity",
+            "other physical entity",
+            "compound"
+        ]
+    },
+    "sentence153": {
+        "sentence": "Jeans manufacturers are constantly innovating fabric technology and launching new styles of jeans that are more comfortable and elastic, meeting consumers' dual pursuit of comfort and fashion.",
+        "entity": [
+            "Jeans manufacturers",
+            "jeans"
+        ],
+        "category": [
+            "other commercial organization",
+            "clothes"
+        ]
+    },
+    "sentence154": {
+        "sentence": "Dmitry Chechulin , Vera Mukhina and others spoke against the proposal and it was soon dropped .",
+        "entity": [
+            "Dmitry Chechulin",
+            "Vera Mukhina"
+        ],
+        "category": [
+            "artist",
+            "artist"
+        ]
+    },
+    "sentence155": {
+        "sentence": "Bassist Bryan Beller stated , `` We ended up using our different influences to write for each other .",
+        "entity": [
+            "Bryan Beller"
+        ],
+        "category": [
+            "musician"
+        ]
+    },
+    "sentence156": {
+        "sentence": "It aired on MBC on Saturdays and Sundays 21:45 for 50 episodes beginning March 14 , 2015 .",
+        "entity": [
+            "MBC"
+        ],
+        "category": [
+            "media"
+        ]
+    },
+    "sentence157": {
+        "sentence": "She first appeared in ''Askani'Son '' 1 ( January , 1996 ) , though her true identity was revealed in Uncanny X-Men '' -1 ( July , 1997 ) .",
+        "entity": [
+            "Askani'Son",
+            "Uncanny X-Men"
+        ],
+        "category": [
+            "other art",
+            "other art"
+        ]
+    },
+    "sentence158": {
+        "sentence": "From 2009 to 2012 he served as Deputy of the LXI Legislature of the Mexican Congress representing San Luis Potosí .",
+        "entity": [
+            "Deputy of the LXI Legislature of the Mexican Congress",
+            "San Luis Potosí"
+        ],
+        "category": [
+            "political/military",
+            "state or province"
+        ]
+    },
+    "sentence159": {
+        "sentence": "He was claimed off waivers by the Minnesota Twins on April 17 , 2009 , replacing Philip Humber who was designated for assignment .",
+        "entity": [
+            "Minnesota Twins",
+            "Philip Humber"
+        ],
+        "category": [
+            "sports team/league",
+            "athlete"
+        ]
+    },
+    "sentence160": {
+        "sentence": "Christians form the largest religious group in the world, with denominations such as Catholic, Protestant, and Orthodox.",
+        "entity": [
+            "Christians",
+            "Catholic",
+            "Protestant",
+            "Orthodox"
+        ],
+        "category": [
+            "religious group",
+            "religious group",
+            "religious group",
+            "religious group"
+        ]
+    },
+    "sentence161": {
+        "sentence": "The album peaked at 22 on the ''Billboard '' 200 , their second top 25 in the bands existence .",
+        "entity": [
+            "Billboard 200"
+        ],
+        "category": [
+            "broadcast program"
+        ]
+    },
+    "sentence162": {
+        "sentence": "\"Game of Thrones,\" based on George R.R. Martin's novels, brought epic fantasy to television with its complex characters and political intrigue.",
+        "entity": [
+            "Game of Thrones",
+            "George R.R. Martin"
+        ],
+        "category": [
+            "broadcast program",
+            "author"
+        ]
+    },
+    "sentence163": {
+        "sentence": "The African elephant, the largest land mammal, faces threats from poaching and habitat loss, endangering the species.",
+        "entity": [
+            "African elephant"
+        ],
+        "category": [
+            "species"
+        ]
+    },
+    "sentence164": {
+        "sentence": "Chekhov has also influenced the work of Japanese playwrights including Shimizu Kunio , Yōji Sakate , and Ai Nagai .",
+        "entity": [
+            "Chekhov",
+            "Japanese",
+            "Shimizu Kunio",
+            "Yōji Sakate",
+            "Ai Nagai"
+        ],
+        "category": [
+            "author",
+            "ethnic group",
+            "author",
+            "author",
+            "author"
+        ]
+    },
+    "sentence165": {
+        "sentence": "The sightseeing cable car slowly climbs, taking tourists to the top of the mountain and allowing them to enjoy the magnificent natural scenery in the air, becoming a landmark transportation tool of the tourist destination.",
+        "entity": [
+            "sightseeing cable car",
+            "mountain"
+        ],
+        "category": [
+            "other vehicle",
+            "mountain"
+        ]
+    },
+    "sentence166": {
+        "sentence": "Chet Adams—Tackle—1939-1942 Cleveland Rams ; 1943 Green Bay Packers ; 1946-1948 Cleveland Browns ; 1949 Buffalo Bisons",
+        "entity": [
+            "Chet Adams",
+            "Cleveland Rams",
+            "Green Bay Packers",
+            "Cleveland Browns",
+            "Buffalo Bisons"
+        ],
+        "category": [
+            "athlete",
+            "sports team/league",
+            "sports team/league",
+            "sports team/league",
+            "sports team/league"
+        ]
+    },
+    "sentence167": {
+        "sentence": "He spent ten years at Tannadice , after which he joined Airdrie for a short time , before moving to St Johnstone in 1998 .",
+        "entity": [
+            "Tannadice",
+            "Airdrie",
+            "St Johnstone"
+        ],
+        "category": [
+            "sports facility",
+            "city",
+            "sports team/league"
+        ]
+    },
+    "sentence168": {
+        "sentence": "Leeson , the Northern",
+        "entity": [
+            "Leeson",
+            "Northern"
+        ],
+        "category": [
+            "actor",
+            "region"
+        ]
+    },
+    "sentence169": {
+        "sentence": "He subsequently returned to Dorset , working for Plesseys for 20 years before retiring ( in October 2006 he was living in Poole ) .",
+        "entity": [
+            "Dorset",
+            "Plesseys",
+            "Poole"
+        ],
+        "category": [
+            "state or province",
+            "company",
+            "city"
+        ]
+    },
+    "sentence170": {
+        "sentence": "Five of the matches were played in the Ericsson Globe in Stockholm , Sweden , and one match in the Helsinki Olympic Stadium in Helsinki , Finland .",
+        "entity": [
+            "Ericsson Globe",
+            "Stockholm",
+            "Sweden",
+            "Helsinki Olympic Stadium",
+            "Helsinki",
+            "Finland"
+        ],
+        "category": [
+            "sports facility",
+            "city",
+            "country",
+            "sports facility",
+            "city",
+            "country"
+        ]
+    },
+    "sentence171": {
+        "sentence": "A hydrate is a compound that contains water molecules within its crystal structure, such as copper(II) sulfate pentahydrate (CuSO4·5H2O).",
+        "entity": [
+            "hydrate",
+            "water molecules",
+            "copper(II) sulfate pentahydrate",
+            "CuSO4·5H2O"
+        ],
+        "category": [
+            "other chemical entity",
+            "other chemical entity",
+            "compound",
+            "compound"
+        ]
+    },
+    "sentence172": {
+        "sentence": "In 1929 , he began working as a freelance writer , from 1929 to 1933 , at the Frankfurter Zeitung '' , from 1932 to 1938 , at the Berliner Tageblatt '' , and , from 1933 to 1934 , at the Vossische Zeitung '' .",
+        "entity": [
+            "Frankfurter Zeitung",
+            "Berliner Tageblatt",
+            "Vossische Zeitung"
+        ],
+        "category": [
+            "media",
+            "media",
+            "media"
+        ]
+    },
+    "sentence173": {
+        "sentence": "On 1955-02-19 he was nominated by President of the United States Dwight D. Eisenhower for the position of Assistant Secretary of the Army ( Financial Management and Comptroller ) .",
+        "entity": [
+            "President of the United States",
+            "Dwight D. Eisenhower",
+            "Assistant Secretary of the Army"
+        ],
+        "category": [
+            "political/military",
+            "politician",
+            "political/military"
+        ]
+    },
+    "sentence174": {
+        "sentence": "Trade Associations, such as the American Petroleum Institute (API), represent the interests of businesses within a specific industry, offering guidance, advocacy, and standards.",
+        "entity": [
+            "Trade Associations",
+            "American Petroleum Institute",
+            "API"
+        ],
+        "category": [
+            "other commercial organization",
+            "other commercial organization",
+            "other commercial organization"
+        ]
+    },
+    "sentence175": {
+        "sentence": "Insulin is a crucial protein hormone that helps regulate blood glucose levels in the human body.",
+        "entity": [
+            "Insulin",
+            "blood glucose"
+        ],
+        "category": [
+            "protein",
+            "other biological entity"
+        ]
+    },
+    "sentence176": {
+        "sentence": "He attended Otago University , where he was a member of the Otago University Rowing Club .",
+        "entity": [
+            "Otago University",
+            "Otago University Rowing Club"
+        ],
+        "category": [
+            "school",
+            "sports team/league"
+        ]
+    },
+    "sentence177": {
+        "sentence": "She remained there until 21 March when she sailed to Hong Kong , calling at Pearl Harbor , Eniwetok , and Guam on her outward bound passage .",
+        "entity": [
+            "Hong Kong",
+            "Pearl Harbor",
+            "Eniwetok",
+            "Guam"
+        ],
+        "category": [
+            "city",
+            "port",
+            "other gpe",
+            "island"
+        ]
+    },
+    "sentence178": {
+        "sentence": "\"1984\" by George Orwell presents a dystopian world where Big Brother controls every aspect of citizens' lives.",
+        "entity": [
+            "1984",
+            "George Orwell",
+            "Big Brother"
+        ],
+        "category": [
+            "fiction",
+            "author",
+            "other figure"
+        ]
+    },
+    "sentence179": {
+        "sentence": "Vienna University of Economics and Business Administration , Chinese University of Hong Kong , Harvard University , Michigan State University",
+        "entity": [
+            "Vienna University of Economics and Business Administration",
+            "Chinese University of Hong Kong",
+            "Harvard University",
+            "Michigan State University"
+        ],
+        "category": [
+            "school",
+            "school",
+            "school",
+            "school"
+        ]
+    },
+    "sentence180": {
+        "sentence": "As a result , OI policy positions are often more socially left-wing than factions such as the Labour Students or Union of Jewish Students , but tend to avoid non-education policy areas prioritised by Student Left Network or Liberation Left such as economic or foreign policy .",
+        "entity": [
+            "Labour Students",
+            "Union of Jewish Students",
+            "Student Left Network",
+            "Liberation Left"
+        ],
+        "category": [
+            "political/military",
+            "religious organization",
+            "political/military",
+            "political/military"
+        ]
+    },
+    "sentence181": {
+        "sentence": "He received 1,159 votes ( 3.33 % ) , finishing fifth against Action démocratique du Québec candidate Jean-François Gosselin .",
+        "entity": [
+            "Action démocratique du Québec",
+            "Jean-François Gosselin"
+        ],
+        "category": [
+            "political/military",
+            "politician"
+        ]
+    },
+    "sentence182": {
+        "sentence": "He said no date had been fixed yet for the start of price making in the 10-year contract , but the EOE had agreed to speak again to the participants in one to two weeks .",
+        "entity": [
+            "EOE"
+        ],
+        "category": [
+            "other organization"
+        ]
+    },
+    "sentence183": {
+        "sentence": "At the Foxconn factory in Dongguan, Guangdong, workers are assembling the latest smartphones on precision production lines, ensuring that every detail is flawless.",
+        "entity": [
+            "Foxconn factory",
+            "Dongguan",
+            "Guangdong"
+        ],
+        "category": [
+            "factory",
+            "city",
+            "state or province"
+        ]
+    },
+    "sentence184": {
+        "sentence": "Mandarin Chinese is the most spoken language in the world, with over a billion native speakers.",
+        "entity": [
+            "Mandarin Chinese"
+        ],
+        "category": [
+            "language"
+        ]
+    },
+    "sentence185": {
+        "sentence": "But Terri Nunn apparently took the singular route of defecting from Berlin to pursue an identity crisis .",
+        "entity": [
+            "Terri Nunn",
+            "Berlin"
+        ],
+        "category": [
+            "musician",
+            "city"
+        ]
+    },
+    "sentence186": {
+        "sentence": "Java is a versatile, object-oriented programming language commonly used for building enterprise applications and Android apps.",
+        "entity": [
+            "Java",
+            "object-oriented programming",
+            "enterprise applications",
+            "Android apps"
+        ],
+        "category": [
+            "programlang",
+            "other computer science entity",
+            "software",
+            "software"
+        ]
+    },
+    "sentence187": {
+        "sentence": "\"The Last Supper\" by Leonardo da Vinci portrays Jesus and his disciples during their final meal together before his crucifixion.",
+        "entity": [
+            "The Last Supper",
+            "Leonardo da Vinci",
+            "Jesus"
+        ],
+        "category": [
+            "painting",
+            "artist",
+            "religious group"
+        ]
+    },
+    "sentence188": {
+        "sentence": "Federico Fellini , Burke and Waller , 12 His films have ranked in polls such as Cahiers du cinéma and Sight & Sound , which lists his 1963 film 8 ½ as the 10th-greatest film .",
+        "entity": [
+            "Federico Fellini",
+            "Burke",
+            "Waller",
+            "Cahiers du cinéma",
+            "Sight & Sound",
+            "8 ½"
+        ],
+        "category": [
+            "director",
+            "author",
+            "author",
+            "media",
+            "media",
+            "film"
+        ]
+    },
+    "sentence189": {
+        "sentence": "Plush toys are not only playmates for children, but also great helpers for adults to relieve stress. The soft touch and cute appearance give people warmth and comfort.",
+        "entity": [
+            "Plush toys"
+        ],
+        "category": [
+            "toys"
+        ]
+    },
+    "sentence190": {
+        "sentence": "Poseidon, god of the sea and earthquakes, used his trident to create powerful waves and storms that could sink even the mightiest ships.",
+        "entity": [
+            "Poseidon"
+        ],
+        "category": [
+            "mythological figure"
+        ]
+    },
+    "sentence191": {
+        "sentence": "The online book club community discusses literature and shares reading recommendations through virtual meetings.",
+        "entity": [
+            "online book club community"
+        ],
+        "category": [
+            "community"
+        ]
+    },
+    "sentence192": {
+        "sentence": "\"Back in Black\" by AC/DC is a hard rock masterpiece, marking a triumphant return after the death of their lead singer.",
+        "entity": [
+            "Back in Black",
+            "AC/DC"
+        ],
+        "category": [
+            "album",
+            "band"
+        ]
+    },
+    "sentence193": {
+        "sentence": "Five of the matches were played in the Ericsson Globe in Stockholm , Sweden , and one match in the Helsinki Olympic Stadium in Helsinki , Finland .",
+        "entity": [
+            "Ericsson Globe",
+            "Stockholm",
+            "Sweden",
+            "Helsinki Olympic Stadium",
+            "Helsinki",
+            "Finland"
+        ],
+        "category": [
+            "sports facility",
+            "city",
+            "country",
+            "sports facility",
+            "city",
+            "country"
+        ]
+    },
+    "sentence194": {
+        "sentence": "In the lobby of Guangzhou White Swan Hotel, tourists from all over the world are checking in to experience this historic five-star hotel.",
+        "entity": [
+            "Guangzhou White Swan Hotel",
+            "lobby",
+            "tourists"
+        ],
+        "category": [
+            "hotel",
+            "other facility",
+            "other person"
+        ]
+    },
+    "sentence195": {
+        "sentence": "The scientists found homologous recombination-mediated alteration in HBB and Glucose-6-phosphate dehydrogenase .",
+        "entity": [
+            "homologous recombination-mediated alteration",
+            "HBB",
+            "Glucose-6-phosphate dehydrogenase"
+        ],
+        "category": [
+            "other biological entity",
+            "other biological entity",
+            "other biological entity"
+        ]
+    },
+    "sentence196": {
+        "sentence": "Ra was worshipped as the sun god in ancient Egyptian religion.",
+        "entity": [
+            "Ra",
+            "ancient Egyptian religion"
+        ],
+        "category": [
+            "god",
+            "miscellaneous"
+        ]
+    },
+    "sentence197": {
+        "sentence": "There Gilliam served as a principal for most of his career .",
+        "entity": [
+            "Gilliam"
+        ],
+        "category": [
+            "other person"
+        ]
+    },
+    "sentence198": {
+        "sentence": "Conversely , many Indo-Fijian supporters of the National Federation Party ( NFP ) in the 2001 Fijian general election may not have been aware that votes for NFP candidates , all of whom lost , were to be transferred to the indigenous-dominated Soqosoqo Duavata ni Lewenivanua ( SDL ) .",
+        "entity": [
+            "Indo-Fijian",
+            "National Federation Party",
+            "NFP",
+            "2001 Fijian general election",
+            "NFP",
+            "Soqosoqo Duavata ni Lewenivanua",
+            "SDL"
+        ],
+        "category": [
+            "ethnic group",
+            "political/military",
+            "political/military",
+            "political/military event",
+            "political/military",
+            "political/military",
+            "political/military"
+        ]
+    },
+    "sentence199": {
+        "sentence": "Feminist groups work together to promote gender equality and women's rights in various sectors of society.",
+        "entity": [
+            "Feminist groups"
+        ],
+        "category": [
+            "other social group"
+        ]
+    },
+    "sentence200": {
+        "sentence": "In 1922 , Rohrbach was hooked up to the Baumholder district power station , although electricity was , given the financial difficulties at that time , quite dear .",
+        "entity": [
+            "Rohrbach",
+            "Baumholder district power station"
+        ],
+        "category": [
+            "company",
+            "energy"
+        ]
+    },
+    "sentence201": {
+        "sentence": "A theorem is a proven scientific statement within mathematics, established through logical reasoning and rigorous proofs.",
+        "entity": [
+            "theorem",
+            "mathematics"
+        ],
+        "category": [
+            "other scientific entity",
+            "discipline"
+        ]
+    },
+    "sentence202": {
+        "sentence": "\"Super Mario Bros.\" revolutionized platform gaming with its iconic character, challenging levels, and memorable music.",
+        "entity": [
+            "Super Mario Bros."
+        ],
+        "category": [
+            "game"
+        ]
+    },
+    "sentence203": {
+        "sentence": "At Yangshan Deepwater Port in Shanghai, huge container ships are loading and unloading goods, and port workers are busy operating advanced automation equipment.",
+        "entity": [
+            "Yangshan Deepwater Port",
+            "Shanghai"
+        ],
+        "category": [
+            "port",
+            "city"
+        ]
+    },
+    "sentence204": {
+        "sentence": "There have been many tenants , including The Sunday Times '' and The Daily News '' .",
+        "entity": [
+            "The Sunday Times",
+            "The Daily News"
+        ],
+        "category": [
+            "media",
+            "media"
+        ]
+    },
+    "sentence205": {
+        "sentence": "From there , it enters Spencer County and passes through Taylorsville , Kentucky before briefly continuing into Shelby County and then passing into Anderson County .",
+        "entity": [
+            "Spencer County",
+            "Taylorsville",
+            "Kentucky",
+            "Shelby County",
+            "Anderson County"
+        ],
+        "category": [
+            "district",
+            "city",
+            "state or province",
+            "district",
+            "district"
+        ]
+    },
+    "sentence206": {
+        "sentence": "A black hole, formed from a collapsed star, has such strong gravitational forces that nothing, not even light, can escape it.",
+        "entity": [
+            "black hole",
+            "star",
+            "gravitational forces",
+            "light"
+        ],
+        "category": [
+            "astronomical object",
+            "astronomical object",
+            "physical phenomenon",
+            "physical phenomenon"
+        ]
+    },
+    "sentence207": {
+        "sentence": "In the space exploration exhibition hall of the Shanghai Science and Technology Museum, children excitedly experience simulated astronaut training and feel the charm of space exploration.",
+        "entity": [
+            "Shanghai Science and Technology Museum",
+            "space exploration exhibition hall",
+            "simulated astronaut training",
+            "space exploration"
+        ],
+        "category": [
+            "museum",
+            "other facility",
+            "other event",
+            "other scientific entity"
+        ]
+    },
+    "sentence208": {
+        "sentence": "Returning to Norfolk , Virginia , 1 April 1946 , ''Calamares '' was decommissioned at Baltimore , Maryland , 25 April 1946 , and returned to the War Shipping Administration .",
+        "entity": [
+            "Norfolk",
+            "Virginia",
+            "Calamares",
+            "Baltimore",
+            "Maryland",
+            "War Shipping Administration"
+        ],
+        "category": [
+            "city",
+            "state or province",
+            "water",
+            "city",
+            "state or province",
+            "government facility"
+        ]
+    },
+    "sentence209": {
+        "sentence": "In the Dim sum hall of Guangzhou Taotaoju Restaurant, diners are tasting all kinds of Cantonese Dim sum and experiencing the authentic Guangzhou morning tea culture.",
+        "entity": [
+            "Guangzhou Taotaoju Restaurant",
+            "Dim sum hall",
+            "Cantonese Dim sum",
+            "Guangzhou morning tea culture"
+        ],
+        "category": [
+            "restaurant",
+            "other facility",
+            "other food",
+            "tradition"
+        ]
+    },
+    "sentence210": {
+        "sentence": "NMF is an instance of nonnegative quadratic programming ( NQP ) , just like the support vector machine ( SVM ) .",
+        "entity": [
+            "NMF",
+            "nonnegative quadratic programming",
+            "NQP",
+            "support vector machine",
+            "SVM"
+        ],
+        "category": [
+            "algorithm",
+            "algorithm",
+            "algorithm",
+            "algorithm",
+            "algorithm"
+        ]
+    },
+    "sentence211": {
+        "sentence": "He was the founding director of the Smithsonian National Museum of the American Indian , retiring from the position in 2007 .",
+        "entity": [
+            "Smithsonian National Museum of the American Indian"
+        ],
+        "category": [
+            "museum"
+        ]
+    },
+    "sentence212": {
+        "sentence": "In the biopharmaceutical laboratory of Zhangjiang Science City in Shanghai, researchers are conducting preclinical trials of new drugs, striving to overcome difficult diseases.",
+        "entity": [
+            "biopharmaceutical laboratory",
+            "Zhangjiang Science City",
+            "Shanghai"
+        ],
+        "category": [
+            "other production facility",
+            "other gpe",
+            "city"
+        ]
+    },
+    "sentence213": {
+        "sentence": "Chinese New Year involves family gatherings, red envelopes, and fireworks to celebrate the Lunar New Year.",
+        "entity": [
+            "Chinese New Year",
+            "Lunar New Year"
+        ],
+        "category": [
+            "tradition",
+            "tradition"
+        ]
+    },
+    "sentence214": {
+        "sentence": "Tarkovsky was the recipient of several awards at the Cannes Film Festival throughout his career ( including the FIPRESCI prize , the Prize of the Ecumenical Jury , and the Grand Prix Spécial du Jury ) and winner of the Golden Lion award at the Venice Film Festival for his debut film Ivan 's Childhood .",
+        "entity": [
+            "Tarkovsky",
+            "Cannes Film Festival",
+            "FIPRESCI prize",
+            "Prize of the Ecumenical Jury",
+            "Grand Prix Spécial du Jury",
+            "Golden Lion award",
+            "Venice Film Festival",
+            "Ivan 's Childhood"
+        ],
+        "category": [
+            "director",
+            "business event",
+            "artistic award",
+            "artistic award",
+            "artistic award",
+            "artistic award",
+            "business event",
+            "film"
+        ]
+    },
+    "sentence215": {
+        "sentence": "Wikipedia is one of the most visited websites, providing free access to millions of articles on countless topics.",
+        "entity": [
+            "Wikipedia"
+        ],
+        "category": [
+            "website"
+        ]
+    },
+    "sentence216": {
+        "sentence": "'' Kingdom of England '' ' – ( House of York ) - Edward IV ( 1461–1470 and 1471–1483 )",
+        "entity": [
+            "Kingdom of England",
+            "House of York",
+            "Edward IV"
+        ],
+        "category": [
+            "country",
+            "miscellaneous",
+            "politician"
+        ]
+    },
+    "sentence217": {
+        "sentence": "The top is wooded but the look-out provides a superb panoramic view in all directions towards the Lusatian and Zittauer Mountains , the Lausitzer Bergland , the Landeskrone nearby Görlitz , the Jizera Mountains , the Krkonoše and the Ještěd .",
+        "entity": [
+            "Lusatian Mountains",
+            "Zittauer Mountains",
+            "Lausitzer Bergland",
+            "Landeskrone",
+            "Görlitz",
+            "Jizera Mountains",
+            "Krkonoše",
+            "Ještěd"
+        ],
+        "category": [
+            "mountain",
+            "mountain",
+            "other gpe",
+            "mountain",
+            "city",
+            "mountain",
+            "mountain",
+            "mountain"
+        ]
+    },
+    "sentence218": {
+        "sentence": "They also have achieved more commercial success with the 2007 album Paradise Lost '' and the 2011 album Iconoclast '' , which reached number 76 on the Billboard 200 .",
+        "entity": [
+            "Paradise Lost",
+            "Iconoclast",
+            "Billboard 200"
+        ],
+        "category": [
+            "album",
+            "album",
+            "miscellaneous"
+        ]
+    },
+    "sentence219": {
+        "sentence": "He represented Kent County in the Legislative Assembly of New Brunswick from 1869 to 1870 , from 1874 to 1882 and from 1895 to 1908 as a Liberal member .",
+        "entity": [
+            "Kent County",
+            "Legislative Assembly of New Brunswick",
+            "Liberal"
+        ],
+        "category": [
+            "district",
+            "government facility",
+            "political/military"
+        ]
+    },
+    "sentence220": {
+        "sentence": "Surrealism, pioneered by Salvador Dalí, explores dream-like and fantastical imagery that challenges reality and logic.",
+        "entity": [
+            "Surrealism",
+            "Salvador Dalí"
+        ],
+        "category": [
+            "visual art genre",
+            "artist"
+        ]
+    },
+    "sentence221": {
+        "sentence": "Google's AI-based image recognition software can identify objects and scenes with remarkable accuracy.",
+        "entity": [
+            "Google",
+            "AI-based image recognition software"
+        ],
+        "category": [
+            "company",
+            "ai"
+        ]
+    },
+    "sentence222": {
+        "sentence": "\"Waiting for Godot\" by Samuel Beckett is an absurdist play about two men waiting for a mysterious figure who never arrives.",
+        "entity": [
+            "Waiting for Godot",
+            "Samuel Beckett"
+        ],
+        "category": [
+            "play",
+            "author"
+        ]
+    },
+    "sentence223": {
+        "sentence": "The Madrid Manuscripts (Italian: Codici di Madrid) are the manuscripts of Leonardo da Vinci, namely Madrid Manuscripts I and II (I-Ms. 8937 i II-Ms. 8936), where I was created between 1490-99 and II was created between 1503-05.",
+        "entity": [
+            "Madrid Manuscripts",
+            "Leonardo da Vinci",
+            "Madrid Manuscripts I",
+            "Madrid Manuscripts II"
+        ],
+        "category": [
+            "other literature",
+            "artist",
+            "other literature",
+            "other literature"
+        ]
+    },
+    "sentence224": {
+        "sentence": "During the 20th century , many styles were influenced by the music of the United States giving rise to genres such as Latin pop , Latin rock , Latin jazz , hip hop , and reggaeton .",
+        "entity": [
+            "the United States",
+            "Latin pop",
+            "Latin rock",
+            "Latin jazz",
+            "hip hop",
+            "reggaeton"
+        ],
+        "category": [
+            "country",
+            "music genre",
+            "music genre",
+            "music genre",
+            "music genre",
+            "music genre"
+        ]
+    },
+    "sentence225": {
+        "sentence": "An electrocardiogram (ECG) records the electrical activity of the heart, helping to diagnose arrhythmias and other cardiac issues.",
+        "entity": [
+            "electrocardiogram",
+            "ECG",
+            "heart",
+            "arrhythmias",
+            "cardiac issues"
+        ],
+        "category": [
+            "other medical entity",
+            "other medical entity",
+            "other biological entity",
+            "disease",
+            "disease"
+        ]
+    },
+    "sentence226": {
+        "sentence": "After this , further actions were undertaken around Derna and Benghazi , before supporting the 18th Brigade 's attack on Giarabub in March .",
+        "entity": [
+            "Derna",
+            "Benghazi",
+            "18th Brigade",
+            "Giarabub"
+        ],
+        "category": [
+            "city",
+            "city",
+            "political/military",
+            "district"
+        ]
+    },
+    "sentence227": {
+        "sentence": "In 1946 the Society of Jesus was banned and the Franciscans were banned in 1947 .",
+        "entity": [
+            "Society of Jesus",
+            "Franciscans"
+        ],
+        "category": [
+            "religious organization",
+            "religious organization"
+        ]
+    },
+    "sentence228": {
+        "sentence": "The Buddhist Tzu Chi Foundation is a religious organization known for its charitable work and disaster response.",
+        "entity": [
+            "Buddhist Tzu Chi Foundation"
+        ],
+        "category": [
+            "religious organization"
+        ]
+    },
+    "sentence229": {
+        "sentence": "was introduced on July 16 , 2009 , and referred to the Committee on the Judiciary of the House of Representatives .",
+        "entity": [
+            "Committee on the Judiciary of the House of Representatives"
+        ],
+        "category": [
+            "political/military"
+        ]
+    },
+    "sentence230": {
+        "sentence": "It certainly was not relieved by his wife 's death , sometime in 1823 , shortly prior to his departure from Pennsylvania .",
+        "entity": [
+            "Pennsylvania"
+        ],
+        "category": [
+            "state or province"
+        ]
+    },
+    "sentence231": {
+        "sentence": "After German reunification the AdW was dissolved in December 1991 due to its controversial role in support of the East German regime .",
+        "entity": [
+            "German reunification",
+            "AdW",
+            "East German regime"
+        ],
+        "category": [
+            "political/military event",
+            "political/military",
+            "country"
+        ]
+    },
+    "sentence232": {
+        "sentence": "At the bicycle repair shop, technicians skillfully adjust the gearbox and brake system to ensure that every bicycle provides a safe and comfortable riding experience for riders.",
+        "entity": [
+            "bicycle repair shop",
+            "bicycle"
+        ],
+        "category": [
+            "other commercial facility",
+            "other vehicle"
+        ]
+    },
+    "sentence233": {
+        "sentence": "The first conclave was held following the death of Pope Alexander VI on August 18 , 1503 .",
+        "entity": [
+            "Pope Alexander VI"
+        ],
+        "category": [
+            "other person"
+        ]
+    },
+    "sentence234": {
+        "sentence": "The atomic theory states that all matter is composed of atoms, which are the basic units of chemical elements.",
+        "entity": [
+            "atomic theory",
+            "atoms",
+            "chemical elements"
+        ],
+        "category": [
+            "chemical theory",
+            "other chemical entity",
+            "element"
+        ]
+    },
+    "sentence235": {
+        "sentence": "Sine loco '' , a term used in bibliographies to indicate that the place of publication of a document is unknown",
+        "entity": [
+            "Sine loco"
+        ],
+        "category": [
+            "other scientific entity"
+        ]
+    },
+    "sentence236": {
+        "sentence": "Many of the early inhabitants attended the nearby Quaker Meeting House or Touro Synagogue .",
+        "entity": [
+            "Quaker Meeting House",
+            "Touro Synagogue"
+        ],
+        "category": [
+            "other public facility",
+            "other public facility"
+        ]
+    },
+    "sentence237": {
+        "sentence": "The Milky Way galaxy contains billions of stars, including our solar system, and is part of the larger universe.",
+        "entity": [
+            "Milky Way galaxy",
+            "stars",
+            "solar system",
+            "universe"
+        ],
+        "category": [
+            "astronomical object",
+            "astronomical object",
+            "astronomical object",
+            "astronomical object"
+        ]
+    },
+    "sentence238": {
+        "sentence": "The saxophonist of the jazz band improvises with passionate solos, filling the entire club with a rich and pleasant tone that immerses the audience.",
+        "entity": [
+            "saxophonist",
+            "jazz band",
+            "saxophone",
+            "club"
+        ],
+        "category": [
+            "other person",
+            "other commercial organization",
+            "musical instruments",
+            "other commercial facility"
+        ]
+    },
+    "sentence239": {
+        "sentence": "The Unionist Party ( , UP ) was a pre-apartheid South African political party , which contested elections to the Union of South Africa parliament from the 1910 South African general election until its merger into the South African Party just before the 1921 South African general election .",
+        "entity": [
+            "Unionist Party",
+            "UP",
+            "South African",
+            "Union of South Africa parliament",
+            "1910 South African general election",
+            "South African Party",
+            "1921 South African general election"
+        ],
+        "category": [
+            "political/military",
+            "political/military",
+            "ethnic group",
+            "political/military",
+            "political/military event",
+            "political/military",
+            "political/military event"
+        ]
+    },
+    "sentence240": {
+        "sentence": "The Hugo Award is a renowned literary award given for excellence in science fiction and fantasy writing.",
+        "entity": [
+            "Hugo Award"
+        ],
+        "category": [
+            "literary award"
+        ]
+    },
+    "sentence241": {
+        "sentence": "He became the chairman of the Communist Party district organization of North Jutland County in 1951 .",
+        "entity": [
+            "Communist Party",
+            "North Jutland County"
+        ],
+        "category": [
+            "political/military",
+            "state or province"
+        ]
+    },
+    "sentence242": {
+        "sentence": "He also published influential biographies of William Morris ( 1955 ) and ( posthumously ) William Blake ( 1993 ) and was a prolific journalist and essayist .",
+        "entity": [
+            "William Morris",
+            "William Blake"
+        ],
+        "category": [
+            "artist",
+            "artist"
+        ]
+    },
+    "sentence243": {
+        "sentence": "He was elected deputy for his home Corrèze ''département '' , a stronghold of the left .",
+        "entity": [
+            "Corrèze"
+        ],
+        "category": [
+            "region"
+        ]
+    },
+    "sentence244": {
+        "sentence": "284 Robert Allenby ( Australia ) 69 71 71 73 , Miguel Angel Martin ( Spain ) 75 70 71 68 ( Allenby won at first play-off hole )",
+        "entity": [
+            "Robert Allenby",
+            "Australia",
+            "Miguel Angel Martin",
+            "Spain",
+            "Allenby"
+        ],
+        "category": [
+            "athlete",
+            "country",
+            "athlete",
+            "country",
+            "athlete"
+        ]
+    },
+    "sentence245": {
+        "sentence": "At the Tesla Gigafactory in Shanghai, advanced robots are assembling electric vehicles on automated production lines, showcasing the future of modern manufacturing.",
+        "entity": [
+            "Tesla Gigafactory",
+            "Shanghai"
+        ],
+        "category": [
+            "factory",
+            "city"
+        ]
+    },
+    "sentence246": {
+        "sentence": "At Chengdu East Railway Station, a group of college students are bidding farewell to their family and friends who came to see them off, preparing to return to school and start a new semester.",
+        "entity": [
+            "Chengdu East Railway Station"
+        ],
+        "category": [
+            "station"
+        ]
+    },
+    "sentence247": {
+        "sentence": "Antarctica, the southernmost continent, is covered in ice and inhabited only by researchers and penguins.",
+        "entity": [
+            "Antarctica",
+            "penguins"
+        ],
+        "category": [
+            "continent",
+            "species"
+        ]
+    },
+    "sentence248": {
+        "sentence": "At the BOE Display Factory in Hefei, Anhui, technicians are inspecting the newly produced large-sized OLED panels in the clean room.",
+        "entity": [
+            "BOE Display Factory",
+            "Hefei",
+            "Anhui"
+        ],
+        "category": [
+            "factory",
+            "city",
+            "state or province"
+        ]
+    },
+    "sentence249": {
+        "sentence": "The total playing time covered three sides of an LP , so they decided to expand it into a double by including previously unreleased tracks from the sessions for the earlier albums Led Zeppelin III , Led Zeppelin IV and Houses of the Holy .",
+        "entity": [
+            "LP",
+            "Led Zeppelin III",
+            "Led Zeppelin IV",
+            "Houses of the Holy"
+        ],
+        "category": [
+            "other music",
+            "album",
+            "album",
+            "album"
+        ]
+    },
+    "sentence250": {
+        "sentence": "As of January 17 , 2009 , the song was at the top for 17 of the latest 19 weeks ( only to be interrupted for two weeks in November by Enrique Iglesias ' Lloro Por Ti ) .",
+        "entity": [
+            "Enrique Iglesias",
+            "Lloro Por Ti"
+        ],
+        "category": [
+            "musician",
+            "song"
+        ]
+    },
+    "sentence251": {
+        "sentence": "Madagascar is the fourth largest island in the world, home to rare animals like lemurs and chameleons.",
+        "entity": [
+            "Madagascar",
+            "lemurs",
+            "chameleons"
+        ],
+        "category": [
+            "island",
+            "species",
+            "species"
+        ]
+    },
+    "sentence252": {
+        "sentence": "At the Guangzhou Grand Theatre, a highly acclaimed musical is premiered, and the audience is moved by the actors' superb acting skills and moving vocals.",
+        "entity": [
+            "Guangzhou Grand Theatre",
+            "musical",
+            "actors"
+        ],
+        "category": [
+            "theater/cinema",
+            "other art",
+            "actor"
+        ]
+    },
+    "sentence253": {
+        "sentence": "The third vessel was the ill-fated Herald of Free Enterprise that capsized off the port of Zeebrugge in the late 1980s .",
+        "entity": [
+            "Herald of Free Enterprise",
+            "the port of Zeebrugge"
+        ],
+        "category": [
+            "water",
+            "port"
+        ]
+    },
+    "sentence254": {
+        "sentence": "It is found in Papua New Guinea , where it has been recorded from the D'Entrecasteaux Islands ( Goodenough Island ) .",
+        "entity": [
+            "Papua New Guinea",
+            "D'Entrecasteaux Islands",
+            "Goodenough Island"
+        ],
+        "category": [
+            "country",
+            "island",
+            "island"
+        ]
+    },
+    "sentence255": {
+        "sentence": "-- Bombay Commodities +91-22-265 9000",
+        "entity": [
+            "Bombay Commodities"
+        ],
+        "category": [
+            "company"
+        ]
+    },
+    "sentence256": {
+        "sentence": "In the aquarium of Atlantis Sanya, tourists are admiring various marine creatures and experiencing the unique marine theme of this resort hotel.",
+        "entity": [
+            "Atlantis Sanya",
+            "aquarium",
+            "marine creatures",
+            "resort hotel"
+        ],
+        "category": [
+            "hotel",
+            "other facility",
+            "species",
+            "hotel"
+        ]
+    },
+    "sentence257": {
+        "sentence": "Origami, the Japanese art of paper folding, transforms simple sheets into intricate shapes like cranes, flowers, and animals.",
+        "entity": [
+            "Origami",
+            "Japanese"
+        ],
+        "category": [
+            "other visual art",
+            "ethnic group"
+        ]
+    },
+    "sentence258": {
+        "sentence": "They also have achieved more commercial success with the 2007 album Paradise Lost '' and the 2011 album Iconoclast '' , which reached number 76 on the Billboard 200 .",
+        "entity": [
+            "Paradise Lost",
+            "Iconoclast",
+            "Billboard 200"
+        ],
+        "category": [
+            "album",
+            "album",
+            "broadcast program"
+        ]
+    },
+    "sentence259": {
+        "sentence": "He was a member of the Maine House of Representatives in 1862 , 1864 , 1866 and 1872 and was a delegate to the Republican National Convention in 1864 .",
+        "entity": [
+            "Maine House of Representatives",
+            "Republican National Convention"
+        ],
+        "category": [
+            "government facility",
+            "political/military event"
+        ]
+    },
+    "sentence260": {
+        "sentence": "\"Rumours\" by Fleetwood Mac became legendary for its intricate harmonies and the personal struggles it reflected.",
+        "entity": [
+            "Rumours",
+            "Fleetwood Mac"
+        ],
+        "category": [
+            "album",
+            "band"
+        ]
+    },
+    "sentence261": {
+        "sentence": "Two more singles were released to promote the album , namely `` Us Against the World '' and `` Something Right '' .",
+        "entity": [
+            "Us Against the World",
+            "Something Right"
+        ],
+        "category": [
+            "song",
+            "song"
+        ]
+    },
+    "sentence262": {
+        "sentence": "A firewall acts as a security barrier, monitoring and controlling incoming and outgoing network traffic based on predetermined rules.",
+        "entity": [
+            "firewall",
+            "network traffic"
+        ],
+        "category": [
+            "other computer science entity",
+            "other computer science entity"
+        ]
+    },
+    "sentence263": {
+        "sentence": "The matches took place in 5 different cities ( 4 in Germany and one in Switzerland ) with the final being played in Berlin .",
+        "entity": [
+            "Germany",
+            "Switzerland",
+            "Berlin"
+        ],
+        "category": [
+            "country",
+            "country",
+            "city"
+        ]
+    },
+    "sentence264": {
+        "sentence": "Initially envisioned as a double-album , tracks recorded during the same sessions as ''So Much ... '' were instead released as In Rape Fantasy and Terror Sex We Trust '' later that year .",
+        "entity": [
+            "So Much",
+            "In Rape Fantasy and Terror Sex We Trust"
+        ],
+        "category": [
+            "album",
+            "album"
+        ]
+    },
+    "sentence265": {
+        "sentence": "The former Singapore international was released by Home United at the end of the 2012 season and had been training with the Rams since the start of January .",
+        "entity": [
+            "Singapore",
+            "Home United",
+            "Rams"
+        ],
+        "category": [
+            "country",
+            "sports team/league",
+            "sports team/league"
+        ]
+    },
+    "sentence266": {
+        "sentence": "In the large-scale photovoltaic power station in Hami, Xinjiang, thousands of solar panels are absorbing sunlight, turning the desert into a green energy ocean.",
+        "entity": [
+            "large-scale photovoltaic power station",
+            "Hami",
+            "Xinjiang"
+        ],
+        "category": [
+            "energy",
+            "city",
+            "state or province"
+        ]
+    },
+    "sentence267": {
+        "sentence": "\"Hamlet\" by William Shakespeare is a timeless tragedy about revenge, madness, and the complexities of human nature.",
+        "entity": [
+            "Hamlet",
+            "William Shakespeare"
+        ],
+        "category": [
+            "play",
+            "author"
+        ]
+    },
+    "sentence268": {
+        "sentence": "In the 2010s , the alt-country genre saw an increase in its critical and commercial popularity , owing to the success of artists such as The Civil Wars , Chris Stapleton , Sturgill Simpson , Jason Isbell , Lydia Loveless and Margo Price .",
+        "entity": [
+            "alt-country genre",
+            "The Civil Wars",
+            "Chris Stapleton",
+            "Sturgill Simpson",
+            "Jason Isbell",
+            "Lydia Loveless",
+            "Margo Price"
+        ],
+        "category": [
+            "music genre",
+            "band",
+            "musician",
+            "musician",
+            "musician",
+            "band",
+            "musician"
+        ]
+    },
+    "sentence269": {
+        "sentence": "Vincent van Gogh's \"Starry Night\" captures the swirling beauty of the night sky over a sleepy village.",
+        "entity": [
+            "Vincent van Gogh",
+            "Starry Night"
+        ],
+        "category": [
+            "artist",
+            "painting"
+        ]
+    },
+    "sentence270": {
+        "sentence": "On 15 April 1889 , Wales were playing their British Home Championship match against Scotland at the Racecourse Ground .",
+        "entity": [
+            "Wales",
+            "British Home Championship",
+            "Scotland",
+            "Racecourse Ground"
+        ],
+        "category": [
+            "country",
+            "sporting event",
+            "country",
+            "sports facility"
+        ]
+    },
+    "sentence271": {
+        "sentence": "Sociology examines social behavior, institutions, and human interactions, helping to understand how societies function and change.",
+        "entity": [
+            "Sociology",
+            "social behavior",
+            "institutions",
+            "human interactions",
+            "societies"
+        ],
+        "category": [
+            "discipline",
+            "other scientific entity",
+            "other scientific entity",
+            "other scientific entity",
+            "other scientific entity"
+        ]
+    },
+    "sentence272": {
+        "sentence": "A few months later two planes , one of them named ''Atlântico '' , were sent by ship to Montevideo and flown to Buenos Aires .",
+        "entity": [
+            "Atlântico",
+            "Montevideo",
+            "Buenos Aires"
+        ],
+        "category": [
+            "air",
+            "city",
+            "city"
+        ]
+    },
+    "sentence273": {
+        "sentence": "He was co-chairman of the Australian Sports Commission with Ted Harris during the merger period 1987 and 1989 .",
+        "entity": [
+            "Australian Sports Commission",
+            "Ted Harris"
+        ],
+        "category": [
+            "other commercial organization",
+            "other person"
+        ]
+    },
+    "sentence274": {
+        "sentence": "The invitation card had 789 Pine Road written on it, indicating the location of the birthday party.",
+        "entity": [
+            "789 Pine Road"
+        ],
+        "category": [
+            "address"
+        ]
+    },
+    "sentence275": {
+        "sentence": "At the integrated circuit manufacturing plant in Beijing Yizhuang Economic and Technological Development Zone, workers dressed in dust-free clothing are conducting chip production in the clean room.",
+        "entity": [
+            "integrated circuit manufacturing plant",
+            "Beijing Yizhuang Economic and Technological Development Zone",
+            "Beijing"
+        ],
+        "category": [
+            "other production facility",
+            "other gpe",
+            "city"
+        ]
+    },
+    "sentence276": {
+        "sentence": "Lieberthal has consulted widely on Chinese and Asian affairs and has advised , among others , the U.S. Departments of State , Defense and Commerce , the World Bank , the Kettering Foundation , the Aspen Institute , the United Nations Association and corporations in the private sector .",
+        "entity": [
+            "Lieberthal",
+            "Chinese",
+            "Asian",
+            "U.S. Departments of State",
+            "Defense and Commerce",
+            "World Bank",
+            "Kettering Foundation",
+            "Aspen Institute",
+            "United Nations Association"
+        ],
+        "category": [
+            "politician",
+            "ethnic group",
+            "ethnic group",
+            "political/military",
+            "political/military",
+            "bank",
+            "educational and research",
+            "educational and research",
+            "political/military"
+        ]
+    },
+    "sentence277": {
+        "sentence": "Sharia Law is a system of Islamic law derived from the Quran and Hadith.",
+        "entity": [
+            "Sharia Law",
+            "Quran",
+            "Hadith"
+        ],
+        "category": [
+            "law",
+            "other literature",
+            "other literature"
+        ]
+    },
+    "sentence278": {
+        "sentence": "Arabic is a Semitic language with many dialects spoken across the Middle East and North Africa.",
+        "entity": [
+            "Arabic",
+            "Middle East",
+            "North Africa"
+        ],
+        "category": [
+            "language",
+            "region",
+            "region"
+        ]
+    },
+    "sentence279": {
+        "sentence": "The Chamber of Commerce serves as a commercial organization that supports local businesses, offering networking opportunities, advocacy, and resources for economic development.",
+        "entity": [
+            "Chamber of Commerce"
+        ],
+        "category": [
+            "other commercial organization"
+        ]
+    },
+    "sentence280": {
+        "sentence": "At the rehabilitation center of West China Hospital of Sichuan University, a physical therapist is guiding a patient who was involved in a car accident to undergo gait training to help him regain his walking ability.",
+        "entity": [
+            "West China Hospital of Sichuan University",
+            "rehabilitation center",
+            "physical therapist",
+            "patient",
+            "car accident",
+            "gait training"
+        ],
+        "category": [
+            "hospital",
+            "other facility",
+            "other person",
+            "other person",
+            "other event",
+            "other medical entity"
+        ]
+    },
+    "sentence281": {
+        "sentence": "In 1898 , he was made honorary academic at the Bolognese Academy of Fine Arts , and Resident Academic in 1905 .",
+        "entity": [
+            "Bolognese Academy of Fine Arts"
+        ],
+        "category": [
+            "school"
+        ]
+    },
+    "sentence282": {
+        "sentence": "In the Beidahuang Modern Agriculture Demonstration Zone in Heilongjiang Province, large harvesters are harvesting mature wheat in vast wheat fields, demonstrating the efficiency of modern agriculture.",
+        "entity": [
+            "Beidahuang Modern Agriculture Demonstration Zone",
+            "Heilongjiang Province"
+        ],
+        "category": [
+            "farm",
+            "state or province"
+        ]
+    },
+    "sentence283": {
+        "sentence": "The event was staged at the Mount Panorama Circuit , Bathurst , New South Wales , Australia on 22 February 2009 with cars competing in the following classes :",
+        "entity": [
+            "Mount Panorama Circuit",
+            "Bathurst",
+            "New South Wales",
+            "Australia"
+        ],
+        "category": [
+            "sports facility",
+            "city",
+            "state or province",
+            "country"
+        ]
+    },
+    "sentence284": {
+        "sentence": "The urban gardening social group encourages city dwellers to cultivate plants and vegetables in shared spaces.",
+        "entity": [
+            "urban gardening social group"
+        ],
+        "category": [
+            "other social group"
+        ]
+    },
+    "sentence285": {
+        "sentence": "Sustainable fashion brands are using recycled materials and eco-friendly dyes to make clothing, attracting more and more environmentally conscious consumers and driving the entire industry towards a greener direction.",
+        "entity": [
+            "Sustainable fashion brands",
+            "clothing"
+        ],
+        "category": [
+            "other commercial organization",
+            "clothes"
+        ]
+    },
+    "sentence286": {
+        "sentence": "He did this , he says , even though he could have used his status as an apostle to impose upon them .",
+        "entity": [
+            "apostle"
+        ],
+        "category": [
+            "other figure"
+        ]
+    },
+    "sentence287": {
+        "sentence": "The album Jazz from Hell , released in 1986 , earned Zappa his first Grammy Award in 1988 for Grammy Award for Best Rock Instrumental Performance .",
+        "entity": [
+            "Jazz from Hell",
+            "Zappa",
+            "Grammy Award",
+            "Grammy Award for Best Rock Instrumental Performance"
+        ],
+        "category": [
+            "album",
+            "musician",
+            "artistic award",
+            "artistic award"
+        ]
+    },
+    "sentence288": {
+        "sentence": "Built to Giuliano da Maiano 's design , it was begun in 1474 and completed in 1511 .",
+        "entity": [
+            "Giuliano da Maiano"
+        ],
+        "category": [
+            "artist"
+        ]
+    },
+    "sentence289": {
+        "sentence": "Nine cities submitted proposals , seven of which ( Boston , Denver , Los Angeles , Miami , Minneapolis , New Orleans and Philadelphia ) were visited by the DNC .",
+        "entity": [
+            "Boston",
+            "Denver",
+            "Los Angeles",
+            "Miami",
+            "Minneapolis",
+            "New Orleans",
+            "Philadelphia",
+            "DNC"
+        ],
+        "category": [
+            "city",
+            "city",
+            "city",
+            "city",
+            "city",
+            "city",
+            "city",
+            "political/military"
+        ]
+    },
+    "sentence290": {
+        "sentence": "It is also found in Turkey , Kazakhstan , Kyrgyzstan , the Russian Far East , China ( Xinjiang ) and Japan .",
+        "entity": [
+            "Turkey",
+            "Kazakhstan",
+            "Kyrgyzstan",
+            "Russian Far East",
+            "China",
+            "Xinjiang",
+            "Japan"
+        ],
+        "category": [
+            "country",
+            "country",
+            "country",
+            "region",
+            "country",
+            "state or province",
+            "country"
+        ]
+    },
+    "sentence291": {
+        "sentence": "At Wimbledon , he reached the fourth round in 1953 when he was in the fifth set against in his compatriot Ken Rosewall , whom he had lost against previously .",
+        "entity": [
+            "Wimbledon",
+            "Ken Rosewall"
+        ],
+        "category": [
+            "sporting event",
+            "athlete"
+        ]
+    },
+    "sentence292": {
+        "sentence": "He represented Charlevoix in the Legislative Assembly of the Province of Canada from 1861 to 1866 and in the Legislative Assembly of Quebec from 1871 to 1875 as a Liberal member .",
+        "entity": [
+            "Charlevoix",
+            "Legislative Assembly of the Province of Canada",
+            "Legislative Assembly of Quebec",
+            "Liberal"
+        ],
+        "category": [
+            "district",
+            "government facility",
+            "government facility",
+            "other commercial organization"
+        ]
+    },
+    "sentence293": {
+        "sentence": "The firm had offices in 10 locations — Birmingham , Brussels , Dubai , Guangzhou , London , Monaco , Moscow , Munich , Paris and Singapore .",
+        "entity": [
+            "Birmingham",
+            "Brussels",
+            "Dubai",
+            "Guangzhou",
+            "London",
+            "Monaco",
+            "Moscow",
+            "Munich",
+            "Paris",
+            "Singapore"
+        ],
+        "category": [
+            "city",
+            "city",
+            "city",
+            "city",
+            "city",
+            "country",
+            "city",
+            "city",
+            "city",
+            "country"
+        ]
+    },
+    "sentence294": {
+        "sentence": "It runs from a connection with the Death Valley Fault Zone in the Amargosa Valley northward to a termination in the Fish Lake Valley .",
+        "entity": [
+            "Death Valley Fault Zone",
+            "Amargosa Valley",
+            "Fish Lake Valley"
+        ],
+        "category": [
+            "other geographical entity",
+            "other geographical entity",
+            "other geographical entity"
+        ]
+    },
+    "sentence295": {
+        "sentence": "It is believed that Abraham Lincoln was once a guest in the home during the Lincoln-Douglas debates from 1854 to 1860 .",
+        "entity": [
+            "Abraham Lincoln",
+            "Lincoln-Douglas debates"
+        ],
+        "category": [
+            "politician",
+            "political/military event"
+        ]
+    },
+    "sentence296": {
+        "sentence": "The International Conference on Robotics and Automation (ICRA) showcases innovations in robotics, automation, and artificial intelligence.",
+        "entity": [
+            "International Conference on Robotics and Automation",
+            "ICRA",
+            "robotics",
+            "automation",
+            "artificial intelligence"
+        ],
+        "category": [
+            "conference",
+            "conference",
+            "other computer science entity",
+            "other computer science entity",
+            "other computer science entity"
+        ]
+    },
+    "sentence297": {
+        "sentence": "The police officer carefully holstered his handgun after securing the scene.",
+        "entity": [
+            "handgun"
+        ],
+        "category": [
+            "firearms"
+        ]
+    },
+    "sentence298": {
+        "sentence": "When production finished , the studio that had promised to distribute the movie had gone out of business , and it was eventually released by MCA Inc",
+        "entity": [
+            "MCA Inc"
+        ],
+        "category": [
+            "company"
+        ]
+    },
+    "sentence299": {
+        "sentence": "The Salvation Army, a Christian religious organization, offers social services and disaster relief efforts.",
+        "entity": [
+            "Salvation Army"
+        ],
+        "category": [
+            "religious organization"
+        ]
+    },
+    "sentence300": {
+        "sentence": "A symphony, typically a multi-movement orchestral work, can be heard in Beethoven's \"Symphony No. 9,\" which remains a classic.",
+        "entity": [
+            "symphony",
+            "Beethoven",
+            "Symphony No. 9"
+        ],
+        "category": [
+            "other music",
+            "musician",
+            "other music"
+        ]
+    }
+}

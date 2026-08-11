@@ -32,7 +32,14 @@ def load_model_and_tokenizer(model_path: Path, device: str):
             torch_dtype=torch.float16,
             device_map="auto",
         )
-    tokenizer = AutoTokenizer.from_pretrained(model_path)
+    adapter_config_file = model_path / "adapter_config.json"
+    if adapter_config_file.exists():
+        with open(adapter_config_file, "r") as f:
+            # Legge il percorso del modello base usato durante il training
+            base_model_path = json.load(f).get("base_model_name_or_path", str(model_path))
+        tokenizer = AutoTokenizer.from_pretrained(base_model_path)
+    else:
+        tokenizer = AutoTokenizer.from_pretrained(model_path)
     return model, tokenizer
 
 
@@ -116,12 +123,44 @@ def load_category_structure(category_file: Path) -> CategoryStructure:
     return CategoryStructure(data)
 
 
-def build_question(entity: str, sentence: str, level_name: str, options: Sequence[str]) -> str:
+def mark_entity_in_sentence(entity: str, sentence: str) -> str:
+    """Marca la PRIMA occorrenza dell'entita' nella frase con ##...##,
+    replicando esattamente il formato usato in training da stage2_trans.py
+    (dove l'entita' appare marcata sia isolata sia dentro la frase tra
+    virgolette). Senza questo passaggio l'entita' comparirebbe una sola
+    volta nella query, creando un mismatch silenzioso col formato di
+    training che il modello si aspetta."""
+    idx = sentence.find(entity)
+    if idx == -1:
+        # L'entita' non e' trovata come sottostringa esatta (puo' succedere
+        # per differenze di normalizzazione testo tra extractor e frase
+        # originale): si procede comunque senza marcatura nella frase,
+        # meglio di far fallire l'intera pipeline.
+        return sentence
+    return f"{sentence[:idx]}##{entity}##{sentence[idx + len(entity):]}"
+
+
+def build_question(entity: str, sentence: str, options: Sequence[str],
+                    zero_shot: bool = True) -> str:
+    """Costruisce la query di classificazione, fedele al formato usato in
+    training (stage2_trans.py): l'entita' e' marcata sia isolata sia dentro
+    la frase, e NON si menziona il livello gerarchico (level_name) nel
+    testo, dato che il training non lo include mai.
+
+    Se zero_shot=True, aggiunge il suffisso "If none of them applied,
+    return unknown" richiesto dal paper (Sezione 4.3) per gli scenari
+    zero-shot, dove il modello (allenato su un'altra lingua/dataset) puo'
+    incontrare entita' non classificabili con la lista fornita.
+    """
     options_str = ", ".join(options)
-    return (
-        f'The ##{entity}## in the sentence: "{sentence}" '
-        f'belongs to which entity in the {level_name} list: {options_str}?'
+    highlighted_sentence = mark_entity_in_sentence(entity, sentence)
+    question = (
+        f'The ##{entity}## in the sentence: "{highlighted_sentence}" '
+        f'belongs to which entity in the list: {options_str}?'
     )
+    if zero_shot:
+        question += " If none of them applied, return unknown."
+    return question
 
 
 def generate_response(
@@ -162,29 +201,39 @@ def categorize_entities(
     device: str,
     max_new_tokens: int,
     temperature: Optional[float],
+    zero_shot: bool = True,
 ) -> List[str]:
     if not entities:
         return []
 
-    first_predictions: List[str] = []
+    first_predictions: List[Optional[str]] = []
     for entity in entities:
-        query = build_question(entity, sentence, "first", structure.first_options)
+        query = build_question(entity, sentence, structure.first_options, zero_shot=zero_shot)
         response = generate_response(model, tokenizer, query, device, max_new_tokens, temperature).lower()
+        if response.strip() == "unknown":
+            first_predictions.append("unknown")
+            continue
         canonical = structure.first_lookup.get(response)
         if canonical is None:
             return []
         first_predictions.append(canonical)
 
     if not structure.second_options:
-        return first_predictions
+        return [p if p is not None else "unknown" for p in first_predictions]
 
-    second_predictions: List[str] = []
+    second_predictions: List[Optional[str]] = []
     for entity, first_choice in zip(entities, first_predictions):
+        if first_choice == "unknown":
+            second_predictions.append("unknown")
+            continue
         options = structure.second_options.get(first_choice.lower())
         if not options:
             return []
-        query = build_question(entity, sentence, "second", options)
+        query = build_question(entity, sentence, options, zero_shot=zero_shot)
         response = generate_response(model, tokenizer, query, device, max_new_tokens, temperature).lower()
+        if response.strip() == "unknown":
+            second_predictions.append("unknown")
+            continue
         canonical = structure.second_lookup[first_choice.lower()].get(response)
         if canonical is None:
             return []
@@ -195,11 +244,20 @@ def categorize_entities(
 
     final_predictions: List[str] = []
     for entity, second_choice in zip(entities, second_predictions):
+        if second_choice == "unknown":
+            final_predictions.append("unknown")
+            continue
         options = structure.third_options.get(second_choice.lower())
         if not options:
-            return []
-        query = build_question(entity, sentence, "third", options)
+            # Il second-level scelto non ha sotto-categorie (foglia gia'
+            # raggiunta a questo livello): manteniamo la predizione cosi' com'e'.
+            final_predictions.append(second_choice)
+            continue
+        query = build_question(entity, sentence, options, zero_shot=zero_shot)
         response = generate_response(model, tokenizer, query, device, max_new_tokens, temperature).lower()
+        if response.strip() == "unknown":
+            final_predictions.append("unknown")
+            continue
         canonical = structure.third_lookup[second_choice.lower()].get(response)
         if canonical is None:
             return []
@@ -236,10 +294,12 @@ def process_responses(
     max_new_tokens: int,
     temperature: Optional[float],
     limit: int,
+    zero_shot: bool = True,
+    reference_mapping: Optional[Dict[str, str]] = None,
 ) -> Dict[str, Dict[str, List[str]]]:
     results: Dict[str, Dict[str, List[str]]] = {}
     start = time.time()
-    example_id = 1
+    fallback_id = 1
 
     for idx, (query, response_list) in enumerate(sorted(responses.items()), start=1):
         if not response_list:
@@ -247,29 +307,39 @@ def process_responses(
 
         entity_candidates = [extract_entities_with_positions(query, resp) for resp in response_list]
         merged_entities = merge_entities(entity_candidates)
-        if not merged_entities:
-            continue
+        
+        entity_texts = []
+        categories = []
+        
+        if merged_entities:
+            entity_texts = [entity["text"] for entity in merged_entities]
+            categories = categorize_entities(
+                entity_texts,
+                query,
+                structure,
+                model,
+                tokenizer,
+                device,
+                max_new_tokens,
+                temperature,
+                zero_shot=zero_shot,
+            )
+            # Se la classificazione fallisce, riempiamo con "unknown" per mantenere la stessa lunghezza delle entità
+            if not categories or len(categories) != len(entity_texts):
+                categories = ["unknown"] * len(entity_texts)
 
-        entity_texts = [entity["text"] for entity in merged_entities]
-        categories = categorize_entities(
-            entity_texts,
-            query,
-            structure,
-            model,
-            tokenizer,
-            device,
-            max_new_tokens,
-            temperature,
-        )
-        if not categories:
-            continue
+        # Recuperiamo l'ID originale dal ground truth, se disponibile
+        if reference_mapping and query in reference_mapping:
+            sentence_id = reference_mapping[query]
+        else:
+            sentence_id = f"sentence{fallback_id}"
+            fallback_id += 1
 
-        results[f"sentence{example_id}"] = {
+        results[sentence_id] = {
             "sentence": query,
             "entity": entity_texts,
             "category": categories,
         }
-        example_id += 1
 
         if limit != -1 and len(results) >= limit:
             break
@@ -331,6 +401,22 @@ def parse_args() -> argparse.Namespace:
         default=-1,
         help="Optional limit on number of sentences to process (-1 means all).",
     )
+    parser.add_argument(
+        "--zero_shot",
+        action=argparse.BooleanOptionalAction,
+        default=True,
+        help="Use the zero-shot prompt variant (adds 'If none of them applied, "
+             "return unknown.' as in paper Section 4.3). Use --no-zero_shot for "
+             "the standard few-shot-style prompt without this suffix.",
+    )
+
+    parser.add_argument(
+        "--reference_file",
+        type=Path,
+        default=None,
+        help="Path to the original BASE json file to restore original sentence IDs.",
+    )
+
     return parser.parse_args()
 
 
@@ -348,6 +434,13 @@ def main() -> None:
     structure = load_category_structure(args.category_file)
     model, tokenizer = load_model_and_tokenizer(args.classifier_model, args.device)
 
+    # Carica la mappatura degli ID originali
+    reference_mapping = None
+    if args.reference_file and args.reference_file.exists():
+        with open(args.reference_file, "r", encoding="utf-8") as f:
+            ref_data = json.load(f)
+            reference_mapping = {val["sentence"]: key for key, val in ref_data.items()}
+
     results = process_responses(
         responses,
         structure,
@@ -357,6 +450,8 @@ def main() -> None:
         args.max_new_tokens,
         args.temperature,
         args.limit,
+        zero_shot=args.zero_shot,
+        reference_mapping=reference_mapping,
     )
 
     args.output_file.parent.mkdir(parents=True, exist_ok=True)
@@ -365,9 +460,6 @@ def main() -> None:
 
     print(f"Saved {len(results)} sentences to {args.output_file}")
 
-
-if __name__ == "__main__":
-    main()
 
 if __name__ == "__main__":
     main()

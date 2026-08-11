@@ -1,0 +1,186 @@
+academic journal---scholarly journal
+actor---thespian
+address---street address
+ai---artificial intelligence
+air---atmosphere
+airport---aerodrome
+album---record album
+algorithm---computational procedure
+art---artwork
+artist---artistic creator
+artistic award---arts accolade
+astronomical object---celestial body
+athlete---sportsperson
+author---writer
+award---accolade
+band---musical group
+bank---financial institution
+beverages---drinks
+bike---bicycle
+biological---biological entity
+biological theory---theory of biology
+broadcast program---broadcast show
+business event---corporate event
+business executive---corporate executive
+car---automobile
+chemical---chemical substance
+chemical theory---chemical concept
+chemical weapon---chemical agent
+city---municipality
+clothes---clothing
+cold weapon---melee weapon
+commercial facility---commercial premises
+commercial organization---commercial entity
+community---social group
+company---firm
+compound---chemical compound
+computer science---computing
+conference---symposium
+continent---continental landmass
+country---sovereign state
+desert---arid region
+director---filmmaker
+disaster---catastrophe
+discipline---academic field
+disease---illness
+district---administrative division
+educational and research---academic and research
+educational degree---academic degree
+electronics---electronic devices
+element---chemical element
+energy---power
+ethnic group---ethnicity
+event---occurrence
+explosives---explosive material
+facility---installation
+factory---manufacturing plant
+farm---agricultural estate
+fiction---fictional work
+fictional figure---fictional character
+film---movie
+firearms---small arms
+food---foodstuff
+game---pastime
+geo-political entity---geopolitical unit
+geographical entity---geographic feature
+god---deity
+government facility---state facility
+group---collective
+hospital---medical center
+hotel---lodging establishment
+household---domestic unit
+injury---physical wound
+island---isle
+landmark---point of interest
+language---tongue
+law---legislation
+library---book repository
+literary award---literary prize
+literature---written works
+literature genre---literary genre
+location---place
+market/mall---shopping center
+media---mass media
+medical---healthcare
+medical theory---medical doctrine
+medication---pharmaceutical
+metrics---measurements
+military---armed forces
+mine---mining site
+miscellaneous---uncategorized
+mountain---peak
+museum---exhibition venue
+music---musical works
+music genre---musical style
+musical instruments---music instruments
+musician---musical artist
+mythological figure---mythological character
+non-commercial organization---nonprofit organization
+non-fiction---factual writing
+nuclear---atomic
+other address---unspecified address
+other art---miscellaneous art
+other award---additional award
+other biological entity---unspecified biological entity
+other chemical entity---miscellaneous chemical entity
+other commercial facility---unspecified commercial facility
+other commercial organization---miscellaneous commercial organization
+other computer science entity---unspecified computer science entity
+other event---miscellaneous event
+other facility---unspecified facility
+other figure---miscellaneous figure
+other food---miscellaneous food
+other geographical entity---unspecified geographical entity
+other gpe---miscellaneous gpe
+other literature---miscellaneous literature
+other medical entity---unspecified medical entity
+other music---miscellaneous music
+other non-commercial organization---unspecified non-commercial organization
+other person---unspecified person
+other physical entity---miscellaneous physical entity
+other product---miscellaneous product
+other production facility---unspecified production facility
+other public facility---unspecified public facility
+other scientific entity---miscellaneous scientific entity
+other social group---unspecified social group
+other technology---unspecified technology
+other transportation facility---unspecified transit facility
+other vehicle---unspecified vehicle
+other visual art---unspecified visual art
+other weapon---unspecified weapon
+packaged foods---prepackaged food
+painting---painted artwork
+park---public park
+person---individual
+personal care---personal hygiene product
+physical---physical entity
+physical phenomenon---natural phenomenon
+physical theory---physics theory
+play---theatrical play
+poem---poetic work
+political/military---politico-military
+political/military event---politico-military event
+politician---political figure
+port---seaport
+product---merchandise
+production facility---manufacturing facility
+programlang---programming language
+protein---polypeptide
+public facility---civic facility
+rail---railway
+railway---railroad
+reaction---chemical reaction
+real person---actual person
+region---geographical region
+religious group---faith group
+religious organization---faith organization
+residential---residential area
+restaurant---eatery
+road---roadway
+scholar---academic
+school---educational institution
+science entity---scientific entity
+sculpture---sculptural work
+social group---social collective
+software---computer program
+song---musical track
+species---biological species
+sporting event---sports event
+sports award---athletic award
+sports facility---sports venue
+sports team/league---athletic team/league
+state or province---province or state
+station---transit station
+symptom---medical symptom
+technology---technological entity
+theater/cinema---cinema venue
+toys---playthings
+tradition---custom
+transportation facility---transit facility
+vehicle---conveyance
+visual art---artwork
+visual art genre---art style
+water---water feature
+water body---body of water
+weapon---armament
+website---internet site

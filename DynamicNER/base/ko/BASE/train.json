@@ -1,0 +1,7006 @@
+{
+    "sentence1": {
+        "sentence": "UMD 드라이브를 사용하지 않기 때문에 게임을 설치하기 위해서는 플레이스테이션 스토어에서 내려받는 방법이 유일하다 .",
+        "entity": [
+            "UMD 드라이브",
+            "플레이스테이션 스토어"
+        ],
+        "category": [
+            "electronics",
+            "website"
+        ]
+    },
+    "sentence2": {
+        "sentence": "가브라노비치는 10-11시즌 챔피언스리그의 발렌시아 CF와의 16강 2차전에서 값진 골을 넣었고 , 그의 팀은 승리하였다.",
+        "entity": [
+            "가브라노비치",
+            "발렌시아 CF"
+        ],
+        "category": [
+            "athlete",
+            "sports team/league"
+        ]
+    },
+    "sentence3": {
+        "sentence": "도브의 제품은 한국뿐만 아니라 미국 , 캐나다 , 프랑스 , 영국 , 네덜란드 , 아르헨티나 등 150여개 나라에서 팔리고 있다.",
+        "entity": [
+            "도브",
+            "한국",
+            "미국",
+            "캐나다",
+            "프랑스",
+            "영국",
+            "네덜란드",
+            "아르헨티나"
+        ],
+        "category": [
+            "company",
+            "country",
+            "country",
+            "country",
+            "country",
+            "country",
+            "country",
+            "country"
+        ]
+    },
+    "sentence4": {
+        "sentence": "아프로디테는 사랑, 아름다움, 욕망의 그리스 여신이다.",
+        "entity": [
+            "아프로디테",
+            "그리스"
+        ],
+        "category": [
+            "god",
+            "country"
+        ]
+    },
+    "sentence5": {
+        "sentence": "1970년대 브롱크스에서 등장한 힙합은 투팍 샤쿠르와 같은 아티스트에서 볼 수 있듯이 리드미컬한 비트와 구어체 시를 결합합니다.",
+        "entity": [
+            "힙합",
+            "브롱크스",
+            "투팍 샤쿠르"
+        ],
+        "category": [
+            "music genre",
+            "district",
+            "musician"
+        ]
+    },
+    "sentence6": {
+        "sentence": "1666년 런던 대화재는 도시의 중세 기반 시설의 대부분을 파괴했다.",
+        "entity": [
+            "런던 대화재",
+            "런던"
+        ],
+        "category": [
+            "disaster",
+            "city"
+        ]
+    },
+    "sentence7": {
+        "sentence": "미용실은 이발, 염색, 스타일링을 포함한 다양한 서비스를 제공하여 고객이 새로운 스타일링에 대해 상쾌하고 자신감을 가질 수 있도록 합니다.",
+        "entity": [
+            "미용실"
+        ],
+        "category": [
+            "other commercial facility"
+        ]
+    },
+    "sentence8": {
+        "sentence": "신용 조합은 회원 소유의 금융 기관으로 운영되며, 종종 전통적인 은행보다 낮은 수수료로 회원에게 은행 서비스와 대출을 제공합니다.",
+        "entity": [
+            "신용 조합"
+        ],
+        "category": [
+            "other commercial organization"
+        ]
+    },
+    "sentence9": {
+        "sentence": "구글의 AI 기반 이미지 인식 소프트웨어는 놀라운 정확도로 물체와 장면을 식별할 수 있다.",
+        "entity": [
+            "AI 기반 이미지 인식 소프트웨어"
+        ],
+        "category": [
+            "ai"
+        ]
+    },
+    "sentence10": {
+        "sentence": "결국 , 그해 수상자는 카를 구스타프 야코프 야코비였는데 , 심사 과정에서 갈루아의 논문과 닐스 헨리크 아벨의 논문은 석연찮은 이유로 제외되었다.",
+        "entity": [
+            "카를 구스타프 야코프 야코비",
+            "갈루아",
+            "닐스 헨리크 아벨"
+        ],
+        "category": [
+            "scholar",
+            "scholar",
+            "scholar"
+        ]
+    },
+    "sentence11": {
+        "sentence": "조선민주주의인민공화국의 강원도 통천군 , 고성군과 대한민국의 강원도 고성군 , 속초시 , 양양군 , 강릉시 , 동해시 , 삼척시 , 태백시 일대에 해당된다.",
+        "entity": [
+            "조선민주주의인민공화국",
+            "강원도",
+            "통천군",
+            "고성군",
+            "대한민국",
+            "강원도",
+            "고성군",
+            "속초시",
+            "양양군",
+            "강릉시",
+            "동해시",
+            "삼척시",
+            "태백시"
+        ],
+        "category": [
+            "country",
+            "state or province",
+            "district",
+            "district",
+            "country",
+            "state or province",
+            "district",
+            "city",
+            "district",
+            "city",
+            "city",
+            "city",
+            "city"
+        ]
+    },
+    "sentence12": {
+        "sentence": "광저우 톈허 스포츠센터의 농구장에서, CBA리그의 치열한 경기가 진행 중이었고, 팬들의 환호성이 이리저리 울려 퍼졌다.",
+        "entity": [
+            "광저우 톈허 스포츠센터",
+            "CBA리그"
+        ],
+        "category": [
+            "sports facility",
+            "sports team/league"
+        ]
+    },
+    "sentence13": {
+        "sentence": "승부차기에서 브라질이 프랑코 바레시와 로베르토 바조가 실축한 이탈리아를 3:2로 꺾고 통산 4번째 우승을 차지했다 .",
+        "entity": [
+            "브라질",
+            "프랑코 바레시",
+            "로베르토 바조",
+            "이탈리아"
+        ],
+        "category": [
+            "country",
+            "athlete",
+            "athlete",
+            "country"
+        ]
+    },
+    "sentence14": {
+        "sentence": "바이킹은 그의 도끼를 큰 힘으로 휘둘렀고, 적의 방패를 깍깍했다.",
+        "entity": [
+            "도끼"
+        ],
+        "category": [
+            "cold weapon"
+        ]
+    },
+    "sentence15": {
+        "sentence": "펩시라는 이름의 어원에 대해서는 여러가지 설이 있지만 , 펩시코의 공식홈페이지에 올려진 펩시라는 이름의 2가지 유래는 아래와 같다.",
+        "entity": [
+            "펩시",
+            "펩시코"
+        ],
+        "category": [
+            "beverages",
+            "company"
+        ]
+    },
+    "sentence16": {
+        "sentence": "또 여러 스칼드 시가들에서 `` 표르귄 ( ) '' 이라는 말이 `` 대지 '' , `` 땅 '' 이라는 뜻으로 사용된다 .",
+        "entity": [
+            "표르귄"
+        ],
+        "category": [
+            "miscellaneous"
+        ]
+    },
+    "sentence17": {
+        "sentence": "프란시스코 고야의 작품에서 분명한 낭만주의는 감정, 개인주의, 그리고 자연의 숭고한 아름다움을 포용한다.",
+        "entity": [
+            "프란시스코 고야",
+            "낭만주의"
+        ],
+        "category": [
+            "artist",
+            "visual art genre"
+        ]
+    },
+    "sentence18": {
+        "sentence": "에스토니아는 독립 국가 연합에 불참여함으로써 서방 국가와 강화하기 위하여 , 북대서양 조약 기구와 유럽 연합에 각각 가입하였다.",
+        "entity": [
+            "에스토니아",
+            "북대서양 조약 기구",
+            "유럽 연합"
+        ],
+        "category": [
+            "country",
+            "political/military",
+            "political/military"
+        ]
+    },
+    "sentence19": {
+        "sentence": "염은 염화나트륨(NaCl)과 같은 산과 염기의 중화 반응으로 형성된 이온 화합물이다.",
+        "entity": [
+            "염",
+            "염화나트륨",
+            "NaCl"
+        ],
+        "category": [
+            "other chemical entity",
+            "compound",
+            "compound"
+        ]
+    },
+    "sentence20": {
+        "sentence": "고르바초프는 대대적인 대서방 외교를 추진 , 아프간에서의 부분적 철군 의사를 언급하는 등 대서방 협상을 제의했다 .",
+        "entity": [
+            "고르바초프",
+            "아프간"
+        ],
+        "category": [
+            "politician",
+            "country"
+        ]
+    },
+    "sentence21": {
+        "sentence": "탄산칼슘(CaCO3)은 조개껍데기, 석회암, 대리석에서 발견되며, 지질학적 및 생물학적 과정에서 중요한 역할을 한다.",
+        "entity": [
+            "탄산칼슘",
+            "CaCO3"
+        ],
+        "category": [
+            "compound",
+            "compound"
+        ]
+    },
+    "sentence22": {
+        "sentence": "에릭 에릭슨의 발달이론에서 12세부터 18세까지 청소년기에는 정체성이 형성되거나 정체성에 혼란이 오는 상황을 맞게 된다 .",
+        "entity": [
+            "에릭 에릭슨"
+        ],
+        "category": [
+            "scholar"
+        ]
+    },
+    "sentence23": {
+        "sentence": "특히 소녀시대 써니를 향한 애정을 표현한 곡 〈Fantastic 순규〉와 〈Twinkle 순규〉는 J'Kyun을 모르는 사람들 사이에서도 화제가 되었다.",
+        "entity": [
+            "소녀시대",
+            "써니",
+            "J'Kyun"
+        ],
+        "category": [
+            "band",
+            "musician",
+            "musician"
+        ]
+    },
+    "sentence24": {
+        "sentence": "뱅크시의 그래피티로 예시된 거리 예술은 종종 사회 문제를 다루고 도시 환경을 야외 갤러리로 탈바꿈시킨다.",
+        "entity": [
+            "뱅크시",
+            "그래피티",
+            "거리 예술"
+        ],
+        "category": [
+            "artist",
+            "visual art genre",
+            "visual art genre"
+        ]
+    },
+    "sentence25": {
+        "sentence": "크리스토퍼 놀란이 감독한 '인셉션'은 꿈 속의 꿈의 개념을 탐구하며, 시청자들이 현실에 의문을 제기하도록 도전한다.",
+        "entity": [
+            "크리스토퍼 놀란",
+            "인셉션"
+        ],
+        "category": [
+            "director",
+            "film"
+        ]
+    },
+    "sentence26": {
+        "sentence": "식물 세포에서 발견되는 엽수체는 광에너지를 포획하여 화학 에너지로 전환함으로써 광합성을 가능하게 한다.",
+        "entity": [
+            "엽수체",
+            "광합성"
+        ],
+        "category": [
+            "other biological entity",
+            "other biological entity"
+        ]
+    },
+    "sentence27": {
+        "sentence": "아랍어는 중동과 북아프리카 전역에서 사용되는 많은 방언을 가진 셈어입니다.",
+        "entity": [
+            "아랍어",
+            "중동",
+            "북아프리카"
+        ],
+        "category": [
+            "language",
+            "region",
+            "region"
+        ]
+    },
+    "sentence28": {
+        "sentence": "지하 3층의 북쪽에 위치한 9호선 승강장은 현재 사용되지 않으며 , 남쪽에 있는 1면만을 9호선과 인천국제공항철도가 같이 사용하고 있다.",
+        "entity": [
+            "9호선",
+            "인천국제공항철도"
+        ],
+        "category": [
+            "railway",
+            "railway"
+        ]
+    },
+    "sentence29": {
+        "sentence": "양전하를 띠고 핵에 위치한 양성자는 원자의 수에 따라 원소의 정체성을 결정합니다.",
+        "entity": [
+            "양성자",
+            "원자",
+            "원소"
+        ],
+        "category": [
+            "other physical entity",
+            "other physical entity",
+            "element"
+        ]
+    },
+    "sentence30": {
+        "sentence": "심천 염전항에서 세관 직원은 수입 화물에 대해 엄격한 검사를 실시하여 화물이 모든 입국 요건을 충족하는지 확인하고 있습니다.",
+        "entity": [
+            "심천 염전항"
+        ],
+        "category": [
+            "port"
+        ]
+    },
+    "sentence31": {
+        "sentence": "`` 아는 것이 힘이다 '' 라고 말한 사람은 프랜시스 베이컨이었는데 , 과학에 의한 자연지배가 실현되기 위해서는 우선 인간이 지적 ( 知的 ) 주체로서 세계에 대해서 군림하는 일이 필요하다.",
+        "entity": [
+            "프랜시스 베이컨"
+        ],
+        "category": [
+            "scholar"
+        ]
+    },
+    "sentence32": {
+        "sentence": "두 정의 권총을 사용하는 우주경찰의 총권법 주쿤도 ( ) 를 구사하며 , 다른 다섯 명과 달리 근접전용 무기를 가지고 있지 않다.",
+        "entity": [
+            "주쿤도"
+        ],
+        "category": [
+            "cold weapon"
+        ]
+    },
+    "sentence33": {
+        "sentence": "청두 솽류 국제공항에서 한 무리의 비즈니스 여행객들이 VIP 라운지에서 일하고 휴식을 취하며 다가오는 회의를 준비하고 있다.",
+        "entity": [
+            "청두 솽류 국제공항",
+            "VIP 라운지"
+        ],
+        "category": [
+            "airport",
+            "other facility"
+        ]
+    },
+    "sentence34": {
+        "sentence": "자메이카에서 시작되어 Bob Marley에 의해 대중화된 레게는 여유로운 리듬과 평화와 사랑의 주제로 유명합니다.",
+        "entity": [
+            "레게",
+            "자메이카",
+            "Bob Marley"
+        ],
+        "category": [
+            "music genre",
+            "country",
+            "musician"
+        ]
+    },
+    "sentence35": {
+        "sentence": "전기분해는 전기 에너지를 사용하여 물을 수소와 산소로 나누는 것과 같은 비자발적인 화학적 변화를 유도하는 반응입니다.",
+        "entity": [
+            "전기분해",
+            "수소",
+            "산소"
+        ],
+        "category": [
+            "reaction",
+            "element",
+            "element"
+        ]
+    },
+    "sentence36": {
+        "sentence": "일각에서는 그가 리오넬 메시를 심각하게 질투했기 때문에 고의로 성의없게 감독직을 수행했으며 독일에게는 고의로 패배해 줬다는 의혹을 제기하고 있다.",
+        "entity": [
+            "리오넬 메시",
+            "독일"
+        ],
+        "category": [
+            "athlete",
+            "country"
+        ]
+    },
+    "sentence37": {
+        "sentence": "이화여자대학교에서 장례식이 거행되었는데 , 생전 당부에 따라 한국에서는 처음으로 장례식을 음악회와 가벼운 만찬으로 하였다.",
+        "entity": [
+            "이화여자대학교",
+            "한국"
+        ],
+        "category": [
+            "school",
+            "country"
+        ]
+    },
+    "sentence38": {
+        "sentence": "실험 연구에서 대조군은 실험 결과를 비교하기 위한 기준선 역할을 하는 필수 개체입니다.",
+        "entity": [
+            "대조군"
+        ],
+        "category": [
+            "other scientific entity"
+        ]
+    },
+    "sentence39": {
+        "sentence": "부모의 이혼으로 충격을 받은 것으로 말콤은 이해하려 하지만 , 소년은 깊히 간직된 진실한 두려움의 원인을 말콤은 물론 엄마 ( 토니 콜렛 ) 에게도 밝히기를 꺼려한다.",
+        "entity": [
+            "말콤",
+            "토니 콜렛"
+        ],
+        "category": [
+            "other person",
+            "actor"
+        ]
+    },
+    "sentence40": {
+        "sentence": "그는 오스트리아와 터키를 거쳐서 그리스까지 갔으며 아테네까지 제 시간에 가기 위해 하루에 70km를 가는 모험을 감행했다 .",
+        "entity": [
+            "오스트리아",
+            "터키",
+            "그리스",
+            "아테네"
+        ],
+        "category": [
+            "country",
+            "country",
+            "country",
+            "city"
+        ]
+    },
+    "sentence41": {
+        "sentence": "더욱이 일본 천황과 쇼군이라는 권위와 권력의 원천에 대해서도 새로운 의미를 부여하려는 시도가 많았던 것도 큰 특징 중 하나이다.",
+        "entity": [
+            "일본",
+            "천황",
+            "쇼군"
+        ],
+        "category": [
+            "country",
+            "politician",
+            "politician"
+        ]
+    },
+    "sentence42": {
+        "sentence": "일반적으로 타박상으로 알려진 타박상은 둔기 외상으로 인해 피부 아래 혈관이 파단되어 발생합니다.",
+        "entity": [
+            "타박상"
+        ],
+        "category": [
+            "injury"
+        ]
+    },
+    "sentence43": {
+        "sentence": "항저우 시민의 집에서, 시민들은 각 창구에서 각종 행정 절차를 밟고 있어, 원스톱 서비스의 편리함을 체험하고 있어.",
+        "entity": [
+            "항저우 시민의 집"
+        ],
+        "category": [
+            "government facility"
+        ]
+    },
+    "sentence44": {
+        "sentence": "주사기는 약물을 주사하거나 혈액을 채취하는 데 사용되는 의료 기기로, 병원과 클리닉에서 일반적으로 사용됩니다.",
+        "entity": [
+            "주사기"
+        ],
+        "category": [
+            "other medical entity"
+        ]
+    },
+    "sentence45": {
+        "sentence": "메트포르민은 제2형 당뇨병 환자의 고혈당을 조절하는 데 사용되는 경구용 약물입니다.",
+        "entity": [
+            "메트포르민",
+            "제2형 당뇨병"
+        ],
+        "category": [
+            "medication",
+            "disease"
+        ]
+    },
+    "sentence46": {
+        "sentence": "관광 케이블카는 천천히 올라가서, 관광객들을 산꼭대기로 데려가, 그들이 공중에서 웅장하고 아름다운 자연경관을 감상하게 하고, 관광지의 상징적인 교통수단이 되었다.",
+        "entity": [
+            "관광 케이블카"
+        ],
+        "category": [
+            "other vehicle"
+        ]
+    },
+    "sentence47": {
+        "sentence": "참고로 맨체스터 유나이티드 FC 시절에 한솥밥을 먹었던 박지성과의 친분은 유명하고 , 훗날 함부르크 SV에 몸담았던 시절에도 손흥민과도 좋은 관계를 형성해 대한민국에도 그의 입지가 두텁다.",
+        "entity": [
+            "맨체스터 유나이티드 FC",
+            "박지성",
+            "함부르크 SV",
+            "손흥민",
+            "대한민국"
+        ],
+        "category": [
+            "sports team/league",
+            "athlete",
+            "sports team/league",
+            "athlete",
+            "country"
+        ]
+    },
+    "sentence48": {
+        "sentence": "프랑스어는 외교의 언어로 알려져 있으며 많은 아프리카와 유럽 국가에 상당한 영향을 미칩니다.",
+        "entity": [
+            "프랑스어",
+            "아프리카",
+            "유럽"
+        ],
+        "category": [
+            "language",
+            "continent",
+            "continent"
+        ]
+    },
+    "sentence49": {
+        "sentence": "디자이너는 신상품 발표회에서 일련의 우아한 긴 치마를 선보였는데, 가벼운 쉬폰 원단을 사용하여 여름의 낭만과 신선함을 완벽하게 표현했다.",
+        "entity": [
+            "긴 치마"
+        ],
+        "category": [
+            "clothes"
+        ]
+    },
+    "sentence50": {
+        "sentence": "아르치아스는 자발적으로 달아나고 코린티아인들의 일단이 시칠리로 가게 하였는데 그곳에서 그들은 시라쿠사의 식민지를 세웠다.",
+        "entity": [
+            "아르치아스",
+            "코린티아인들",
+            "시칠리",
+            "시라쿠사"
+        ],
+        "category": [
+            "mythological figure",
+            "ethnic group",
+            "region",
+            "city"
+        ]
+    },
+    "sentence51": {
+        "sentence": "그가 자살에 실패하고난후에 그는 스탠 ( 그는 스탠을 보고 빌리라고 부른다 ) 에게 돈을 줄테니까 자기를 죽여달라고 한다.",
+        "entity": [
+            "스탠",
+            "빌리"
+        ],
+        "category": [
+            "mythological figure",
+            "mythological figure"
+        ]
+    },
+    "sentence52": {
+        "sentence": "** 삽화 담당의 하이무라 키요타카에 따르면 , 2권 작업에 관한 설정집에 실수로 3권의 플롯이 딸려 있었다고 한다 .",
+        "entity": [
+            "하이무라 키요타카"
+        ],
+        "category": [
+            "artist"
+        ]
+    },
+    "sentence53": {
+        "sentence": "그는 만일 사회학이 모든 것을 포괄한다면 , 그것은 연구 영역을 전혀 갖지 못하는 것이라는 점을 이유로 포괄적이고도 “종합적”인 과학으로서의 사회학이라는 허버트 스펜서와 오귀스트 콩트의 개념을 거부하였다.",
+        "entity": [
+            "허버트 스펜서",
+            "오귀스트 콩트"
+        ],
+        "category": [
+            "scholar",
+            "scholar"
+        ]
+    },
+    "sentence54": {
+        "sentence": "논란이 있기는 하지만 일반적으로 이타키를 호메로스의 책에 나오는 오디세우스의 고향인 이타카는 이 곳으로 추정된다 .",
+        "entity": [
+            "이타키",
+            "호메로스",
+            "오디세우스",
+            "이타카"
+        ],
+        "category": [
+            "region",
+            "author",
+            "mythological figure",
+            "region"
+        ]
+    },
+    "sentence55": {
+        "sentence": "이러한 임시 처방은 말레이시아 GP와 중국 GP에서 사용되었고 , 남은 경기에서는 피렐리사의 로고를 따라 색을 입힌 띠를 두름으로써 문제를 해결하였다.",
+        "entity": [
+            "말레이시아 GP",
+            "중국 GP",
+            "피렐리"
+        ],
+        "category": [
+            "sporting event",
+            "sporting event",
+            "company"
+        ]
+    },
+    "sentence56": {
+        "sentence": "아밀라아제와 같은 효소는 화학 반응을 촉매하여 소화 중에 전분을 더 단순한 당으로 분해합니다.",
+        "entity": [
+            "아밀라아제"
+        ],
+        "category": [
+            "protein"
+        ]
+    },
+    "sentence57": {
+        "sentence": "골지 장치는 단백질을 수정하고 포장하여 세포 내의 최종 목적지로 운반할 수 있도록 준비합니다.",
+        "entity": [
+            "골지 장치"
+        ],
+        "category": [
+            "other biological entity"
+        ]
+    },
+    "sentence58": {
+        "sentence": "모래 예술은 종종 복잡한 패턴이나 애니메이션 이야기로 채색된 모래를 사용하여 임시 예술 작품을 만드는 것을 포함합니다.",
+        "entity": [
+            "모래 예술"
+        ],
+        "category": [
+            "other art"
+        ]
+    },
+    "sentence59": {
+        "sentence": "또 다른 역 후보에 휴 로리 , 앨런 릭먼 , 와타나베 켄 등이 거론되고 있었으며 크리스토퍼 마커스와 스티븐 맥필리가 각본을 고치기 위해 교섭중이라고 보도했다.",
+        "entity": [
+            "휴 로리",
+            "앨런 릭먼",
+            "와타나베 켄",
+            "크리스토퍼 마커스",
+            "스티븐 맥필리"
+        ],
+        "category": [
+            "actor",
+            "actor",
+            "actor",
+            "director",
+            "director"
+        ]
+    },
+    "sentence60": {
+        "sentence": "서안도서관의 전시관에서 실크로드 문화에 관한 특별전이 열리고 있어, 많은 시민들이 참관하고, 이 찬란한 역사를 이해하게 되었어.",
+        "entity": [
+            "서안도서관",
+            "실크로드"
+        ],
+        "category": [
+            "library",
+            "other geographical entity"
+        ]
+    },
+    "sentence61": {
+        "sentence": "국제 사회는 높은 치사율 때문에 에볼라와 같은 바이러스를 가능한 생물 무기로 사용하는 것을 비난했다.",
+        "entity": [
+            "에볼라",
+            "생물 무기"
+        ],
+        "category": [
+            "biological",
+            "biological"
+        ]
+    },
+    "sentence62": {
+        "sentence": "밥 딜런의 '롤링 스톤처럼'은 시적인 가사와 원시적인 감정으로 대중 음악의 풍경을 바꿨다.",
+        "entity": [
+            "밥 딜런",
+            "롤링 스톤처럼"
+        ],
+        "category": [
+            "musician",
+            "song"
+        ]
+    },
+    "sentence63": {
+        "sentence": "태양 전지판 기술은 재생 가능 에너지를 활용하여 가정과 기업에 보다 지속 가능한 전력을 공급하고 있습니다.",
+        "entity": [
+            "태양 전지판 기술"
+        ],
+        "category": [
+            "other technology"
+        ]
+    },
+    "sentence64": {
+        "sentence": "축제와 예술 공연에서 사용되는 바디 페인팅은 인체를 표현을 위한 살아있는 캔버스로 변화시킨다.",
+        "entity": [
+            "바디 페인팅"
+        ],
+        "category": [
+            "other art"
+        ]
+    },
+    "sentence65": {
+        "sentence": "이를 계기로 세조 때 등장하여 성종 때에 날개를 펴며 세력을 확장해나가던 신진 사림은 집권층인 훈구파에게 숙청되었다 .",
+        "entity": [
+            "세조",
+            "성종",
+            "신진 사림",
+            "훈구파"
+        ],
+        "category": [
+            "politician",
+            "politician",
+            "political/military",
+            "political/military"
+        ]
+    },
+    "sentence66": {
+        "sentence": "정부는 사린 가스를 비축한 것으로 의심되는 국가에 제재를 가했다.",
+        "entity": [
+            "사린 가스"
+        ],
+        "category": [
+            "chemical weapon"
+        ]
+    },
+    "sentence67": {
+        "sentence": "아이스킬로스는 신을 그렸고 , 소포클레스는 인간의 형체를 가진 이상을 그렸고 , 에우리피데스는 진실의 인간을 그렸다 .",
+        "entity": [
+            "아이스킬로스",
+            "소포클레스",
+            "에우리피데스"
+        ],
+        "category": [
+            "author",
+            "author",
+            "author"
+        ]
+    },
+    "sentence68": {
+        "sentence": "페이스북의 웹사이트는 사회적 상호작용, 뉴스, 그리고 커뮤니티 구축을 위한 플랫폼이 되었다.",
+        "entity": [
+            "페이스북"
+        ],
+        "category": [
+            "website"
+        ]
+    },
+    "sentence69": {
+        "sentence": "본래 에메 자케 FFF 기술고문을 엄두하고 있었으나 , 협상에 실패하면서 휘스 히딩크를 차기 감독으로 낙점하였다 .",
+        "entity": [
+            "에메 자케",
+            "FFF",
+            "휘스 히딩크"
+        ],
+        "category": [
+            "sports team/league",
+            "political/military",
+            "sports team/league"
+        ]
+    },
+    "sentence70": {
+        "sentence": "철도 화물 운송 노동자들은 화물 운송 플랫폼에서 바쁘게 화물을 싣고 하역하며, 각종 상품이 철도 네트워크를 통해 전국 각지로 제때 도착할 수 있도록 한다.",
+        "entity": [
+            "화물 운송 플랫폼",
+            "철도 네트워크"
+        ],
+        "category": [
+            "other transportation facility",
+            "railway"
+        ]
+    },
+    "sentence71": {
+        "sentence": "드러머는 드럼팀 뒤에 앉아, 팔다리를 조화롭게 각 드럼면과 템피스를 치고, 전체 밴드에 강력하고 강력한 리듬을 지원한다.",
+        "entity": [
+            "드럼"
+        ],
+        "category": [
+            "musical instruments"
+        ]
+    },
+    "sentence72": {
+        "sentence": "후난성 박물관의 마왕퇴한묘 문물전에서, 관광객들은 출토된 문물의 보존 정도에 감탄했고, 중국 고고학의 중대한 업적을 느꼈다.",
+        "entity": [
+            "후난성 박물관",
+            "마왕퇴한묘"
+        ],
+        "category": [
+            "museum",
+            "landmark"
+        ]
+    },
+    "sentence73": {
+        "sentence": "미켈란젤로의 '피에타'는 생명이 없는 예수의 몸을 안고 있는 성모 마리아를 묘사하고 있으며 르네상스 조각의 걸작이다.",
+        "entity": [
+            "미켈란젤로",
+            "피에타",
+            "예수",
+            "성모 마리아"
+        ],
+        "category": [
+            "artist",
+            "sculpture",
+            "religious group",
+            "religious group"
+        ]
+    },
+    "sentence74": {
+        "sentence": "' '' 제주도립미술관 '' ' ( 濟州道立美術館 ) 은 대한민국 제주특별자치도 제주시에 위치한 도립 미술관이다 .",
+        "entity": [
+            "제주도립미술관",
+            "대한민국",
+            "제주특별자치도",
+            "제주시"
+        ],
+        "category": [
+            "museum",
+            "country",
+            "state or province",
+            "city"
+        ]
+    },
+    "sentence75": {
+        "sentence": "더 높은 데이터레이트는 녹화 시간을 절반으로 만들어 버리지만 ( DVCPRO25와 비교하여 ) , 화질의 결과는 디지털 베타캠에 맞먹는다.",
+        "entity": [
+            "DVCPRO25",
+            "디지털 베타캠"
+        ],
+        "category": [
+            "electronics",
+            "electronics"
+        ]
+    },
+    "sentence76": {
+        "sentence": "그는 진공언이 거병하여 계 ( 薊 ) 로 향하고 있다고 말하면서 , 자신은 장공소를 공격하기 위해 출진한 진공언의 선봉부대 대장이라고 자칭하였다.",
+        "entity": [
+            "진공언",
+            "계",
+            "장공소"
+        ],
+        "category": [
+            "military",
+            "region",
+            "military"
+        ]
+    },
+    "sentence77": {
+        "sentence": "포켓몬스터》229화에서는 로켓단이 방울탑에서 빼앗은 4개의 '투명 방울'중 하나를 부수었던 것에 화낸 포켓몬을 가라앉히기 위해 등장.",
+        "entity": [
+            "포켓몬스터",
+            "로켓단",
+            "방울탑"
+        ],
+        "category": [
+            "broadcast program",
+            "political/military",
+            "landmark"
+        ]
+    },
+    "sentence78": {
+        "sentence": "비틀즈의 'Abbey Road'는 'Come Together'와 같은 상징적인 트랙을 특징으로 하며 밴드의 음악적 진화를 보여줍니다.",
+        "entity": [
+            "비틀즈",
+            "Abbey Road",
+            "Come Together"
+        ],
+        "category": [
+            "band",
+            "album",
+            "song"
+        ]
+    },
+    "sentence79": {
+        "sentence": "예전에는 상사 ( 商社 ) Man이었지만 부임처인 아프리카 빈곤국에서의 체험을 바탕으로 교사로 전직 ( 轉職 ) 한다.",
+        "entity": [
+            "아프리카"
+        ],
+        "category": [
+            "region"
+        ]
+    },
+    "sentence80": {
+        "sentence": "방패는 숙련된 손에 있는 방어 도구이자 무기가 될 수 있다.",
+        "entity": [
+            "방패"
+        ],
+        "category": [
+            "cold weapon"
+        ]
+    },
+    "sentence81": {
+        "sentence": "GPS 기술은 스마트폰에 내장되어 있어 사용자가 익숙하지 않은 위치를 쉽게 탐색할 수 있도록 도와줍니다.",
+        "entity": [
+            "GPS 기술",
+            "스마트폰"
+        ],
+        "category": [
+            "other technology",
+            "electronics"
+        ]
+    },
+    "sentence82": {
+        "sentence": "범선은 잔잔한 바다를 항해하기 위해 풍력에만 의존하여 호수를 부드럽게 미끄러지릅니다.",
+        "entity": [
+            "범선"
+        ],
+        "category": [
+            "water"
+        ]
+    },
+    "sentence83": {
+        "sentence": "Charlotte Brontë의 'Jane Eyre'는 사랑과 독립을 찾기 위해 자라나는 고아가 된 소녀의 이야기를 들려줍니다.",
+        "entity": [
+            "Charlotte Brontë",
+            "Jane Eyre"
+        ],
+        "category": [
+            "author",
+            "fiction"
+        ]
+    },
+    "sentence84": {
+        "sentence": "이곳에는 오래된 마교가 있는데, 오늘날 행인들에게 서비스를 제공하고 있고, 20세기 50년대에 지어진 저수교도 있는데, 높은 수위에서 나루터로 사용할 수 있다.",
+        "entity": [
+            "마교",
+            "저수교",
+            "나루터"
+        ],
+        "category": [
+            "other address",
+            "other address",
+            "other address"
+        ]
+    },
+    "sentence85": {
+        "sentence": "많은 전문가들이 링크드인을 네트워킹, 구직 및 산업 통찰력 공유를 위한 웹사이트로 사용합니다.",
+        "entity": [
+            "링크드인"
+        ],
+        "category": [
+            "website"
+        ]
+    },
+    "sentence86": {
+        "sentence": "F. Scott Fitzgerald의 '위대한 개츠비'는 1920년대 아메리칸 드림의 퇴폐와 환멸을 묘사한다.",
+        "entity": [
+            "F. Scott Fitzgerald",
+            "위대한 개츠비",
+            "아메리칸 드림"
+        ],
+        "category": [
+            "author",
+            "fiction",
+            "miscellaneous"
+        ]
+    },
+    "sentence87": {
+        "sentence": "'브레이킹 배드'는 고등학교 화학 교사가 메스암페타민 제조업체로 변한 과정을 따라가며, 그의 도덕적 혈통을 보여줍니다.",
+        "entity": [
+            "브레이킹 배드",
+            "메스암페타민"
+        ],
+        "category": [
+            "broadcast program",
+            "chemical weapon"
+        ]
+    },
+    "sentence88": {
+        "sentence": "불교 치 재단은 자선 활동과 재난 대응으로 유명한 종교 단체입니다.",
+        "entity": [
+            "불교 치 재단"
+        ],
+        "category": [
+            "religious organization"
+        ]
+    },
+    "sentence89": {
+        "sentence": "맥아더 펠로우십(천재 보조금)은 업무에서 뛰어난 창의성을 보여주고 미래에 더 많은 것을 약속한 개인에게 수여됩니다.",
+        "entity": [
+            "맥아더 펠로우십",
+            "천재 보조금"
+        ],
+        "category": [
+            "other award",
+            "other award"
+        ]
+    },
+    "sentence90": {
+        "sentence": "미국 지구물리학 연합(AGU) 가을 회의는 지구 과학, 기후 변화 및 환경 연구의 주제를 다룹니다.",
+        "entity": [
+            "미국 지구물리학 연합",
+            "AGU"
+        ],
+        "category": [
+            "conference",
+            "conference"
+        ]
+    },
+    "sentence91": {
+        "sentence": "이와 함께 , 류수영 박용우 등도 캐스팅 제의를 받았지만 모두 개인사정으로 고사하자 당시 집필자였던 박범수씨 대신 장영철씨로 작가가 바뀌었다.",
+        "entity": [
+            "류수영",
+            "박용우",
+            "박범수",
+            "장영철"
+        ],
+        "category": [
+            "actor",
+            "actor",
+            "author",
+            "author"
+        ]
+    },
+    "sentence92": {
+        "sentence": "고대 로마와 비잔틴 유적지에서 볼 수 있는 모자이크 예술은 정교한 이미지를 만들기 위해 작은 색 유리나 돌 조각을 사용합니다.",
+        "entity": [
+            "모자이크 예술",
+            "고대 로마",
+            "비잔틴"
+        ],
+        "category": [
+            "other visual art",
+            "other gpe",
+            "other gpe"
+        ]
+    },
+    "sentence93": {
+        "sentence": "슈퍼마켓은 통곡물부터 초콜릿 맛까지 다양한 아침 시리얼을 제공합니다.",
+        "entity": [
+            "아침 시리얼",
+            "통곡물 시리얼",
+            "초콜릿 맛 시리얼"
+        ],
+        "category": [
+            "packaged foods",
+            "packaged foods",
+            "packaged foods"
+        ]
+    },
+    "sentence94": {
+        "sentence": "고대에, 창은 전투에서 사용되는 주요 무기였다.",
+        "entity": [
+            "창"
+        ],
+        "category": [
+            "cold weapon"
+        ]
+    },
+    "sentence95": {
+        "sentence": "광저우대극장에서 호평을 받은 뮤지컬이 초연되고 있고, 관중들은 배우들의 뛰어난 연기와 감동적인 노랫소리에 감동을 받았다.",
+        "entity": [
+            "광저우대극장",
+            "뮤지컬"
+        ],
+        "category": [
+            "theater/cinema",
+            "other art"
+        ]
+    },
+    "sentence96": {
+        "sentence": "반숭땃쥐 ( ''Chodsigoa caovansunga '' ) ( Lunde , Musser and Son , 2003 )",
+        "entity": [
+            "반숭땃쥐",
+            "Chodsigoa caovansunga"
+        ],
+        "category": [
+            "species",
+            "species"
+        ]
+    },
+    "sentence97": {
+        "sentence": "조선 세종 ( 재위 1418∼1450 ) 때 산불로 인해 불에 타고 그 후 다시 절을 세웠으나 임진왜란 ( 1592 ) 때 훼손되어 다시 절을 세웠다.",
+        "entity": [
+            "조선",
+            "세종",
+            "임진왜란"
+        ],
+        "category": [
+            "politician",
+            "politician",
+            "political/military event"
+        ]
+    },
+    "sentence98": {
+        "sentence": "청두 동역에서, 한 무리의 대학생들이 배웅하러 온 가족과 친구들에게 작별을 고하고, 학교로 돌아가 새 학기를 시작할 준비를 하고 있어.",
+        "entity": [
+            "청두 동역"
+        ],
+        "category": [
+            "station"
+        ]
+    },
+    "sentence99": {
+        "sentence": "GDP(국내총생산)는 한 국가에서 생산되는 재화와 서비스의 총 가치를 정량화하는 경제적 지표이다.",
+        "entity": [
+            "GDP",
+            "국내총생산"
+        ],
+        "category": [
+            "metrics",
+            "metrics"
+        ]
+    },
+    "sentence100": {
+        "sentence": "국내에도 들어와 있지만 구경하기가 매우 어려운데 , 경기도 파주시에 있는 세계악기박물관에서 실물을 관람할 수 있다 .",
+        "entity": [
+            "경기도",
+            "파주시",
+            "세계악기박물관"
+        ],
+        "category": [
+            "state or province",
+            "city",
+            "museum"
+        ]
+    },
+    "sentence101": {
+        "sentence": "쓰촨성 청두의 중차 전동승용차 생산기지에서, 엔지니어들은 곧 생산될 신에너지 버스의 마지막 시운전을 하고 있다.",
+        "entity": [
+            "쓰촨성 청두",
+            "중차 전동승용차 생산기지",
+            "신에너지 버스"
+        ],
+        "category": [
+            "city",
+            "factory",
+            "car"
+        ]
+    },
+    "sentence102": {
+        "sentence": "닝보 저우산항에서 대형 유람선 한 척이 국제 여객 터미널에 정박하고 있고, 세계 각지의 관광객들이 입국 수속을 하고 있다.",
+        "entity": [
+            "닝보 저우산항",
+            "국제 여객 터미널",
+            "대형 유람선"
+        ],
+        "category": [
+            "port",
+            "other transportation facility",
+            "water"
+        ]
+    },
+    "sentence103": {
+        "sentence": "급습 도중, 경찰은 용의자들이 즉석 폭발물의 일종인 파이프 폭탄을 제조하고 있던 작업장을 발견했다.",
+        "entity": [
+            "파이프 폭탄"
+        ],
+        "category": [
+            "explosives"
+        ]
+    },
+    "sentence104": {
+        "sentence": "이경은 의사들이 외이도와 고막을 검사하기 위해 사용하는 휴대용 장치로, 귀 감염 진단을 돕습니다.",
+        "entity": [
+            "이경",
+            "귀 감염"
+        ],
+        "category": [
+            "other medical entity",
+            "disease"
+        ]
+    },
+    "sentence105": {
+        "sentence": "폭발은 즉석 폭발물의 일반적인 성분인 질산암모늄으로 채워진 수제 장치로 인해 발생했습니다.",
+        "entity": [
+            "질산암모늄",
+            "수제 장치"
+        ],
+        "category": [
+            "explosives",
+            "explosives"
+        ]
+    },
+    "sentence106": {
+        "sentence": "그러나 관우는 매복을 두려워하지 않고 왕보와 주창 ( 周倉 ) 을 맥성에 남긴 다음 익주로 가다가 붙잡혀 죽었다 .",
+        "entity": [
+            "관우",
+            "왕보",
+            "주창",
+            "맥성",
+            "익주"
+        ],
+        "category": [
+            "military",
+            "military",
+            "military",
+            "city",
+            "region"
+        ]
+    },
+    "sentence107": {
+        "sentence": "산성의 북쪽에는 금강이 흐르고 해발 110m의 능선에 위치하는 천연의 요새로서 동서로 약 800m 남북으로 약 400m 정도의 장방형을 이루고 있다.",
+        "entity": [
+            "금강"
+        ],
+        "category": [
+            "water body"
+        ]
+    },
+    "sentence108": {
+        "sentence": "성남시민을 대상으로 한 여론조사에 따르면 성남공항의 민간 활용을 반대하는 주민은 56 % 로 , 반대가 찬성보다 더 많았다.",
+        "entity": [
+            "성남공항"
+        ],
+        "category": [
+            "airport"
+        ]
+    },
+    "sentence109": {
+        "sentence": "또 조운사 ( 漕運使 ) 가로 ( 賈魯 ) 의 건의를 받아들여 황하 보수 공사를 시작해 5개월후 수로를 정상으로 회복시켰다 .",
+        "entity": [
+            "조운사",
+            "가로",
+            "황하"
+        ],
+        "category": [
+            "other person",
+            "other person",
+            "water body"
+        ]
+    },
+    "sentence110": {
+        "sentence": "그 후 몇몇 레이블에서도 데모에 대해 긍정적인 반응을 보였고 레즈너는 마침내 첫 번째 레이블인 TVT 레코드와 정식 계약을 맺는다.",
+        "entity": [
+            "레즈너",
+            "TVT 레코드"
+        ],
+        "category": [
+            "musician",
+            "company"
+        ]
+    },
+    "sentence111": {
+        "sentence": "이 동맹에는 교황령 , 스페인 , 제노바 공화국 , 베네치아 공화국과 몰타 기사단이 참가해 발바롯사에게 대항했다 .",
+        "entity": [
+            "교황령",
+            "스페인",
+            "제노바 공화국",
+            "베네치아 공화국",
+            "몰타 기사단",
+            "발바롯사"
+        ],
+        "category": [
+            "country",
+            "country",
+            "country",
+            "country",
+            "political/military",
+            "military"
+        ]
+    },
+    "sentence112": {
+        "sentence": "죽전역 , 수지구청 , 상현1동 , 광교호수마을 , 법원4 , 영통입구 , 영통역 , 망포역 , 신영통 , 예당마을 , 동탄고교",
+        "entity": [
+            "죽전역",
+            "수지구청",
+            "상현1동",
+            "광교호수마을",
+            "법원4",
+            "영통입구",
+            "영통역",
+            "망포역",
+            "신영통",
+            "예당마을",
+            "동탄고교"
+        ],
+        "category": [
+            "station",
+            "government facility",
+            "district",
+            "district",
+            "address",
+            "address",
+            "station",
+            "station",
+            "district",
+            "district",
+            "school"
+        ]
+    },
+    "sentence113": {
+        "sentence": "화학 운동학의 속도 법칙은 반응물의 농도와 속도 상수에 따라 반응의 속도를 결정합니다.",
+        "entity": [
+            "화학 운동학",
+            "속도 법칙"
+        ],
+        "category": [
+            "chemical theory",
+            "chemical theory"
+        ]
+    },
+    "sentence114": {
+        "sentence": "항저우 서호변의 호화 별장 구역 내에서, 주인들은 자신의 개인 화원에서 주말 바비큐 파티를 열고, 한가로운 생활을 즐기고 있다.",
+        "entity": [
+            "항저우 서호변",
+            "호화 별장 구역"
+        ],
+        "category": [
+            "other address",
+            "residential"
+        ]
+    },
+    "sentence115": {
+        "sentence": "운남 푸얼의 유기농 차밭에서, 차 농부들은 봄차의 새싹을 세심하게 따고, 고품질의 푸얼차를 만들기 위해 준비하고 있어.",
+        "entity": [
+            "운남 푸얼",
+            "유기농 차밭",
+            "푸얼차"
+        ],
+        "category": [
+            "city",
+            "farm",
+            "other food"
+        ]
+    },
+    "sentence116": {
+        "sentence": "우한체육센터의 배드민턴장에서, 한 무리의 아마추어들이 구기를 배우고, 이 스포츠가 가져다주는 즐거움과 도전을 즐기고 있다.",
+        "entity": [
+            "우한체육센터"
+        ],
+        "category": [
+            "sports facility"
+        ]
+    },
+    "sentence117": {
+        "sentence": "세계 경제 포럼(WEF) 연례 회의는 경제, 정치 및 환경 문제를 논의하기 위해 글로벌 지도자들을 모은다.",
+        "entity": [
+            "세계 경제 포럼",
+            "WEF"
+        ],
+        "category": [
+            "conference",
+            "conference"
+        ]
+    },
+    "sentence118": {
+        "sentence": "현재 FC 인테르나치오날레 밀라노에서 볼로냐 FC 1909로 임대되어 뛰고 있으며 , 또한 타이데르는 알제리 축구 국가대표팀의 일원이기도 하다.",
+        "entity": [
+            "FC 인테르나치오날레 밀라노",
+            "볼로냐 FC 1909",
+            "타이데르",
+            "알제리 축구 국가대표팀"
+        ],
+        "category": [
+            "sports team/league",
+            "sports team/league",
+            "athlete",
+            "sports team/league"
+        ]
+    },
+    "sentence119": {
+        "sentence": "카라바지오의 그림에서 볼 수 있는 바로크 예술은 빛, 그림자, 강렬한 감정 표현을 극적으로 사용하는 것으로 유명합니다.",
+        "entity": [
+            "카라바지오",
+            "바로크 예술"
+        ],
+        "category": [
+            "artist",
+            "visual art genre"
+        ]
+    },
+    "sentence120": {
+        "sentence": "레알은 베르나베우에서 열린 1차전에서 2-1로 이겼고 , 2차전에서는 아틀레티코가 ''메트로폴리타노 '' 에서 1-0으로 이겼다.",
+        "entity": [
+            "베르나베우",
+            "아틀레티코",
+            "메트로폴리타노"
+        ],
+        "category": [
+            "sports facility",
+            "sports team/league",
+            "sports facility"
+        ]
+    },
+    "sentence121": {
+        "sentence": "유럽은 역사와 현대의 매혹적인 조화를 가지고 있으며, 대륙 전역에 많은 고대 랜드마크가 흩어져 있습니다.",
+        "entity": [
+            "유럽"
+        ],
+        "category": [
+            "continent"
+        ]
+    },
+    "sentence122": {
+        "sentence": "북쪽엔 사모라 주와 , 북동쪽엔 바야돌리드 주 , 동쪽엔 아빌라 주 , 남쪽엔 카세레스 주 , 서쪽엔 포르투갈와 맞대고 있다 .",
+        "entity": [
+            "사모라 주",
+            "바야돌리드 주",
+            "아빌라 주",
+            "카세레스 주",
+            "포르투갈"
+        ],
+        "category": [
+            "state or province",
+            "state or province",
+            "state or province",
+            "state or province",
+            "country"
+        ]
+    },
+    "sentence123": {
+        "sentence": "쌀, 해초, 생선을 조합한 스시 롤은 인기 있는 점심 선택이다.",
+        "entity": [
+            "스시 롤"
+        ],
+        "category": [
+            "other food"
+        ]
+    },
+    "sentence124": {
+        "sentence": "양자 화학은 원자와 분자에서 전자가 어떻게 행동하는지 설명하기 위해 양자 역학을 적용하여 화학 결합에 영향을 미칩니다.",
+        "entity": [
+            "양자 화학",
+            "양자 역학"
+        ],
+        "category": [
+            "chemical theory",
+            "physical theory"
+        ]
+    },
+    "sentence125": {
+        "sentence": "스피드보트는 파도를 통해 경주하며, 웨이크보드, 튜브, 수상 스키와 같은 활동을 즐기는 수상 스포츠 애호가들에게 이상적입니다.",
+        "entity": [
+            "스피드보트"
+        ],
+        "category": [
+            "water"
+        ]
+    },
+    "sentence126": {
+        "sentence": "그리고 인상적인 모습을 보이지 못 한 디에고 포를란과 잠파올로 파치니를 각각 SC 인테르나시오나우와 AC 밀란으로 보냈다.",
+        "entity": [
+            "디에고 포를란",
+            "잠파올로 파치니",
+            "SC 인테르나시오나우",
+            "AC 밀란"
+        ],
+        "category": [
+            "athlete",
+            "athlete",
+            "sports team/league",
+            "sports team/league"
+        ]
+    },
+    "sentence127": {
+        "sentence": "이때 조조는 은밀히 주령과 서황 ( 徐晃 ) 에게 밤중에 포판진 ( 蒲阪津 ) 을 건너 황하 ( 黃河 ) 서쪽에 진영을 만들도록 하였다.",
+        "entity": [
+            "조조",
+            "주령",
+            "서황",
+            "포판진",
+            "황하"
+        ],
+        "category": [
+            "military",
+            "military",
+            "military",
+            "port",
+            "water body"
+        ]
+    },
+    "sentence128": {
+        "sentence": "세트리스트는 In the Zone '' , ''Blackout '' 과 ''Circus '' 의 수록곡들로 이루어졌다 .",
+        "entity": [
+            "In the Zone",
+            "Blackout",
+            "Circus"
+        ],
+        "category": [
+            "album",
+            "album",
+            "album"
+        ]
+    },
+    "sentence129": {
+        "sentence": "유대인 연맹은 자선 프로그램과 종교 활동을 통해 전 세계 유대인 공동체를 지원합니다.",
+        "entity": [
+            "유대인 연맹"
+        ],
+        "category": [
+            "religious organization"
+        ]
+    },
+    "sentence130": {
+        "sentence": "잉글랜드 축구 국가대표팀에서는 26경기에 출전해 7골을 넣었으며 , 가장 최근에 출장한 대회는 2002년 FIFA 월드컵이다.",
+        "entity": [
+            "잉글랜드 축구 국가대표팀",
+            "FIFA 월드컵"
+        ],
+        "category": [
+            "sports team/league",
+            "sporting event"
+        ]
+    },
+    "sentence131": {
+        "sentence": "그러나 넥센은 7회말 1사 후 서건창의 볼넷 후 고종욱이 우중간을 가르는 1타점 3루타로 1점차로 만들었고 이후 1사 3루에서 이택근의 1루 땅볼로 고종욱이 들어오며 동점을 만드는데 성공했다.",
+        "entity": [
+            "넥센",
+            "서건창",
+            "고종욱",
+            "이택근"
+        ],
+        "category": [
+            "sports team/league",
+            "athlete",
+            "athlete",
+            "athlete"
+        ]
+    },
+    "sentence132": {
+        "sentence": "랴오닝성 대련의 LNG 수용소는 액화천연가스를 가득 실은 대형 수송선을 수취하여 동북지역에 청정에너지를 제공하고 있다.",
+        "entity": [
+            "랴오닝성 대련",
+            "LNG 수용소",
+            "액화천연가스"
+        ],
+        "category": [
+            "other gpe",
+            "energy",
+            "other product"
+        ]
+    },
+    "sentence133": {
+        "sentence": "유리 저장통에는 밀폐 뚜껑이 있어, 밥, 스파게티, 향신료 등 창고 물품의 신선함과 질서를 유지하기에 매우 적합해.",
+        "entity": [
+            "유리 저장통"
+        ],
+        "category": [
+            "household"
+        ]
+    },
+    "sentence134": {
+        "sentence": "항저우 서자호 사계절 호텔의 테라스에서, 한 쌍의 신혼부부가 낭만적인 결혼식을 올리고 있고, 호수와 산의 빛이 가장 아름다운 배경이 되었다.",
+        "entity": [
+            "항저우 서자호 사계절 호텔"
+        ],
+        "category": [
+            "hotel"
+        ]
+    },
+    "sentence135": {
+        "sentence": "목재 식탁은 재생목재로 수작업으로 만들어져, 가정식사와 모임에 소박하고 지속가능한 선택을 제공한다.",
+        "entity": [
+            "목재 식탁"
+        ],
+        "category": [
+            "household"
+        ]
+    },
+    "sentence136": {
+        "sentence": "루트비히 반 베토벤과 같은 전설이 작곡한 클래식 음악은 수세기 동안 지속된 오케스트라 편곡을 특징으로 한다.",
+        "entity": [
+            "루트비히 반 베토벤",
+            "클래식 음악"
+        ],
+        "category": [
+            "musician",
+            "music genre"
+        ]
+    },
+    "sentence137": {
+        "sentence": "피에르 드 페르마는 토리체리에 「삼각형의 세 꼭짓점으로부터의 거리의 합이 최소가 되는 점을 구하라」는 문제를 냈던 적이 있다 .",
+        "entity": [
+            "피에르 드 페르마",
+            "토리체리"
+        ],
+        "category": [
+            "scholar",
+            "scholar"
+        ]
+    },
+    "sentence138": {
+        "sentence": "하지만 팀은 당대 최고의 팀이었던 브라질과 펠레를 만났고 결국 패배하였고 그는 이 대회에서는 별다른 활약을 보이지 못하였다 .",
+        "entity": [
+            "브라질",
+            "펠레"
+        ],
+        "category": [
+            "country",
+            "athlete"
+        ]
+    },
+    "sentence139": {
+        "sentence": "사격장에서 참가자들은 무기를 제대로 장전하고 내리는 방법을 배운다.",
+        "entity": [
+            "무기"
+        ],
+        "category": [
+            "firearms"
+        ]
+    },
+    "sentence140": {
+        "sentence": "그의 음악에는 몇 차례 변화가 나타나는데 , 초기에는 12음주의와 바그너의 영향을 , 이후에는 앤틸리스 음악의 영향을 받았다.",
+        "entity": [
+            "바그너",
+            "앤틸리스"
+        ],
+        "category": [
+            "musician",
+            "region"
+        ]
+    },
+    "sentence141": {
+        "sentence": "많은 게이머들은 Discord의 신뢰성과 짧은 지연 시간 때문에 음성 채팅 소프트웨어로 Discord를 선호합니다.",
+        "entity": [
+            "Discord"
+        ],
+        "category": [
+            "software"
+        ]
+    },
+    "sentence142": {
+        "sentence": "비록 큰 배가 항해할 수 있는 해협이지만 , 남쪽 ( 드레이크 해협 ) 과 북쪽 ( 마젤란 해협 ) 에 더 안전한 수로가 존재한다.",
+        "entity": [
+            "드레이크 해협",
+            "마젤란 해협"
+        ],
+        "category": [
+            "water body",
+            "water body"
+        ]
+    },
+    "sentence143": {
+        "sentence": "첫 번째 판본이 보존된 문헌은 그 뒤로도 15세기와 16세기의 물건 6개가 있는데 , 이것들은 모두 어떤 식으로든 코나크타와 연관되어 있다.",
+        "entity": [
+            "코나크타"
+        ],
+        "category": [
+            "landmark"
+        ]
+    },
+    "sentence144": {
+        "sentence": "영국의 수도 런던의 북부 지역인 토트넘에 위치해있으며 프리미어리그에 소속되어있는 팀인 토트넘 홋스퍼의 홈구장이다 .",
+        "entity": [
+            "영국",
+            "런던",
+            "토트넘",
+            "프리미어리그",
+            "토트넘 홋스퍼"
+        ],
+        "category": [
+            "country",
+            "city",
+            "city",
+            "sports team/league",
+            "sports team/league"
+        ]
+    },
+    "sentence145": {
+        "sentence": "' '' 바다미술제 ( Sea Art Festival ) ' '' 는 대한민국 부산광역시에서 격년제로 개최되는 바다미술축제이다 .",
+        "entity": [
+            "바다미술제",
+            "Sea Art Festival",
+            "대한민국",
+            "부산광역시"
+        ],
+        "category": [
+            "other event",
+            "other event",
+            "country",
+            "city"
+        ]
+    },
+    "sentence146": {
+        "sentence": "1985년 라이브 에이드 콘서트는 아프리카의 기근 구호를 위해 수백만 달러를 모금했다.",
+        "entity": [
+            "라이브 에이드 콘서트",
+            "아프리카"
+        ],
+        "category": [
+            "other event",
+            "continent"
+        ]
+    },
+    "sentence147": {
+        "sentence": "그리스의 화산섬인 산토리니는 아름다운 일몰과 에게해의 숨막히는 경치를 제공합니다.",
+        "entity": [
+            "산토리니",
+            "에게해"
+        ],
+        "category": [
+            "island",
+            "water body"
+        ]
+    },
+    "sentence148": {
+        "sentence": "봉제인형은 아이들의 놀이 친구일 뿐만 아니라 어른들의 스트레스 해소에도 좋은 도우미가 되었다. 부드러운 촉감과 귀여운 외형은 사람들에게 따뜻함과 위안을 준다.",
+        "entity": [
+            "봉제인형"
+        ],
+        "category": [
+            "toys"
+        ]
+    },
+    "sentence149": {
+        "sentence": "펄서(pulsar)는 지구에서 일정한 펄스로 감지될 수 있는 방사선 광선을 방출하는 빠르게 회전하는 중성자별이다.",
+        "entity": [
+            "펄서",
+            "중성자별",
+            "지구"
+        ],
+        "category": [
+            "astronomical object",
+            "astronomical object",
+            "astronomical object"
+        ]
+    },
+    "sentence150": {
+        "sentence": "딥마인드가 개발한 AI인 알파고는 바둑 게임에서 세계 챔피언을 물리치면서 헤드라인을 장식했다.",
+        "entity": [
+            "알파고"
+        ],
+        "category": [
+            "ai"
+        ]
+    },
+    "sentence151": {
+        "sentence": "그는 2006년 FIFA 월드컵이 종료되는 대로 미들즈브러 FC에 합류할 것임을 확인하고 , 5년 계약을 체결하였다 .",
+        "entity": [
+            "2006년 FIFA 월드컵",
+            "미들즈브러 FC"
+        ],
+        "category": [
+            "sporting event",
+            "sports team/league"
+        ]
+    },
+    "sentence152": {
+        "sentence": "난징 박물관의 역사 긴 복도에서, 참관객들은 육조 문화를 이해하고, 이 고도의 유구한 역사의 저변을 느끼고 있어.",
+        "entity": [
+            "난징 박물관",
+            "육조 문화"
+        ],
+        "category": [
+            "museum",
+            "miscellaneous"
+        ]
+    },
+    "sentence153": {
+        "sentence": "하와이 제도는 무성한 열대 우림에서 활화산에 이르기까지 다양한 풍경으로 유명합니다.",
+        "entity": [
+            "하와이 제도"
+        ],
+        "category": [
+            "island"
+        ]
+    },
+    "sentence154": {
+        "sentence": "그러나 후일 성승의 묘로 전하는 묘소는 실전되었고 , 후대에 충청북도 홍성군에 성승 장군과 그보다 앞서 사망한 본부인의 묘소가 조성되었다.",
+        "entity": [
+            "성승",
+            "충청북도",
+            "홍성군"
+        ],
+        "category": [
+            "military",
+            "state or province",
+            "district"
+        ]
+    },
+    "sentence155": {
+        "sentence": "모차르트의 피아노 작품에는 종종 피아노 반주와 함께 솔로 악기를 위한 작곡인 소나타가 전시되어 있습니다.",
+        "entity": [
+            "모차르트",
+            "소나타"
+        ],
+        "category": [
+            "musician",
+            "other music"
+        ]
+    },
+    "sentence156": {
+        "sentence": "사례 연구는 심리학이나 교육과 같은 분야 내의 단일 주제, 현상 또는 그룹에 초점을 맞춘 상세한 과학적 조사이다.",
+        "entity": [
+            "사례 연구"
+        ],
+        "category": [
+            "other scientific entity"
+        ]
+    },
+    "sentence157": {
+        "sentence": "쾰른에서도 초반에 주전 자리를 꿰찼고 , 제루멜은 처음 2년간 인상적인 활약을 펼쳤으며 , 라 리가의 강호 레알 마드리드 CF는 그에 관심을 가지기도 하였다.",
+        "entity": [
+            "쾰른",
+            "레알 마드리드 CF"
+        ],
+        "category": [
+            "city",
+            "sports team/league"
+        ]
+    },
+    "sentence158": {
+        "sentence": "마다가스카르는 세계에서 네 번째로 큰 섬으로, 여우원숭이와 카멜레온과 같은 희귀한 동물들의 서식지이다.",
+        "entity": [
+            "마다가스카르"
+        ],
+        "category": [
+            "island"
+        ]
+    },
+    "sentence159": {
+        "sentence": "소복진 유가씨의 소생으로 출생하였으며 이복형 광서제 ( 光緖帝 ) 가 자식이 없이 죽자 짜이펑의 장남인 푸이가 황제가 되었다 .",
+        "entity": [
+            "소복진",
+            "유가씨",
+            "광서제",
+            "짜이펑",
+            "푸이"
+        ],
+        "category": [
+            "district",
+            "other person",
+            "politician",
+            "politician",
+            "politician"
+        ]
+    },
+    "sentence160": {
+        "sentence": "타임스 스퀘어의 새해 전야 볼 드롭은 매년 수백만 명의 사람들을 끌어들이는 상징적인 축하 행사입니다.",
+        "entity": [
+            "타임스 스퀘어",
+            "새해 전야 볼 드롭"
+        ],
+        "category": [
+            "landmark",
+            "other event"
+        ]
+    },
+    "sentence161": {
+        "sentence": "'콜 오브 듀티: 모던 워페어'는 다양한 글로벌 분쟁 지역을 배경으로 한 강렬하고 사실적인 1인칭 슈팅 액션을 제공합니다.",
+        "entity": [
+            "콜 오브 듀티: 모던 워페어"
+        ],
+        "category": [
+            "game"
+        ]
+    },
+    "sentence162": {
+        "sentence": "교향악단에서 바이올린 성부의 연주자들은 가지런히 활을 당기고, 은은한 거문고 소리는 다른 악기와 조화롭게 얽혀, 감동적인 멜로디를 이루고 있다.",
+        "entity": [
+            "바이올린",
+            "거문고"
+        ],
+        "category": [
+            "musical instruments",
+            "musical instruments"
+        ]
+    },
+    "sentence163": {
+        "sentence": "산업화가 노동자들에게 끼친 비도덕화에 괴로워하여 헨리 포드를 비판하였고 , 설교를 통해 노조를 조직하도록 돕거나 공장의 조립 라인이 초래하는 비인간적인 노동조건과 잘못된 근로관행에 관한 글을 썼다.",
+        "entity": [
+            "헨리 포드"
+        ],
+        "category": [
+            "business executive"
+        ]
+    },
+    "sentence164": {
+        "sentence": "파블로 피카소의 '게르니카'는 전쟁의 공포를 묘사하고 있으며 전 세계적으로 반전 정서의 상징이 되었다.",
+        "entity": [
+            "파블로 피카소",
+            "게르니카"
+        ],
+        "category": [
+            "artist",
+            "painting"
+        ]
+    },
+    "sentence165": {
+        "sentence": "베이징 이좡 경제기술개발구의 집적회로 제조공장에서 노동자들은 먼지 없는 옷을 입고 클린룸에서 칩 생산을 하고 있다.",
+        "entity": [
+            "베이징 이좡 경제기술개발구",
+            "집적회로 제조공장",
+            "클린룸"
+        ],
+        "category": [
+            "other gpe",
+            "factory",
+            "other facility"
+        ]
+    },
+    "sentence166": {
+        "sentence": "북두칠성 ( 北斗七星 ) 에 대하여 ' '' 남두육성 '' ' ( 南斗六星 ) 또는 줄여서 ' '' 남두 '' ' ( 南斗 ) 로 불리기도 한다.",
+        "entity": [
+            "북두칠성",
+            "남두육성",
+            "남두"
+        ],
+        "category": [
+            "astronomical object",
+            "astronomical object",
+            "astronomical object"
+        ]
+    },
+    "sentence167": {
+        "sentence": "군대에 의한 전염병에 감염된 벼룩의 확산은 생물학적 무기의 가장 초기 사용 중 하나로 기록되어 왔다.",
+        "entity": [
+            "생물학적 무기",
+            "전염병에 감염된 벼룩"
+        ],
+        "category": [
+            "biological",
+            "biological"
+        ]
+    },
+    "sentence168": {
+        "sentence": "제왕 ( 齊王 ) 이 즉위하고서는 감옹양제군사 ( 監雍凉諸軍事 ) 가 되었으며 , 가절을 받았고 정촉장군 ( 征蜀將軍 ) 으로 전임했으며 , 정서장군 ( 征西將軍 ) · 도독옹양 ( 都督雍凉 ) 으로 승진했다.",
+        "entity": [
+            "제왕",
+            "감옹양제군사",
+            "정촉장군",
+            "정서장군",
+            "도독옹양"
+        ],
+        "category": [
+            "politician",
+            "military",
+            "military",
+            "military",
+            "military"
+        ]
+    },
+    "sentence169": {
+        "sentence": "문수경기장 , 울산대학교 , 삼호 , 태화동 , 구시가지 ( 신중앙시장 ) , 학성공원 , 병영사거리 , 북구청남문 , 정자 , 신명휴게소",
+        "entity": [
+            "문수경기장",
+            "울산대학교",
+            "삼호",
+            "태화동",
+            "구시가지",
+            "신중앙시장",
+            "학성공원",
+            "병영사거리",
+            "북구청남문",
+            "정자",
+            "신명휴게소"
+        ],
+        "category": [
+            "sports facility",
+            "school",
+            "district",
+            "district",
+            "district",
+            "market/mall",
+            "park",
+            "road",
+            "road",
+            "other public facility",
+            "other public facility"
+        ]
+    },
+    "sentence170": {
+        "sentence": "아서 밀러의 '도가니'는 매카시즘의 공포와 편집증에 대한 우화로 살렘 마녀 재판을 사용합니다.",
+        "entity": [
+            "아서 밀러",
+            "도가니",
+            "살렘 마녀 재판"
+        ],
+        "category": [
+            "author",
+            "play",
+            "political/military event"
+        ]
+    },
+    "sentence171": {
+        "sentence": "하이킹 커뮤니티는 인근 산에서 매주 트레킹을 조직하여 피트니스와 자연 감상을 장려합니다.",
+        "entity": [
+            "하이킹 커뮤니티"
+        ],
+        "category": [
+            "other social group"
+        ]
+    },
+    "sentence172": {
+        "sentence": "난징 폴리대극장은 고전 경극을 상연하고 있는데, 무대 위의 배우들의 노래와 연기는 화려하고, 무대 아래의 관중들은 박수갈채가 끊이지 않는다.",
+        "entity": [
+            "난징 폴리대극장",
+            "경극"
+        ],
+        "category": [
+            "theater/cinema",
+            "other art"
+        ]
+    },
+    "sentence173": {
+        "sentence": "펩시코의 전 CEO인 인드라 누이는 지속 가능한 비즈니스 관행의 중요성과 장기적인 기업 성공에 미치는 영향에 대해 논의했다.",
+        "entity": [
+            "펩시코",
+            "인드라 누이"
+        ],
+        "category": [
+            "company",
+            "business executive"
+        ]
+    },
+    "sentence174": {
+        "sentence": "의학 박사(MD)는 개인이 면허가 있는 의사로 개업할 수 있는 자격을 부여합니다.",
+        "entity": [
+            "의학 박사",
+            "MD"
+        ],
+        "category": [
+            "educational degree",
+            "educational degree"
+        ]
+    },
+    "sentence175": {
+        "sentence": "사이클리스트는 다가오는 사이클링 대회의 도전적인 오르막 구간을 준비하면서 레이싱 바이크의 기어를 조정했습니다.",
+        "entity": [
+            "레이싱 바이크"
+        ],
+        "category": [
+            "bike"
+        ]
+    },
+    "sentence176": {
+        "sentence": "중국공상은행 서안고신구지점에서 한 무리의 기업가들이 은행기업 접견회에 참가하여 자금조달 지원을 구하고 있다.",
+        "entity": [
+            "중국공상은행",
+            "서안고신구지점",
+            "은행기업 접견회"
+        ],
+        "category": [
+            "bank",
+            "other facility",
+            "business event"
+        ]
+    },
+    "sentence177": {
+        "sentence": "관절통은 관절염, 부상 또는 감염의 증상일 수 있으며, 불편함과 움직임 제한으로 이어질 수 있습니다.",
+        "entity": [
+            "관절통",
+            "관절염"
+        ],
+        "category": [
+            "symptom",
+            "disease"
+        ]
+    },
+    "sentence178": {
+        "sentence": "북쪽에 있는 캄차카 반도나 홋카이도 등 추운 지방에서 건너온 영향으로 수온이 내려가는 겨울철 움직임이 활발해진다 .",
+        "entity": [
+            "캄차카 반도",
+            "홋카이도"
+        ],
+        "category": [
+            "region",
+            "state or province"
+        ]
+    },
+    "sentence179": {
+        "sentence": "마드리드 원고(이탈리아어: Codici di Madrid)는 다빈치의 원고, 즉 마드리드 원고 I과 II(I – Ms. 8937 i II – Ms. 8936), 그 중 I는 1490-99년 사이에 창작되었고, II는 1503-05년 사이에 창작되었다.",
+        "entity": [
+            "마드리드 원고",
+            "다빈치"
+        ],
+        "category": [
+            "other literature",
+            "artist"
+        ]
+    },
+    "sentence180": {
+        "sentence": "총 112 경기 동안 23골을 득점한 아이한이 가지안테프스포르에서 뛰는 4년 동안 팀은 역사적인 좋은 성적을 거뒀다 .",
+        "entity": [
+            "아이한",
+            "가지안테프스포르"
+        ],
+        "category": [
+            "athlete",
+            "sports team/league"
+        ]
+    },
+    "sentence181": {
+        "sentence": "이 곳은 알프스 산맥과 지중해 사이의 전략적으로 중요한 곳에 위치해 있어 예전부터 그 소속을 두고 분쟁이 잦았다 .",
+        "entity": [
+            "알프스 산맥",
+            "지중해"
+        ],
+        "category": [
+            "mountain",
+            "water body"
+        ]
+    },
+    "sentence182": {
+        "sentence": "감각에 기초한 물질 세계의 개념과 좀더 엄격한 수학적인 물질세계의 개념을 구별하는 가운데 , 데카르트는 후자가 더 객관적인 것이라는 입장을 취하였다.",
+        "entity": [
+            "데카르트"
+        ],
+        "category": [
+            "scholar"
+        ]
+    },
+    "sentence183": {
+        "sentence": "이렇게 조건 형성이 된 자극은 다른 중성자극도 조건 형성을 할 수 있는 힘이 생기는데 , 위의 파블로프의 개 실험에서 조건 형성이 된 종소리와 함께 파란 불빛을 보여주면 파란 불빛만 봐도 침을 흘리게 되는 것이다.",
+        "entity": [
+            "파블로프",
+            "개",
+            "종소리",
+            "파란 불빛"
+        ],
+        "category": [
+            "scholar",
+            "species",
+            "other product",
+            "other product"
+        ]
+    },
+    "sentence184": {
+        "sentence": "탄약을 어린이로부터 멀리 떨어진 안전한 장소에 보관하는 것이 중요합니다.",
+        "entity": [
+            "탄약"
+        ],
+        "category": [
+            "firearms"
+        ]
+    },
+    "sentence185": {
+        "sentence": "광저우 백조호텔의 로비에서 세계 각지의 관광객들이 이 유서 깊은 오성급 호텔을 체험하기 위해 체크인을 하고 있다.",
+        "entity": [
+            "광저우 백조호텔"
+        ],
+        "category": [
+            "hotel"
+        ]
+    },
+    "sentence186": {
+        "sentence": "아시아 각지의 근대교통은 육·해상 모두가 후진지역 개발을 위한 수단으로 , 유럽·아메리카의 선진국에 의하여 발달하기 시작하였다.",
+        "entity": [
+            "아시아",
+            "유럽",
+            "아메리카"
+        ],
+        "category": [
+            "region",
+            "region",
+            "region"
+        ]
+    },
+    "sentence187": {
+        "sentence": "드론은 하늘을 맴돌며 숨막히는 항공 영상을 포착했다.",
+        "entity": [
+            "드론"
+        ],
+        "category": [
+            "electronics"
+        ]
+    },
+    "sentence188": {
+        "sentence": "1964년 민권법은 인종, 피부색, 종교, 성별 또는 국적에 따른 차별을 금지합니다.",
+        "entity": [
+            "1964년 민권법"
+        ],
+        "category": [
+            "law"
+        ]
+    },
+    "sentence189": {
+        "sentence": "이 만화는 xkcd 포럼을 보는 사람들에게서 “광적인” 관심을 얻었고 , 토론 스레드에선 페이지가 2,000개를 넘고 게시글이 90,000개를 넘었다.",
+        "entity": [
+            "xkcd"
+        ],
+        "category": [
+            "website"
+        ]
+    },
+    "sentence190": {
+        "sentence": "가상 현실 헤드셋은 몰입형 경험을 제공하여 사용자를 게임이나 훈련을 위한 시뮬레이션 환경으로 안내합니다.",
+        "entity": [
+            "가상 현실 헤드셋"
+        ],
+        "category": [
+            "other technology"
+        ]
+    },
+    "sentence191": {
+        "sentence": "BAFTA 상은 영화, 텔레비전 및 비디오 게임의 우수성을 인정하기 위해 영국 영화 및 텔레비전 예술 아카데미에서 수여합니다.",
+        "entity": [
+            "BAFTA 상",
+            "영국 영화 및 텔레비전 예술 아카데미"
+        ],
+        "category": [
+            "artistic award",
+            "other non-commercial organization"
+        ]
+    },
+    "sentence192": {
+        "sentence": "기상 풍선은 다양한 관측 기구를 싣고 높은 하늘로 올라가 대기 데이터를 수집하여 과학자들이 날씨 변화와 기후 패턴을 연구하는 데 귀중한 정보를 제공합니다.",
+        "entity": [
+            "기상 풍선"
+        ],
+        "category": [
+            "air"
+        ]
+    },
+    "sentence193": {
+        "sentence": "일반 고등학교 <국어> 풀세트 교재는 총 5권으로, 그 중 필수 교재는 상, 하 2권으로 나뉘며, 선택적 필수 교재는 상, 중, 하 3권으로 나뉜다. 필수 교재는 한 권당 8단원으로, 7개의 학습 과제 그룹을 커버한다; 선택적 필수 교재는 한 권당 4단원으로, 6개의 학습 과제 그룹을 커버한다.",
+        "entity": [
+            "일반 고등학교 <국어> 풀세트 교재"
+        ],
+        "category": [
+            "other literature"
+        ]
+    },
+    "sentence194": {
+        "sentence": "부상으로 장기간 결장하였던 잉글랜드에서의 세 번째 시즌 이후 , 로번은 스페인의 레알 마드리드 CF에 €35M의 가격으로 매각되었다.",
+        "entity": [
+            "로번",
+            "레알 마드리드 CF"
+        ],
+        "category": [
+            "athlete",
+            "sports team/league"
+        ]
+    },
+    "sentence195": {
+        "sentence": "디에고 리베라의 공공 그림처럼 벽화는 큰 벽을 덮고 종종 역사적 또는 정치적 내러티브를 광범위한 청중에게 전달합니다.",
+        "entity": [
+            "디에고 리베라",
+            "벽화"
+        ],
+        "category": [
+            "artist",
+            "visual art genre"
+        ]
+    },
+    "sentence196": {
+        "sentence": "C++는 고성능과 효율성을 제공하여 시스템 소프트웨어, 게임 개발 및 실시간 시뮬레이션에 이상적입니다.",
+        "entity": [
+            "C++"
+        ],
+        "category": [
+            "programlang"
+        ]
+    },
+    "sentence197": {
+        "sentence": "난징 도서관의 자습 구역에서 대학생들은 열심히 공부하며, 다가오는 시험을 위해 마지막 스프린트를 하고 있고, 전체 공간은 집중적인 분위기로 가득 차 있다.",
+        "entity": [
+            "난징 도서관"
+        ],
+        "category": [
+            "library"
+        ]
+    },
+    "sentence198": {
+        "sentence": "그는 AIIB가 설립되면 ADB는 적절한 고려할 것이라고 설명하면서도 AIIB가 그 지역에서 물품 조달 및 사회적 안보에 대해 최선의 경험을 바탕으로 한 국제적 기준을 채택해달라고 요구했다.",
+        "entity": [
+            "AIIB",
+            "ADB"
+        ],
+        "category": [
+            "other non-commercial organization",
+            "other non-commercial organization"
+        ]
+    },
+    "sentence199": {
+        "sentence": "종종 오마하의 오라클이라고 불리는 워렌 버핏은 장기 투자와 자산 관리의 원칙에 대한 귀중한 통찰력을 계속 제공하고 있습니다.",
+        "entity": [
+            "워렌 버핏",
+            "오마하"
+        ],
+        "category": [
+            "business executive",
+            "city"
+        ]
+    },
+    "sentence200": {
+        "sentence": "북쪽으로는 테트 주 , 남쪽으로는 가자 주와 이냠바느 주 , 동쪽으로는 소팔라 주와 인접해 있으며 서쪽으로는 짐바브웨와 국경을 맞대고 있다.",
+        "entity": [
+            "테트 주",
+            "가자 주",
+            "이냠바느 주",
+            "소팔라 주",
+            "짐바브웨"
+        ],
+        "category": [
+            "state or province",
+            "state or province",
+            "state or province",
+            "state or province",
+            "country"
+        ]
+    },
+    "sentence201": {
+        "sentence": "이는 DC 코믹스의 배트맨 악당들과 견줄만한 숫자이며 , 과학적인 사고에 의하여 악당이 되거나 스파이더맨에게 원한을사서 악당이 된 경우가 대부분이다.",
+        "entity": [
+            "DC 코믹스",
+            "배트맨",
+            "스파이더맨"
+        ],
+        "category": [
+            "company",
+            "other figure",
+            "other figure"
+        ]
+    },
+    "sentence202": {
+        "sentence": "의왕역 , 부곡지구 , 용호고교 , 산본주공3.2단지 , 산본역 , 산본래미안A , 금정역 , 명학역 , 안양1번가 , 박달동 , 광명역 , 소하지구",
+        "entity": [
+            "의왕역",
+            "부곡지구",
+            "용호고교",
+            "산본주공3.2단지",
+            "산본역",
+            "산본래미안A",
+            "금정역",
+            "명학역",
+            "안양1번가",
+            "박달동",
+            "광명역",
+            "소하지구"
+        ],
+        "category": [
+            "station",
+            "district",
+            "school",
+            "residential",
+            "station",
+            "residential",
+            "station",
+            "station",
+            "address",
+            "district",
+            "station",
+            "district"
+        ]
+    },
+    "sentence203": {
+        "sentence": "자기부상열차의 연구개발 인력은 끊임없이 기술적 난관을 돌파하고 있으며, 이러한 고속, 저소음 교통수단이 미래 철도 운송의 새로운 방향을 이끌 수 있기를 바랍니다.",
+        "entity": [
+            "자기부상열차"
+        ],
+        "category": [
+            "rail"
+        ]
+    },
+    "sentence204": {
+        "sentence": "이어지는 다음 경기에서 , 그라델은 자신의 자리를 확고히 하였고 , 2-0으로 이긴 사우스엔드 유나이티드전에서 골을 추가하였다.",
+        "entity": [
+            "그라델",
+            "사우스엔드 유나이티드"
+        ],
+        "category": [
+            "athlete",
+            "sports team/league"
+        ]
+    },
+    "sentence205": {
+        "sentence": "황산(H2SO4)은 비료 생산 및 정제와 같은 산업 공정에서 널리 사용되는 부식성이 높은 화합물입니다.",
+        "entity": [
+            "황산",
+            "H2SO4"
+        ],
+        "category": [
+            "compound",
+            "compound"
+        ]
+    },
+    "sentence206": {
+        "sentence": "철도 신호 엔지니어들은 모든 열차가 안전하고 정시에 목적지에 도착할 수 있도록 제어 센터의 큰 화면을 면밀히 주시하고 있습니다.",
+        "entity": [
+            "열차",
+            "철도 신호 제어 센터"
+        ],
+        "category": [
+            "rail",
+            "other facility"
+        ]
+    },
+    "sentence207": {
+        "sentence": "피로는 극심한 피로로 특징지어지는 증상으로, 수면 부족, 스트레스 또는 의학적 상태로 인해 발생할 수 있습니다.",
+        "entity": [
+            "피로"
+        ],
+        "category": [
+            "symptom"
+        ]
+    },
+    "sentence208": {
+        "sentence": "'슈퍼 마리오 브라더스.'는 상징적인 캐릭터, 도전적인 레벨, 그리고 기억에 남는 음악으로 플랫폼 게임에 혁명을 일으켰다.",
+        "entity": [
+            "슈퍼 마리오 브라더스"
+        ],
+        "category": [
+            "game"
+        ]
+    },
+    "sentence209": {
+        "sentence": "사회학은 사회적 행동, 제도 및 인간 상호 작용을 조사하여 사회가 어떻게 기능하고 변화하는지 이해하는 데 도움을 줍니다.",
+        "entity": [
+            "사회학"
+        ],
+        "category": [
+            "discipline"
+        ]
+    },
+    "sentence210": {
+        "sentence": "장시성 간저우의 텅스텐 광산 생산 기지에서 기술자는 귀중한 광물을 최대한 추출하기 위해 선광 과정을 모니터링하고 있습니다.",
+        "entity": [
+            "장시성 간저우",
+            "텅스텐 광산 생산 기지",
+            "텅스텐"
+        ],
+        "category": [
+            "city",
+            "mine",
+            "other production facility"
+        ]
+    },
+    "sentence211": {
+        "sentence": "호흡곤란은 종종 천식, 심장병 또는 호흡기 감염과 관련된 우려되는 증상입니다.",
+        "entity": [
+            "호흡곤란",
+            "천식",
+            "심장병",
+            "호흡기 감염"
+        ],
+        "category": [
+            "symptom",
+            "disease",
+            "disease",
+            "disease"
+        ]
+    },
+    "sentence212": {
+        "sentence": "비다누에바는 현재 ' '' 수원교구 '' ' 외에 ' '' 청주교구 '' ' , ' '' 광주대교구 '' ' , ' '' 인천교구 '' ' , ' '' 대구대교구 '' ' 에서 이 피정을 진행하고 있다.",
+        "entity": [
+            "수원교구",
+            "청주교구",
+            "광주대교구",
+            "인천교구",
+            "대구대교구"
+        ],
+        "category": [
+            "other facility",
+            "other facility",
+            "other facility",
+            "other facility",
+            "other facility"
+        ]
+    },
+    "sentence213": {
+        "sentence": "불활성 원소인 헬륨은 풍선에 사용되며 의료용 MRI 기계의 초전도 자석의 냉각 매체로 사용됩니다.",
+        "entity": [
+            "헬륨",
+            "MRI"
+        ],
+        "category": [
+            "element",
+            "other technology"
+        ]
+    },
+    "sentence214": {
+        "sentence": "당시 북한 축구 대표팀은 박두익의 결승골로 이탈리아 축구 대표팀을 꺾었고 , 8강전에서 아깝게 역전패를 당했지만 포르투갈 축구 대표팀과 대등하게 맞섰다.",
+        "entity": [
+            "박두익",
+            "이탈리아 축구 대표팀",
+            "포르투갈 축구 대표팀"
+        ],
+        "category": [
+            "athlete",
+            "sports team/league",
+            "sports team/league"
+        ]
+    },
+    "sentence215": {
+        "sentence": "터키, 이라크, 이란에 퍼져 있는 민족 집단인 쿠르드족은 그들의 지역에서 더 큰 자치권을 추구한다.",
+        "entity": [
+            "터키",
+            "이라크",
+            "이란",
+            "쿠르드족"
+        ],
+        "category": [
+            "country",
+            "country",
+            "country",
+            "ethnic group"
+        ]
+    },
+    "sentence216": {
+        "sentence": "큰 키와 듬직한 체구에서 나오는 파워가 좋아 미국 유명 영화의 주인공인 '람보 ( Rambo ) '라는 별명을 얻었다 .",
+        "entity": [
+            "람보"
+        ],
+        "category": [
+            "other figure"
+        ]
+    },
+    "sentence217": {
+        "sentence": "내공생 이론은 진핵세포가 한 세포가 다른 세포를 집어삼킬 때 진화하여 미토콘드리아와 엽록체로 이어진다고 제안합니다.",
+        "entity": [
+            "내공생 이론",
+            "진핵세포",
+            "미토콘드리아",
+            "엽록체"
+        ],
+        "category": [
+            "biological theory",
+            "other biological entity",
+            "other biological entity",
+            "other biological entity"
+        ]
+    },
+    "sentence218": {
+        "sentence": "BAPS Swaminarayan Sanstha는 문화, 교육 및 지역 사회 활동에 참여하는 힌두교 종교 단체입니다.",
+        "entity": [
+            "BAPS Swaminarayan Sanstha"
+        ],
+        "category": [
+            "religious organization"
+        ]
+    },
+    "sentence219": {
+        "sentence": "로라타딘과 같은 항히스타민제는 체내 히스타민 수용체를 차단하여 알레르기 증상을 완화하는 데 도움을 준다.",
+        "entity": [
+            "로라타딘",
+            "항히스타민제"
+        ],
+        "category": [
+            "medication",
+            "medication"
+        ]
+    },
+    "sentence220": {
+        "sentence": "이오안니나는 아테네에서 북서쪽으로 450 km , 테살로니키에서 남서쪽으로 290 km , 이구메니차항에서 동쪽으로 80 km 거리에 떨어져 있다.",
+        "entity": [
+            "이오안니나",
+            "아테네",
+            "테살로니키",
+            "이구메니차항"
+        ],
+        "category": [
+            "city",
+            "city",
+            "city",
+            "port"
+        ]
+    },
+    "sentence221": {
+        "sentence": "다른 스토리라인도 존재했었는데 , 캐릭터가 상원 의원으로 고용되는 것으로 러빈은 이 이야기가 채택되었다면 바이오쇼크는 더욱 정치적이었을 것이었다고 했다.",
+        "entity": [
+            "바이오쇼크"
+        ],
+        "category": [
+            "game"
+        ]
+    },
+    "sentence222": {
+        "sentence": "메론키넨비의 시바타 아유미와는 사적으로도 사이가 좋아서 자주 함께 식사를 하러 가거나 서로의 집을 방문하거나 하고 있다.",
+        "entity": [
+            "메론키넨비",
+            "시바타 아유미"
+        ],
+        "category": [
+            "band",
+            "musician"
+        ]
+    },
+    "sentence223": {
+        "sentence": "미용사들은 살롱에서 가위와 염색약을 능숙하게 사용하여 고객에게 새로운 헤어스타일을 만들고 적절한 헤어 오일을 사용하여 최고의 개인 이미지를 보여줄 수 있도록 도와줍니다.",
+        "entity": [
+            "염색약",
+            "헤어 오일"
+        ],
+        "category": [
+            "personal care",
+            "personal care"
+        ]
+    },
+    "sentence224": {
+        "sentence": "그는 본래 주자의 학설을 신봉하면서 그것에 의한 실천궁행에 힘쓸 뿐 새로운 것을 추구하기를 즐기지 않아 학문적 태도에 있어서 사제간에 대비를 보여준다.",
+        "entity": [
+            "주자"
+        ],
+        "category": [
+            "miscellaneous"
+        ]
+    },
+    "sentence225": {
+        "sentence": "' '' 팀발랜드 '' ' Timberland ( Mosley Music Group / Blackground / Interscope )",
+        "entity": [
+            "팀발랜드",
+            "Mosley Music Group",
+            "Blackground",
+            "Interscope"
+        ],
+        "category": [
+            "musician",
+            "company",
+            "company",
+            "company"
+        ]
+    },
+    "sentence226": {
+        "sentence": "그들은 음악의 경계를 창조했고 , KUKL도 재결합했으나 곧 밴드의 이름을 The Sugarcubes - 슈가큐브스로 바꾸게 된다.",
+        "entity": [
+            "KUKL",
+            "The Sugarcubes"
+        ],
+        "category": [
+            "band",
+            "band"
+        ]
+    },
+    "sentence227": {
+        "sentence": "교육용 장난감의 설계자들은 학습 요소를 장난감에 교묘하게 통합하여 아이들이 노는 과정에서 수학, 언어 등의 지식을 배우게 하여 즐겁게 교육합니다.",
+        "entity": [
+            "교육용 장난감"
+        ],
+        "category": [
+            "toys"
+        ]
+    },
+    "sentence228": {
+        "sentence": "이것은 게이힌 도호쿠 선· 209계에 장착되고 있는 장치와 같은 장치로 양단의 선두차의 전면 발판 하부에 장착되어 있다 .",
+        "entity": [
+            "게이힌 도호쿠 선",
+            "209계"
+        ],
+        "category": [
+            "railway",
+            "railway"
+        ]
+    },
+    "sentence229": {
+        "sentence": "청두 태고리의 백려궁 영화관에서, 영화 팬들은 많은 기대를 받고 있는 할리우드 블록버스터 영화를 보고 있고, 하이테크 영화관이 가져다주는 시청각 향연을 즐기고 있다.",
+        "entity": [
+            "청두 태고리",
+            "백려궁 영화관",
+            "할리우드 블록버스터 영화"
+        ],
+        "category": [
+            "other address",
+            "theater/cinema",
+            "film"
+        ]
+    },
+    "sentence230": {
+        "sentence": "드롭박스의 클라우드 스토리지 소프트웨어는 어떤 기기에서든 문서에 쉽게 접근할 수 있게 해주며, 워크플로우 효율성을 향상시킨다.",
+        "entity": [
+            "드롭박스"
+        ],
+        "category": [
+            "software"
+        ]
+    },
+    "sentence231": {
+        "sentence": "곡예 비행 쇼에서 조종사는 전투기를 조종하여 공중에서 다양한 스릴 넘치는 동작을 수행하며 뛰어난 비행 기술과 감탄을 자아내는 공중 곡예를 선보였습니다.",
+        "entity": [
+            "전투기"
+        ],
+        "category": [
+            "air"
+        ]
+    },
+    "sentence232": {
+        "sentence": "이 일은 후에 가네다가 회장을 맡고 있던 일본 프로 야구 명구회의 가입을 거부한 원인이 되면서 입단 2년차 때에는 “장래에 비록 2000개의 안타를 쳤다고 해도 명구회에는 들어가지 않겠다”라고 단언했다.",
+        "entity": [
+            "가네다",
+            "일본 프로 야구",
+            "명구회"
+        ],
+        "category": [
+            "athlete",
+            "sports team/league",
+            "sports team/league"
+        ]
+    },
+    "sentence233": {
+        "sentence": "파블로 피카소와 조르주 브라크가 개발한 입체파는 기하학적 모양으로 다양한 관점에서 사물을 나타냅니다.",
+        "entity": [
+            "파블로 피카소",
+            "조르주 브라크",
+            "입체파"
+        ],
+        "category": [
+            "artist",
+            "artist",
+            "visual art genre"
+        ]
+    },
+    "sentence234": {
+        "sentence": "음반의 제목은 유년시절 켄드릭 라마의 순수함과 악명높은 도시인 Compton이 그의 삶에 어떤 영향을 미쳤는가를 보여준다.",
+        "entity": [
+            "켄드릭 라마",
+            "Compton"
+        ],
+        "category": [
+            "musician",
+            "city"
+        ]
+    },
+    "sentence235": {
+        "sentence": "''Odontolabis antilope '' von Rothenburg , 1901 - 보르네오 섬 , 수마트라 섬",
+        "entity": [
+            "Odontolabis antilope",
+            "보르네오 섬",
+            "수마트라 섬"
+        ],
+        "category": [
+            "species",
+            "island",
+            "island"
+        ]
+    },
+    "sentence236": {
+        "sentence": "제네바 협약은 전쟁 희생자의 인도주의적 대우를 관장하는 국제 조약이다.",
+        "entity": [
+            "제네바 협약"
+        ],
+        "category": [
+            "law"
+        ]
+    },
+    "sentence237": {
+        "sentence": "군사 엔지니어들은 전투 상황에서 수류탄과 대전차 지뢰를 포함한 폭발물을 처리하도록 훈련받았다.",
+        "entity": [
+            "수류탄",
+            "대전차 지뢰"
+        ],
+        "category": [
+            "explosives",
+            "explosives"
+        ]
+    },
+    "sentence238": {
+        "sentence": "그는 `` 그 정도로 엄청난 양의 열광적인 평가를 받았던 것은 30년 전 비틀즈의 Sgt. Pepper 's Lonely Hearts Club Band》가 발매된 이후 처음이었다 '' 고 덧붙였다.",
+        "entity": [
+            "비틀즈",
+            "Sgt. Pepper 's Lonely Hearts Club Band"
+        ],
+        "category": [
+            "band",
+            "album"
+        ]
+    },
+    "sentence239": {
+        "sentence": "퍼즐은 아이들의 인내심과 집중력을 단련시킬 뿐만 아니라 노인들이 두뇌의 활력을 유지하도록 도와 연령대를 초월한 인기 있는 장난감이 되었다.",
+        "entity": [
+            "퍼즐"
+        ],
+        "category": [
+            "toys"
+        ]
+    },
+    "sentence240": {
+        "sentence": "광저우 타오타오주 술집의 딤섬 홀에서, 식객들은 각양각색의 광둥식 딤섬을 맛보고 있으며, 정통 광저우 모닝 티 문화를 체험하고 있다.",
+        "entity": [
+            "광저우 타오타오주 술집",
+            "광저우"
+        ],
+        "category": [
+            "restaurant",
+            "city"
+        ]
+    },
+    "sentence241": {
+        "sentence": "평소 이적 ( 伊籍 ) , 상랑 ( 向朗 ) , 곽준 ( 霍峻 ) , 위연 ( 魏延 ) 등의 유기파와 함께 유기를 형주의 주인으로 옹립하고자 했다.",
+        "entity": [
+            "이적",
+            "상랑",
+            "곽준",
+            "위연",
+            "유기",
+            "형주"
+        ],
+        "category": [
+            "mythological figure",
+            "mythological figure",
+            "mythological figure",
+            "mythological figure",
+            "mythological figure",
+            "region"
+        ]
+    },
+    "sentence242": {
+        "sentence": "아목시실린과 같은 항생제는 박테리아의 성장을 죽이거나 억제함으로써 세균 감염을 치료하는 데 사용됩니다.",
+        "entity": [
+            "아목시실린",
+            "항생제"
+        ],
+        "category": [
+            "medication",
+            "medication"
+        ]
+    },
+    "sentence243": {
+        "sentence": "그녀의 할머니의 사과 파이는, 부드러운 크러스트를 가지고 있어, 항상 휴일의 하이라이트이다.",
+        "entity": [
+            "사과 파이"
+        ],
+        "category": [
+            "other food"
+        ]
+    },
+    "sentence244": {
+        "sentence": "여기에 반박하고 '전적 타락'설을 주장한 것이 루터의 《노예의지론 ( Bondage of the Will ) 》이다 .",
+        "entity": [
+            "루터",
+            "노예의지론"
+        ],
+        "category": [
+            "author",
+            "non-fiction"
+        ]
+    },
+    "sentence245": {
+        "sentence": "엄청난 힘을 가진 반신반인 헤라클레스는 과거의 잘못을 깨끗이 하기 위해 참회로 거의 불가능한 열두 가지 노동을 했다.",
+        "entity": [
+            "헤라클레스"
+        ],
+        "category": [
+            "mythological figure"
+        ]
+    },
+    "sentence246": {
+        "sentence": "\"J의 사랑 노래. T.S.의 Alfred Prufrock\" 엘리엇은 우유부단함, 갈망, 그리고 늙어가는 것에 대한 두려움의 주제를 탐구한다.",
+        "entity": [
+            "T.S. 엘리엇",
+            "J의 사랑 노래. Alfred Prufrock"
+        ],
+        "category": [
+            "author",
+            "poem"
+        ]
+    },
+    "sentence247": {
+        "sentence": "신장 하미의 대형 태양광 발전소에는 수천 개의 태양전지판이 햇빛을 흡수하여 사막을 녹색 에너지의 바다로 바꾸고 있다.",
+        "entity": [
+            "신장 하미",
+            "태양광 발전소"
+        ],
+        "category": [
+            "other gpe",
+            "energy"
+        ]
+    },
+    "sentence248": {
+        "sentence": "관성은 뉴턴의 제1운동법칙의 핵심 개념인 운동 상태의 변화에 대한 물체의 저항이다.",
+        "entity": [
+            "관성",
+            "뉴턴의 제1운동법칙"
+        ],
+        "category": [
+            "physical phenomenon",
+            "physical theory"
+        ]
+    },
+    "sentence249": {
+        "sentence": "시장에서, 그들은 인상적인 샤쿠테리 보드를 만들기 위해 다양한 치즈를 샀다.",
+        "entity": [
+            "치즈",
+            "샤쿠테리 보드"
+        ],
+        "category": [
+            "other food",
+            "other food"
+        ]
+    },
+    "sentence250": {
+        "sentence": "생물심리사회적 모델은 건강과 질병에 생물학적, 심리적, 사회적 요인을 통합하는 포괄적인 의학 이론이다.",
+        "entity": [
+            "생물심리사회적 모델"
+        ],
+        "category": [
+            "medical theory"
+        ]
+    },
+    "sentence251": {
+        "sentence": "서쪽은 오카야마 현 비젠 시 , 남쪽은 아코 시 , 동쪽은 아이오이 시와 다쓰노 시 , 북쪽은 사요 군의 사요 정에 접한다 .",
+        "entity": [
+            "오카야마 현",
+            "비젠 시",
+            "아코 시",
+            "아이오이 시",
+            "다쓰노 시",
+            "사요 군",
+            "사요 정"
+        ],
+        "category": [
+            "state or province",
+            "city",
+            "city",
+            "city",
+            "city",
+            "district",
+            "district"
+        ]
+    },
+    "sentence252": {
+        "sentence": "내셔널 북 어워드는 소설, 논픽션, 시, 청소년 문학 분야에서 문학에 상당한 공헌을 한 미국 작가들을 기립니다.",
+        "entity": [
+            "내셔널 북 어워드"
+        ],
+        "category": [
+            "literary award"
+        ]
+    },
+    "sentence253": {
+        "sentence": "랴오닝성 대련의 인텔 칩 공장에서 기술자들은 먼지 없는 작업장에서 칩 제조를 진행하여 모든 공정의 정확성을 보장하고 있습니다.",
+        "entity": [
+            "랴오닝성 대련",
+            "인텔 칩 공장",
+            "칩"
+        ],
+        "category": [
+            "city",
+            "factory",
+            "electronics"
+        ]
+    },
+    "sentence254": {
+        "sentence": "식물 세포의 큰 저장 소기관인 액포는 수분, 영양소 및 노폐물을 보유하여 세포 항상성을 유지합니다.",
+        "entity": [
+            "액포"
+        ],
+        "category": [
+            "other biological entity"
+        ]
+    },
+    "sentence255": {
+        "sentence": "Why “Open Source” misses the point of Free Software , by Richard Stallman",
+        "entity": [
+            "Open Source",
+            "Free Software",
+            "Richard Stallman"
+        ],
+        "category": [
+            "software",
+            "software",
+            "scholar"
+        ]
+    },
+    "sentence256": {
+        "sentence": "나트륨은 체액 균형을 유지하고 인체에서 신경 자극을 전달하는 데 필수적인 요소입니다.",
+        "entity": [
+            "나트륨"
+        ],
+        "category": [
+            "element"
+        ]
+    },
+    "sentence257": {
+        "sentence": "서안 박물관 안, 병마용 전시장 앞은 국내외 관광객들로 가득 차 있었고, 모두들 천년 동안 잠자고 있는 지하 군단에 충격을 받았다.",
+        "entity": [
+            "서안 박물관",
+            "병마용"
+        ],
+        "category": [
+            "museum",
+            "landmark"
+        ]
+    },
+    "sentence258": {
+        "sentence": "한편 실록 편찬 제도가 제대로 성립된 것은 당나라 때로 , 이후 송나라를 거치며 체제가 지속적으로 정비되어 청나라 광서제 때까지 계속 편찬되었다.",
+        "entity": [
+            "당나라",
+            "송나라",
+            "청나라",
+            "광서제"
+        ],
+        "category": [
+            "miscellaneous",
+            "miscellaneous",
+            "miscellaneous",
+            "miscellaneous"
+        ]
+    },
+    "sentence259": {
+        "sentence": "난징 부자묘 상권에서, 관광객들은 고풍스러운 건축물에서 각종 강남 특색 상품과 수공예품을 사고 있다.",
+        "entity": [
+            "난징 부자묘 상권"
+        ],
+        "category": [
+            "market/mall"
+        ]
+    },
+    "sentence260": {
+        "sentence": "워너 브라더스 / Dovemead Film Export A.G. / International Film Productions",
+        "entity": [
+            "워너 브라더스",
+            "Dovemead Film Export A.G.",
+            "International Film Productions"
+        ],
+        "category": [
+            "media",
+            "media",
+            "media"
+        ]
+    },
+    "sentence261": {
+        "sentence": "베니스 비엔날레 골든 라이온은 영화, 시각 예술 및 건축 부문과 함께 예술 분야에서의 업적에 수여되는 상입니다.",
+        "entity": [
+            "베니스 비엔날레 골든 라이온",
+            "베니스 비엔날레"
+        ],
+        "category": [
+            "artistic award",
+            "other event"
+        ]
+    },
+    "sentence262": {
+        "sentence": "뉴욕 타임스는 “파이퍼의 역할은 대사가 충분하진 않지만 , 그녀의 연기는 수줍음을 타는 사람도 눈을 뗄 수 없게 만들 만큼 숙련되었다.”라고 썼다.",
+        "entity": [
+            "뉴욕 타임스",
+            "파이퍼"
+        ],
+        "category": [
+            "media",
+            "actor"
+        ]
+    },
+    "sentence263": {
+        "sentence": "진행자인 손석희 교수가 `` ( 김이태 연구원이 ) 그 연구결과물을 놓고 나름대로 분석을 한 결과라고 이야기한 것 아니겠냐 '' 고 질문했을 때도 박석순 교수는 거듭 `` 어떤 연구 결과물에 대해서도 요청을 한 적이라든가 이런 게 전혀 없다 '' 며 자신의 주장을 되풀이했다.",
+        "entity": [
+            "손석희",
+            "김이태",
+            "박석순"
+        ],
+        "category": [
+            "scholar",
+            "scholar",
+            "scholar"
+        ]
+    },
+    "sentence264": {
+        "sentence": "서안 콘서트홀에서 유명한 피아니스트 랑랑이 개인 독주 콘서트를 열고 있는데, 그의 신진한 연주 기교는 관중들을 빠져들게 했다.",
+        "entity": [
+            "서안 콘서트홀",
+            "랑랑"
+        ],
+        "category": [
+            "theater/cinema",
+            "musician"
+        ]
+    },
+    "sentence265": {
+        "sentence": "메카는 사우디아라비아 메카 주의 주도로 , 시정은 중앙정부에 의해 임명되는 시장과 14명의 지방의회 의원들에 의해 운영된다 .",
+        "entity": [
+            "메카",
+            "사우디아라비아",
+            "메카 주"
+        ],
+        "category": [
+            "city",
+            "country",
+            "state or province"
+        ]
+    },
+    "sentence266": {
+        "sentence": "새러토가에서 두 차례 전투를 벌였지만 , 이후 전멸의 위기에 처해 호레이쇼 게이츠와 협상을 시작할 수밖에 없었다 .",
+        "entity": [
+            "새러토가",
+            "호레이쇼 게이츠"
+        ],
+        "category": [
+            "city",
+            "military"
+        ]
+    },
+    "sentence267": {
+        "sentence": "아리스토텔레스가 이 개념을 계승해 , 미메시스가 인간의 본래의 마음이며 , 제예방법의 양식이 되고 있다고 했다 .",
+        "entity": [
+            "아리스토텔레스",
+            "미메시스"
+        ],
+        "category": [
+            "scholar",
+            "miscellaneous"
+        ]
+    },
+    "sentence268": {
+        "sentence": "테러 조직이 생물학적 무기로 사용하기 위해 보툴리눔 독소를 재배하려는 혐의를 받고 있다.",
+        "entity": [
+            "생물학적 무기",
+            "보툴리눔 독소"
+        ],
+        "category": [
+            "biological",
+            "biological"
+        ]
+    },
+    "sentence269": {
+        "sentence": "'테라코타 군대'는 수천 명의 실물 크기의 군인과 말들로 구성되어 있으며, 내세에서 그를 보호하기 위해 중국의 첫 번째 황제와 함께 묻혔다.",
+        "entity": [
+            "테라코타 군대",
+            "중국"
+        ],
+        "category": [
+            "sculpture",
+            "country"
+        ]
+    },
+    "sentence270": {
+        "sentence": "신경 정보 처리 시스템 회의(NeurIPS)는 인공 지능 및 심층 학습 연구를 위한 최고의 행사입니다.",
+        "entity": [
+            "신경 정보 처리 시스템 회의",
+            "NeurIPS"
+        ],
+        "category": [
+            "conference",
+            "conference"
+        ]
+    },
+    "sentence271": {
+        "sentence": "대차 중심간 거리에 대해서는 0번대와 같은 13,300mm 이지만 , 물받이 끝부분이 지요다선 내에서 한계를 충족하기 위해 첨단이 비스듬하게 깎여 있다.",
+        "entity": [
+            "지요다선"
+        ],
+        "category": [
+            "railway"
+        ]
+    },
+    "sentence272": {
+        "sentence": "쿠바 미사일 위기는 두 초강대국이 핵무기를 사용하겠다고 위협하면서 세계를 핵전쟁의 위기에 처하게 만들었다.",
+        "entity": [
+            "핵무기",
+            "쿠바 미사일 위기"
+        ],
+        "category": [
+            "nuclear",
+            "other event"
+        ]
+    },
+    "sentence273": {
+        "sentence": "2011.07.23~2014.03.09 / 2014.03.16~2015.08.09 / 2015.08.16~2016.02.21 주말 SBS 8 뉴스",
+        "entity": [
+            "SBS 8 뉴스"
+        ],
+        "category": [
+            "broadcast program"
+        ]
+    },
+    "sentence274": {
+        "sentence": "국제사법재판소나 상설중재재판소에서 민사소송을 하여 패소한 경우 , 또는 양국간의 회담을 통해서 , 가해국은 피해국에게 손해배상을 해야 한다.",
+        "entity": [
+            "국제사법재판소",
+            "상설중재재판소"
+        ],
+        "category": [
+            "political/military",
+            "political/military"
+        ]
+    },
+    "sentence275": {
+        "sentence": "어도비 포토샵과 같은 소프트웨어를 사용하여 만들어진 디지털 아트는 예술가들이 기술과 전통적인 기술을 혼합한 작품을 제작할 수 있게 해준다.",
+        "entity": [
+            "어도비 포토샵",
+            "디지털 아트"
+        ],
+        "category": [
+            "software",
+            "visual art genre"
+        ]
+    },
+    "sentence276": {
+        "sentence": "자이언트 팬더는 중국 고유의 사랑받는 종으로, 독특한 흑백 털과 대나무 식단으로 유명합니다.",
+        "entity": [
+            "자이언트 팬더",
+            "중국"
+        ],
+        "category": [
+            "species",
+            "country"
+        ]
+    },
+    "sentence277": {
+        "sentence": "조수는 달과 태양의 중력에 의해 발생하며, 해수면의 상승과 하락으로 이어진다.",
+        "entity": [
+            "조수",
+            "달",
+            "태양"
+        ],
+        "category": [
+            "physical phenomenon",
+            "astronomical object",
+            "astronomical object"
+        ]
+    },
+    "sentence278": {
+        "sentence": "Maya Angelou의 \"Still I Rise\"는 역경에 직면한 힘과 회복력에 대한 강력한 선언이다.",
+        "entity": [
+            "Maya Angelou",
+            "Still I Rise"
+        ],
+        "category": [
+            "author",
+            "poem"
+        ]
+    },
+    "sentence279": {
+        "sentence": "철도 교량 엔지니어들은 고공 작업의 위험을 무릅쓰고 철도 교량을 점검하고 유지하여 열차가 각종 지형을 안전하게 통과할 수 있도록 보장합니다.",
+        "entity": [
+            "철도 교량"
+        ],
+        "category": [
+            "railway"
+        ]
+    },
+    "sentence280": {
+        "sentence": "자동차 제조업체는 하이브리드 모델을 지속적으로 출시하여 연료 효율을 높이는 동시에 소비자에게 보다 친환경적인 선택을 제공하여 업계의 지속 가능한 발전을 촉진합니다.",
+        "entity": [
+            "하이브리드 모델"
+        ],
+        "category": [
+            "car"
+        ]
+    },
+    "sentence281": {
+        "sentence": "스탠리 컵은 아이스하키에서 플레이오프 우승을 차지한 NHL 팀에게 매년 수여된다.",
+        "entity": [
+            "스탠리 컵",
+            "NHL"
+        ],
+        "category": [
+            "sports award",
+            "sports team/league"
+        ]
+    },
+    "sentence282": {
+        "sentence": "7집의 또 다른 후속곡인 〈이별 그 후〉에서는 현재 많은 인기를 끌고 있는 한지민이 신인 시절에 출연해 얼굴이 알려지게 됐다 .",
+        "entity": [
+            "이별 그 후",
+            "한지민"
+        ],
+        "category": [
+            "song",
+            "actor"
+        ]
+    },
+    "sentence283": {
+        "sentence": "법 집행관들은 항상 불법 총기 밀매에 대해 우려하고 있다.",
+        "entity": [
+            "불법 총기"
+        ],
+        "category": [
+            "firearms"
+        ]
+    },
+    "sentence284": {
+        "sentence": "칭다오 하이얼 인터컨티넨탈 호텔의 오션뷰 룸에서, 휴가를 보내는 손님들은 베란다에서 일출을 감상하며, 이 해변 도시의 아름다운 풍경을 즐기고 있다.",
+        "entity": [
+            "칭다오 하이얼 인터컨티넨탈 호텔"
+        ],
+        "category": [
+            "hotel"
+        ]
+    },
+    "sentence285": {
+        "sentence": "'헝거 게임'에서와 같이 디스토피아 소설은 억압적인 사회를 묘사하고 권력, 통제, 반란의 주제를 탐구한다.",
+        "entity": [
+            "헝거 게임",
+            "디스토피아 소설"
+        ],
+        "category": [
+            "fiction",
+            "literature genre"
+        ]
+    },
+    "sentence286": {
+        "sentence": "강도 사건 동안, 범죄자는 리볼버를 휘두르며 계산원을 위협했다.",
+        "entity": [
+            "리볼버"
+        ],
+        "category": [
+            "firearms"
+        ]
+    },
+    "sentence287": {
+        "sentence": "에릭슨은 또한 인간에게 있어 '이드 ( id ) 의 역할'보다 '자아의 역할'을 중시한 자아 심리학의 창시자 중 한 명으로 여겨진다.",
+        "entity": [
+            "에릭슨"
+        ],
+        "category": [
+            "scholar"
+        ]
+    },
+    "sentence288": {
+        "sentence": "열역학은 물리적 시스템에서 열, 에너지 및 작업 간의 관계를 연구하는 물리 이론입니다.",
+        "entity": [
+            "열역학"
+        ],
+        "category": [
+            "physical theory"
+        ]
+    },
+    "sentence289": {
+        "sentence": "자기장은 자기력이 감지되어 전하를 띤 입자에 영향을 미치는 자석 주위의 영역입니다.",
+        "entity": [
+            "자기장"
+        ],
+        "category": [
+            "physical phenomenon"
+        ]
+    },
+    "sentence290": {
+        "sentence": "국외 거주자 커뮤니티는 본국 밖에 사는 사람들의 사회적 집단으로, 종종 외국 도시에서 긴밀한 네트워크를 형성합니다.",
+        "entity": [
+            "국외 거주자 커뮤니티"
+        ],
+        "category": [
+            "other social group"
+        ]
+    },
+    "sentence291": {
+        "sentence": "타임스》는 `` 스스로를 자랑스러워 할만큼 했다 '' 고 말했고 , 데일리 텔레그래프》는 영화에 대해 `` 마돈나는 전혀 가망없지 않은 첫 노력을 했지만 , 그냥 보관해 놓는게 좋을 것이다 '' 며 혹평을 했다.",
+        "entity": [
+            "타임스",
+            "데일리 텔레그래프",
+            "마돈나"
+        ],
+        "category": [
+            "media",
+            "media",
+            "musician"
+        ]
+    },
+    "sentence292": {
+        "sentence": "윔블던 트로피는 윔블던 챔피언십 우승자에게 주어지는 테니스에서 가장 탐나는 상 중 하나입니다.",
+        "entity": [
+            "윔블던 트로피",
+            "윔블던 챔피언십"
+        ],
+        "category": [
+            "sports award",
+            "sporting event"
+        ]
+    },
+    "sentence293": {
+        "sentence": "난징 장강터널의 감시센터에서 직원들은 터널 안의 교통상황을 면밀히 주시하고 있어 운전의 안전을 보장하고 있어.",
+        "entity": [
+            "난징 장강터널",
+            "감시센터"
+        ],
+        "category": [
+            "other address",
+            "other facility"
+        ]
+    },
+    "sentence294": {
+        "sentence": "인도의 다르질링 히말라야 철도는 가파른 언덕을 오르는 좁은 게이지 철도입니다.",
+        "entity": [
+            "다르질링 히말라야 철도",
+            "인도",
+            "히말라야"
+        ],
+        "category": [
+            "railway",
+            "country",
+            "mountain"
+        ]
+    },
+    "sentence295": {
+        "sentence": "샤먼항의 컨테이너 부두는 5G 네트워크 커버리지 업그레이드를 진행 중이며, 엔지니어들은 새로 설치한 설비를 조정하고 있다.",
+        "entity": [
+            "샤먼항",
+            "컨테이너 부두",
+            "5G 네트워크"
+        ],
+        "category": [
+            "port",
+            "other transportation facility",
+            "other technology"
+        ]
+    },
+    "sentence296": {
+        "sentence": "마이클 잭슨의 '빌리 진'은 잊을 수 없는 베이스라인과 스토리텔링으로 팝 음악에 혁명을 일으켰다.",
+        "entity": [
+            "마이클 잭슨",
+            "빌리 진"
+        ],
+        "category": [
+            "musician",
+            "song"
+        ]
+    },
+    "sentence297": {
+        "sentence": "( 6 시즌의 초반에서 , 케니는 여전히 공식적인 친구인 버터스를 도와준다 ) ; 게다가 몇몇의 그의 죽음은 살신성인을 보여 주기도 한다.",
+        "entity": [
+            "케니",
+            "버터스"
+        ],
+        "category": [
+            "other figure",
+            "other figure"
+        ]
+    },
+    "sentence298": {
+        "sentence": "프랑스가 미국에 선물한 '자유의 여신상'은 뉴욕 항구의 자유와 민주주의의 상징으로 서 있다.",
+        "entity": [
+            "자유의 여신상",
+            "프랑스",
+            "미국",
+            "뉴욕"
+        ],
+        "category": [
+            "sculpture",
+            "country",
+            "country",
+            "city"
+        ]
+    },
+    "sentence299": {
+        "sentence": "남아프리카 공화국의 블루 트레인 철도는 프리토리아와 케이프타운 사이를 운행하는 호화로운 옵션입니다.",
+        "entity": [
+            "블루 트레인 철도",
+            "남아프리카 공화국",
+            "프리토리아",
+            "케이프타운"
+        ],
+        "category": [
+            "railway",
+            "country",
+            "city",
+            "city"
+        ]
+    },
+    "sentence300": {
+        "sentence": "청바지 제조업체는 끊임없이 원단 기술을 혁신하여 더욱 편안하고 탄력 있는 신상 청바지를 출시하여 소비자의 편안함과 패션에 대한 이중 추구를 만족시켰습니다.",
+        "entity": [
+            "청바지"
+        ],
+        "category": [
+            "clothes"
+        ]
+    },
+    "sentence301": {
+        "sentence": "창업주인 정주영이 정계에서 입지를 굳히는데 실패한 이후 정몽구 , 정몽헌 등 2세대가 그룹을 이끄는 체제로 바뀌게 된다.",
+        "entity": [
+            "정주영",
+            "정몽구",
+            "정몽헌"
+        ],
+        "category": [
+            "business executive",
+            "business executive",
+            "business executive"
+        ]
+    },
+    "sentence302": {
+        "sentence": "와카마쓰 성 공격 첫날 대수문 앞에 북쪽 외성에서 농성하는 이들의 사격으로 공략에 시간이 걸리자 도사 번 부대의 엄호로 ​​출동했지만 , 총알이 오른쪽 허벅지를 관통하여 부상을 당했고 , 다음날 후송되었다.",
+        "entity": [
+            "와카마쓰 성",
+            "도사 번"
+        ],
+        "category": [
+            "landmark",
+            "other gpe"
+        ]
+    },
+    "sentence303": {
+        "sentence": "패의 사용법은 동일 하지만 패의 나열이 다르거나 , 공백 두어서 패를 배치하는 게임이 있으며 , 만리장성 등의 이름으로 불리고 있다.",
+        "entity": [
+            "만리장성"
+        ],
+        "category": [
+            "landmark"
+        ]
+    },
+    "sentence304": {
+        "sentence": "인은 DNA, RNA 및 ATP의 중요한 요소로, 세포 과정과 유전 물질에 에너지를 제공합니다.",
+        "entity": [
+            "인",
+            "DNA",
+            "RNA",
+            "ATP"
+        ],
+        "category": [
+            "element",
+            "other biological entity",
+            "other biological entity",
+            "other biological entity"
+        ]
+    },
+    "sentence305": {
+        "sentence": "제일신용협동조합 , 운암 ( 1,2,3,4,5단지 ) , 투마트 , 화성초교 , 매홀중 , 세교16,17단지 , 화성교육청 , 외삼미동입구 , 세마역 , 양산대림아파트",
+        "entity": [
+            "제일신용협동조합",
+            "운암",
+            "투마트",
+            "화성초교",
+            "매홀중",
+            "세교",
+            "화성교육청",
+            "외삼미동입구",
+            "세마역",
+            "양산대림아파트"
+        ],
+        "category": [
+            "bank",
+            "address",
+            "market/mall",
+            "school",
+            "school",
+            "address",
+            "political/military",
+            "address",
+            "station",
+            "residential"
+        ]
+    },
+    "sentence306": {
+        "sentence": "운남 문산의 인광 채굴구에서는 환경보호요원들이 수질과 토양을 검사하여 채굴활동이 주변환경을 오염시키지 않도록 하고 있다.",
+        "entity": [
+            "운남 문산",
+            "인광 채굴구"
+        ],
+        "category": [
+            "city",
+            "mine"
+        ]
+    },
+    "sentence307": {
+        "sentence": "콜로이드는 물에 부유된 지방 방울을 포함하는 우유와 같이 한 물질이 다른 물질 안에 분산되는 혼합물이다.",
+        "entity": [
+            "콜로이드"
+        ],
+        "category": [
+            "other chemical entity"
+        ]
+    },
+    "sentence308": {
+        "sentence": "'안네 프랑크의 일기'는 홀로코스트 동안 숨어 있던 유대인 소녀의 삶을 가슴 아프게 엿볼 수 있게 해준다.",
+        "entity": [
+            "안네 프랑크",
+            "안네 프랑크의 일기",
+            "홀로코스트"
+        ],
+        "category": [
+            "author",
+            "non-fiction",
+            "political/military event"
+        ]
+    },
+    "sentence309": {
+        "sentence": "심천시의 플렉시블 디스플레이 생산 라인에서 기술자는 신형 접이식 스크린 생산 설비를 시운전하여 디스플레이 기술의 혁신을 추진하고 있습니다.",
+        "entity": [
+            "심천시",
+            "플렉시블 디스플레이 생산 라인",
+            "접이식 스크린"
+        ],
+        "category": [
+            "city",
+            "factory",
+            "electronics"
+        ]
+    },
+    "sentence310": {
+        "sentence": "노벨 문학상은 문학에 대한 작가의 평생 공헌을 인정하는 세계에서 가장 존경받는 문학상 중 하나입니다.",
+        "entity": [
+            "노벨 문학상"
+        ],
+        "category": [
+            "literary award"
+        ]
+    },
+    "sentence311": {
+        "sentence": "대통령 자유 훈장은 국가 이익, 문화 또는 평화에 대한 중요한 공헌을 인정하는 미국에서 가장 높은 민간 상입니다.",
+        "entity": [
+            "대통령 자유 훈장",
+            "미국"
+        ],
+        "category": [
+            "other award",
+            "country"
+        ]
+    },
+    "sentence312": {
+        "sentence": "이에 조인은 번성에서 백성들까지 대동하여 저항하고 관우는 번성을 공격하던 도중 팔에 활을 맞고 부상을 당하나 명의 화타의 치료로 목숨을 구한다.",
+        "entity": [
+            "조인",
+            "번성",
+            "관우",
+            "화타"
+        ],
+        "category": [
+            "military",
+            "city",
+            "military",
+            "military"
+        ]
+    },
+    "sentence313": {
+        "sentence": "논란이 불거진 후 홍익대는 저소득층을 위해 예산 50억 원을 배정했고 , 연세대는 장학금 비율을 대폭 올리겠다고 발표했다 .",
+        "entity": [
+            "홍익대",
+            "연세대"
+        ],
+        "category": [
+            "school",
+            "school"
+        ]
+    },
+    "sentence314": {
+        "sentence": "안후이성 허페이의 경동방 디스플레이 공장에서 기술자는 청정실에서 방금 생산된 대형 OLED 패널을 검사하고 있다.",
+        "entity": [
+            "안후이성 허페이",
+            "경동방 디스플레이 공장",
+            "OLED 패널"
+        ],
+        "category": [
+            "city",
+            "factory",
+            "electronics"
+        ]
+    },
+    "sentence315": {
+        "sentence": "광저우 농촌 상업 은행의 VIP 재테크 센터에서 재테크 컨설턴트는 고객에게 개인화된 투자 제안과 재테크 계획을 제공하고 있습니다.",
+        "entity": [
+            "광저우 농촌 상업 은행",
+            "VIP 재테크 센터"
+        ],
+        "category": [
+            "bank",
+            "other facility"
+        ]
+    },
+    "sentence316": {
+        "sentence": "레이서들은 성능이 강한 스포츠카를 몰고 트랙을 질주하며, 뛰어난 운전 기술과 속도에 대한 극한의 추구를 보여주고 있다.",
+        "entity": [
+            "스포츠카"
+        ],
+        "category": [
+            "car"
+        ]
+    },
+    "sentence317": {
+        "sentence": "각 조의 1위와 2위팀들은 16강으로 진출하며 , 각 조의 3위팀들은 UEFA 유로파리그 2011-12로 무대를 옮겼다.",
+        "entity": [
+            "UEFA 유로파리그"
+        ],
+        "category": [
+            "sporting event"
+        ]
+    },
+    "sentence318": {
+        "sentence": "퀸의 '오페라의 밤'은 록, 오페라, 발라드를 포함한 다양한 음악 스타일을 야심찬 방식으로 혼합합니다.",
+        "entity": [
+            "퀸",
+            "오페라의 밤",
+            "록",
+            "오페라",
+            "발라드"
+        ],
+        "category": [
+            "band",
+            "song",
+            "music genre",
+            "music genre",
+            "music genre"
+        ]
+    },
+    "sentence319": {
+        "sentence": "광저우 중산대학 부속 제1병원의 소아과 병실에서, 어린이들은 전문 놀이 구역에서 즐겁게 놀고, 질병으로 인한 불편함을 잠시 잊었다.",
+        "entity": [
+            "광저우 중산대학 부속 제1병원",
+            "소아과"
+        ],
+        "category": [
+            "hospital",
+            "miscellaneous"
+        ]
+    },
+    "sentence320": {
+        "sentence": "'더 위쳐 3: 와일드 헌트'는 플레이어가 리비아의 괴물 사냥꾼 제럴트로 퀘스트에 착수하는 광대한 판타지 세계를 특징으로 합니다.",
+        "entity": [
+            "더 위쳐 3: 와일드 헌트",
+            "제럴트"
+        ],
+        "category": [
+            "game",
+            "other figure"
+        ]
+    },
+    "sentence321": {
+        "sentence": "사냥에서 석궁을 사용하는 것은 많은 지역에서 엄격하게 규제됩니다.",
+        "entity": [
+            "석궁"
+        ],
+        "category": [
+            "other weapon"
+        ]
+    },
+    "sentence322": {
+        "sentence": "개편된 위원회는 이전의 이름 그대로 국방위원회라는 명칭을 사용하였으나 , 대립하는 파벌이 모두 모인 대연정 형태였다 .",
+        "entity": [
+            "국방위원회"
+        ],
+        "category": [
+            "political/military"
+        ]
+    },
+    "sentence323": {
+        "sentence": "광저우 톈허청 쇼핑센터 안에는 사람들로 붐볈다. 마침 기념일 기간에, 고객들은 각 상점 사이를 오가며 마음에 드는 상품을 찾고 있다.",
+        "entity": [
+            "광저우 톈허청 쇼핑센터"
+        ],
+        "category": [
+            "market/mall"
+        ]
+    },
+    "sentence324": {
+        "sentence": "선전 복전항구에서 여행객들은 셀프통로를 통해 빠르게 통관절차를 밟고, 편리한 국경을 넘나드는 교통을 체험하고 있어.",
+        "entity": [
+            "선전 복전항구",
+            "셀프통로"
+        ],
+        "category": [
+            "port",
+            "other transportation facility"
+        ]
+    },
+    "sentence325": {
+        "sentence": "접이식 자전거는 쉽게 접어서 대중교통으로 운반하거나 작은 공간에 보관할 수 있기 때문에 도시 거주자에게 편리합니다.",
+        "entity": [
+            "접이식 자전거"
+        ],
+        "category": [
+            "bike"
+        ]
+    },
+    "sentence326": {
+        "sentence": "북쪽으로는 보고비네 시 , 동쪽으로는 브르베니차 시 , 남쪽으로는 고스티바르 시와 접하며 서쪽으로는 코소보와 국경을 접한다 .",
+        "entity": [
+            "보고비네 시",
+            "브르베니차 시",
+            "고스티바르 시",
+            "코소보"
+        ],
+        "category": [
+            "city",
+            "city",
+            "city",
+            "country"
+        ]
+    },
+    "sentence327": {
+        "sentence": "혈장에 풍부한 알부민은 삼투압을 유지하고 물질을 운반하는 데 중요한 역할을 한다.",
+        "entity": [
+            "알부민"
+        ],
+        "category": [
+            "protein"
+        ]
+    },
+    "sentence328": {
+        "sentence": "해리 포터의 가장 친한 친구 중 한 명인 헤르미온느 그레인저는 호그와트에서 공부에 탁월했고 어둠의 세력과의 싸움에서 중요한 역할을 했다.",
+        "entity": [
+            "해리 포터",
+            "헤르미온느 그레인저",
+            "호그와트"
+        ],
+        "category": [
+            "other figure",
+            "other figure",
+            "other geographical entity"
+        ]
+    },
+    "sentence329": {
+        "sentence": "시베리아 횡단 철도는 모스크바에서 블라디보스토크까지 러시아를 가로질러 뻗어 있으며, 광활한 풍경을 덮고 있다.",
+        "entity": [
+            "시베리아 횡단 철도",
+            "모스크바",
+            "블라디보스토크",
+            "러시아"
+        ],
+        "category": [
+            "railway",
+            "city",
+            "city",
+            "country"
+        ]
+    },
+    "sentence330": {
+        "sentence": "그가 태어나자 마자 아버지가 죽었고 가이우스는 형 티베리우스 그라쿠스와 누나 셈프로니아는 훌륭한 어머니의 지도를 받으며 자라났다.",
+        "entity": [
+            "가이우스",
+            "티베리우스 그라쿠스",
+            "셈프로니아"
+        ],
+        "category": [
+            "mythological figure",
+            "mythological figure",
+            "mythological figure"
+        ]
+    },
+    "sentence331": {
+        "sentence": "보험회사의 사무실은 닝보센터 B동 37층이다.",
+        "entity": [
+            "닝보센터 B동 37층"
+        ],
+        "category": [
+            "other address"
+        ]
+    },
+    "sentence332": {
+        "sentence": "북부는 주산즈카바루 ( ) 로 불리는 시라스로 형성된 대지가 펼쳐져 있고 기리시마 시와의 경계에 걸친 밭농사 지대를 이룬다 .",
+        "entity": [
+            "주산즈카바루",
+            "기리시마 시"
+        ],
+        "category": [
+            "region",
+            "city"
+        ]
+    },
+    "sentence333": {
+        "sentence": "종교개혁자들도 외경은 신앙적으로는 읽는 것은 유익하지만 일찍이 히에로니무스가 말한 바와 같이 교리에 근거가 되는 데는 결코 사용할 수 없다고 보았다.",
+        "entity": [
+            "히에로니무스"
+        ],
+        "category": [
+            "scholar"
+        ]
+    },
+    "sentence334": {
+        "sentence": "그리고 만년에는 미사곡과 《천지창조 ( 天地創造 ) Schöpfung》 ( 1798 ) , 《사계 ( 四季 ) Die Jahreszeiten》 ( 1801 ) 등 오라토리오풍의 교회음악의 명작을 남겼다.",
+        "entity": [
+            "미사곡",
+            "천지창조",
+            "Schöpfung",
+            "사계",
+            "Die Jahreszeiten"
+        ],
+        "category": [
+            "song",
+            "song",
+            "song",
+            "song",
+            "song"
+        ]
+    },
+    "sentence335": {
+        "sentence": "산화 환원(산화 환원) 반응은 호흡과 같은 과정에서 필수적인 물질 간의 전자 이동을 포함한다.",
+        "entity": [
+            "산화 환원 반응",
+            "산화 환원"
+        ],
+        "category": [
+            "reaction",
+            "reaction"
+        ]
+    },
+    "sentence336": {
+        "sentence": "민주당 예비경선에서는 다수의 후보들이 접전을 벌인 끝에 조지아 주 출신의 주지사였던 지미 카터가 후보로 선출되었다 .",
+        "entity": [
+            "민주당",
+            "조지아 주",
+            "지미 카터"
+        ],
+        "category": [
+            "political/military",
+            "state or province",
+            "politician"
+        ]
+    },
+    "sentence337": {
+        "sentence": "그러나 마라도나는 얼마 지나지 않아 폭력사태에 연루되면서 팀에서 방출당하는 수모를 겪고 SSC 나폴리로 팀을 옮겼다 .",
+        "entity": [
+            "마라도나",
+            "SSC 나폴리"
+        ],
+        "category": [
+            "athlete",
+            "sports team/league"
+        ]
+    },
+    "sentence338": {
+        "sentence": "사무라이 전사들은 전투에서 카타나를 능숙하게 사용하는 것으로 유명하다.",
+        "entity": [
+            "카타나"
+        ],
+        "category": [
+            "cold weapon"
+        ]
+    },
+    "sentence339": {
+        "sentence": "그 뒤 조선시대에 가서 세조가 속리산을 오를 때에도 진흙으로 된 길이라서 행차를 위해 얇은 박석을 운반하여 길을 정비하였다 한다.",
+        "entity": [
+            "세조",
+            "속리산"
+        ],
+        "category": [
+            "other person",
+            "mountain"
+        ]
+    },
+    "sentence340": {
+        "sentence": "템플턴상은 삶의 영적 차원을 확인하는 데 중요한 공헌을 한 개인을 기립니다.",
+        "entity": [
+            "템플턴상"
+        ],
+        "category": [
+            "other award"
+        ]
+    },
+    "sentence341": {
+        "sentence": "광저우 바이윈 국제공항의 수하물 찾는 구역에서 방금 도착한 여행객들은 자신의 짐이 컨베이어 벨트에 나타나기를 초조하게 기다리고 있다.",
+        "entity": [
+            "광저우 바이윈 국제공항",
+            "수하물 찾는 구역"
+        ],
+        "category": [
+            "airport",
+            "other transportation facility"
+        ]
+    },
+    "sentence342": {
+        "sentence": "그 때 그녀는 이미 자기 아버지의 씨를 뱃속에 갖고 있었는데 , 훗날 이 아이기스토스의 손에 아트레우스는 죽고 말았다 .",
+        "entity": [
+            "아이기스토스",
+            "아트레우스"
+        ],
+        "category": [
+            "mythological figure",
+            "mythological figure"
+        ]
+    },
+    "sentence343": {
+        "sentence": "Hannah Höch와 같은 예술가들이 사용하는 방법인 콜라주는 종이, 사진, 직물과 같은 다양한 재료를 결합하여 새로운 구성을 만듭니다.",
+        "entity": [
+            "콜라주",
+            "Hannah Höch"
+        ],
+        "category": [
+            "other visual art",
+            "artist"
+        ]
+    },
+    "sentence344": {
+        "sentence": "딥페이크 기술은 AI를 활용하여 얼굴을 바꿔서 사실적인 동영상을 만들어 잘못된 정보에 대한 우려를 불러일으킨다.",
+        "entity": [
+            "딥페이크 기술"
+        ],
+        "category": [
+            "ai"
+        ]
+    },
+    "sentence345": {
+        "sentence": "그녀는 일제 강점기 경상남도 부산 ( 지금의 부산광역시 ) 출생이며 전라남도 광주 ( 지금의 광주광역시 ) 에서 성장하였다.",
+        "entity": [
+            "경상남도",
+            "부산",
+            "부산광역시",
+            "전라남도",
+            "광주",
+            "광주광역시"
+        ],
+        "category": [
+            "state or province",
+            "city",
+            "city",
+            "state or province",
+            "city",
+            "city"
+        ]
+    },
+    "sentence346": {
+        "sentence": "노트북은 이제 가볍고 강력하여 원격 근무에 이상적입니다.",
+        "entity": [
+            "노트북"
+        ],
+        "category": [
+            "electronics"
+        ]
+    },
+    "sentence347": {
+        "sentence": "유클리드 알고리즘은 반복된 나눗셈과 뺄셈을 사용하여 두 정수의 최대 공약수(GCD)를 찾습니다.",
+        "entity": [
+            "유클리드 알고리즘"
+        ],
+        "category": [
+            "algorithm"
+        ]
+    },
+    "sentence348": {
+        "sentence": "랩퍼 팻 조와 친했으며 , 2장의 앨범은 플래티늄을 받았으며 3집《Endangered Species》는 골드를 받았다 .",
+        "entity": [
+            "팻 조",
+            "Endangered Species"
+        ],
+        "category": [
+            "musician",
+            "album"
+        ]
+    },
+    "sentence349": {
+        "sentence": "선전 바오안 국제공항의 식당 구역에서, 각지에서 온 여행객들이 각종 특색있는 음식을 맛보고, 대기 시간을 보내고 있어.",
+        "entity": [
+            "선전 바오안 국제공항",
+            "식당 구역"
+        ],
+        "category": [
+            "airport",
+            "restaurant"
+        ]
+    },
+    "sentence350": {
+        "sentence": "천사시절에 잃었던 육신을 다시 가지게 됨으로써 아에덴에서 상대적이며 절대적인 지식의 백과사전》제 5권을 집필하기 시작한다 .",
+        "entity": [
+            "아에덴"
+        ],
+        "category": [
+            "mythological figure"
+        ]
+    },
+    "sentence351": {
+        "sentence": "경남대학교 진학 후에는 어깨부상으로 1년을 재활로 보냈고 , 2학년 때부터 본격적으로 경기에 출장하기 시작하여 4학년 때에는 팀의 4번타자로 활약하였다.",
+        "entity": [
+            "경남대학교"
+        ],
+        "category": [
+            "school"
+        ]
+    },
+    "sentence352": {
+        "sentence": "항저우 서호공원의 단교 잔설 부근에서 관광객들이 줄을 서서 유람선을 타기를 기다리고 있고, 멀리 있는 뇌봉탑은 햇빛 아래서 반짝반짝 빛나고 있다.",
+        "entity": [
+            "항저우",
+            "서호공원",
+            "단교 잔설",
+            "뇌봉탑"
+        ],
+        "category": [
+            "city",
+            "park",
+            "landmark",
+            "landmark"
+        ]
+    },
+    "sentence353": {
+        "sentence": "2010년 아이티 지진은 상당한 인명 손실과 광범위한 기반 시설의 파괴를 초래했다.",
+        "entity": [
+            "아이티 지진",
+            "아이티"
+        ],
+        "category": [
+            "disaster",
+            "country"
+        ]
+    },
+    "sentence354": {
+        "sentence": "랭커셔 주 , 머지사이드 주 , 그레이터맨체스터 주 , 체셔 주 , 더비셔 주 북부 , 컴브리아 주 남부 , 맨 섬 , 노스요크셔 주 서부 , 웨스트요크셔 주 대부분",
+        "entity": [
+            "랭커셔 주",
+            "머지사이드 주",
+            "그레이터맨체스터 주",
+            "체셔 주",
+            "더비셔 주",
+            "컴브리아 주",
+            "맨 섬",
+            "노스요크셔 주",
+            "웨스트요크셔 주"
+        ],
+        "category": [
+            "state or province",
+            "state or province",
+            "state or province",
+            "state or province",
+            "state or province",
+            "state or province",
+            "island",
+            "state or province",
+            "state or province"
+        ]
+    },
+    "sentence355": {
+        "sentence": "경상대학교 , 은빛마을 , 제일병원 , 천전시장 , 중앙시장 , 갤러리아백화점 , 서부시장 , 오죽광장 , 이현주고 , 대아고교",
+        "entity": [
+            "경상대학교",
+            "은빛마을",
+            "제일병원",
+            "천전시장",
+            "중앙시장",
+            "갤러리아백화점",
+            "서부시장",
+            "오죽광장",
+            "이현주고",
+            "대아고교"
+        ],
+        "category": [
+            "school",
+            "residential",
+            "hospital",
+            "market/mall",
+            "market/mall",
+            "market/mall",
+            "market/mall",
+            "park",
+            "school",
+            "school"
+        ]
+    },
+    "sentence356": {
+        "sentence": "경제적 어려움을 겪던 폰텔로는 모든 선수들을 팔아버렸고 피렌체의 거리에서 일어난 심각한 폭동이후에 팀을 떠날것을 강요받았다 .",
+        "entity": [
+            "폰텔로",
+            "피렌체"
+        ],
+        "category": [
+            "other person",
+            "city"
+        ]
+    },
+    "sentence357": {
+        "sentence": "크게 북쪽의 바를라벤투 제도 ( Barlaventos ) 와 남쪽의 소타벤투 제도 ( Sotaventos ) 로 나뉜다.",
+        "entity": [
+            "바를라벤투 제도",
+            "소타벤투 제도"
+        ],
+        "category": [
+            "island",
+            "island"
+        ]
+    },
+    "sentence358": {
+        "sentence": "' '' 미국의회청문회 '' ' ( United States congressional hearing ) 는 미국 상원과 미국 하원의 상임위원회가 수시로 여는 청문회를 말한다.",
+        "entity": [
+            "미국의회청문회",
+            "미국 상원",
+            "미국 하원"
+        ],
+        "category": [
+            "political/military",
+            "political/military",
+            "political/military"
+        ]
+    },
+    "sentence359": {
+        "sentence": "4년의 수업 연한을 가지고 있으며 종합대학의 단과대학으로 설치되는 것이 보통이나 , 한국교원대학교의 경우와 같이 독립된 대학으로 설치되기도 하고 경성대학교 윤리교육과처럼 일반대학의 사범계 학과로 설치되기도 한다.",
+        "entity": [
+            "한국교원대학교",
+            "경성대학교 윤리교육과"
+        ],
+        "category": [
+            "school",
+            "school"
+        ]
+    },
+    "sentence360": {
+        "sentence": "그는 AC 밀란과 18개월의 계약을 체결하였고 , AS 모나코 FC로 이적한 크리스티안 비에리를 대체하게 되었다 .",
+        "entity": [
+            "AC 밀란",
+            "AS 모나코 FC",
+            "크리스티안 비에리"
+        ],
+        "category": [
+            "sports team/league",
+            "sports team/league",
+            "athlete"
+        ]
+    },
+    "sentence361": {
+        "sentence": "' '' 포트브래그 '' ' ( Fort Bragg ) 는 미국 캘리포니아 주의 도시로 , 인구는 7,026명이다 .",
+        "entity": [
+            "포트브래그",
+            "캘리포니아 주"
+        ],
+        "category": [
+            "city",
+            "state or province"
+        ]
+    },
+    "sentence362": {
+        "sentence": "수년에 걸쳐 다양한 코미디언들이 진행한 '투나잇 쇼'는 미국 TV의 주인공이 된 심야 토크쇼입니다.",
+        "entity": [
+            "투나잇 쇼",
+            "미국"
+        ],
+        "category": [
+            "broadcast program",
+            "country"
+        ]
+    },
+    "sentence363": {
+        "sentence": "칭하이 차얼한 염호의 칼륨 비료 생산 기지에서 노동자들은 대형 기계 설비를 조작하여 염호에서 귀중한 칼륨 자원을 추출하고 있다.",
+        "entity": [
+            "칭하이 차얼한 염호",
+            "칼륨 비료 생산 기지",
+            "칼륨 자원"
+        ],
+        "category": [
+            "water body",
+            "mine",
+            "other production facility"
+        ]
+    },
+    "sentence364": {
+        "sentence": "그의 교활함과 속임수로 유명한 사기꾼 신 로키는 종종 자신의 오락을 위해 아스가르드의 신들 사이에 혼란을 일으켰습니다.",
+        "entity": [
+            "로키",
+            "아스가르드"
+        ],
+        "category": [
+            "mythological figure",
+            "mythological figure"
+        ]
+    },
+    "sentence365": {
+        "sentence": "1912년 타이타닉 침몰은 대서양의 얼음 바다에서 1,500명 이상의 목숨을 앗아갔다.",
+        "entity": [
+            "타이타닉 침몰",
+            "대서양"
+        ],
+        "category": [
+            "disaster",
+            "water body"
+        ]
+    },
+    "sentence366": {
+        "sentence": "루멜리아 ( Rumelia ) 와 아나톨리아 출신으로 구성된 오스만군의 측면은 경기병대가 지원하러 올 때까지 많은 피해를 입었다.",
+        "entity": [
+            "루멜리아",
+            "아나톨리아",
+            "오스만군"
+        ],
+        "category": [
+            "region",
+            "region",
+            "political/military"
+        ]
+    },
+    "sentence367": {
+        "sentence": "청두의 인민공원에는 판다 조각상 앞에 많은 관광객들이 모여들었고, 모두들 이 도시의 상징적인 동물들과 함께 사진을 찍기 위해 앞다퉈.",
+        "entity": [
+            "청두",
+            "인민공원",
+            "판다"
+        ],
+        "category": [
+            "city",
+            "park",
+            "species"
+        ]
+    },
+    "sentence368": {
+        "sentence": "산둥성 자오위안의 국가급 황금 시범구에서 광부들은 지하 수백 미터의 광산에서 금광을 채굴하여 안전한 생산을 보장하고 있다.",
+        "entity": [
+            "산둥성 자오위안",
+            "국가급 황금 시범구",
+            "금광"
+        ],
+        "category": [
+            "city",
+            "mine",
+            "other production facility"
+        ]
+    },
+    "sentence369": {
+        "sentence": "하드리아누스 황제가 도시를 방문한 바 있으며 , 그 이후 하드리아노폴리스 ( Hadrianopolis ) 로 개명되었다 .",
+        "entity": [
+            "하드리아누스",
+            "하드리아노폴리스"
+        ],
+        "category": [
+            "politician",
+            "city"
+        ]
+    },
+    "sentence370": {
+        "sentence": "신해철은 이 행사에서 축사를 맡게 되었는데 , 축사에서 `` MP3가 생겨나고 이동통신업체가 음원 서비스를 맡는 등 창작 환경이 많이 바뀌어왔는데 그때마다 착취당하는 것은 항상 음악가들이었다 '' 라고 강조했다.",
+        "entity": [
+            "신해철",
+            "MP3",
+            "이동통신업체"
+        ],
+        "category": [
+            "musician",
+            "software",
+            "company"
+        ]
+    },
+    "sentence371": {
+        "sentence": "초대장에는 생일 파티의 장소를 나타내는 789 Pine Road가 적혀 있었다.",
+        "entity": [
+            "789 Pine Road"
+        ],
+        "category": [
+            "address"
+        ]
+    },
+    "sentence372": {
+        "sentence": "전국 시대에는 주군을 배반하는 행위가 흔하게 발생했지만 , 에도 시대에 접어들어 '탈번은 신하가 주군을 배반하는 것으로서 용서할 수 없는 행위 ' 라는 풍조가 강해져 토벌대가 파견되는 경우도 있었다.",
+        "entity": [
+            "전국 시대",
+            "에도 시대"
+        ],
+        "category": [
+            "political/military event",
+            "political/military event"
+        ]
+    },
+    "sentence373": {
+        "sentence": "하지만 이같은 여건 속에서도 만주에서는 한중연합작전을 넘어선 한중연합부대인 동북항일연군을 조직하여 활동하기도 하였다 .",
+        "entity": [
+            "만주",
+            "동북항일연군"
+        ],
+        "category": [
+            "region",
+            "political/military"
+        ]
+    },
+    "sentence374": {
+        "sentence": "그를 정점으로 그 후 음악은 점차 화성적 양식으로 기울게 되고 , 낭만파의 음악에서 그 경향이 더욱 강한 것으로 되었다 .",
+        "entity": [
+            "낭만파"
+        ],
+        "category": [
+            "music genre"
+        ]
+    },
+    "sentence375": {
+        "sentence": "또 다른 셰익스피어 연극인 '맥베스'는 야망, 권력, 그리고 억제되지 않은 욕망의 결과를 탐구한다.",
+        "entity": [
+            "셰익스피어",
+            "맥베스"
+        ],
+        "category": [
+            "author",
+            "play"
+        ]
+    },
+    "sentence376": {
+        "sentence": "첫 번째 공격 과정에서 야마토함은 치열한 회피기동을 수행하여 대부분의 어뢰와 폭탄을 피하였으나 2발의 철갑탄과 한발의 어뢰에 맞는다.",
+        "entity": [
+            "야마토함"
+        ],
+        "category": [
+            "water"
+        ]
+    },
+    "sentence377": {
+        "sentence": "한양대학교 학칙 에 근거하여 비대위는 총학생회와 관련된 자료를 열람할 수 있었으며 , 이후 추가적으로 발견된 의혹들을 제기 하였다.",
+        "entity": [
+            "한양대학교",
+            "총학생회"
+        ],
+        "category": [
+            "school",
+            "community"
+        ]
+    },
+    "sentence378": {
+        "sentence": "유고슬라비아 사회주의 연방공화국의 일부였던 보스니아 헤르체고비나의 스릅스카 공화국에는 약 140만 명이 거주한다 .",
+        "entity": [
+            "유고슬라비아 사회주의 연방공화국",
+            "보스니아 헤르체고비나",
+            "스릅스카 공화국"
+        ],
+        "category": [
+            "country",
+            "country",
+            "state or province"
+        ]
+    },
+    "sentence379": {
+        "sentence": "관광객들은 독특하고 풍부한 맛을 지닌 현지 커피에 매료되었다.",
+        "entity": [
+            "현지 커피"
+        ],
+        "category": [
+            "beverages"
+        ]
+    },
+    "sentence380": {
+        "sentence": "저장대학교 의과대학 부속 제1병원의 실험실에서 연구자들은 기존의 진단 병목 현상을 돌파하기 위해 암 조기 진단에 대한 첨단 연구를 진행하고 있다.",
+        "entity": [
+            "저장대학교 의과대학 부속 제1병원",
+            "암"
+        ],
+        "category": [
+            "hospital",
+            "disease"
+        ]
+    },
+    "sentence381": {
+        "sentence": "ACL 부상과 같은 인대 파열은 스포츠 활동 중에 발생할 수 있으며, 이는 관절 불안정과 통증으로 이어질 수 있습니다.",
+        "entity": [
+            "ACL 부상",
+            "인대 파열"
+        ],
+        "category": [
+            "injury",
+            "injury"
+        ]
+    },
+    "sentence382": {
+        "sentence": "바벨은 독일 축구 국가대표팀 일원으로 51경기 출장하여 UEFA 유로 1996의 우승 주역이 되었으며 , 국가대항전에서 1득점을 하였다.",
+        "entity": [
+            "바벨",
+            "독일 축구 국가대표팀",
+            "UEFA 유로 1996"
+        ],
+        "category": [
+            "athlete",
+            "sports team/league",
+            "sporting event"
+        ]
+    },
+    "sentence383": {
+        "sentence": "이에 대해 국제 올림픽 위원회는 `` 앞으로 개최될 때까지 6년이나 남았는데 시작하기도 전에 섣불리 이른 판단을 하는 것은 옳지 않다.",
+        "entity": [
+            "국제 올림픽 위원회"
+        ],
+        "category": [
+            "other non-commercial organization"
+        ]
+    },
+    "sentence384": {
+        "sentence": "슈퍼주니어 ( 이특 , 희철 , 예성 , 신동 , 성민 , 은혁 , 시원 , 동해 , 려욱 , 규현 ) 조미 , 헨리",
+        "entity": [
+            "슈퍼주니어",
+            "이특",
+            "희철",
+            "예성",
+            "신동",
+            "성민",
+            "은혁",
+            "시원",
+            "동해",
+            "려욱",
+            "규현",
+            "조미",
+            "헨리"
+        ],
+        "category": [
+            "band",
+            "musician",
+            "musician",
+            "musician",
+            "musician",
+            "musician",
+            "musician",
+            "musician",
+            "musician",
+            "musician",
+            "musician",
+            "musician",
+            "musician"
+        ]
+    },
+    "sentence385": {
+        "sentence": "아마존 프라임 데이 세일 행사는 전 세계 수백만 명의 쇼핑객을 끌어모으며, 회사의 기록적인 매출을 창출합니다.",
+        "entity": [
+            "아마존 프라임 데이"
+        ],
+        "category": [
+            "business event"
+        ]
+    },
+    "sentence386": {
+        "sentence": "그 카페는 다양한 아이스티를 제공하지만, 복숭아 맛이 가장 인기가 있다.",
+        "entity": [
+            "아이스티",
+            "복숭아 맛 아이스티"
+        ],
+        "category": [
+            "beverages",
+            "beverages"
+        ]
+    },
+    "sentence387": {
+        "sentence": "산둥 융청의 조석발전소는 발해만의 조석변화를 이용하여 전기를 생산하고 있고, 엔지니어들은 감시실에서 발전 데이터를 면밀히 주시하고 있다.",
+        "entity": [
+            "산둥 융청",
+            "조석발전소",
+            "발해만"
+        ],
+        "category": [
+            "other gpe",
+            "energy",
+            "water body"
+        ]
+    },
+    "sentence388": {
+        "sentence": "에드바르드 뭉크의 '비명'은 인간의 불안과 절망을 나타내며, 가장 잘 알려진 그림 중 하나입니다.",
+        "entity": [
+            "에드바르드 뭉크",
+            "비명"
+        ],
+        "category": [
+            "artist",
+            "painting"
+        ]
+    },
+    "sentence389": {
+        "sentence": "포도당(C6H12O6)은 단순당이며 세포에 중요한 에너지원으로, 식물에서 광합성 중에 생성됩니다.",
+        "entity": [
+            "포도당",
+            "C6H12O6",
+            "광합성"
+        ],
+        "category": [
+            "compound",
+            "compound",
+            "other biological entity"
+        ]
+    },
+    "sentence390": {
+        "sentence": "이복 형인 연산군은 폐비 윤씨의 아들이라는 것을 알지 못하고 정현왕후를 친어머니로 여기면서 자라다가 우연한 기회에 폐비 윤씨의 일을 알게 되었다.",
+        "entity": [
+            "연산군",
+            "폐비 윤씨",
+            "정현왕후"
+        ],
+        "category": [
+            "politician",
+            "other person",
+            "politician"
+        ]
+    },
+    "sentence391": {
+        "sentence": "이런 종으로는 남아메리카의 총알개미 ( ''Paraponera clavata '' ) 와 디노포네라속 ( ''Dinoponera '' ) 과 오스트레일리아의 불독개미 ( ''Myrmecia '' ) 가 있다.",
+        "entity": [
+            "총알개미",
+            "Paraponera clavata",
+            "디노포네라속",
+            "Dinoponera",
+            "불독개미",
+            "Myrmecia"
+        ],
+        "category": [
+            "species",
+            "species",
+            "species",
+            "species",
+            "species",
+            "species"
+        ]
+    },
+    "sentence392": {
+        "sentence": "레이첼 카슨의 '침묵의 봄'은 환경 문제에 대한 인식을 높였고, 정책과 규정의 변화로 이어졌다.",
+        "entity": [
+            "레이첼 카슨",
+            "침묵의 봄"
+        ],
+        "category": [
+            "author",
+            "non-fiction"
+        ]
+    },
+    "sentence393": {
+        "sentence": "고속도로 교차로에서 출발하여 'B 471'은 2차선으로 북동쪽으로 달하우-서로 교차로에 도착하여 이곳의 도시 우회로에 도착합니다.",
+        "entity": [
+            "고속도로 교차로",
+            "B 471",
+            "달하우-서로 교차로",
+            "도시 우회로"
+        ],
+        "category": [
+            "other address",
+            "road",
+            "other address",
+            "other address"
+        ]
+    },
+    "sentence394": {
+        "sentence": "지게차 운전자는 창고에서 이러한 산업용 차량을 능숙하게 조종하여 화물의 운반과 적재를 효율적으로 완료하며 물류 시스템에서 없어서는 안될 부분입니다.",
+        "entity": [
+            "지게차"
+        ],
+        "category": [
+            "other vehicle"
+        ]
+    },
+    "sentence395": {
+        "sentence": "아프리카 전역과 아라비아 반도 남부에서 발견된다 세계에서 가장 큰 살무사와 가장 작은 살무사가 모두 이 속에 속한다 .",
+        "entity": [
+            "아프리카",
+            "아라비아 반도"
+        ],
+        "category": [
+            "region",
+            "region"
+        ]
+    },
+    "sentence396": {
+        "sentence": "겨자 가스는 심각한 물집을 일으키며 참호전에서 사용되었습니다.",
+        "entity": [
+            "겨자 가스"
+        ],
+        "category": [
+            "chemical weapon"
+        ]
+    },
+    "sentence397": {
+        "sentence": "전자레인지는 전자기파를 사용하여 음식을 빠르게 데운다.",
+        "entity": [
+            "전자레인지"
+        ],
+        "category": [
+            "electronics"
+        ]
+    },
+    "sentence398": {
+        "sentence": "재즈 밴드의 색소폰 연주자는 즉흥적으로 열정적인 솔로를 연주했고, 부드럽고 듣기 좋은 음색이 클럽 전체를 가득 채웠고, 관중들을 빠져들게 했다.",
+        "entity": [
+            "색소폰"
+        ],
+        "category": [
+            "musical instruments"
+        ]
+    },
+    "sentence399": {
+        "sentence": "최신 버전의 어도비 포토샵 소프트웨어에는 전문 사진작가를 위한 고급 편집 기능이 포함되어 있습니다.",
+        "entity": [
+            "어도비 포토샵"
+        ],
+        "category": [
+            "software"
+        ]
+    },
+    "sentence400": {
+        "sentence": "세계에서 가장 오래된 나미브 사막 중 하나인 나미브 사막은 우뚝 솟은 모래 언덕과 함께 나미비아 해안을 따라 뻗어 있다.",
+        "entity": [
+            "나미브 사막"
+        ],
+        "category": [
+            "desert"
+        ]
+    },
+    "sentence401": {
+        "sentence": "원자의 핵에서 발견되는 중성자는 전하가 없고 원자의 질량에 기여한다.",
+        "entity": [
+            "중성자",
+            "원자"
+        ],
+        "category": [
+            "other physical entity",
+            "other physical entity"
+        ]
+    },
+    "sentence402": {
+        "sentence": "실험실에서 우연히 툴라레미아 박테리아가 방출된 것은 잠재적인 생물무기 에이전트를 다루는 것의 위험을 부각시켰다.",
+        "entity": [
+            "툴라레미아 박테리아",
+            "생물무기 에이전트"
+        ],
+        "category": [
+            "biological",
+            "biological"
+        ]
+    },
+    "sentence403": {
+        "sentence": "기침은 호흡기 감염에서 흔히 볼 수 있는 자극이나 점액의 기도를 제거하는 반사 증상입니다.",
+        "entity": [
+            "기침",
+            "호흡기 감염"
+        ],
+        "category": [
+            "symptom",
+            "disease"
+        ]
+    },
+    "sentence404": {
+        "sentence": "지구상에서 가장 큰 종인 대왕고래는 주로 크릴을 먹고 전 세계 모든 바다에서 발견될 수 있습니다.",
+        "entity": [
+            "대왕고래",
+            "크릴"
+        ],
+        "category": [
+            "species",
+            "species"
+        ]
+    },
+    "sentence405": {
+        "sentence": "도산역 , 신동사거리 , 금강1길 , 대덕아파트 , 모아아파트 , 아리랑고개 , 하남초교 , 흑석사거리 , 장덕마을",
+        "entity": [
+            "도산역",
+            "신동사거리",
+            "금강1길",
+            "대덕아파트",
+            "모아아파트",
+            "아리랑고개",
+            "하남초교",
+            "흑석사거리",
+            "장덕마을"
+        ],
+        "category": [
+            "station",
+            "road",
+            "road",
+            "residential",
+            "residential",
+            "road",
+            "school",
+            "road",
+            "residential"
+        ]
+    },
+    "sentence406": {
+        "sentence": "구스타브 쿠르베와 같은 예술가들의 특징인 리얼리즘은 진실하고 꾸물어지지 않은 세부 사항으로 일상 생활을 묘사하는 데 중점을 둡니다.",
+        "entity": [
+            "구스타브 쿠르베",
+            "리얼리즘"
+        ],
+        "category": [
+            "artist",
+            "visual art genre"
+        ]
+    },
+    "sentence407": {
+        "sentence": "그가 20세가 되었을 때 , 그는 AFC 아약스의 2군에 합류하였으나 , 요한 크라위프나 요한 네이스컨스 포지션이 같은 유능한 선수들로 인해 1군으로 승격하지는 못하였다.",
+        "entity": [
+            "AFC 아약스",
+            "요한 크라위프",
+            "요한 네이스컨스"
+        ],
+        "category": [
+            "sports team/league",
+            "athlete",
+            "athlete"
+        ]
+    },
+    "sentence408": {
+        "sentence": "사무엘 베켓의 '고도트를 기다리며'는 도착하지 않는 신비한 인물을 기다리는 두 남자에 관한 부조리극이다.",
+        "entity": [
+            "사무엘 베켓",
+            "고도트를 기다리며"
+        ],
+        "category": [
+            "author",
+            "play"
+        ]
+    },
+    "sentence409": {
+        "sentence": "특히 크레용팝은 K팝을 지배하는 3대 대형 기획사에 속하지 않고 자본도 충분하지 않았지만 이 점이 오히려 매력으로 작용했다고 평했다.",
+        "entity": [
+            "크레용팝",
+            "K팝"
+        ],
+        "category": [
+            "band",
+            "music genre"
+        ]
+    },
+    "sentence410": {
+        "sentence": "부동산 투자 신탁(REITs)은 소득을 창출하는 부동산을 소유, 운영 또는 자금을 조달하는 상업 조직으로 기능하며, 개인에게 투자 기회를 제공합니다.",
+        "entity": [
+            "부동산 투자 신탁",
+            "REITs"
+        ],
+        "category": [
+            "other commercial organization",
+            "other commercial organization"
+        ]
+    },
+    "sentence411": {
+        "sentence": "광산 회사들은 암석층을 뚫고 광물을 추출하는 가장 효율적인 폭발물 중 하나로 다이너마이트에 의존합니다.",
+        "entity": [
+            "다이너마이트"
+        ],
+        "category": [
+            "explosives"
+        ]
+    },
+    "sentence412": {
+        "sentence": "셰익스피어의 또 다른 고전인 '로미오와 줄리엣'은 불화하는 가정에서 온 두 젊은 연인의 비극적인 이야기를 들려줍니다.",
+        "entity": [
+            "셰익스피어",
+            "로미오와 줄리엣"
+        ],
+        "category": [
+            "author",
+            "play"
+        ]
+    },
+    "sentence413": {
+        "sentence": "사실상 캐나다 항공편을 둘러싼 아메리칸 항공과 유나이티드 항공을 비롯한 두 회사가 주도하는 항공 동맹인 스타 얼라이언스와 원월드 간 싸움이 치열했다.",
+        "entity": [
+            "캐나다",
+            "아메리칸 항공",
+            "유나이티드 항공",
+            "스타 얼라이언스",
+            "원월드"
+        ],
+        "category": [
+            "country",
+            "company",
+            "company",
+            "company",
+            "company"
+        ]
+    },
+    "sentence414": {
+        "sentence": "이에 반발한 영내 주민들은 대표 4명을 에도로 보내 번주에게 직소하였고 , 이로써 오토메야마와 부역 문제는 무사히 해결되었다 .",
+        "entity": [
+            "에도",
+            "오토메야마"
+        ],
+        "category": [
+            "city",
+            "mountain"
+        ]
+    },
+    "sentence415": {
+        "sentence": "어도비 포토샵과 같은 소프트웨어를 사용하여 만들어진 디지털 아트는 예술가들이 기술과 전통적인 기술을 혼합한 작품을 제작할 수 있게 해준다.",
+        "entity": [
+            "디지털 아트",
+            "어도비 포토샵"
+        ],
+        "category": [
+            "other visual art",
+            "software"
+        ]
+    },
+    "sentence416": {
+        "sentence": "창사의 귤주두공원에서 관광객들은 마오쩌둥 청년 조각상 앞에 서서 이 위인의 젊은 시절의 이야기를 되돌아보고 있다.",
+        "entity": [
+            "창사",
+            "귤주두공원",
+            "마오쩌둥"
+        ],
+        "category": [
+            "city",
+            "park",
+            "politician"
+        ]
+    },
+    "sentence417": {
+        "sentence": "톈진항의 액화천연가스 부두는 중동에서 온 LNG 수송선을 받아 화북지역에 청정에너지를 제공하고 있다.",
+        "entity": [
+            "톈진항",
+            "액화천연가스 부두",
+            "LNG 수송선"
+        ],
+        "category": [
+            "port",
+            "other transportation facility",
+            "water"
+        ]
+    },
+    "sentence418": {
+        "sentence": "대형 화물차가 고장난 지점은 항진취 고속도로에서 항저우에서 취저우 방향으로, 옥상 휴게소를 지나 30km 지점에 위치해 있다.",
+        "entity": [
+            "항진취 고속도로",
+            "항저우",
+            "취저우",
+            "옥상 휴게소",
+            "30km 지점"
+        ],
+        "category": [
+            "road",
+            "city",
+            "city",
+            "other address",
+            "other address"
+        ]
+    },
+    "sentence419": {
+        "sentence": "중화는 산과 염기가 반응하여 물과 소금을 형성하여 pH 수준의 균형을 정할 때 발생합니다.",
+        "entity": [
+            "중화"
+        ],
+        "category": [
+            "reaction"
+        ]
+    },
+    "sentence420": {
+        "sentence": "라면은 편리함 때문에 많은 대학생들의 식단에서 필수품이 되었다.",
+        "entity": [
+            "라면"
+        ],
+        "category": [
+            "packaged foods"
+        ]
+    },
+    "sentence421": {
+        "sentence": "알츠하이머병은 기억 상실, 인지 기능 저하 및 행동 변화를 특징으로 하는 진행성 신경 장애입니다.",
+        "entity": [
+            "알츠하이머병"
+        ],
+        "category": [
+            "disease"
+        ]
+    },
+    "sentence422": {
+        "sentence": "'새터데이 나이트 라이브'는 수십 년 동안 시사에 대한 스케치 코미디와 풍자를 제공했으며, 수많은 코미디언들의 경력을 시작했습니다.",
+        "entity": [
+            "새터데이 나이트 라이브"
+        ],
+        "category": [
+            "broadcast program"
+        ]
+    },
+    "sentence423": {
+        "sentence": "에라스무스상은 문화, 사회 또는 사회 과학에 탁월한 공헌을 한 개인 또는 기관에 수여됩니다.",
+        "entity": [
+            "에라스무스상"
+        ],
+        "category": [
+            "other award"
+        ]
+    },
+    "sentence424": {
+        "sentence": "산둥성 칭다오의 해양 과학 기술 혁신 센터에서 과학자들은 새로운 해수 담수화 기술을 개발하고 있으며, 전 세계 수자원 부족 문제를 해결하는 데 힘을 보태고 있습니다.",
+        "entity": [
+            "산둥성 칭다오",
+            "해양 과학 기술 혁신 센터",
+            "해수 담수화 기술"
+        ],
+        "category": [
+            "city",
+            "other facility",
+            "other technology"
+        ]
+    },
+    "sentence425": {
+        "sentence": "요하네스 구텐베르크의 인쇄기의 발명은 지식의 확산에 혁명을 일으켰다.",
+        "entity": [
+            "요하네스 구텐베르크",
+            "인쇄기"
+        ],
+        "category": [
+            "other person",
+            "other technology"
+        ]
+    },
+    "sentence426": {
+        "sentence": "그리스의 지혜와 전쟁의 여신인 아테나는 오디세우스와 같은 영웅들에게 자주 지도를 제공하여 그들이 가장 큰 승리를 거두도록 도왔습니다.",
+        "entity": [
+            "아테나",
+            "오디세우스",
+            "그리스"
+        ],
+        "category": [
+            "mythological figure",
+            "mythological figure",
+            "country"
+        ]
+    },
+    "sentence427": {
+        "sentence": "북쪽으로는 부키드논 주와 남라나오 주 , 동쪽으로는 남다바오 주와 다바오 , 남쪽으로는 술탄쿠다라트 주 , 서쪽으로는 마긴다나오 주와 접한다.",
+        "entity": [
+            "부키드논 주",
+            "남라나오 주",
+            "남다바오 주",
+            "다바오",
+            "술탄쿠다라트 주",
+            "마긴다나오 주"
+        ],
+        "category": [
+            "state or province",
+            "state or province",
+            "state or province",
+            "city",
+            "state or province",
+            "state or province"
+        ]
+    },
+    "sentence428": {
+        "sentence": "골다공증은 뼈가 약해지고 부서지기 쉽고 골절 위험을 증가시키는 뼈 질환입니다.",
+        "entity": [
+            "골다공증"
+        ],
+        "category": [
+            "disease"
+        ]
+    },
+    "sentence429": {
+        "sentence": "잠수함 장교와 병사들은 심해에서 장기 잠수 임무를 수행하며, 이러한 독특한 작전 플랫폼은 선원들에게 고도의 전문 기술과 심리적 자질을 요구한다.",
+        "entity": [
+            "잠수함"
+        ],
+        "category": [
+            "water"
+        ]
+    },
+    "sentence430": {
+        "sentence": "채찍질은 자동차 사고에서 흔히 발생하는 목 부상으로, 머리의 갑작스러운 앞뒤 움직임으로 인해 발생합니다.",
+        "entity": [
+            "채찍질"
+        ],
+        "category": [
+            "injury"
+        ]
+    },
+    "sentence431": {
+        "sentence": "또한 6공화국이 들어서면서 퇴임한 5공 비리의 핵심 인사인 전두환이 징역을 선고받은 것이 아니라 백담사에서 은거한 점을 미뤄봐도 역시 5공비리 청산에 미진했다는 시각이 있다.",
+        "entity": [
+            "6공화국",
+            "전두환",
+            "백담사"
+        ],
+        "category": [
+            "political/military",
+            "politician",
+            "other facility"
+        ]
+    },
+    "sentence432": {
+        "sentence": "그 후 , 그는 자국에서 열린 UEFA 유로 2008의 스쿼드에 포함되었지만 , 독일과의 조별리그 3차전 경기에서만 뛰었다 .",
+        "entity": [
+            "UEFA 유로 2008",
+            "독일"
+        ],
+        "category": [
+            "sporting event",
+            "country"
+        ]
+    },
+    "sentence433": {
+        "sentence": "A* 검색 알고리즘은 복잡한 환경에서 가장 짧은 경로를 찾기 위해 휴리스틱 및 비용 기반 전략을 결합합니다.",
+        "entity": [
+            "A* 검색 알고리즘"
+        ],
+        "category": [
+            "algorithm"
+        ]
+    },
+    "sentence434": {
+        "sentence": "2001년 9월 11일 공격(9/11)은 세계 안보와 테러와의 전쟁에 중대한 변화를 가져왔다.",
+        "entity": [
+            "9월 11일 공격",
+            "9/11"
+        ],
+        "category": [
+            "political/military event",
+            "political/military event"
+        ]
+    },
+    "sentence435": {
+        "sentence": "남쪽으로는 크로아티아와 국경을 접하며 서쪽으로는 쇼모지 주 , 북쪽으로는 톨너 주 , 동쪽으로는 바치키슈쿤 주와 접한다 .",
+        "entity": [
+            "크로아티아",
+            "쇼모지 주",
+            "톨너 주",
+            "바치키슈쿤 주"
+        ],
+        "category": [
+            "country",
+            "state or province",
+            "state or province",
+            "state or province"
+        ]
+    },
+    "sentence436": {
+        "sentence": "성. 패트릭의 날은 아일랜드 문화를 기리기 위해 퍼레이드와 녹색 옷을 입고 기념됩니다.",
+        "entity": [
+            "성. 패트릭의 날",
+            "아일랜드"
+        ],
+        "category": [
+            "tradition",
+            "country"
+        ]
+    },
+    "sentence437": {
+        "sentence": "마닐라 원고(Manila Manuscript)는 복서 코덱스(Boxer Codex)라고도 불리며, 1590년대에 완성된 스페인 문헌으로 알려져 있다.",
+        "entity": [
+            "마닐라 원고",
+            "복서 코덱스",
+            "스페인"
+        ],
+        "category": [
+            "other literature",
+            "other literature",
+            "country"
+        ]
+    },
+    "sentence438": {
+        "sentence": "스와힐리어는 동아프리카의 공용어 역할을 하며, 지역 전역의 다양한 공동체를 연결합니다.",
+        "entity": [
+            "스와힐리어",
+            "동아프리카"
+        ],
+        "category": [
+            "language",
+            "region"
+        ]
+    },
+    "sentence439": {
+        "sentence": "체육시설물 및 공원은 ' '' 고양도시관리공사 '' '에서 공연시설은 일산동구의 고양아람누리와 함께 고양문화재단에서 운영하고 있으며 , 인근 야산에 조성되어 있는 성라공원과도 연계되어 있다.",
+        "entity": [
+            "고양도시관리공사",
+            "일산동구",
+            "고양아람누리",
+            "고양문화재단",
+            "성라공원"
+        ],
+        "category": [
+            "company",
+            "district",
+            "sports facility",
+            "other non-commercial organization",
+            "park"
+        ]
+    },
+    "sentence440": {
+        "sentence": "유럽 대륙의 정치 및 경제 연합은 현대 발전과 성장을 형성했습니다.",
+        "entity": [
+            "유럽"
+        ],
+        "category": [
+            "continent"
+        ]
+    },
+    "sentence441": {
+        "sentence": "대표적인 볼펜으로 모나미 '153 볼펜'을 들 수 있다면 , 잘 알려진 젤펜으로는 일본 파이롯트사의 'Hi-Tec-C'가 있다.",
+        "entity": [
+            "모나미",
+            "일본",
+            "파이롯트사"
+        ],
+        "category": [
+            "company",
+            "country",
+            "company"
+        ]
+    },
+    "sentence442": {
+        "sentence": "《겟 스마트》는 전 세계에서 2억 6천 437만 달러의 흥행 수익을 기록했고 , 피터 시걸은 후속편의 제작이 언급 되었다 .",
+        "entity": [
+            "겟 스마트",
+            "피터 시걸"
+        ],
+        "category": [
+            "film",
+            "director"
+        ]
+    },
+    "sentence443": {
+        "sentence": "치과의사들은 구강 검사 후 환자에게 적합한 치약과 구강청결제를 추천하고 올바른 양치 방법을 안내하여 구강 건강을 유지하는 데 도움을 줍니다.",
+        "entity": [
+            "치약",
+            "구강청결제"
+        ],
+        "category": [
+            "personal care",
+            "personal care"
+        ]
+    },
+    "sentence444": {
+        "sentence": "Apple이 개발한 Swift는 속도와 안전성으로 알려진 iOS 및 macOS 애플리케이션을 만들기 위한 주요 프로그래밍 언어입니다.",
+        "entity": [
+            "Swift",
+            "Apple",
+            "iOS",
+            "macOS"
+        ],
+        "category": [
+            "programlang",
+            "company",
+            "software",
+            "software"
+        ]
+    },
+    "sentence445": {
+        "sentence": "신장 석하자의 면화 농장에서 과학 연구자들은 실험 밭에서 새로운 품종의 면화의 성장 상황을 관찰하고 있으며, 생산량과 품질을 높이는 방법을 모색하고 있다.",
+        "entity": [
+            "신장 석하자",
+            "면화 농장",
+            "면화"
+        ],
+        "category": [
+            "city",
+            "farm",
+            "other product"
+        ]
+    },
+    "sentence446": {
+        "sentence": "추운 겨울 밤, mulled 와인 한 잔이 벽난로 주변의 모든 사람들을 따뜻하게 했다.",
+        "entity": [
+            "mulled 와인"
+        ],
+        "category": [
+            "beverages"
+        ]
+    },
+    "sentence447": {
+        "sentence": "1928년 알렉산더 플레밍의 페니실린 발견은 의학에 혁명을 일으켰다.",
+        "entity": [
+            "알렉산더 플레밍",
+            "페니실린"
+        ],
+        "category": [
+            "scholar",
+            "medication"
+        ]
+    },
+    "sentence448": {
+        "sentence": "막스 플랑크 ( 1858-1947 ) 와 알베르트 아인슈타인 ( 1879-1955 ) 이후 , 닐스 보어 ( 1885-1962 ) 에 의해 전자가 어떻게 운동하는지에 대해 설명하려는 연구가 시작되었다.",
+        "entity": [
+            "막스 플랑크",
+            "알베르트 아인슈타인",
+            "닐스 보어"
+        ],
+        "category": [
+            "scholar",
+            "scholar",
+            "scholar"
+        ]
+    },
+    "sentence449": {
+        "sentence": "광저우시 공안국의 지휘센터에서 경찰관들은 첨단 감시 시스템을 통해 도시의 교통과 치안 상황을 실시간으로 감시하고 있다.",
+        "entity": [
+            "광저우시 공안국",
+            "지휘센터",
+            "첨단 감시 시스템"
+        ],
+        "category": [
+            "government facility",
+            "other facility",
+            "other technology"
+        ]
+    },
+    "sentence450": {
+        "sentence": "서안 취장체육센터의 탁구장 안에는 시급 경기가 진행 중이고, 선수들은 전심으로 대결하며, 높은 수준의 기량을 뽐내고 있다.",
+        "entity": [
+            "서안 취장체육센터"
+        ],
+        "category": [
+            "sports facility"
+        ]
+    },
+    "sentence451": {
+        "sentence": "하지만 , 제너럴 일렉트릭의 광고 캠페인은 테슬라의 업적을 자신의 회사에 돌리게 만들었고 이 때문에 테슬라는 자신의 업적에 비해 제대로 평가받지 못하였다.",
+        "entity": [
+            "제너럴 일렉트릭",
+            "테슬라"
+        ],
+        "category": [
+            "company",
+            "scholar"
+        ]
+    },
+    "sentence452": {
+        "sentence": "서안 회민가의 간식시장에서 관광객들은 각종 산시 특색 간식을 맛보고 고도의 음식문화를 체험하고 있다.",
+        "entity": [
+            "서안 회민가",
+            "간식시장",
+            "산시 특색 간식"
+        ],
+        "category": [
+            "other address",
+            "market/mall",
+            "other food"
+        ]
+    },
+    "sentence453": {
+        "sentence": "디지털 카메라는 고품질 이미지를 캡처하여 사진 애호가에게 적합합니다.",
+        "entity": [
+            "디지털 카메라"
+        ],
+        "category": [
+            "electronics"
+        ]
+    },
+    "sentence454": {
+        "sentence": "가상 머신은 컴퓨터 시스템을 시뮬레이션하여 단일 물리적 머신에서 여러 운영 체제를 실행할 수 있도록 합니다.",
+        "entity": [
+            "가상 머신"
+        ],
+        "category": [
+            "software"
+        ]
+    },
+    "sentence455": {
+        "sentence": "스케이트보드 애호가들은 도시의 광장에서 다양한 기술을 연습하는데, 이 간단한 보행 도구는 익스트림 스포츠와 거리 문화의 상징으로 발전했습니다.",
+        "entity": [
+            "스케이트보드"
+        ],
+        "category": [
+            "other vehicle"
+        ]
+    },
+    "sentence456": {
+        "sentence": "준결승에서 맨유는 바르셀로나를 만났으며 , 양팀은 UEFA 챔피언스리그 1998-99 토너먼트에서 맡붙은 적이 있었다 .",
+        "entity": [
+            "맨유",
+            "바르셀로나",
+            "UEFA 챔피언스리그"
+        ],
+        "category": [
+            "sports team/league",
+            "sports team/league",
+            "sporting event"
+        ]
+    },
+    "sentence457": {
+        "sentence": "포켓몬스터》성도리그편에서 하즈키의 포켓몬으로 등장 , 지우와 쥰이치의 포켓몬들이 싸우고 있었을 때 싸움을 말렸다 .",
+        "entity": [
+            "하즈키",
+            "지우",
+            "쥰이치"
+        ],
+        "category": [
+            "other figure",
+            "other figure",
+            "other figure"
+        ]
+    },
+    "sentence458": {
+        "sentence": "아프가니스탄의 파슈툰 민족은 부족 관습과 전통의 오랜 역사를 가지고 있다.",
+        "entity": [
+            "아프가니스탄",
+            "파슈툰 민족"
+        ],
+        "category": [
+            "country",
+            "ethnic group"
+        ]
+    },
+    "sentence459": {
+        "sentence": "냉동 피자는 간단한 식사가 필요하지만 요리하고 싶지 않을 때 좋은 선택입니다.",
+        "entity": [
+            "냉동 피자"
+        ],
+        "category": [
+            "packaged foods"
+        ]
+    },
+    "sentence460": {
+        "sentence": "과히라 반도에 이르자 , 선원들은 물위에 집을 짓는 사람들이 사는 마을 ( 팔라피토 '' palafito '' ) 을 보게 되었다.",
+        "entity": [
+            "과히라 반도"
+        ],
+        "category": [
+            "region"
+        ]
+    },
+    "sentence461": {
+        "sentence": "도자기 커피잔은 독특한 손으로 그린 디자인으로, 어떤 주방의 아름다움과 실용성을 보완할 수 있다.",
+        "entity": [
+            "도자기 커피잔"
+        ],
+        "category": [
+            "household"
+        ]
+    },
+    "sentence462": {
+        "sentence": "오늘날 트란실바니아는 루마니아 중부와 서북부의 16개 주로 이루어져 있으며 전체 면적은 103,600 km²이다 .",
+        "entity": [
+            "트란실바니아",
+            "루마니아"
+        ],
+        "category": [
+            "region",
+            "country"
+        ]
+    },
+    "sentence463": {
+        "sentence": "혈역학 이론은 심혈관계 내의 혈류, 압력 및 저항의 원리를 설명합니다.",
+        "entity": [
+            "혈역학 이론"
+        ],
+        "category": [
+            "medical theory"
+        ]
+    },
+    "sentence464": {
+        "sentence": "논란의 여지는 있으나 , 대체로 가장 널리 사용되는 모델은 마이클 포터의 5세력모형 ( 5 forces model ) 이다 .",
+        "entity": [
+            "마이클 포터",
+            "5세력모형"
+        ],
+        "category": [
+            "scholar",
+            "other scientific entity"
+        ]
+    },
+    "sentence465": {
+        "sentence": "1178년 아버지가 돌아가셨을 때, 그는 아직 미성년자였고, 1191년에 성인이 되어 노섬벌랜드의 워커워스 성과 에식스의 클리블린 성을 포함한 아버지의 유산을 물려받을 수 있었습니다.",
+        "entity": [
+            "노섬벌랜드",
+            "워커워스 성",
+            "에식스",
+            "클리블린 성"
+        ],
+        "category": [
+            "state or province",
+            "landmark",
+            "state or province",
+            "landmark"
+        ]
+    },
+    "sentence466": {
+        "sentence": "뉴턴의 운동 법칙은 물체가 힘의 영향을 받아 어떻게 움직이는지 설명하면서 고전 역학의 기초를 제공한다.",
+        "entity": [
+            "뉴턴의 운동 법칙"
+        ],
+        "category": [
+            "physical theory"
+        ]
+    },
+    "sentence467": {
+        "sentence": "본관 ( 本館 ) , 효케이관 ( 表慶館 ) , 동양관 ( 東洋館 ) , 헤이세이관 ( 平成館 ) , 호류지 보물관 ( 法隆寺宝物館 ) 의 5개 전시관과 자료관 , 기타 시설로 구성되어 있다.",
+        "entity": [
+            "본관",
+            "효케이관",
+            "동양관",
+            "헤이세이관",
+            "호류지 보물관"
+        ],
+        "category": [
+            "museum",
+            "museum",
+            "museum",
+            "museum",
+            "museum"
+        ]
+    },
+    "sentence468": {
+        "sentence": "빌레루아는 겨울동안 눌러앉아 있었지만 , 외젠은 크레모나 ( Cremona ) 에 있는 빌레루아의 사령부를 공격할 준비를 하고 있었다.",
+        "entity": [
+            "빌레루아",
+            "외젠",
+            "크레모나"
+        ],
+        "category": [
+            "military",
+            "military",
+            "city"
+        ]
+    },
+    "sentence469": {
+        "sentence": "투자 수익률(ROI)은 비용 대비 투자의 수익성을 평가하는 데 사용되는 재무 지표입니다.",
+        "entity": [
+            "투자 수익률",
+            "ROI"
+        ],
+        "category": [
+            "metrics",
+            "metrics"
+        ]
+    },
+    "sentence470": {
+        "sentence": "원자는 양성자, 중성자 및 전자로 구성된 화학 원소의 기본 단위입니다.",
+        "entity": [
+            "원자",
+            "양성자",
+            "중성자",
+            "전자"
+        ],
+        "category": [
+            "other physical entity",
+            "other physical entity",
+            "other physical entity",
+            "other physical entity"
+        ]
+    },
+    "sentence471": {
+        "sentence": "C 사본에서 아르키메데스는 그의 `` 역학적 방법 '' 을 설명하는데 , 이는 지렛대에 작용하는 토크와 무게 중심의 개념을 사용한다.",
+        "entity": [
+            "아르키메데스",
+            "지렛대"
+        ],
+        "category": [
+            "scholar",
+            "physical theory"
+        ]
+    },
+    "sentence472": {
+        "sentence": "의정부대로점 / 의정부중앙로점 / 이천중앙로점 / 일산그랜드점 / 정발산로점 / 정자역점 / 철산역점 / 태평역점 / 파주LCD점 /",
+        "entity": [
+            "의정부대로점",
+            "의정부중앙로점",
+            "이천중앙로점",
+            "일산그랜드점",
+            "정발산로점",
+            "정자역점",
+            "철산역점",
+            "태평역점",
+            "파주LCD점"
+        ],
+        "category": [
+            "address",
+            "address",
+            "address",
+            "address",
+            "address",
+            "address",
+            "address",
+            "address",
+            "address"
+        ]
+    },
+    "sentence473": {
+        "sentence": "상하이 장강과학성의 생물의학 실험실에서 연구자들은 신약의 전임상 시험을 진행하며 난치병을 극복하기 위해 노력하고 있습니다.",
+        "entity": [
+            "상하이 장강과학성",
+            "생물의학 실험실"
+        ],
+        "category": [
+            "other facility",
+            "other production facility"
+        ]
+    },
+    "sentence474": {
+        "sentence": "사천대학교 화서병원의 재활센터에서 물리치료사는 교통사고 후 환자에게 걸음걸이 훈련을 지도하여 걸음걸이 능력을 회복할 수 있도록 돕고 있다.",
+        "entity": [
+            "사천대학교 화서병원",
+            "재활센터",
+            "물리치료사"
+        ],
+        "category": [
+            "hospital",
+            "other public facility",
+            "other person"
+        ]
+    },
+    "sentence475": {
+        "sentence": "북쪽으로는 불리사 구와 마신디 구 , 남쪽으로는 키발레 구 , 남동쪽으로는 키보가 구 , 콩고 민주 공화국 동부 주와 접한다 .",
+        "entity": [
+            "불리사 구",
+            "마신디 구",
+            "키발레 구",
+            "키보가 구",
+            "콩고 민주 공화국",
+            "동부 주"
+        ],
+        "category": [
+            "state or province",
+            "state or province",
+            "state or province",
+            "state or province",
+            "country",
+            "state or province"
+        ]
+    },
+    "sentence476": {
+        "sentence": "성운은 우주에 있는 가스와 먼지의 구름으로, 종종 오리온 성운과 같은 새로운 별들의 보육원 역할을 한다.",
+        "entity": [
+            "성운",
+            "오리온 성운"
+        ],
+        "category": [
+            "astronomical object",
+            "astronomical object"
+        ]
+    },
+    "sentence477": {
+        "sentence": "수화물은 구리(II) 황산염 오수화물(CuSO4·5H2O)과 같은 결정 구조 내에 물 분자를 포함하는 화합물입니다.",
+        "entity": [
+            "수화물",
+            "구리(II) 황산염 오수화물",
+            "CuSO4·5H2O"
+        ],
+        "category": [
+            "other chemical entity",
+            "compound",
+            "compound"
+        ]
+    },
+    "sentence478": {
+        "sentence": "광저우시 판위구의 영남대옥에는, 한 가족이 3대째 정원에 둘러앉아 저녁 식사를 즐기며, 전통적인 영남 생활 방식을 유지하고 있다.",
+        "entity": [
+            "광저우시 판위구",
+            "영남대옥"
+        ],
+        "category": [
+            "district",
+            "residential"
+        ]
+    },
+    "sentence479": {
+        "sentence": "대한민국을 비롯해 세계적으로는 보라는 새로운 차명이 붙여졌으나 , 북미에서는 여전히 제타라는 차명이 그대로 계승되었다 .",
+        "entity": [
+            "대한민국",
+            "보라",
+            "제타"
+        ],
+        "category": [
+            "country",
+            "car",
+            "car"
+        ]
+    },
+    "sentence480": {
+        "sentence": "미국 , 영국 , 독일 , 일본 , 타이완 ( 홍콩을 포함하여 ) 중국 , 싱가포르와 인도에서 판매망을 운영한다 .",
+        "entity": [
+            "미국",
+            "영국",
+            "독일",
+            "일본",
+            "타이완",
+            "홍콩",
+            "중국",
+            "싱가포르",
+            "인도"
+        ],
+        "category": [
+            "country",
+            "country",
+            "country",
+            "country",
+            "state or province",
+            "state or province",
+            "country",
+            "country",
+            "country"
+        ]
+    },
+    "sentence481": {
+        "sentence": "엔터테인먼트 위클리는 미스트의 `` 가상의 도덕성 '' 을 종교적인 체험으로 여긴 몇몇 플레이어가 있음을 알렸다 .",
+        "entity": [
+            "엔터테인먼트 위클리",
+            "미스트"
+        ],
+        "category": [
+            "media",
+            "game"
+        ]
+    },
+    "sentence482": {
+        "sentence": "스포츠 브랜드는 친환경 원단으로 제작된 스포츠 조끼와 반바지를 출시했는데, 운동할 때의 기능적 요구를 충족시킬 수 있을 뿐만 아니라 환경 보호에 대한 중시를 보여줄 수 있다.",
+        "entity": [
+            "스포츠 조끼",
+            "반바지"
+        ],
+        "category": [
+            "clothes",
+            "clothes"
+        ]
+    },
+    "sentence483": {
+        "sentence": "독일의 옥토버페스트는 맥주, 전통 음악, 민속 무용으로 유명합니다.",
+        "entity": [
+            "독일",
+            "옥토버페스트"
+        ],
+        "category": [
+            "country",
+            "tradition"
+        ]
+    },
+    "sentence484": {
+        "sentence": "청두의 콴자이샹즈에는 오래된 사천요리집이 꽉 찼고, 식객들은 매콤하고 향긋한 사천요리를 맛보며, 용성의 음식문화를 느끼고 있다.",
+        "entity": [
+            "청두",
+            "콴자이샹즈"
+        ],
+        "category": [
+            "city",
+            "other address"
+        ]
+    },
+    "sentence485": {
+        "sentence": "마시키시가 가장 큰 영향을 받았지만, 구마모토현의 다른 지역의 건물도 무너지거나 손상되었습니다.",
+        "entity": [
+            "마시키시",
+            "구마모토현"
+        ],
+        "category": [
+            "city",
+            "state or province"
+        ]
+    },
+    "sentence486": {
+        "sentence": "승무원 모듈과 서비스 모듈로 구분되며 아폴로 계획에 사용된 사령선과 비슷하지만 보다 크고 수용인원 역시 많으며 진보된 설계를 적용하였다.",
+        "entity": [
+            "아폴로 계획"
+        ],
+        "category": [
+            "other event"
+        ]
+    },
+    "sentence487": {
+        "sentence": "핵심종인 꿀벌은 수분에 필수적인 역할을 하며, 많은 식물의 번식에 기여한다.",
+        "entity": [
+            "꿀벌"
+        ],
+        "category": [
+            "species"
+        ]
+    },
+    "sentence488": {
+        "sentence": "베이징 대동 오리구이점에서 식객들은 유명한 오리구이를 맛보고 있고, 종업원은 능숙하게 식탁 옆에서 현장에서 오리를 잘라내며, 뛰어난 기교를 보여주고 있다.",
+        "entity": [
+            "베이징 대동 오리구이점",
+            "베이징"
+        ],
+        "category": [
+            "restaurant",
+            "city"
+        ]
+    },
+    "sentence489": {
+        "sentence": "정치학은 정부 시스템, 정치적 행동, 정책이 사회와 국제 관계에 미치는 영향을 연구합니다.",
+        "entity": [
+            "정치학"
+        ],
+        "category": [
+            "discipline"
+        ]
+    },
+    "sentence490": {
+        "sentence": "아프리카 드러머들은 땅에 앉아, 영리한 손가락으로 다양한 크기의 북을 두드리며, 복잡한 리듬을 만들어내고, 고대 문화의 맥동과 생명력을 전달한다.",
+        "entity": [
+            "북"
+        ],
+        "category": [
+            "musical instruments"
+        ]
+    },
+    "sentence491": {
+        "sentence": "휴고상은 공상과학 소설과 판타지 글쓰기의 우수성에 수여되는 유명한 문학상이다.",
+        "entity": [
+            "휴고상"
+        ],
+        "category": [
+            "literary award"
+        ]
+    },
+    "sentence492": {
+        "sentence": "도입 초창기에는 중앙선· 매일 운행하는 일부열차와 청량리 간 새마을호 열차에 거의 고정적으로 연결 운행되었으며 , 기술적 난점 탓에 선형이 불량한 구간에서 운행하는 화물열차는 견인하지 않았다.",
+        "entity": [
+            "중앙선",
+            "청량리",
+            "새마을호"
+        ],
+        "category": [
+            "railway",
+            "district",
+            "rail"
+        ]
+    },
+    "sentence493": {
+        "sentence": "그 군인은 소총을 정밀하고 정확하게 다룰 수 있도록 훈련받았다.",
+        "entity": [
+            "소총"
+        ],
+        "category": [
+            "firearms"
+        ]
+    },
+    "sentence494": {
+        "sentence": "중국 본토는 세계에서 가장 큰 단체 <성경> 생산지이다. 2016년 10월 현재, 중국기독교협회 산하의 난징아이더인쇄유한회사는 세계 70여개 국가와 지역에 1억 5,500만 권의 성경을 인쇄했다.",
+        "entity": [
+            "중국",
+            "성경",
+            "중국기독교협회",
+            "난징아이더인쇄유한회사"
+        ],
+        "category": [
+            "country",
+            "other literature",
+            "religious organization",
+            "company"
+        ]
+    },
+    "sentence495": {
+        "sentence": "샤리아 법은 꾸란과 하디스에서 파생된 이슬람 법 체계이다.",
+        "entity": [
+            "샤리아 법",
+            "꾸란",
+            "하디스",
+            "이슬람"
+        ],
+        "category": [
+            "law",
+            "other literature",
+            "other literature",
+            "religious group"
+        ]
+    },
+    "sentence496": {
+        "sentence": "예외적으로 해상보안청은 단독으로 청령 ( 庁令 ) 을 발령할 수 있지만 , 부·성령 보다 하위 법령이며 실질적으로 규칙과 거의 같다.",
+        "entity": [
+            "해상보안청"
+        ],
+        "category": [
+            "government facility"
+        ]
+    },
+    "sentence497": {
+        "sentence": "회원들 중 대다수는 조선공산당 재건운동을 위하여 일제의 혹독한 탄압에도 불구하고 끝까지 전향하지 않고 활동을 지속하였으며 , 광복 후 재건된 조선공산당의 주류를 이루었다.",
+        "entity": [
+            "조선공산당"
+        ],
+        "category": [
+            "political/military"
+        ]
+    },
+    "sentence498": {
+        "sentence": "기독교인들은 가톨릭, 개신교, 정교회와 같은 교단으로 세계에서 가장 큰 종교 집단을 형성한다.",
+        "entity": [
+            "기독교인",
+            "가톨릭",
+            "개신교",
+            "정교회"
+        ],
+        "category": [
+            "religious group",
+            "religious group",
+            "religious group",
+            "religious group"
+        ]
+    },
+    "sentence499": {
+        "sentence": "난징 칭오 스포츠 공원의 암벽 등반 벽 앞에서, 암벽 등반 애호가들은 다양한 난이도의 코스에 도전하고 있으며, 뛰어난 기술과 용기를 보여주고 있다.",
+        "entity": [
+            "난징 칭오 스포츠 공원"
+        ],
+        "category": [
+            "sports facility"
+        ]
+    },
+    "sentence500": {
+        "sentence": "'포트나이트'는 빌딩 요소와 배틀 로얄 형식을 결합하여 경쟁적인 게임 플레이로 전 세계 수백만 명의 플레이어를 끌어들입니다.",
+        "entity": [
+            "포트나이트"
+        ],
+        "category": [
+            "game"
+        ]
+    },
+    "sentence501": {
+        "sentence": "봉군의 오래된 친구 오연이 ( 이윤지 ) 는 해빈에게 찾아가 봉군의 전과에 대해 말해주고 거기서 의심되는게 있다고 한다 .",
+        "entity": [
+            "오연이",
+            "이윤지",
+            "봉군",
+            "해빈"
+        ],
+        "category": [
+            "other person",
+            "actor",
+            "other person",
+            "other person"
+        ]
+    },
+    "sentence502": {
+        "sentence": "또한 페루 축구 국가대표팀으로 2경기 4득점을 하였는데 , 이 중 하나가 1930년 FIFA 월드컵 루마니아를 상대로 기록한 1득점이다.",
+        "entity": [
+            "페루 축구 국가대표팀",
+            "1930년 FIFA 월드컵",
+            "루마니아"
+        ],
+        "category": [
+            "sports team/league",
+            "sporting event",
+            "country"
+        ]
+    },
+    "sentence503": {
+        "sentence": "부모의 이혼으로 불우한 청년기를 보내다가 한명회와 교유했고 , 그를 통해 신숙주 등을 소개받고 수양대군의 측근이 되었다 .",
+        "entity": [
+            "한명회",
+            "신숙주",
+            "수양대군"
+        ],
+        "category": [
+            "politician",
+            "scholar",
+            "politician"
+        ]
+    },
+    "sentence504": {
+        "sentence": "방화벽은 미리 정해진 규칙에 따라 수신 및 발신 네트워크 트래픽을 모니터링하고 제어하는 보안 장벽 역할을 합니다.",
+        "entity": [
+            "방화벽"
+        ],
+        "category": [
+            "software"
+        ]
+    },
+    "sentence505": {
+        "sentence": "말기의 고죽국의 영역은 서쪽은 난하 , 청룡하 , 북쪽은 현재의 만리장성 , 동쪽은 산해관 , 남쪽은 발해만으로 그 세력 범위가 축소되었다.",
+        "entity": [
+            "고죽국",
+            "난하",
+            "청룡하",
+            "만리장성",
+            "산해관",
+            "발해만"
+        ],
+        "category": [
+            "country",
+            "water body",
+            "water body",
+            "other facility",
+            "other geographical entity",
+            "water body"
+        ]
+    },
+    "sentence506": {
+        "sentence": "수상 버스 정류장의 직원들은 거동이 불편한 승객들이 안전하게 승선할 수 있도록 도와줌으로써, 이 독특한 도시 교통수단이 더 많은 시민들에게 서비스를 제공할 수 있게 해.",
+        "entity": [
+            "수상 버스 정류장",
+            "수상 버스"
+        ],
+        "category": [
+            "other transportation facility",
+            "water"
+        ]
+    },
+    "sentence507": {
+        "sentence": "The Ramones의 음악에서 볼 수 있듯이, 펑크 록은 빠르게 진행되는 원시적인 사운드와 반체제 가사로 유명합니다.",
+        "entity": [
+            "The Ramones",
+            "펑크 록"
+        ],
+        "category": [
+            "band",
+            "music genre"
+        ]
+    },
+    "sentence508": {
+        "sentence": "스카이다이빙 애호가들은 헬리콥터에서 뛰어내렸고, 공중에서 자유낙하하는 스릴 속에서 아드레날린이 치솟는 쾌감과 하늘을 정복하는 성취감을 체험했다.",
+        "entity": [
+            "헬리콥터"
+        ],
+        "category": [
+            "air"
+        ]
+    },
+    "sentence509": {
+        "sentence": "조제프루이 라그랑주 ( 1736–1813 ) 는 피에르 드 페르마와 레온하르트 오일러의 일부 명제들을 엄밀히 증명하였다 .",
+        "entity": [
+            "조제프루이 라그랑주",
+            "피에르 드 페르마",
+            "레온하르트 오일러"
+        ],
+        "category": [
+            "scholar",
+            "scholar",
+            "scholar"
+        ]
+    },
+    "sentence510": {
+        "sentence": "우한시 도시관리지휘센터의 대형 스크린 앞에서 직원들은 각 부서를 조정하여 도시의 일상 운영 중 돌발사건을 처리하고 있다.",
+        "entity": [
+            "우한시 도시관리지휘센터",
+            "대형 스크린"
+        ],
+        "category": [
+            "government facility",
+            "electronics"
+        ]
+    },
+    "sentence511": {
+        "sentence": "데이터 구조는 처리를 최적화하기 위해 배열, 연결된 목록, 스택 및 대기열과 같은 데이터를 효율적으로 구성합니다.",
+        "entity": [
+            "데이터 구조",
+            "배열",
+            "연결된 목록",
+            "스택",
+            "대기열"
+        ],
+        "category": [
+            "other computer science entity",
+            "other computer science entity",
+            "other computer science entity",
+            "other computer science entity",
+            "other computer science entity"
+        ]
+    },
+    "sentence512": {
+        "sentence": "공전 주기 범위를 이용하여 항성과 c가 떨어진 거리는 최소 5.3 ~ 최대 6.3 천문단위가 됨을 알 수 있다 .",
+        "entity": [
+            "천문단위"
+        ],
+        "category": [
+            "metrics"
+        ]
+    },
+    "sentence513": {
+        "sentence": "남경은행의 커뮤니티 지점에서 직원들은 고령 고객에게 모바일 뱅킹 앱을 사용하는 방법을 참을성 있게 설명하고 있다.",
+        "entity": [
+            "남경은행",
+            "커뮤니티 지점",
+            "모바일 뱅킹 앱"
+        ],
+        "category": [
+            "bank",
+            "other facility",
+            "software"
+        ]
+    },
+    "sentence514": {
+        "sentence": "상하이 와이탄의 미슐랭 3성급 레스토랑인 울트라바이올렛 바이 폴 페어렛에서 손님들은 음식, 프로젝션, 음악이 결합된 다감각 만찬을 경험하고 있다.",
+        "entity": [
+            "상하이 와이탄",
+            "울트라바이올렛 바이 폴 페어렛",
+            "상하이"
+        ],
+        "category": [
+            "other address",
+            "restaurant",
+            "city"
+        ]
+    },
+    "sentence515": {
+        "sentence": "당시 RKO의 우두머리였던 데이비드 O. 셀즈닉은 평범하지 않은 배우를 캐스팅 하는 것을 `` 특별한 기회 '' 라고 말하였다.",
+        "entity": [
+            "데이비드 O. 셀즈닉",
+            "RKO"
+        ],
+        "category": [
+            "director",
+            "company"
+        ]
+    },
+    "sentence516": {
+        "sentence": "그리고 6개월 후 , 슈퍼주니어가 아시아투어 콘서트를 펼칠 때 , ' '' Chu '' ' 무대를 선보여서 화제가 되었다.",
+        "entity": [
+            "슈퍼주니어"
+        ],
+        "category": [
+            "band"
+        ]
+    },
+    "sentence517": {
+        "sentence": "\"사회학 연례 검토\"는 사회학 연구 및 이론의 주요 주제와 발전에 대한 포괄적인 검토를 제공합니다.",
+        "entity": [
+            "사회학 연례 검토"
+        ],
+        "category": [
+            "academic journal"
+        ]
+    },
+    "sentence518": {
+        "sentence": "보호복은 모든 형태의 화학 약품을 다루는 데 필수적입니다.",
+        "entity": [
+            "보호복",
+            "화학 약품"
+        ],
+        "category": [
+            "other product",
+            "chemical weapon"
+        ]
+    },
+    "sentence519": {
+        "sentence": "하이젠베르크가 도입한 불확정성 원리는 입자의 위치와 운동량을 동시에 정확하게 측정할 수 없다고 말합니다.",
+        "entity": [
+            "불확정성 원리",
+            "하이젠베르크"
+        ],
+        "category": [
+            "physical theory",
+            "scholar"
+        ]
+    },
+    "sentence520": {
+        "sentence": "그러나 이러한 성공에도 불구하고 다음 시즌에 가나인 마이클 에시엔이 올랭피크 리옹으로부터 영입되었고 , 그로 인해 주전 입지가 줄어들었다.",
+        "entity": [
+            "마이클 에시엔",
+            "올랭피크 리옹"
+        ],
+        "category": [
+            "athlete",
+            "sports team/league"
+        ]
+    },
+    "sentence521": {
+        "sentence": "세포 골격은 세포의 구조적 지지를 제공하여 세포의 모양을 유지하고 세포의 움직임과 분열을 돕습니다.",
+        "entity": [
+            "세포 골격"
+        ],
+        "category": [
+            "other biological entity"
+        ]
+    },
+    "sentence522": {
+        "sentence": "화장품 카운터의 쇼핑 가이드는 열정적으로 고객에게 각종 파운데이션과 립스틱을 소개하고, 그들이 자신의 피부색에 가장 적합한 메이크업 제품을 선택할 수 있도록 도와준다.",
+        "entity": [
+            "파운데이션",
+            "립스틱"
+        ],
+        "category": [
+            "personal care",
+            "personal care"
+        ]
+    },
+    "sentence523": {
+        "sentence": "뉘른베르크 강령은 제2차 세계대전 이후 인간 실험을 수행하기 위한 윤리적 기준을 확립했다.",
+        "entity": [
+            "뉘른베르크 강령",
+            "제2차 세계대전"
+        ],
+        "category": [
+            "law",
+            "political/military event"
+        ]
+    },
+    "sentence524": {
+        "sentence": "대나무는 제지와 상업적인 출판에 사용되었고 이 지역은 11~17세기까지 제지업으로 번영하여 송나라와 원나라 때 3대 종이 생산지 중 하나였다.",
+        "entity": [
+            "송나라",
+            "원나라"
+        ],
+        "category": [
+            "miscellaneous",
+            "miscellaneous"
+        ]
+    },
+    "sentence525": {
+        "sentence": "서안의 회민구, 전통적인 사합원 민가에서 노인들은 정원에서 햇볕을 쬐고, 일상 이야기를 나누며 한가로운 생활을 즐기고 있다.",
+        "entity": [
+            "서안 회민구",
+            "사합원 민가"
+        ],
+        "category": [
+            "district",
+            "residential"
+        ]
+    },
+    "sentence526": {
+        "sentence": "이는 이리와 같은 포식자로부터 효과적인 방어수단이 될 수 있으나 , 인간 사냥꾼들에게는 좋은 표적이 되기도 한다 .",
+        "entity": [
+            "이리"
+        ],
+        "category": [
+            "species"
+        ]
+    },
+    "sentence527": {
+        "sentence": "잭슨 폴록의 작품에서 볼 수 있듯이 추상 표현주의는 자발적이고 몸짓적인 붓놀림과 감정적 강렬함을 강조한다.",
+        "entity": [
+            "잭슨 폴록",
+            "추상 표현주의"
+        ],
+        "category": [
+            "artist",
+            "visual art genre"
+        ]
+    },
+    "sentence528": {
+        "sentence": "정규 과정의 학생들은 졸업후 소위로 임관하여 초급 지휘관으로 임용되므로 , 대한민국 육군사관학교와 기능상 거의 유사하다.",
+        "entity": [
+            "대한민국 육군사관학교"
+        ],
+        "category": [
+            "school"
+        ]
+    },
+    "sentence529": {
+        "sentence": "월트 휘트먼 ( Walt Whitman , 1819-1892 ) 은 농부의 아들로 태어났지만 어려서부터 도시생활에 관심을 가지고 문학활동에 참여하였다.",
+        "entity": [
+            "월트 휘트먼"
+        ],
+        "category": [
+            "author"
+        ]
+    },
+    "sentence530": {
+        "sentence": "〈 '' 'Desecration Smile '' '〉은 레드 핫 칠리 페퍼스의 Stadium Arcadium》에 수록된 곡이다 .",
+        "entity": [
+            "Desecration Smile",
+            "레드 핫 칠리 페퍼스",
+            "Stadium Arcadium"
+        ],
+        "category": [
+            "song",
+            "band",
+            "album"
+        ]
+    },
+    "sentence531": {
+        "sentence": "2001년 엔론 스캔들은 미국 역사상 가장 큰 파산 중 하나와 기업 지배 구조에 중대한 변화를 가져왔다.",
+        "entity": [
+            "엔론 스캔들",
+            "엔론",
+            "미국"
+        ],
+        "category": [
+            "business event",
+            "company",
+            "country"
+        ]
+    },
+    "sentence532": {
+        "sentence": "전자 애완 동물 장난감의 출현은 실제 애완 동물을 키우기 불편한 가정에 대안을 제공하며, 아이들은 가상 애완 동물을 돌보면서 책임감을 배울 수 있습니다.",
+        "entity": [
+            "전자 애완 동물 장난감"
+        ],
+        "category": [
+            "toys"
+        ]
+    },
+    "sentence533": {
+        "sentence": "LA 다저스와의 홈경기에 선발 등판한 스트래즈버그는 5이닝 2피안타 무실점 4탈삼진을 기록하며 성공적인 복귀전을 이뤄냈다 .",
+        "entity": [
+            "LA 다저스",
+            "스트래즈버그"
+        ],
+        "category": [
+            "sports team/league",
+            "athlete"
+        ]
+    },
+    "sentence534": {
+        "sentence": "어린이집은 일하는 부모들에게 보육 서비스를 제공하고, 안전한 환경, 잘 훈련된 직원 및 아동 교육 활동을 제공한다.",
+        "entity": [
+            "어린이집"
+        ],
+        "category": [
+            "other facility"
+        ]
+    },
+    "sentence535": {
+        "sentence": "국제 로봇 및 자동화 회의(ICRA)는 로봇 공학, 자동화 및 인공 지능 분야의 혁신을 선보입니다.",
+        "entity": [
+            "국제 로봇 및 자동화 회의",
+            "ICRA"
+        ],
+        "category": [
+            "conference",
+            "conference"
+        ]
+    },
+    "sentence536": {
+        "sentence": "식당의 주소는 256 Oak Boulevard로, 고객들이 GPS로 쉽게 찾을 수 있습니다.",
+        "entity": [
+            "256 Oak Boulevard",
+            "GPS"
+        ],
+        "category": [
+            "address",
+            "electronics"
+        ]
+    },
+    "sentence537": {
+        "sentence": "FIFA 월드컵 골든 부츠는 FIFA 월드컵 토너먼트의 최고 득점자에게 수여됩니다.",
+        "entity": [
+            "FIFA 월드컵 골든 부츠",
+            "FIFA 월드컵"
+        ],
+        "category": [
+            "sports award",
+            "sporting event"
+        ]
+    },
+    "sentence538": {
+        "sentence": "' '' 기업환경평가 '' ' 또는 ' '' 기업환경평가보고서 '' ' ( Doing Business Report ) 는 세계은행이 매년 발표하는 기업하기 좋은 환경에 대한 국가순위이다.",
+        "entity": [
+            "세계은행"
+        ],
+        "category": [
+            "other commercial organization"
+        ]
+    },
+    "sentence539": {
+        "sentence": "셜록 홈즈가 등장하는 것과 같은 미스터리 소설은 독자들에게 뛰어난 탐정들과 함께 복잡한 퍼즐을 풀도록 도전한다.",
+        "entity": [
+            "셜록 홈즈",
+            "미스터리 소설"
+        ],
+        "category": [
+            "other figure",
+            "literature genre"
+        ]
+    },
+    "sentence540": {
+        "sentence": "철학 박사(PhD)는 다양한 분야에서 가장 높은 수준의 학업 성취도를 나타냅니다.",
+        "entity": [
+            "철학 박사",
+            "PhD"
+        ],
+        "category": [
+            "educational degree",
+            "educational degree"
+        ]
+    },
+    "sentence541": {
+        "sentence": "노엄 촘스키는 '언어능력이란 화자가 언어에 관해서 알고 있는 것 , 문법적으로 옳은 문장을 만들어 내는 화자의 모든 능력을 나타낸다.",
+        "entity": [
+            "노엄 촘스키"
+        ],
+        "category": [
+            "scholar"
+        ]
+    },
+    "sentence542": {
+        "sentence": "'The Crown'은 엘리자베스 2세 여왕과 영국 왕실의 삶과 통치에 대한 극적인 엿보기를 제공합니다.",
+        "entity": [
+            "The Crown",
+            "엘리자베스 2세",
+            "영국"
+        ],
+        "category": [
+            "broadcast program",
+            "politician",
+            "country"
+        ]
+    },
+    "sentence543": {
+        "sentence": "고대 그리스의 올림픽은 도시 국가를 통합하는 일련의 운동 경기였다.",
+        "entity": [
+            "고대 그리스",
+            "올림픽"
+        ],
+        "category": [
+            "other gpe",
+            "sporting event"
+        ]
+    },
+    "sentence544": {
+        "sentence": "쑨원 ( 孫文 ) 前 중화민국 총통의 손자이며 쑨커 ( 孫科 ) 前 중화민국 고시원 원장의 차남 ( 次男 ) 이다 .",
+        "entity": [
+            "쑨원",
+            "쑨커",
+            "중화민국"
+        ],
+        "category": [
+            "politician",
+            "politician",
+            "country"
+        ]
+    },
+    "sentence545": {
+        "sentence": "유대인 종교 단체는 고대 전통을 유지하면서 유월절과 욤 키푸르와 같은 중요한 휴일을 기념합니다.",
+        "entity": [
+            "유대인 종교 단체",
+            "유월절",
+            "욤 키푸르"
+        ],
+        "category": [
+            "religious group",
+            "tradition",
+            "tradition"
+        ]
+    },
+    "sentence546": {
+        "sentence": "칠레의 아타카마 사막은 지구상에서 가장 건조한 곳 중 하나이며, 일부 지역은 비가 거의 내리지 않습니다.",
+        "entity": [
+            "아타카마 사막"
+        ],
+        "category": [
+            "desert"
+        ]
+    },
+    "sentence547": {
+        "sentence": "\"사이언스\"는 과학 및 기술의 모든 분야에 걸쳐 영향력이 큰 연구 결과를 발표하는 존경받는 저널입니다.",
+        "entity": [
+            "사이언스"
+        ],
+        "category": [
+            "academic journal"
+        ]
+    },
+    "sentence548": {
+        "sentence": "오토바이 클럽은 매니아들이 모여 타고 지역 사회 행사에 참여하는 사교 단체입니다.",
+        "entity": [
+            "오토바이 클럽"
+        ],
+        "category": [
+            "other social group"
+        ]
+    },
+    "sentence549": {
+        "sentence": "계속 역사적으로 갈등이 됐던 문제를 해결하려 할 것 '' ( 전태일 열사의 유가족과 친구를 만나려 했으나 거절당한 후 )",
+        "entity": [
+            "전태일"
+        ],
+        "category": [
+            "mythological figure"
+        ]
+    },
+    "sentence550": {
+        "sentence": "볼라는 먹이의 다리를 엉키는 데 사용되는 전통적인 무기입니다.",
+        "entity": [
+            "볼라"
+        ],
+        "category": [
+            "other weapon"
+        ]
+    },
+    "sentence551": {
+        "sentence": "자바는 엔터프라이즈 애플리케이션과 안드로이드 앱을 구축하는 데 일반적으로 사용되는 다목적 객체 지향 프로그래밍 언어입니다.",
+        "entity": [
+            "자바",
+            "안드로이드"
+        ],
+        "category": [
+            "programlang",
+            "software"
+        ]
+    },
+    "sentence552": {
+        "sentence": "로페즈와 리즈 등과 친한 것으로 알려져 있으며 입단 이전에는 친구 사이인 데폴라가 그의 대한민국행을 권유하기도 했다 .",
+        "entity": [
+            "로페즈",
+            "리즈",
+            "데폴라",
+            "대한민국"
+        ],
+        "category": [
+            "athlete",
+            "athlete",
+            "athlete",
+            "country"
+        ]
+    },
+    "sentence553": {
+        "sentence": "브라질의 카니발은 활기찬 퍼레이드, 의상, 삼바 음악을 특징으로 한다.",
+        "entity": [
+            "브라질",
+            "카니발",
+            "삼바"
+        ],
+        "category": [
+            "country",
+            "tradition",
+            "music genre"
+        ]
+    },
+    "sentence554": {
+        "sentence": "아서 밀러의 '판매원의 죽음'은 아메리칸 드림의 가혹한 현실에 직면한 나이 든 세일즈맨의 투쟁을 묘사한다.",
+        "entity": [
+            "아서 밀러",
+            "판매원의 죽음",
+            "아메리칸 드림"
+        ],
+        "category": [
+            "author",
+            "play",
+            "miscellaneous"
+        ]
+    },
+    "sentence555": {
+        "sentence": "증발은 더운 날 웅덩이에서 증발하는 물과 같이 액체가 기체로 변하는 현상입니다.",
+        "entity": [
+            "증발"
+        ],
+        "category": [
+            "physical phenomenon"
+        ]
+    },
+    "sentence556": {
+        "sentence": "Dylan Thomas의 \"Do Not Go Gentle into That Good Night\"는 맹렬한 반항으로 죽음의 불가피성에 맞서 싸우도록 장려한다.",
+        "entity": [
+            "Dylan Thomas",
+            "Do Not Go Gentle into That Good Night"
+        ],
+        "category": [
+            "author",
+            "poem"
+        ]
+    },
+    "sentence557": {
+        "sentence": "기독교 종교 단체인 구세군은 사회 서비스와 재난 구호 활동을 제공한다.",
+        "entity": [
+            "구세군"
+        ],
+        "category": [
+            "religious organization"
+        ]
+    },
+    "sentence558": {
+        "sentence": "''Chaetodon '' - 꼬리줄나비고기 , 나비돔 , 세동가리돔 , 가시나비고기 , 룰나비고기 , 부전나비고기 , 나비고기 포함.",
+        "entity": [
+            "Chaetodon",
+            "꼬리줄나비고기",
+            "나비돔",
+            "세동가리돔",
+            "가시나비고기",
+            "룰나비고기",
+            "부전나비고기",
+            "나비고기"
+        ],
+        "category": [
+            "species",
+            "species",
+            "species",
+            "species",
+            "species",
+            "species",
+            "species",
+            "species"
+        ]
+    },
+    "sentence559": {
+        "sentence": "청두시정무서비스센터에서 시민들은 셀프서비스 단말기를 사용하여 각종 증명서를 빠르게 발급받아 디지털 정부가 제공하는 효율적인 서비스를 체험하고 있다.",
+        "entity": [
+            "청두시정무서비스센터",
+            "셀프서비스 단말기",
+            "디지털 정부"
+        ],
+        "category": [
+            "government facility",
+            "other technology",
+            "other technology"
+        ]
+    },
+    "sentence560": {
+        "sentence": "이어 발표한 《구두》와 SG 워너비와의 듀엣곡인 《사랑하기 때문에》는 씨야라는 이름을 대중에게 알리는 계기를 마련하였다 .",
+        "entity": [
+            "구두",
+            "SG 워너비",
+            "씨야",
+            "사랑하기 때문에"
+        ],
+        "category": [
+            "song",
+            "band",
+            "band",
+            "song"
+        ]
+    },
+    "sentence561": {
+        "sentence": "2112년 도라에몽의 탄생의 번외편에 해당한다.이 영화는 러닝타임이 30분인 전작에 비해 러닝타임이 절반 정도인 16분의 짧은 러닝타임을 가지고 있다.",
+        "entity": [
+            "도라에몽"
+        ],
+        "category": [
+            "other art"
+        ]
+    },
+    "sentence562": {
+        "sentence": "마이크로소프트의 공동 설립자인 빌 게이츠는 그의 자선 재단을 통해 기후 변화와 싸우기 위해 수십억 달러를 약속했다.",
+        "entity": [
+            "마이크로소프트",
+            "빌 게이츠"
+        ],
+        "category": [
+            "company",
+            "business executive"
+        ]
+    },
+    "sentence563": {
+        "sentence": "광저우 타오타오주 술집의 딤섬 홀에서, 식객들은 각양각색의 광둥식 딤섬을 맛보고 있으며, 정통 광저우 모닝 티 문화를 체험하고 있다.",
+        "entity": [
+            "광저우 타오타오주 술집",
+            "광둥식 딤섬",
+            "광저우 모닝 티"
+        ],
+        "category": [
+            "restaurant",
+            "other food",
+            "beverages"
+        ]
+    },
+    "sentence564": {
+        "sentence": "근육 조직에서 발견되는 두 가지 단백질인 악틴과 미오신은 함께 작용하여 근육 수축과 움직임을 가능하게 한다.",
+        "entity": [
+            "악틴",
+            "미오신"
+        ],
+        "category": [
+            "protein",
+            "protein"
+        ]
+    },
+    "sentence565": {
+        "sentence": "투어링 바이크에는 패니어와 튼튼한 프레임이 장착되어 있어 자전거 타는 사람들이 장거리 여행과 모험을 위한 장비를 휴대할 수 있습니다.",
+        "entity": [
+            "투어링 바이크"
+        ],
+        "category": [
+            "bike"
+        ]
+    },
+    "sentence566": {
+        "sentence": "대전광역시 서구 둔산로 201 ( 둔산3동 ) 에 있으며 , 1호선 시청역 6번 출구에서 도보 20분 거리에 있다 .",
+        "entity": [
+            "대전광역시",
+            "시청역"
+        ],
+        "category": [
+            "city",
+            "station"
+        ]
+    },
+    "sentence567": {
+        "sentence": "경제학은 사회가 자원을 어떻게 할당하는지 분석하며, 서로 다른 경제 시스템 내에서 생산, 분배 및 소비를 조사합니다.",
+        "entity": [
+            "경제학"
+        ],
+        "category": [
+            "discipline"
+        ]
+    },
+    "sentence568": {
+        "sentence": "' '' 데마스뒤트 '' ' ( Demasduit ) 는 지금의 캐나다 뉴펀들랜드 섬 토착민인 베오특 여성으로 베오특의 마지막 생존자이다.",
+        "entity": [
+            "데마스뒤트",
+            "캐나다",
+            "뉴펀들랜드 섬",
+            "베오특"
+        ],
+        "category": [
+            "other person",
+            "country",
+            "island",
+            "ethnic group"
+        ]
+    },
+    "sentence569": {
+        "sentence": "피크닉에서, 그들은 갈증을 해소하기 위해 레모네이드 몇 병을 가져왔다.",
+        "entity": [
+            "레모네이드"
+        ],
+        "category": [
+            "beverages"
+        ]
+    },
+    "sentence570": {
+        "sentence": "조선민주주의인민공화국에서는 김일성이 노래를 만들었다고 주장하며 '불후의 고전적 명작'으로 격상시켜 선전하고 있다 .",
+        "entity": [
+            "조선민주주의인민공화국",
+            "김일성"
+        ],
+        "category": [
+            "country",
+            "politician"
+        ]
+    },
+    "sentence571": {
+        "sentence": "가장 큰 대륙인 아시아는 세계 인구의 60% 이상과 다양한 문화의 본거지입니다.",
+        "entity": [
+            "아시아"
+        ],
+        "category": [
+            "continent"
+        ]
+    },
+    "sentence572": {
+        "sentence": "\"미국 화학 학회지\"(JACS)는 유기 화학에서 물리 화학에 이르기까지 화학의 모든 측면에 대한 연구 기사를 제공합니다.",
+        "entity": [
+            "미국 화학 학회지",
+            "JACS"
+        ],
+        "category": [
+            "academic journal",
+            "academic journal"
+        ]
+    },
+    "sentence573": {
+        "sentence": "과학자들은 실패한 생물무기 공격으로 추정되는 독성이 강한 물질인 리신의 흔적을 발견했다.",
+        "entity": [
+            "생물무기",
+            "리신"
+        ],
+        "category": [
+            "biological",
+            "biological"
+        ]
+    },
+    "sentence574": {
+        "sentence": "'The Book Thief'로 예시된 역사 소설은 가상의 인물을 실제 역사적 사건으로 엮어 매력적인 이야기를 만듭니다.",
+        "entity": [
+            "The Book Thief",
+            "역사 소설"
+        ],
+        "category": [
+            "fiction",
+            "literature genre"
+        ]
+    },
+    "sentence575": {
+        "sentence": "\"세포\"는 분자 생물학, 유전학, 생화학에 초점을 맞춘 학술지이며, 최첨단 연구를 선보입니다.",
+        "entity": [
+            "세포"
+        ],
+        "category": [
+            "academic journal"
+        ]
+    },
+    "sentence576": {
+        "sentence": "`` Trane 's Blues '' ( `` Vierd Blues '' 라고도 알려짐 ) ( 존 콜트레인 ) – 8:35",
+        "entity": [
+            "Trane 's Blues",
+            "Vierd Blues",
+            "존 콜트레인"
+        ],
+        "category": [
+            "song",
+            "song",
+            "musician"
+        ]
+    },
+    "sentence577": {
+        "sentence": "법학 박사(JD)는 법학 경력을 추구하는 사람들을 위한 전문 학위입니다.",
+        "entity": [
+            "법학 박사",
+            "JD"
+        ],
+        "category": [
+            "educational degree",
+            "educational degree"
+        ]
+    },
+    "sentence578": {
+        "sentence": "무슬림 종교 단체는 라마단 기간 동안 매일 기도하고 금식하는 것을 포함하여 이슬람의 다섯 기둥을 준수합니다.",
+        "entity": [
+            "무슬림 종교 단체",
+            "라마단",
+            "이슬람의 다섯 기둥"
+        ],
+        "category": [
+            "religious group",
+            "tradition",
+            "tradition"
+        ]
+    },
+    "sentence579": {
+        "sentence": "*** 검은머리올빼미원숭이 또는 ' '' 브라질붉은목올빼미원숭이 '' ' ( ''Aotus nigriceps '' )",
+        "entity": [
+            "검은머리올빼미원숭이",
+            "브라질붉은목올빼미원숭이",
+            "Aotus nigriceps"
+        ],
+        "category": [
+            "species",
+            "species",
+            "species"
+        ]
+    },
+    "sentence580": {
+        "sentence": "굴절은 빛이 공기에서 물로 가는 것과 같은 다른 매체를 통과할 때 휘어져 물체가 왜곡된 것처럼 보이게 하는 것이다.",
+        "entity": [
+            "굴절"
+        ],
+        "category": [
+            "physical phenomenon"
+        ]
+    },
+    "sentence581": {
+        "sentence": "그는 퀘벡은 난공불락으로 믿고 있으며 , 세인트로렌스 강은 상당히 숙련된 안내역이 없으면 , 매우 위험하다고 생각했다.",
+        "entity": [
+            "퀘벡",
+            "세인트로렌스 강"
+        ],
+        "category": [
+            "city",
+            "water body"
+        ]
+    },
+    "sentence582": {
+        "sentence": "검찰이 구속영장을 신청한 것에 대해 경향신문은 `` 사건의 핵심은 곽 교육감이 2억원을 건넸다고 밝힌 만큼 그 돈에 대가성이 있는지 여부다.",
+        "entity": [
+            "경향신문",
+            "곽 교육감"
+        ],
+        "category": [
+            "media",
+            "other person"
+        ]
+    },
+    "sentence583": {
+        "sentence": "오나라가 멸망하자 제갈정은 낭야왕 ( 琅邪王 ) 사마주 ( 司馬伷 ) 의 아내가 되어 있던 누이의 집으로 피신해 숨어 지냈다 .",
+        "entity": [
+            "오나라",
+            "제갈정",
+            "낭야왕",
+            "사마주"
+        ],
+        "category": [
+            "country",
+            "politician",
+            "politician",
+            "politician"
+        ]
+    },
+    "sentence584": {
+        "sentence": "슈퍼볼 MVP 어워드는 NFL 챔피언십 경기에서 가장 가치 있는 선수에게 수여됩니다.",
+        "entity": [
+            "슈퍼볼 MVP 어워드",
+            "NFL 챔피언십"
+        ],
+        "category": [
+            "sports award",
+            "sporting event"
+        ]
+    },
+    "sentence585": {
+        "sentence": "그러나 결승에서 당시 무명이었던 조선민주주의인민공화국의 계순희에게 예상하지 못했던 패배를 당하여 은메달에 그쳤다 .",
+        "entity": [
+            "조선민주주의인민공화국",
+            "계순희"
+        ],
+        "category": [
+            "country",
+            "athlete"
+        ]
+    },
+    "sentence586": {
+        "sentence": "예술가들의 공동체는 종종 그들의 그림, 조각, 그리고 사진을 전시하기 위해 갤러리에 모인다.",
+        "entity": [
+            "예술가들의 공동체"
+        ],
+        "category": [
+            "other social group"
+        ]
+    },
+    "sentence587": {
+        "sentence": "항주 인터넷 은행의 고객 체험 센터에서 직원들은 소기업주들에게 그들을 위해 특별히 설계된 온라인 금융 상품을 소개하고 있다.",
+        "entity": [
+            "항주 인터넷 은행",
+            "고객 체험 센터"
+        ],
+        "category": [
+            "bank",
+            "other facility"
+        ]
+    },
+    "sentence588": {
+        "sentence": "내몽골 후룬베이얼의 현대화 낙농장에서 노동자들은 젖소의 건강과 우유의 품질을 보장하기 위해 자동 착유 설비를 사용하고 있다.",
+        "entity": [
+            "내몽골 후룬베이얼",
+            "현대화 낙농장",
+            "자동 착유 설비"
+        ],
+        "category": [
+            "city",
+            "farm",
+            "other technology"
+        ]
+    },
+    "sentence589": {
+        "sentence": "워녹감독에서 마크휴즈 감독으로 감독이 바뀌고 부터 출전을 못한데다 설상가상으로 발목부상을 입어서 임대계약을 끝내지 못하고 맨체스터 유나이티드 FC로 복귀했다.",
+        "entity": [
+            "마크휴즈",
+            "맨체스터 유나이티드 FC"
+        ],
+        "category": [
+            "athlete",
+            "sports team/league"
+        ]
+    },
+    "sentence590": {
+        "sentence": "스위스의 글레이셔 익스프레스 철도는 스위스 알프스의 탁 트인 전망으로 유명합니다.",
+        "entity": [
+            "글레이셔 익스프레스 철도",
+            "스위스",
+            "알프스"
+        ],
+        "category": [
+            "railway",
+            "country",
+            "mountain"
+        ]
+    },
+    "sentence591": {
+        "sentence": "Postumius Albinus ) 는 굴룻사의 아들인 맛시바 ( Massiva ) 를 불러 이 기회에 누미디아의 왕권을 차지하라고 종용하였다.",
+        "entity": [
+            "Postumius Albinus",
+            "맛시바",
+            "누미디아"
+        ],
+        "category": [
+            "politician",
+            "politician",
+            "country"
+        ]
+    },
+    "sentence592": {
+        "sentence": "우한 퉁제병원의 정신과 외래에서 한 노련한 정신과 의사가 우울증 환자를 위해 인지 행동 치료를 하고 있어 긍정적인 사고방식을 확립할 수 있도록 돕고 있다.",
+        "entity": [
+            "우한 퉁제병원",
+            "정신과",
+            "정신과 의사",
+            "우울증",
+            "인지 행동 치료"
+        ],
+        "category": [
+            "hospital",
+            "miscellaneous",
+            "other person",
+            "disease",
+            "medical theory"
+        ]
+    },
+    "sentence593": {
+        "sentence": "교통사고의 장소는 서계로와 옥고로의 교차점에 있다.",
+        "entity": [
+            "서계로",
+            "옥고로",
+            "교차점"
+        ],
+        "category": [
+            "road",
+            "road",
+            "other address"
+        ]
+    },
+    "sentence594": {
+        "sentence": "키르기스스탄 , 산마리노 , 아르메니아 , 아제르바이잔 , 우즈베키스탄 , 타지키스탄 , 투르크메니스탄 , 유엔 가입 .",
+        "entity": [
+            "키르기스스탄",
+            "산마리노",
+            "아르메니아",
+            "아제르바이잔",
+            "우즈베키스탄",
+            "타지키스탄",
+            "투르크메니스탄",
+            "유엔"
+        ],
+        "category": [
+            "country",
+            "country",
+            "country",
+            "country",
+            "country",
+            "country",
+            "country",
+            "political/military"
+        ]
+    },
+    "sentence595": {
+        "sentence": "정보 검색 메트릭의 정밀도는 생성된 모든 결과 중 반환된 관련 결과의 비율을 측정합니다.",
+        "entity": [
+            "정밀도"
+        ],
+        "category": [
+            "metrics"
+        ]
+    },
+    "sentence596": {
+        "sentence": "스티븐 킹의 소설을 바탕으로 한 '쇼생크 구속'은 감옥에서 희망과 우정의 여정을 따라간다.",
+        "entity": [
+            "스티븐 킹",
+            "쇼생크 구속"
+        ],
+        "category": [
+            "author",
+            "film"
+        ]
+    },
+    "sentence597": {
+        "sentence": "《 '' '육상산전집 '' '》 ( 陸象山全集 ) 은 육구연의 어록 ( 語錄 ) ·문장 ( 文章 ) 을 수집한 것이다.",
+        "entity": [
+            "육상산전집",
+            "육구연"
+        ],
+        "category": [
+            "non-fiction",
+            "scholar"
+        ]
+    },
+    "sentence598": {
+        "sentence": "골절은 뼈의 파열로, 가느다란 균열에서 의학적 개입이 필요한 완전한 파열까지 다양합니다.",
+        "entity": [
+            "골절"
+        ],
+        "category": [
+            "injury"
+        ]
+    },
+    "sentence599": {
+        "sentence": "드미트리 멘델레예프는 아직 발견되지 않은 이 원소를 에카망가니즈 ( ekamanganese ) 라고 부르고 여러 성질을 예측하였다.",
+        "entity": [
+            "드미트리 멘델레예프",
+            "에카망가니즈"
+        ],
+        "category": [
+            "scholar",
+            "element"
+        ]
+    },
+    "sentence600": {
+        "sentence": "너바나의 '네버마인드'는 록 음악의 얼굴을 바꾸고 1990년대에 그런지를 주류로 끌어올렸다.",
+        "entity": [
+            "너바나",
+            "네버마인드",
+            "그런지"
+        ],
+        "category": [
+            "band",
+            "album",
+            "music genre"
+        ]
+    }
+}

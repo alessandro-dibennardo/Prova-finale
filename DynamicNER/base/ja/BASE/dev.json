@@ -1,0 +1,2766 @@
+{
+    "sentence1": {
+        "sentence": "仙台臨海鉄道開業時から使用されていた機関車で、常盤共同火力より譲渡された。その後、1984年まで使用されていたが、上記のDD55型2両の導入により余剰となり、1984年に衣浦臨海鉄道に譲渡された。譲渡後は半田埠頭駅で入換用に使用されていたが、1987年に休車となり、1991年に廃車解体された。",
+        "entity": [
+            "仙台臨海鉄道",
+            "常盤共同火力",
+            "衣浦臨海鉄道",
+            "半田埠頭駅"
+        ],
+        "category": [
+            "company",
+            "company",
+            "company",
+            "station"
+        ]
+    },
+    "sentence2": {
+        "sentence": "武漢長江大橋料金所では、従業員がETC自動料金通路を順序よく通過するように車両を誘導し、交通の円滑化を確保している。",
+        "entity": [
+            "武漢長江大橋",
+            "料金所",
+            "ETC自動料金通路"
+        ],
+        "category": [
+            "road",
+            "other transportation facility",
+            "other technology"
+        ]
+    },
+    "sentence3": {
+        "sentence": "徳島市を中心に展開するラーメン店である。ふく利北島店（板野郡北島町江尻字川中洲18-4）は、有限会社ふく利が運営しているため、株式会社スターフードは運営していない。ふく利北島店はスターフードが運営するふく利と姉妹店である。",
+        "entity": [
+            "徳島市",
+            "ふく利北島店",
+            "株式会社スターフード"
+        ],
+        "category": [
+            "city",
+            "restaurant",
+            "company"
+        ]
+    },
+    "sentence4": {
+        "sentence": "広島の核兵器爆発は第二次世界大戦の壊滅的な転換点を示している。",
+        "entity": [
+            "広島",
+            "核兵器",
+            "第二次世界大戦"
+        ],
+        "category": [
+            "city",
+            "nuclear",
+            "political/military event"
+        ]
+    },
+    "sentence5": {
+        "sentence": "また、ランドマクナリー社などから発行されているキング郡及びシアトル周辺の地図には、BoeingField/KingCountyInternationalAirportと記載されており、ボーイング・フィールドの名前が先に書かれて併記されている。このことからも、地元では愛称のほうが通りが良いことを示しており、愛称には空港の歴史との深く関わっているため単なる別名などではなく、愛称を公募などで後付けする日本の空港と事情が異なる。",
+        "entity": [
+            "ランドマクナリー社",
+            "キング郡",
+            "シアトル",
+            "BoeingField",
+            "KingCountyInternationalAirport",
+            "ボーイング・フィールド"
+        ],
+        "category": [
+            "company",
+            "district",
+            "city",
+            "airport",
+            "airport",
+            "airport"
+        ]
+    },
+    "sentence6": {
+        "sentence": "化粧品売り場のガイドは、自分の肌の色に最適な化粧品を選ぶために、さまざまなファンデーションやリップクリームを親切に顧客に紹介してくれた。",
+        "entity": [
+            "ファンデーション",
+            "リップクリーム"
+        ],
+        "category": [
+            "personal care",
+            "personal care"
+        ]
+    },
+    "sentence7": {
+        "sentence": "ノルム線型空間の上の双線型形式は、全てのu,v∈Vに対して、が成立するような定数Cが存在するとき、有界(bounded)であるという。",
+        "entity": [
+            "ノルム線型空間",
+            "双線型形式",
+            "定数C"
+        ],
+        "category": [
+            "other scientific entity",
+            "other scientific entity",
+            "metrics"
+        ]
+    },
+    "sentence8": {
+        "sentence": "ミステリーは、シャーロック・ホームズを主役にした小説のように、才能あふれる探偵とともに複雑な謎を解く読者に挑戦する。",
+        "entity": [
+            "ミステリー",
+            "シャーロック・ホームズ"
+        ],
+        "category": [
+            "literature genre",
+            "other figure"
+        ]
+    },
+    "sentence9": {
+        "sentence": "心理学は科学的な研究と分析を通じて人間の行動、認知、感情を理解する学科である。",
+        "entity": [
+            "心理学",
+            "人間の行動",
+            "認知",
+            "感情"
+        ],
+        "category": [
+            "discipline",
+            "other scientific entity",
+            "other scientific entity",
+            "other scientific entity"
+        ]
+    },
+    "sentence10": {
+        "sentence": "物理学は物質、エネルギー、原子から銀河までの基本的な自然の力を研究する科学学科である。",
+        "entity": [
+            "物理学",
+            "物質",
+            "エネルギー",
+            "原子",
+            "銀河"
+        ],
+        "category": [
+            "discipline",
+            "other physical entity",
+            "physical phenomenon",
+            "other chemical entity",
+            "astronomical object"
+        ]
+    },
+    "sentence11": {
+        "sentence": "モジュール化された家具設計により、ユーザーは自分のニーズと空間を柔軟に組み合わせることができ、空間利用率を高めるだけでなく、個性的な装飾のニーズにも満足している。",
+        "entity": [
+            "モジュール化された家具"
+        ],
+        "category": [
+            "household"
+        ]
+    },
+    "sentence12": {
+        "sentence": "ソウル市内でショーケースを開催。楽曲はSweetuneが担当し、ニコル自身も楽曲から衣装までアルバム準備の全過程に直接参加した。",
+        "entity": [
+            "ソウル市",
+            "Sweetune",
+            "ニコル"
+        ],
+        "category": [
+            "city",
+            "band",
+            "musician"
+        ]
+    },
+    "sentence13": {
+        "sentence": "作詞・作曲をすべて渋沢葉本人が手掛け、プロデューサーに、BLANKEY JET CITYのプロデュースをはじめ国内外で多岐にわたって活躍する土屋昌巳、そして今作が初の女性アーティストのプロデュースとなるチバユウスケ（The Birthday）を迎えて完成した全6曲を収録。",
+        "entity": [
+            "渋沢葉",
+            "BLANKEY JET CITY",
+            "土屋昌巳",
+            "チバユウスケ",
+            "The Birthday"
+        ],
+        "category": [
+            "musician",
+            "band",
+            "musician",
+            "musician",
+            "band"
+        ]
+    },
+    "sentence14": {
+        "sentence": "スリークォーターから常時88-89mph（約142-143km/h）のカットボールと最速98mph（約158km/h）のストレートのコンビネーションを軸にカーブ、チェンジアップを組み合わせ投げる。投げる投手が少ないワンシームを使うことができる。",
+        "entity": [
+            "カットボール",
+            "ストレート",
+            "カーブ",
+            "チェンジアップ",
+            "ワンシーム"
+        ],
+        "category": [
+            "sporting event",
+            "sporting event",
+            "sporting event",
+            "sporting event",
+            "sporting event"
+        ]
+    },
+    "sentence15": {
+        "sentence": "オーヴィル・ライトが1903年12月、ノースカロライナ州キティホークでの初飛行成功後に出した電報",
+        "entity": [
+            "オーヴィル・ライト",
+            "ノースカロライナ州",
+            "キティホーク"
+        ],
+        "category": [
+            "scholar",
+            "state or province",
+            "city"
+        ]
+    },
+    "sentence16": {
+        "sentence": "マッケンジーはカナダの文化および、11の新たな合唱教会が設立されており国中で合唱コンクールが模様されている様に刺激を受けた。",
+        "entity": [
+            "マッケンジー",
+            "カナダ"
+        ],
+        "category": [
+            "musician",
+            "country"
+        ]
+    },
+    "sentence17": {
+        "sentence": "1990年、メルセデス・ベンツが立ち上げた若手育成プロジェクトにカール・ヴェンドリンガー、ハインツ＝ハラルド・フレンツェンとともに選出された。",
+        "entity": [
+            "メルセデス・ベンツ",
+            "カール・ヴェンドリンガー",
+            "ハインツ＝ハラルド・フレンツェン"
+        ],
+        "category": [
+            "company",
+            "athlete",
+            "athlete"
+        ]
+    },
+    "sentence18": {
+        "sentence": "気象気球は各種の観測機器を携えて上空に打ち上げ、大気データを収集し、科学者たちに天気変化と気候パターンの研究に貴重な情報を提供した。",
+        "entity": [
+            "気象気球",
+            "科学者"
+        ],
+        "category": [
+            "air",
+            "scholar"
+        ]
+    },
+    "sentence19": {
+        "sentence": "非常に車好きで、フェラーリの現行車種を全車種（限定車のエンツォ等含む）所有している。また、イランのモハンマド・レザー・パフラヴィー元国王が所有していたランボルギーニを所有していたこともある。",
+        "entity": [
+            "フェラーリ",
+            "エンツォ",
+            "モハンマド・レザー・パフラヴィー",
+            "ランボルギーニ"
+        ],
+        "category": [
+            "car",
+            "car",
+            "politician",
+            "car"
+        ]
+    },
+    "sentence20": {
+        "sentence": "1996年6月29日、西ケープ州アリスのホート・ハーレー大学・ホールにてマーロン・アイロスと対戦し、8回アイロスの悪化した傷が元でドクターストップになり試合終了。4度目の防衛に成功した。",
+        "entity": [
+            "西ケープ州",
+            "アリス",
+            "ホート・ハーレー大学",
+            "マーロン・アイロス"
+        ],
+        "category": [
+            "state or province",
+            "city",
+            "school",
+            "athlete"
+        ]
+    },
+    "sentence21": {
+        "sentence": "エドガー賞はエドガー・アレン・ポーの名前で命名され、ミステリー小説、ノンフィクション、テレビ分野の最優秀作品を表彰することを目的としている。",
+        "entity": [
+            "エドガー賞",
+            "エドガー・アレン・ポー",
+            "ミステリー小説",
+            "ノンフィクション"
+        ],
+        "category": [
+            "literary award",
+            "author",
+            "literature genre",
+            "literature genre"
+        ]
+    },
+    "sentence22": {
+        "sentence": "西安回民街の軽食市場では、観光客が陝西省の特色ある軽食を食べ、古都の料理文化を体験している。",
+        "entity": [
+            "西安回民街",
+            "軽食市場",
+            "陝西省"
+        ],
+        "category": [
+            "other address",
+            "market/mall",
+            "state or province"
+        ]
+    },
+    "sentence23": {
+        "sentence": "Dijkstraアルゴリズムは図中のノード間の最短経路を計算し、ルーティングとナビゲーションシステムに広く応用されている。",
+        "entity": [
+            "Dijkstraアルゴリズム",
+            "ルーティング",
+            "ナビゲーションシステム"
+        ],
+        "category": [
+            "algorithm",
+            "other computer science entity",
+            "other technology"
+        ]
+    },
+    "sentence24": {
+        "sentence": "南京長江トンネル監視センターでは、作業員がトンネル内の交通状況を密接に監視し、走行の安全を確保している。",
+        "entity": [
+            "南京長江トンネル",
+            "監視センター"
+        ],
+        "category": [
+            "other transportation facility",
+            "other transportation facility"
+        ]
+    },
+    "sentence25": {
+        "sentence": "ラインハルツハーゲンから約24kmの場所にカッセル＝カルデン空港がある。この空港は近々地域空港に拡張されることになっている。最寄りの、営業している地域空港はパーダーボルンにある。",
+        "entity": [
+            "ラインハルツハーゲン",
+            "カッセル＝カルデン空港",
+            "パーダーボルン"
+        ],
+        "category": [
+            "city",
+            "airport",
+            "city"
+        ]
+    },
+    "sentence26": {
+        "sentence": "水素は最も軽い元素であり、水の重要な成分であり、ほとんどすべての生体に存在する。",
+        "entity": [
+            "水素",
+            "水"
+        ],
+        "category": [
+            "element",
+            "other chemical entity"
+        ]
+    },
+    "sentence27": {
+        "sentence": "1990年代初期、クレジット・カードの巨大企業MBNAがベルファストに2つの施設を設立した。",
+        "entity": [
+            "MBNA",
+            "ベルファスト"
+        ],
+        "category": [
+            "company",
+            "city"
+        ]
+    },
+    "sentence28": {
+        "sentence": "1998年3月13日終電後に大規模工事を行い、以前は、下りは1ホームのみ、上りは島式ホーム2面で緩急結合できる形であった(ただし、退避のみで緩急結合はなかった)。",
+        "entity": [
+            "中井駅"
+        ],
+        "category": [
+            "station"
+        ]
+    },
+    "sentence29": {
+        "sentence": "雲南文山燐鉱区では、環境保護者が採鉱活動が周囲の環境に汚染を与えないように水質と土壌を検査している。",
+        "entity": [
+            "雲南",
+            "文山",
+            "燐鉱区",
+            "水質",
+            "土壌"
+        ],
+        "category": [
+            "state or province",
+            "city",
+            "mine",
+            "other physical entity",
+            "other physical entity"
+        ]
+    },
+    "sentence30": {
+        "sentence": "ヴォックス社はポンティを指名し「スクリャービン全集」の録音を強行軍で完成させた。世界初のピアノ曲全集。強行軍で行ったため、演奏は勢いでまとめてしまったものもあるが、全体としては安定しており、正統的で丁寧な演奏（ただし「アップライトピアノで演奏されている」という話が生まれるほどヴォックス社の録音状態は酷いものとなってしまっている）。",
+        "entity": [
+            "ヴォックス社",
+            "ポンティ",
+            "スクリャービン"
+        ],
+        "category": [
+            "company",
+            "musician",
+            "musician"
+        ]
+    },
+    "sentence31": {
+        "sentence": "講談社は2011年11月制作を許諾。辻村深月が脚本チェックをしてNHKと修正の話し合いをしたが、納得できないと撮影開始直前の2012年2月6日に許諾を取り消した。",
+        "entity": [
+            "講談社",
+            "辻村深月",
+            "NHK"
+        ],
+        "category": [
+            "company",
+            "author",
+            "company"
+        ]
+    },
+    "sentence32": {
+        "sentence": "ロマン主義文学、例えば『傲慢と偏見』は、愛情、人間関係、社会的期待のテーマを検討した。",
+        "entity": [
+            "ロマン主義文学",
+            "傲慢と偏見"
+        ],
+        "category": [
+            "literature genre",
+            "fiction"
+        ]
+    },
+    "sentence33": {
+        "sentence": "エンジニアたちは河北省承徳の鉄鉱石採掘と選鉱基地に新たに設置されたスマート生産設備を調整し、生産効率と安全性を向上させている。",
+        "entity": [
+            "河北省",
+            "承徳",
+            "鉄鉱石採掘と選鉱基地",
+            "スマート生産設備"
+        ],
+        "category": [
+            "state or province",
+            "city",
+            "mine",
+            "other technology"
+        ]
+    },
+    "sentence34": {
+        "sentence": "原子核で発見された中性子は電荷を持たず、原子の質量に寄与する。",
+        "entity": [
+            "中性子",
+            "原子核",
+            "原子"
+        ],
+        "category": [
+            "other physical entity",
+            "other physical entity",
+            "other chemical entity"
+        ]
+    },
+    "sentence35": {
+        "sentence": "沖縄県の在日米軍基地が日本の国土面積に占める割合は1割以下だが、在日米軍基地面積の7割以上（ただし自衛隊との共用地を除いた米軍専用地の割合）が沖縄県に集中している事で、本土と比べて不公平だとする意見や、在日米軍基地の必要性についても疑問視する意見が、沖縄県には多数ある。また、在日米軍基地近隣の騒音問題がある。",
+        "entity": [
+            "沖縄県",
+            "在日米軍基地",
+            "日本"
+        ],
+        "category": [
+            "state or province",
+            "political/military",
+            "country"
+        ]
+    },
+    "sentence36": {
+        "sentence": "母親はピアニスト、兄のは画家である。ティーンエイジャーの頃には写真を学び、1950年には16mmカメラで初の長編映画を製作した。",
+        "entity": [
+            "ピアニスト",
+            "画家"
+        ],
+        "category": [
+            "musician",
+            "miscellaneous"
+        ]
+    },
+    "sentence37": {
+        "sentence": "市政府を立ち上げる動きは、コロラド州を本拠とする世界的な企業であるCH2MHILL-OMIと契約し、市制執行から3年間、警察と消防を除く市の日々のサービスを行わせることで始められた。同社は市政運営の初日から即座に機能できる装置類と人員を提供した。",
+        "entity": [
+            "コロラド州",
+            "CH2MHILL-OMI"
+        ],
+        "category": [
+            "region",
+            "company"
+        ]
+    },
+    "sentence38": {
+        "sentence": "新都市のシンボルとなる超高層ビルの設計は、アメリカのアトランタに拠点を置く建築家・不動産開発業者のジョン・ポートマン（JohnPortman）が率いるポートマン・ホールディングスが松島新都市の開発に当たる仁川経済自由区域庁と契約しており、すでに設計案が発表されている。",
+        "entity": [
+            "ジョン・ポートマン",
+            "ポートマン・ホールディングス",
+            "仁川経済自由区域庁"
+        ],
+        "category": [
+            "business executive",
+            "company",
+            "government facility"
+        ]
+    },
+    "sentence39": {
+        "sentence": "崩壊した恒星によって形成されたブラックホールは、何も、光さえも脱出できないほど強い引力を持っている。",
+        "entity": [
+            "ブラックホール",
+            "恒星",
+            "光",
+            "引力"
+        ],
+        "category": [
+            "astronomical object",
+            "astronomical object",
+            "physical phenomenon",
+            "physical phenomenon"
+        ]
+    },
+    "sentence40": {
+        "sentence": "星雲は宇宙の気体とちり雲で、通常はオリオン星雲のような新しい恒星のゆりかごです。",
+        "entity": [
+            "星雲",
+            "オリオン星雲",
+            "恒星"
+        ],
+        "category": [
+            "astronomical object",
+            "astronomical object",
+            "astronomical object"
+        ]
+    },
+    "sentence41": {
+        "sentence": "尾張国中村の百姓の子として生まれた日吉（後の秀吉）は、松下家に仕えていたが、買い付けの最中に高野聖に金を盗まれてやむなく逐電する。傷心のままに故郷に戻ったときに、たまたま諸国流浪中の明智光秀に出会い、光秀に触発され改めて武士になる夢を抱く。",
+        "entity": [
+            "日吉",
+            "秀吉",
+            "松下家",
+            "高野聖",
+            "明智光秀"
+        ],
+        "category": [
+            "politician",
+            "politician",
+            "other gpe",
+            "other person",
+            "politician"
+        ]
+    },
+    "sentence42": {
+        "sentence": "ベイヨンは海事委任契約の下1943年5月6日にオハイオ州クリーブランドのアメリカン・シップビルディング社で起工した。",
+        "entity": [
+            "オハイオ州",
+            "クリーブランド",
+            "アメリカン・シップビルディング社"
+        ],
+        "category": [
+            "state or province",
+            "city",
+            "company"
+        ]
+    },
+    "sentence43": {
+        "sentence": "1815年のウィーン会議以後、ホルシュタイン公国はドイツ連邦に参加した（なおウィーン会議では、ホルシュタイン公国の南東に隣接する小規模な公国・ラウエンブルクの公位もオルデンブルク家が獲得しており、以後ホルシュタイン公国と歩みをともにしている）。",
+        "entity": [
+            "ウィーン会議",
+            "ホルシュタイン公国",
+            "ドイツ連邦",
+            "ラウエンブルク",
+            "オルデンブルク家"
+        ],
+        "category": [
+            "political/military event",
+            "other gpe",
+            "other gpe",
+            "other gpe",
+            "other figure"
+        ]
+    },
+    "sentence44": {
+        "sentence": "ところが1944年春にボートマン達クルムホーフ特別部隊が戻ってきて、ヘウムノでの絶滅作戦が再開された。今度は他のドイツ国防軍占領地域から連れてこられたユダヤ人たちがガス殺された。",
+        "entity": [
+            "ボートマン",
+            "クルムホーフ特別部隊",
+            "ドイツ国防軍",
+            "ユダヤ人"
+        ],
+        "category": [
+            "political/military",
+            "political/military",
+            "political/military",
+            "ethnic group"
+        ]
+    },
+    "sentence45": {
+        "sentence": "佐野駅-厚生病院-堀込地蔵堂-やすらぎの湯-田中正造生家東-若原公民館入口-佐野日大前-石塚緑町団地-佐野松桜高校-運動公園-田中正造生家東-やすらぎの湯-堀込地蔵堂-厚生病院-佐野駅",
+        "entity": [
+            "佐野駅",
+            "厚生病院",
+            "堀込地蔵堂",
+            "やすらぎの湯",
+            "田中正造生家",
+            "若原公民館",
+            "佐野日大",
+            "石塚緑町団地",
+            "佐野松桜高校",
+            "運動公園"
+        ],
+        "category": [
+            "station",
+            "hospital",
+            "landmark",
+            "other public facility",
+            "landmark",
+            "other public facility",
+            "school",
+            "residential",
+            "school",
+            "park"
+        ]
+    },
+    "sentence46": {
+        "sentence": "このイングランド史上まれな血なまぐさい戦いはヨーク側の完勝に終わり、ランカスター方の重要人物、ノーサンバランド伯ヘンリー・パーシー、アンドリュー・トロロップといった人々が戦死した。",
+        "entity": [
+            "イングランド",
+            "ヨーク",
+            "ランカスター",
+            "ヘンリー・パーシー",
+            "アンドリュー・トロロップ"
+        ],
+        "category": [
+            "country",
+            "region",
+            "region",
+            "politician",
+            "politician"
+        ]
+    },
+    "sentence47": {
+        "sentence": "ヴァイキング人は斧を振り回し、敵の盾を割った。",
+        "entity": [
+            "ヴァイキング人",
+            "斧",
+            "盾"
+        ],
+        "category": [
+            "ethnic group",
+            "cold weapon",
+            "cold weapon"
+        ]
+    },
+    "sentence48": {
+        "sentence": "パブロ・ピカソの「ゲルニカ」は戦争の恐怖を描き、世界の反戦感情の象徴となっている。",
+        "entity": [
+            "パブロ・ピカソ",
+            "ゲルニカ"
+        ],
+        "category": [
+            "artist",
+            "painting"
+        ]
+    },
+    "sentence49": {
+        "sentence": "上海外灘にあるミシュラン3つ星の3つ星レストランultra by Paul Pairetでは、お客様が食べ物と投影と音楽を融合させた多感覚ディナーを体験しています。",
+        "entity": [
+            "上海外灘",
+            "ultra by Paul Pairet",
+            "Paul Pairet"
+        ],
+        "category": [
+            "landmark",
+            "restaurant",
+            "other person"
+        ]
+    },
+    "sentence50": {
+        "sentence": "1948年の米映画「腰抜け二挺拳銃」（ThePaleface）で、主演のボブ・ホープが、幌馬車の中で劇中歌『ボタンとリボン』（ButtonsandBows）をアングロ・コンサーティーナを弾きながら歌う(演奏は演技)。",
+        "entity": [
+            "ボブ・ホープ",
+            "ThePaleface",
+            "ButtonsandBows",
+            "アングロ・コンサーティーナ"
+        ],
+        "category": [
+            "actor",
+            "film",
+            "song",
+            "musical instruments"
+        ]
+    },
+    "sentence51": {
+        "sentence": "その後もニュータウンは建設され、次第に人口規模が大きくなり、1960年代に入ると、人口25万人を目ざし、俗に「ニューシティ」と呼ばれるミルトン・キーンズのような例も現れている。",
+        "entity": [
+            "ニュータウン",
+            "ミルトン・キーンズ"
+        ],
+        "category": [
+            "region",
+            "city"
+        ]
+    },
+    "sentence52": {
+        "sentence": "5月16日、李宗仁は徐州を放棄する決意を固め、第5戦区軍を5つの兵団（魯南・隴海・淮北・淮南・蘇北）に改編した。",
+        "entity": [
+            "李宗仁",
+            "徐州"
+        ],
+        "category": [
+            "political/military",
+            "city"
+        ]
+    },
+    "sentence53": {
+        "sentence": "類星体は遠い高エネルギー天体であり、銀河中心の超大質量ブラックホールが動力を提供する。",
+        "entity": [
+            "類星体",
+            "銀河",
+            "超大質量ブラックホール"
+        ],
+        "category": [
+            "astronomical object",
+            "astronomical object",
+            "astronomical object"
+        ]
+    },
+    "sentence54": {
+        "sentence": "彗星は冷たい天体で、ハレー彗星のように76年に1度、太陽の周りを回る発光する尾がある。",
+        "entity": [
+            "彗星",
+            "ハレー彗星",
+            "太陽"
+        ],
+        "category": [
+            "astronomical object",
+            "astronomical object",
+            "astronomical object"
+        ]
+    },
+    "sentence55": {
+        "sentence": "ミリ（ラテン文字：Miri、中国語では美里）は、ボルネオ島のサラワク州にある、ブルネイと接するサラワク州の都市。20世紀初頭から油田が発見され、以降オイルタウンとして成長してきた。",
+        "entity": [
+            "ミリ",
+            "ボルネオ島",
+            "サラワク州",
+            "ブルネイ"
+        ],
+        "category": [
+            "city",
+            "island",
+            "state or province",
+            "country"
+        ]
+    },
+    "sentence56": {
+        "sentence": "原子軌道がどのように重なり合って共有結合を形成するかを記述し、分子構造に見解を提供した。",
+        "entity": [
+            "原子軌道",
+            "共有結合",
+            "分子構造"
+        ],
+        "category": [
+            "other chemical entity",
+            "other chemical entity",
+            "other chemical entity"
+        ]
+    },
+    "sentence57": {
+        "sentence": "ただしブラウンの独断専行に、中国共産党将校達は不満を持っていたともいう。特に軍の指揮権を1932年10月に取り上げられていた毛沢東にとっては、ブラウンは目の上のコブであった。",
+        "entity": [
+            "ブラウン",
+            "中国共産党",
+            "毛沢東"
+        ],
+        "category": [
+            "other person",
+            "political/military",
+            "politician"
+        ]
+    },
+    "sentence58": {
+        "sentence": "世界一高い山。遺跡がある。オリヒメの調べによるとムーの子孫が移り住んだ可能性が高かったが、実際は住んでいる人々はムーの末裔ではないがムーの伝承は受け継いでいた。その伝承は地下大空洞伝説というもので、地下には果てしなく続く洞窟があるといわれ、ムーの人々が住んでいた地底の都に繋がっていると言われている。モデルはヒマラヤ山脈。",
+        "entity": [
+            "オリヒメ",
+            "ムー",
+            "ヒマラヤ山脈"
+        ],
+        "category": [
+            "other figure",
+            "other figure",
+            "mountain"
+        ]
+    },
+    "sentence59": {
+        "sentence": "陰イオンは負に帯電したイオンであり、陽イオンは正に帯電したイオンであり、両者は電解質の中で重要な役割を果たしている。",
+        "entity": [
+            "陰イオン",
+            "陽イオン",
+            "電解質"
+        ],
+        "category": [
+            "other chemical entity",
+            "other chemical entity",
+            "other chemical entity"
+        ]
+    },
+    "sentence60": {
+        "sentence": "空気清浄機は室内の空気の質を改善する上で重要な役割を果たしており、特に空気汚染が深刻な都市では、多くの家庭で健康を守るための必需品となっている。",
+        "entity": [
+            "空気清浄機"
+        ],
+        "category": [
+            "household"
+        ]
+    },
+    "sentence61": {
+        "sentence": "引退後は指導者に転身し、ポルトゲーザ等でコーチを務める傍ら、古巣新潟へ入団するブラジル人のアドバイザー的役割も果たしている。マルシオ・リシャルデスやレオ・シルバは、リマの助言もあって新潟に入団した。",
+        "entity": [
+            "ポルトゲーザ",
+            "マルシオ・リシャルデス",
+            "レオ・シルバ",
+            "リマ",
+            "新潟"
+        ],
+        "category": [
+            "sports team/league",
+            "athlete",
+            "athlete",
+            "athlete",
+            "city"
+        ]
+    },
+    "sentence62": {
+        "sentence": "古典派経済学は、一般にリカードにおいて頂点に立ったと考えられている。シュンペーターは、リカードに比較的低い評価を与えているが、「明確な結果を出す方法」という点において、リカードとケインズは「その精神において兄弟である」というほめ方をしている。",
+        "entity": [
+            "リカード",
+            "シュンペーター",
+            "ケインズ"
+        ],
+        "category": [
+            "scholar",
+            "scholar",
+            "scholar"
+        ]
+    },
+    "sentence63": {
+        "sentence": "雲南プーアルの有機茶園では、茶農家たちが春茶の若芽を丁寧に摘み取り、良質なプーアル茶を生産するための準備をしている。",
+        "entity": [
+            "雲南",
+            "プーアル",
+            "有機茶園",
+            "プーアル茶"
+        ],
+        "category": [
+            "state or province",
+            "city",
+            "farm",
+            "beverages"
+        ]
+    },
+    "sentence64": {
+        "sentence": "『ハピネスチャージプリキュア!』3月2日放送分で、初作品『メモル』が土曜19:00枠で開始してちょうど30年となり、そして同作品10月5日放送分で本アニメ枠が誕生して30年となった。",
+        "entity": [
+            "ハピネスチャージプリキュア!",
+            "メモル"
+        ],
+        "category": [
+            "broadcast program",
+            "broadcast program"
+        ]
+    },
+    "sentence65": {
+        "sentence": "信用組合は会員のすべての金融組織として運営され、会員に銀行サービスとローンを提供しており、費用は通常、従来の銀行よりも低い。",
+        "entity": [
+            "信用組合"
+        ],
+        "category": [
+            "other commercial organization"
+        ]
+    },
+    "sentence66": {
+        "sentence": "起点から上勝町田野々までの区間は一部を除いて2車線が確保されているが、それ以降は狭隘路が連続しカーブ・勾配共にきつくなる。また、上勝・那賀両町の境界にあたる八重地トンネルから終点方向は、落石が多発しているので通行の際には十分な注意が必要である。勝浦町沼江以北は徳島市と阿南市以南を結ぶ抜け道としても利用する車も多い。",
+        "entity": [
+            "上勝町",
+            "那賀町",
+            "八重地トンネル",
+            "勝浦町",
+            "徳島市",
+            "阿南市"
+        ],
+        "category": [
+            "district",
+            "district",
+            "other gpe",
+            "district",
+            "city",
+            "city"
+        ]
+    },
+    "sentence67": {
+        "sentence": "毎晩、サラは寝る前に冷たいお茶を飲んでリラックスするのが好きだ。",
+        "entity": [
+            "サラ",
+            "お茶"
+        ],
+        "category": [
+            "other person",
+            "beverages"
+        ]
+    },
+    "sentence68": {
+        "sentence": "さらに額縁から立体的に突き出している5つの頭部は、ルネサンス初期の彫刻家ギベルティのフィレンツェ、サン・ジョヴァンニ洗礼堂の扉彫刻『天国への門』などにも見られるように、当時よく使われたモチーフだった。そしてこの彫刻をミケランジェロが絶賛していたことはよく知られていた。",
+        "entity": [
+            "ギベルティ",
+            "フィレンツェ",
+            "サン・ジョヴァンニ洗礼堂",
+            "天国への門",
+            "ミケランジェロ"
+        ],
+        "category": [
+            "artist",
+            "city",
+            "other public facility",
+            "visual art genre",
+            "artist"
+        ]
+    },
+    "sentence69": {
+        "sentence": "本名は「赤木杏（あかぎあん）」であり、高校入学前に望の目の前で交通事故に遭い死亡していた。「風浦可符香」という名は死後に新井智恵が赤木の人となりを伝えたいと願って与えた仮の名前（赤木が好きだった『変身』の作者「フランツ・カフカ」から）。",
+        "entity": [
+            "赤木杏",
+            "望",
+            "風浦可符香",
+            "新井智恵",
+            "フランツ・カフカ"
+        ],
+        "category": [
+            "other figure",
+            "other figure",
+            "other figure",
+            "other figure",
+            "author"
+        ]
+    },
+    "sentence70": {
+        "sentence": "2014年10月、B2Mエンターテインメントとの専属契約締結を発表。その後、俳優のチョン・イルとのデュエット曲『차라리비눈물에（むしろ雨涙に）』を公開。",
+        "entity": [
+            "B2Mエンターテインメント",
+            "チョン・イル"
+        ],
+        "category": [
+            "company",
+            "actor"
+        ]
+    },
+    "sentence71": {
+        "sentence": "ヨットは穏やかに湖面を滑り、完全に風に頼って穏やかな水域を航行している。",
+        "entity": [
+            "ヨット",
+            "湖"
+        ],
+        "category": [
+            "water",
+            "water body"
+        ]
+    },
+    "sentence72": {
+        "sentence": "ASEAN、日本、大韓民国、中華人民共和国のアーティストが集結したラジオ・タイランド主催『ASEAN+3ConcertforTheKing（タイ国王・在位63周年記念コンサート2009）』で初の海外公演。",
+        "entity": [
+            "ASEAN",
+            "日本",
+            "大韓民国",
+            "中華人民共和国",
+            "ラジオ・タイランド"
+        ],
+        "category": [
+            "other non-commercial organization",
+            "country",
+            "country",
+            "country",
+            "media"
+        ]
+    },
+    "sentence73": {
+        "sentence": "三国時代の史跡が数多く残る。たとえば長江沿岸の烏林（咸寧市の対岸、赤壁の戦いの古戦場）があるほか、荊州の守備を任され最終的に命を落とした蜀漢の関羽ゆかりの地でもある。江陵は三国争奪の城であり、呉の孫権に江陵攻略を命ぜられた周瑜が魏の曹仁・徐晃を破って攻め落としたが、この際に致命傷を負っている。",
+        "entity": [
+            "長江",
+            "烏林",
+            "咸寧市",
+            "赤壁",
+            "荊州",
+            "関羽",
+            "江陵",
+            "孫権",
+            "周瑜",
+            "曹仁",
+            "徐晃"
+        ],
+        "category": [
+            "water body",
+            "other geographical entity",
+            "city",
+            "other geographical entity",
+            "other geographical entity",
+            "other person",
+            "other geographical entity",
+            "other person",
+            "other person",
+            "other person",
+            "other person"
+        ]
+    },
+    "sentence74": {
+        "sentence": "大統領選挙後、シーモアは政治への関与を続けたが、活動的な政治家としてよりも年長の政治家としてであった。ニューヨーク州民主党員新世代、特にサミュエル・ティルデンの庇護者だった。州民主党の集会は1876年の選挙で再度シーモアを州知事候補者に推したが、シーモアが辞退した。",
+        "entity": [
+            "シーモア",
+            "ニューヨーク州",
+            "サミュエル・ティルデン"
+        ],
+        "category": [
+            "politician",
+            "state or province",
+            "politician"
+        ]
+    },
+    "sentence75": {
+        "sentence": "男は「私1人で食べるのがやっとの生活で、とても貴女を養うほどの余裕はない」と言うと、姫は都より持ってきた金を懐から出し「これで食べる物を買って来て下さい。」と言って男に渡した。",
+        "entity": [
+            "男",
+            "姫",
+            "都"
+        ],
+        "category": [
+            "other person",
+            "other person",
+            "city"
+        ]
+    },
+    "sentence76": {
+        "sentence": "1910年にメドフォード(オレゴン州)にて生まれ、モンタナ州バージニアシティの近くで育った。",
+        "entity": [
+            "メドフォード",
+            "オレゴン州",
+            "モンタナ州",
+            "バージニアシティ"
+        ],
+        "category": [
+            "city",
+            "state or province",
+            "state or province",
+            "city"
+        ]
+    },
+    "sentence77": {
+        "sentence": "妙な屁理屈をこねて、ぼっちな高校生活を謳歌しつつリア充を嫌い呪っていた八幡だったが、生活指導担当の教師・'''平塚静'''に目をつけられ、「'''奉仕部'''」に無理矢理入部させられる。",
+        "entity": [
+            "平塚静",
+            "奉仕部"
+        ],
+        "category": [
+            "other figure",
+            "other non-commercial organization"
+        ]
+    },
+    "sentence78": {
+        "sentence": "骨が関節の正常な位置から強制的に離れると、脱臼が発生し、通常は医師が再調整する必要があります。",
+        "entity": [
+            "脱臼",
+            "骨",
+            "関節",
+            "医師"
+        ],
+        "category": [
+            "injury",
+            "other medical entity",
+            "other medical entity",
+            "other person"
+        ]
+    },
+    "sentence79": {
+        "sentence": "2014年10月、B2Mエンターテインメントとの専属契約締結を発表。その後、俳優のチョン・イルとのデュエット曲『차라리비눈물에（むしろ雨涙に）』を公開。",
+        "entity": [
+            "B2Mエンターテインメント",
+            "チョン・イル",
+            "『차라리비눈물에（むしろ雨涙に）』"
+        ],
+        "category": [
+            "company",
+            "actor",
+            "song"
+        ]
+    },
+    "sentence80": {
+        "sentence": "1969年3月5日、加橋は渋谷・斉藤楽器でのレッスン中にスタジオを離れ戻らなかった。マスコミは失踪と報道。ザ・タイガースは渡辺プロダクションが箱根に所有する別荘に篭り、活動を休止する。加橋は、ザ・タイガースを脱退、後任にはベースギター担当である岸部おさみ（現：岸部一徳）の実弟、シローが決定する。",
+        "entity": [
+            "加橋",
+            "渋谷",
+            "斉藤楽器",
+            "ザ・タイガース",
+            "渡辺プロダクション",
+            "箱根",
+            "岸部おさみ",
+            "岸部一徳",
+            "シロー"
+        ],
+        "category": [
+            "other person",
+            "district",
+            "company",
+            "band",
+            "company",
+            "district",
+            "other person",
+            "other person",
+            "other person"
+        ]
+    },
+    "sentence81": {
+        "sentence": "C++は高性能と高効率を提供し、それをシステムソフトウェア、ゲーム開発とリアルタイムシミュレーションの理想的な選択にした。",
+        "entity": [
+            "C++",
+            "システムソフトウェア",
+            "ゲーム開発",
+            "リアルタイムシミュレーション"
+        ],
+        "category": [
+            "programlang",
+            "software",
+            "other computer science entity",
+            "other computer science entity"
+        ]
+    },
+    "sentence82": {
+        "sentence": "時の府知事・橋下徹は、2011年（平成23年）5月18日の定例記者会見において、「宗教や出自によって国旗国歌に抵抗のある人間もいると思うが、そのような者は大阪府の教員になるなということか？」との記者からの質問に対し「仕事の場に宗教や個人の思想信条を持ち出して職務命令に従えないのならば、他の職を選ぶべきであり、そのような個人の考えにあわせることは民間会社と同じく行政組織はできない」とした。",
+        "entity": [
+            "橋下徹",
+            "大阪府"
+        ],
+        "category": [
+            "politician",
+            "state or province"
+        ]
+    },
+    "sentence83": {
+        "sentence": "北村総一朗が演じた山王会会長・関内の邸宅は、北野の親友、所ジョージが所有する別荘、通称「沖縄ベース」を借りて撮影した。その際、北野は冗談か本気かは定かではないが「この家を爆破するシーンを撮りたい」と所に言ったが、さすがにそれは許可されなかった。",
+        "entity": [
+            "北村総一朗",
+            "所ジョージ",
+            "沖縄ベース"
+        ],
+        "category": [
+            "actor",
+            "actor",
+            "landmark"
+        ]
+    },
+    "sentence84": {
+        "sentence": "1987（55歳）4月、モーリス・ベジャール（MauriceBéjart）の新作バレエ『マルロー／神々の変貌』が、テアトル・ド・パリ（ThéâtredeParis）で公演され、プログラムにマルロー著「日本における死／竹本忠雄との対話」が掲載。",
+        "entity": [
+            "モーリス・ベジャール",
+            "テアトル・ド・パリ"
+        ],
+        "category": [
+            "artist",
+            "theater/cinema"
+        ]
+    },
+    "sentence85": {
+        "sentence": "\"The Statue of Liberty,\" a gift from France to the United States, stands as a symbol of freedom and democracy in New York Harbor.",
+        "entity": [
+            "The Statue of Liberty",
+            "New York Harbor"
+        ],
+        "category": [
+            "sculpture",
+            "other geographical entity"
+        ]
+    },
+    "sentence86": {
+        "sentence": "かつてフランスのクラブでプレーしていたチャド人のの紹介により、1989年12月にコートジボワールのASECミモザ・アビジャン監督に就任した。",
+        "entity": [
+            "フランス",
+            "チャド",
+            "ASECミモザ・アビジャン"
+        ],
+        "category": [
+            "country",
+            "country",
+            "sports team/league"
+        ]
+    },
+    "sentence87": {
+        "sentence": "低迷期のフェラーリを支えたドライバーでもあり、当時のフェラーリのエンジニアであったマウロ・フォルギエリは、「自分が一緒に仕事をしたドライバーの中では、エイモンが一番速かった」と評している。",
+        "entity": [
+            "フェラーリ",
+            "マウロ・フォルギエリ",
+            "エイモン"
+        ],
+        "category": [
+            "company",
+            "other person",
+            "athlete"
+        ]
+    },
+    "sentence88": {
+        "sentence": "キプロス王ジャン2世と愛妾マリエット・ド・パトラの間に庶子として生まれた。",
+        "entity": [
+            "ジャン2世",
+            "マリエット・ド・パトラ"
+        ],
+        "category": [
+            "politician",
+            "other person"
+        ]
+    },
+    "sentence89": {
+        "sentence": "クロード・モネの「睡蓮」シリーズは、彼の庭の池の静けさを反映し、印象派の真髄を捉えた。",
+        "entity": [
+            "クロード・モネ",
+            "睡蓮"
+        ],
+        "category": [
+            "artist",
+            "painting"
+        ]
+    },
+    "sentence90": {
+        "sentence": "2011年2月、アラスカ航空によって5月14日よりホライゾン航空に代わってスカイウェスト航空が西海岸線を運行することを発表した。",
+        "entity": [
+            "アラスカ航空",
+            "ホライゾン航空",
+            "スカイウェスト航空",
+            "西海岸線"
+        ],
+        "category": [
+            "company",
+            "company",
+            "company",
+            "other gpe"
+        ]
+    },
+    "sentence91": {
+        "sentence": "シーシュポスがコリントスにいたころ、アウトリュコスはその近くに住んでいて、シーシュポスの家畜をたびたび盗んでいた。",
+        "entity": [
+            "シーシュポス",
+            "コリントス",
+            "アウトリュコス"
+        ],
+        "category": [
+            "mythological figure",
+            "city",
+            "mythological figure"
+        ]
+    },
+    "sentence92": {
+        "sentence": "ロシア運輸省の副運輸相は事故機に搭載された3つのエンジンの内のいずれかを事故前月に交換していると述べ、2011年末にはオーバーホールのため運行スケジュールから外される予定であった。",
+        "entity": [
+            "ロシア運輸省",
+            "副運輸相"
+        ],
+        "category": [
+            "government facility",
+            "politician"
+        ]
+    },
+    "sentence93": {
+        "sentence": "出生時はビルがアーカンソー州知事をしていたが、その直後に行われた知事選挙に敗れている。父の大統領就任とともにホワイトハウスに移り住む。猫が好きで子供の頃に通っていた音楽教室の軒下に住み着いており、教師ですら近寄ることが出来なかった野良猫のソックスに、周りが危ないと言ったが、チェルシーが近付くと手に飛び込んできたためそのまま引き取り、ファースト・ファミリーになった。",
+        "entity": [
+            "ビル",
+            "アーカンソー州",
+            "ホワイトハウス",
+            "ソックス",
+            "チェルシー"
+        ],
+        "category": [
+            "politician",
+            "state or province",
+            "government facility",
+            "other person",
+            "other person"
+        ]
+    },
+    "sentence94": {
+        "sentence": "フィールズ・メダルは40歳以下で数学分野に優れた貢献をした数学者に授与された。",
+        "entity": [
+            "フィールズ・メダル"
+        ],
+        "category": [
+            "other award"
+        ]
+    },
+    "sentence95": {
+        "sentence": "この条約は、武力衝突における化学兵器の使用をなくすことを目的としている。",
+        "entity": [
+            "条約",
+            "化学兵器"
+        ],
+        "category": [
+            "law",
+            "chemical weapon"
+        ]
+    },
+    "sentence96": {
+        "sentence": "'''久海切'''-もとは上下二冊の綴葉装冊子本と推定。舶来の唐紙を用いており、全体に剥落がある。11世紀から12世紀にかけての作。伝称筆者は紫式部とされるが、これは久海切の繊細な筆致を女性の筆跡だと思い込んだためと見られる。書芸文化院などが所蔵。伝存数は10点以内と少なく、公開される機会も少ない。",
+        "entity": [
+            "久海切",
+            "紫式部",
+            "書芸文化院"
+        ],
+        "category": [
+            "visual art genre",
+            "author",
+            "other non-commercial organization"
+        ]
+    },
+    "sentence97": {
+        "sentence": "メリディアンの市域の大半は平であり、大まかにはトレジャー・バレーの北中部に位置する。",
+        "entity": [
+            "メリディアン",
+            "トレジャー・バレー"
+        ],
+        "category": [
+            "city",
+            "region"
+        ]
+    },
+    "sentence98": {
+        "sentence": "U（城田優）：「刹那～asandglassoffate～」作編曲（本人と共同）、「Laflorabandonada」「Love&Peace」編曲（本人と共同）",
+        "entity": [
+            "城田優",
+            "刹那～asandglassoffate～",
+            "Laflorabandonada",
+            "Love&Peace"
+        ],
+        "category": [
+            "musician",
+            "song",
+            "song",
+            "song"
+        ]
+    },
+    "sentence99": {
+        "sentence": "The military employs flamethrowers to clear vegetation in combat zones.",
+        "entity": [
+            "flamethrowers"
+        ],
+        "category": [
+            "other weapon"
+        ]
+    },
+    "sentence100": {
+        "sentence": "光が表面から反射すると、鏡やキラキラした物体の中の画像を見ることができるように反射します。",
+        "entity": [
+            "光",
+            "反射",
+            "鏡"
+        ],
+        "category": [
+            "physical phenomenon",
+            "physical phenomenon",
+            "other product"
+        ]
+    },
+    "sentence101": {
+        "sentence": "コロンビアのエンパナーダは、サンティアゴ・デ・カリ、ボゴタ、メデリンといった大都市で普及している。",
+        "entity": [
+            "コロンビア",
+            "サンティアゴ・デ・カリ",
+            "ボゴタ",
+            "メデリン"
+        ],
+        "category": [
+            "country",
+            "city",
+            "city",
+            "city"
+        ]
+    },
+    "sentence102": {
+        "sentence": "行田出張所拠点の車庫であり、行田出張所本体も備えていたが、2011年12月13日を持って、閉鎖された。",
+        "entity": [
+            "行田出張所",
+            "東武鉄道",
+            "セブン-イレブン行田桜町3丁目店"
+        ],
+        "category": [
+            "government facility",
+            "company",
+            "company"
+        ]
+    },
+    "sentence103": {
+        "sentence": "1994年春、AIM共同創設者クライド・ベルコートは、1972年に提訴した「クリーブラント・インディアンス訴訟」の原告団が35,000ドルで和解に応じたことで、「AIMを売った」とラッセルを責めた。",
+        "entity": [
+            "AIM",
+            "クライド・ベルコート",
+            "クリーブラント・インディアンス",
+            "ラッセル"
+        ],
+        "category": [
+            "other non-commercial organization",
+            "other person",
+            "sports team/league",
+            "other person"
+        ]
+    },
+    "sentence104": {
+        "sentence": "ウルヴァリンの行く手を阻む存在として、セイバートゥースとレディ・デスストライクとオメガレッドとともに登場。原語版担当者はノーラン・ノースで、日本語版は落合弘治。なお、ノースはこの作品の後もいくつかの作品でデッドプールの声を当てている。",
+        "entity": [
+            "ウルヴァリン",
+            "セイバートゥース",
+            "レディ・デスストライク",
+            "オメガレッド",
+            "ノーラン・ノース",
+            "落合弘治"
+        ],
+        "category": [
+            "other figure",
+            "other figure",
+            "other figure",
+            "other figure",
+            "other person",
+            "other person"
+        ]
+    },
+    "sentence105": {
+        "sentence": "1849年から1851年にかけて出版された『シッキムーヒマラヤのツツジ』はシッキム地方のツツジとインドの植物相研究の基礎を作った。",
+        "entity": [
+            "シッキムーヒマラヤ",
+            "ツツジ"
+        ],
+        "category": [
+            "region",
+            "species"
+        ]
+    },
+    "sentence106": {
+        "sentence": "イオンは原子が電子を得たり失ったりしたときに形成されるナトリウム（Na＋）や塩素（Cl−）などの帯電化学的実体である。",
+        "entity": [
+            "イオン",
+            "ナトリウム",
+            "Na＋",
+            "塩素",
+            "Cl−"
+        ],
+        "category": [
+            "other chemical entity",
+            "element",
+            "other chemical entity",
+            "element",
+            "other chemical entity"
+        ]
+    },
+    "sentence107": {
+        "sentence": "5月16日、李宗仁は徐州を放棄する決意を固め、第5戦区軍を5つの兵団（魯南・隴海・淮北・淮南・蘇北）に改編した。",
+        "entity": [
+            "李宗仁",
+            "徐州",
+            "魯南",
+            "隴海",
+            "淮北",
+            "淮南",
+            "蘇北"
+        ],
+        "category": [
+            "political/military",
+            "city",
+            "region",
+            "region",
+            "region",
+            "region",
+            "region"
+        ]
+    },
+    "sentence108": {
+        "sentence": "1928年、アッチソン・トピカ・アンド・サンタフェ鉄道が、カンザスシティ・メキシコ・アンド・オリエント鉄道を買収し、ソノラとサンアンジェロ、デルリオ、さらには外部世界とを鉄道で繋いだ。",
+        "entity": [
+            "アッチソン・トピカ・アンド・サンタフェ鉄道",
+            "カンザスシティ・メキシコ・アンド・オリエント鉄道",
+            "ソノラ",
+            "サンアンジェロ",
+            "デルリオ"
+        ],
+        "category": [
+            "company",
+            "company",
+            "city",
+            "city",
+            "city"
+        ]
+    },
+    "sentence109": {
+        "sentence": "三島の友人の劇作家・評論家の福田恆存も『郭沫若の心中を想ふ』（文藝春秋『福田恒存全集第6巻』に所収）でその言動を「道徳的退廃」として批判したが、郭自身が北京市で行われた文芸会議で「安全地帯にいる者のお気楽な批判だ」と反論している。",
+        "entity": [
+            "三島",
+            "福田恆存",
+            "郭沫若",
+            "北京市"
+        ],
+        "category": [
+            "other person",
+            "other person",
+            "other person",
+            "city"
+        ]
+    },
+    "sentence110": {
+        "sentence": "ネイルサロンでは、お客様の爪に美しい模様を描くことに専念し、手の柔らかさを保つためにマニキュアやハンドクリームを使用することをお勧めします。",
+        "entity": [
+            "マニキュア",
+            "ハンドクリーム"
+        ],
+        "category": [
+            "personal care",
+            "personal care"
+        ]
+    },
+    "sentence111": {
+        "sentence": "あたしのさらにくだけた表現であり、主に蓮っ葉な女性が使う。現在ではまれだが、創作の世界では時々見られる。かつて、鹿児島方言などにも見られた。著名人では中島みゆきが使う。",
+        "entity": [
+            "あたし",
+            "鹿児島方言",
+            "中島みゆき"
+        ],
+        "category": [
+            "language",
+            "language",
+            "musician"
+        ]
+    },
+    "sentence112": {
+        "sentence": "バハーイ宗教団体は団結と平等を強調し、信者は多くの国に広がっている。",
+        "entity": [
+            "バハーイ宗教団体"
+        ],
+        "category": [
+            "religious organization"
+        ]
+    },
+    "sentence113": {
+        "sentence": "''UriDijk''(シンセサイザー、2010年～)-2013年にTheUlex(ソロ・プロジェクト)として初のEP「OldGiant」をリリースした。",
+        "entity": [
+            "UriDijk",
+            "TheUlex",
+            "OldGiant"
+        ],
+        "category": [
+            "musician",
+            "band",
+            "album"
+        ]
+    },
+    "sentence114": {
+        "sentence": "第一章「シェイクスピアと俳諧」では、東西の審美感の比較が検討される。",
+        "entity": [
+            "シェイクスピア",
+            "俳諧"
+        ],
+        "category": [
+            "author",
+            "tradition"
+        ]
+    },
+    "sentence115": {
+        "sentence": "LanceTingay, ''100 Years of Wimbledon''（ウィンブルドンの100年史）Guinness Superlatives Ltd., London(1977)ISBN 0-900424-71-0 None参照元は以下の通り。",
+        "entity": [
+            "LanceTingay",
+            "100 Years of Wimbledon",
+            "Guinness Superlatives Ltd."
+        ],
+        "category": [
+            "author",
+            "non-fiction",
+            "company"
+        ]
+    },
+    "sentence116": {
+        "sentence": "結晶は、塩やダイヤモンドなどの繰り返しパターンで原子が配列された固体実体である。",
+        "entity": [
+            "結晶",
+            "塩",
+            "ダイヤモンド",
+            "原子"
+        ],
+        "category": [
+            "other physical entity",
+            "compound",
+            "other physical entity",
+            "other chemical entity"
+        ]
+    },
+    "sentence117": {
+        "sentence": "炭素は、タンパク質、炭水化物、DNAを含むすべての有機分子の骨格を構成する基本元素である。",
+        "entity": [
+            "炭素",
+            "タンパク質",
+            "炭水化物",
+            "DNA"
+        ],
+        "category": [
+            "element",
+            "protein",
+            "other biological entity",
+            "other biological entity"
+        ]
+    },
+    "sentence118": {
+        "sentence": "熱力学は物理理論であり、物理システムにおける熱、エネルギーと仕事の関係を研究する。",
+        "entity": [
+            "熱力学",
+            "熱",
+            "エネルギー"
+        ],
+        "category": [
+            "physical theory",
+            "physical phenomenon",
+            "physical phenomenon"
+        ]
+    },
+    "sentence119": {
+        "sentence": "四川大学華西病院リハビリテーションセンターでは、交通事故の患者に歩行訓練を指導し、歩行能力の回復を支援している物理療法士がいる。",
+        "entity": [
+            "四川大学華西病院",
+            "リハビリテーションセンター",
+            "歩行訓練",
+            "物理療法士"
+        ],
+        "category": [
+            "hospital",
+            "other medical entity",
+            "other medical entity",
+            "other person"
+        ]
+    },
+    "sentence120": {
+        "sentence": "1953年から九州工業大学第2代学長として、大学運営に携わり、創立50周年記念事業を、文字通り粉骨砕身、東奔西走のうえ成功させ九州工業大学発展の大いなる礎を築いた。1961年に学長を勇退するにあたり、退官記念事業会が発起され、胸像の建立、嘉村記念賞の制定（我が国科学技術の振興に貢献した九州工業大学関係者を顕彰しようと創設）とその業績が称えられ、今日にその名を残す。",
+        "entity": [
+            "九州工業大学",
+            "嘉村記念賞"
+        ],
+        "category": [
+            "school",
+            "other award"
+        ]
+    },
+    "sentence121": {
+        "sentence": "カンガルー型メダロットで、プレスとガトリングによる射撃攻撃を主体とする。ゲーム中ではアラクネイトの手下であり、白い布を被っておばけのふりをしながら各地で暗躍した。基本的に三人一組で行動しており、そのうち二人は「インフィス」「ボウゾウ」という名前が明らかになっているが、もう一人は仲間に名前を忘れられてしまっている。",
+        "entity": [
+            "アラクネイト",
+            "インフィス",
+            "ボウゾウ"
+        ],
+        "category": [
+            "mythological figure",
+            "mythological figure",
+            "mythological figure"
+        ]
+    },
+    "sentence122": {
+        "sentence": "仮想マシンはコンピュータシステムをシミュレートし、複数のオペレーティングシステムを単一の物理マシン上で実行できるようにします。",
+        "entity": [
+            "仮想マシン",
+            "コンピュータシステム",
+            "オペレーティングシステム"
+        ],
+        "category": [
+            "software",
+            "other computer science entity",
+            "software"
+        ]
+    },
+    "sentence123": {
+        "sentence": "The \"Venus de Milo\" is a timeless depiction of the goddess Aphrodite and is one of the most famous ancient Greek sculptures.",
+        "entity": [
+            "Venus de Milo",
+            "Aphrodite"
+        ],
+        "category": [
+            "sculpture",
+            "mythological figure"
+        ]
+    },
+    "sentence124": {
+        "sentence": "地中海の澄んだ海水の中を航行するこの豪華ヨットは、ジャグジーやシェフなど、ユニークな船上施設体験を提供しています。",
+        "entity": [
+            "地中海",
+            "豪華ヨット"
+        ],
+        "category": [
+            "water body",
+            "water"
+        ]
+    },
+    "sentence125": {
+        "sentence": "決勝進出をかけた第3戦アメリカ戦は、澤穂希が体調不良で欠場し苦戦が予想されたが、途中出場した高瀬愛実にコーナーキックで絶妙なボールを送り、米国への歴史的な勝利（1勝4分21敗）を演出した。",
+        "entity": [
+            "アメリカ",
+            "澤穂希",
+            "高瀬愛実",
+            "米国"
+        ],
+        "category": [
+            "country",
+            "athlete",
+            "athlete",
+            "country"
+        ]
+    },
+    "sentence126": {
+        "sentence": "蘇州工業園区の現代生態コミュニティでは、住民たちはスマートホームがもたらす便利さを享受し、技術と自然の調和共存を体験している。",
+        "entity": [
+            "蘇州",
+            "工業園区",
+            "現代生態コミュニティ",
+            "スマートホーム"
+        ],
+        "category": [
+            "city",
+            "other geographical entity",
+            "residential",
+            "other technology"
+        ]
+    },
+    "sentence127": {
+        "sentence": "本作の主人公。静岡県沼津市出身。第1話および第29話で24歳と発言していたが、第57話では「大学受験で上京してから7-8年になる」というセリフ（計算上25-26歳）もあり、少しずつ年を取っているようである。「ぎゃるかん」社員では唯一の男で、営業担当。",
+        "entity": [
+            "静岡県",
+            "沼津市",
+            "ぎゃるかん"
+        ],
+        "category": [
+            "state or province",
+            "city",
+            "company"
+        ]
+    },
+    "sentence128": {
+        "sentence": "鎌倉期から室町期にかけて、志和郡東部には、河村氏の一党が居住している。稗貫郡の新堀や大迫に通じる要地で中世の宿駅があり、北の不来方郷（盛岡）にも通じ、北上川と乙部川の合流点にあった。",
+        "entity": [
+            "志和郡",
+            "稗貫郡",
+            "不来方郷",
+            "北上川",
+            "乙部川"
+        ],
+        "category": [
+            "district",
+            "district",
+            "region",
+            "water body",
+            "water body"
+        ]
+    },
+    "sentence129": {
+        "sentence": "南北90km、東西20kmの湾は北東に開いており、インド洋に通じる。東岸が北部の海岸線となっており、半島の西側にコマチ川がある。コマチ川河口の沖に（Xefina）が位置する。",
+        "entity": [
+            "インド洋",
+            "コマチ川",
+            "Xefina"
+        ],
+        "category": [
+            "water body",
+            "water body",
+            "island"
+        ]
+    },
+    "sentence130": {
+        "sentence": "バーチャル戦士トゥルーパーズ（アイヴァー将軍の声、ブルー・ボアーの声、アンフィビドーの声（初代）、シープドッグの声、ゼルトンの変身したメタルボットの声）※レイ・マイケルズ名義",
+        "entity": [
+            "バーチャル戦士トゥルーパーズ",
+            "アイヴァー将軍",
+            "ブルー・ボアー",
+            "アンフィビドー",
+            "シープドッグ",
+            "ゼルトン",
+            "レイ・マイケルズ"
+        ],
+        "category": [
+            "broadcast program",
+            "mythological figure",
+            "mythological figure",
+            "mythological figure",
+            "mythological figure",
+            "mythological figure",
+            "other person"
+        ]
+    },
+    "sentence131": {
+        "sentence": "アメリカ合衆国国勢調査局に拠れば、市域全面積は3.70平方マイル(9.58km2)であり、このうち陸地3.62平方マイル(9.38km2)、水域は0.08平方マイル(0.21km2)で水域率は2.19%である。",
+        "entity": [
+            "アメリカ合衆国国勢調査局"
+        ],
+        "category": [
+            "government facility"
+        ]
+    },
+    "sentence132": {
+        "sentence": "イェスペルセンのランク理論（「詞品」）を中国語に応用して首品・次品・末品に分けたのは王力文法の大きな特徴であったが、「唯心主義的」であるとして批判され、後には使わなくなった。",
+        "entity": [
+            "イェスペルセン",
+            "ランク理論",
+            "中国語",
+            "王力文法"
+        ],
+        "category": [
+            "scholar",
+            "other scientific entity",
+            "language",
+            "other scientific entity"
+        ]
+    },
+    "sentence133": {
+        "sentence": "生け花は、花道が示すように、調和、バランス、花の要素の自然美を強調する芸術です。",
+        "entity": [
+            "生け花",
+            "花道"
+        ],
+        "category": [
+            "visual art genre",
+            "tradition"
+        ]
+    },
+    "sentence134": {
+        "sentence": "日本アイビーエム中国ソリューション株式会社（にほんアイビーエムちゅうごくソリューション、IBMGlobalServicesJapanChugokuSolutionsCompanyLtd.、IGSCH）は、1999年11月に日本IBMのアウトソーシング系100%子会社として誕生したグループ会社である。本社は広島県広島市南区。",
+        "entity": [
+            "日本アイビーエム中国ソリューション株式会社",
+            "日本IBM",
+            "広島県",
+            "広島市"
+        ],
+        "category": [
+            "company",
+            "company",
+            "state or province",
+            "city"
+        ]
+    },
+    "sentence135": {
+        "sentence": "シンガポールのポリテクニックは高等技術専門学校や高等専門学校と訳される３年制の学校でdiplomaを取得できる。",
+        "entity": [
+            "シンガポール",
+            "ポリテクニック"
+        ],
+        "category": [
+            "country",
+            "educational and research"
+        ]
+    },
+    "sentence136": {
+        "sentence": "「GC」の女子社員の胸や足を強調した制服は朔之進のデザインであった。後に旧中国大陸にある精霊球の第一輸出国でクーデターが起きた際、ちょうど桜家に居候していたサン王子に協力する形でレジスタンスに参加。久々の合戦に燃え大いに活躍し、その功績により与えられた北海道ほどの土地を嬉々として開墾する日々を送っている。",
+        "entity": [
+            "朔之進",
+            "サン王子",
+            "北海道"
+        ],
+        "category": [
+            "other figure",
+            "other figure",
+            "state or province"
+        ]
+    },
+    "sentence137": {
+        "sentence": "成都銀行科学技術金融センターは金融科学技術革新コンテストを開催しており、多くの創業チームが参加している。",
+        "entity": [
+            "成都銀行",
+            "科学技術金融センター",
+            "金融科学技術革新コンテスト"
+        ],
+        "category": [
+            "bank",
+            "other commercial facility",
+            "other event"
+        ]
+    },
+    "sentence138": {
+        "sentence": "『レースを編む女』（1662年）[[カスパル・ネッチェルウォレス・コレクション（ロンドン）女性一人が作業している静謐な構成はフェルメールの『レースを編む女』と共通している。しかしながら、ネッチェルの作品には性的な含意が仄めかされている。]]",
+        "entity": [
+            "カスパル・ネッチェル",
+            "ウォレス・コレクション",
+            "フェルメール"
+        ],
+        "category": [
+            "artist",
+            "museum",
+            "artist"
+        ]
+    },
+    "sentence139": {
+        "sentence": "2014年9月11日、NFLのレイ・ライスがエレベーター内で夫人を殴り倒し意識不明にさせ逮捕された事件について、メイウェザーが「防犯カメラに録画されていないだけで、どこの家庭でも多くの酷い事が起きている」NFLは最初に下した裁定の2試合出場停止処分で済ますべきだと発言。",
+        "entity": [
+            "NFL",
+            "レイ・ライス",
+            "メイウェザー"
+        ],
+        "category": [
+            "company",
+            "athlete",
+            "athlete"
+        ]
+    },
+    "sentence140": {
+        "sentence": "ところが、バブル経済の崩壊以後、会計基準の潮流が取得原価主義から時価主義へと移行するのに伴い、業績の悪い会社の株式を保有し続けることが、決算に悪影響を与える等経営上のリスク、マイナス要因となることから、株式の持ち合いを解消する動きが見られるようになった。この件に関して、丸山夏彦は、「経営」と「市場」を功罪両面から分析している。",
+        "entity": [
+            "丸山夏彦"
+        ],
+        "category": [
+            "scholar"
+        ]
+    },
+    "sentence141": {
+        "sentence": "本球場グラウンド地下には集中豪雨時等、広島駅を含めた球場周辺地域の雨水を溜め込むことで、浸水被害を防ぐ大州雨水貯留池が設けられており、スコアボード裏には関連建物がある。",
+        "entity": [
+            "広島駅",
+            "大州雨水貯留池"
+        ],
+        "category": [
+            "station",
+            "other public facility"
+        ]
+    },
+    "sentence142": {
+        "sentence": "1933年、ペクトル自身は州議会議員に選ばれ、ほぼその直後にフランクリン・ルーズベルト大統領に連絡を取り、キャピトル・リーフ地域の大半を成す連邦政府の土地から「ウエイン・ワンダーランド国定公園」(\"WayneWonderlandNationalMonument\")を創設することを依頼した。",
+        "entity": [
+            "ペクトル",
+            "フランクリン・ルーズベルト",
+            "ウエイン・ワンダーランド国定公園"
+        ],
+        "category": [
+            "politician",
+            "politician",
+            "park"
+        ]
+    },
+    "sentence143": {
+        "sentence": "川勝良一（V川崎・東京V1997天皇杯、1998シーズン途中-シーズン終了、2010-2012シーズン途中神戸1999-2002シーズン途中福岡2006シーズン途中-シーズン終了（天皇杯前に辞任）京都2014シーズン途中-シーズン終了）",
+        "entity": [
+            "川勝良一",
+            "V川崎",
+            "東京V",
+            "神戸",
+            "福岡",
+            "京都"
+        ],
+        "category": [
+            "athlete",
+            "sports team/league",
+            "sports team/league",
+            "sports team/league",
+            "sports team/league",
+            "sports team/league"
+        ]
+    },
+    "sentence144": {
+        "sentence": "精度は機械学習における重要な指標であり、モデルが正しい予測を行う割合を測定するために使用されます。",
+        "entity": [
+            "精度",
+            "機械学習"
+        ],
+        "category": [
+            "metrics",
+            "other computer science entity"
+        ]
+    },
+    "sentence145": {
+        "sentence": "青島港前湾コンテナ埠頭では、大型クレーンがコンテナを貨物船の甲板に正確に置き、港の効率的な運営を示している。",
+        "entity": [
+            "青島港前湾コンテナ埠頭",
+            "大型クレーン",
+            "コンテナ",
+            "貨物船"
+        ],
+        "category": [
+            "port",
+            "other product",
+            "other product",
+            "water"
+        ]
+    },
+    "sentence146": {
+        "sentence": "妖怪漫画家・水木しげるの説によれば、かつては夜道を照らす照明といえば提灯くらいしかなかったため、その提灯の火が細くなることは人の恐怖心を煽り、そのためにこのような妖怪伝承が生まれたとされる。",
+        "entity": [
+            "水木しげる",
+            "提灯"
+        ],
+        "category": [
+            "artist",
+            "other product"
+        ]
+    },
+    "sentence147": {
+        "sentence": "カンヌ映画祭パルムドールは映画業界で最も尊敬される賞の一つで、映画祭で上映された最高の劇映画に贈られる。",
+        "entity": [
+            "カンヌ映画祭パルムドール",
+            "カンヌ映画祭"
+        ],
+        "category": [
+            "artistic award",
+            "other event"
+        ]
+    },
+    "sentence148": {
+        "sentence": "アリゲイニー郡の経済はコビントンで板紙工場を操業するミードウェストベイコの影響が強い。",
+        "entity": [
+            "アリゲイニー郡",
+            "コビントン",
+            "ミードウェストベイコ"
+        ],
+        "category": [
+            "region",
+            "city",
+            "company"
+        ]
+    },
+    "sentence149": {
+        "sentence": "1980年代後半にはストック・エイトキン・ウォーターマンといったイギリスのレコードプロデューサーと関連付けられ、1990年代前半ごろには、マスターボーイといったバンドがHi-NRGのユーラシア大陸版を生み出していった。",
+        "entity": [
+            "ストック・エイトキン・ウォーターマン",
+            "イギリス",
+            "マスターボーイ",
+            "ユーラシア大陸"
+        ],
+        "category": [
+            "musician",
+            "country",
+            "band",
+            "continent"
+        ]
+    },
+    "sentence150": {
+        "sentence": "（合併）全日本空輸の子会社の株式会社エアーニッポンネットワーク（東京都大田区）、エアーネクスト株式会社（福岡県福岡市博多区）、エアーセントラル株式会社（愛知県常滑市）が株式会社エアーニッポンネットワークを存続会社として統合し、「ANAウイングス株式会社」（東京都大田区）を設立。",
+        "entity": [
+            "全日本空輸",
+            "エアーニッポンネットワーク",
+            "東京都大田区",
+            "エアーネクスト株式会社",
+            "福岡県福岡市博多区",
+            "エアーセントラル株式会社",
+            "愛知県常滑市",
+            "ANAウイングス株式会社"
+        ],
+        "category": [
+            "company",
+            "company",
+            "city",
+            "company",
+            "city",
+            "company",
+            "city",
+            "company"
+        ]
+    },
+    "sentence151": {
+        "sentence": "1880年代後半から1890年代にかけて「住宅地」の買占めを行ったわけであるから、その先見ぶりは驚くばかりである。初代清六の二男精太は40歳の半ばにして早世したが、宇垣一成とは非常に親しい間柄になり、さらに父清六とつながりのある政治家や財界人との付き合いを深め、タオル事業や証券会社の設立などを行い諸戸家の事業をより発展させている。",
+        "entity": [
+            "清六",
+            "精太",
+            "宇垣一成",
+            "諸戸家"
+        ],
+        "category": [
+            "other person",
+            "other person",
+            "politician",
+            "miscellaneous"
+        ]
+    },
+    "sentence152": {
+        "sentence": "兵器産業と結託し、バリ島の前線拠点から南沙諸島の周辺各国、及び「G資金」を探るマスコミの動向を監督する。目的は軍備拡張とゴルゴの廃業による兵器需要の拡大にあったが、ゴルゴが「G資金」の呼び水となった全財産を国連に寄付した事により計画は消滅。同時期に拠点と共に爆死する（ゴルゴと組織、いずれの手によるものかは不明）。",
+        "entity": [
+            "バリ島",
+            "南沙諸島",
+            "マスコミ",
+            "国連",
+            "ゴルゴ"
+        ],
+        "category": [
+            "island",
+            "region",
+            "media",
+            "government facility",
+            "other figure"
+        ]
+    },
+    "sentence153": {
+        "sentence": "明日のナージャ主人公・ナージャは孤児院育ち。ある日、孤児院に母が若い頃舞踏会で着たドレス、日記が入った小包が届けられる。そこで母親が生きていると知らされる。その事で母親探しの旅が始まる。",
+        "entity": [
+            "ナージャ",
+            "孤児院",
+            "母親"
+        ],
+        "category": [
+            "fiction",
+            "other public facility",
+            "other person"
+        ]
+    },
+    "sentence154": {
+        "sentence": "新神戸駅-新長田間。本路線の大半に当たる三宮駅-新長田駅間、それに加え西神線の新長田駅-板宿駅間において、阪神神戸高速線（一部は山陽電気鉄道本線ならびに阪神本線も）と並行する。全般的に見て、運賃は神戸高速線のほうが安い。",
+        "entity": [
+            "新神戸駅",
+            "新長田駅",
+            "三宮駅",
+            "西神線",
+            "阪神神戸高速線",
+            "山陽電気鉄道本線",
+            "阪神本線"
+        ],
+        "category": [
+            "station",
+            "station",
+            "station",
+            "railway",
+            "railway",
+            "railway",
+            "railway"
+        ]
+    },
+    "sentence155": {
+        "sentence": "ドローンカメラマンは精密な飛行機を操り、都市のスカイラインの壮麗なパノラマを捉え、観客に鳥瞰の世界を見せた。",
+        "entity": [
+            "ドローンカメラマン",
+            "ドローン",
+            "都市"
+        ],
+        "category": [
+            "other person",
+            "air",
+            "city"
+        ]
+    },
+    "sentence156": {
+        "sentence": "広東省東莞のフォックスコン工場では、労働者たちが精密生産ラインで最新のスマートフォンを組み立てており、細部にわたって完全無欠を確保している。",
+        "entity": [
+            "フォックスコン工場",
+            "精密生産ライン",
+            "スマートフォン"
+        ],
+        "category": [
+            "factory",
+            "other technology",
+            "electronics"
+        ]
+    },
+    "sentence157": {
+        "sentence": "9月3日、ようやくマイルズが現れ、アパッチ族抵抗者たちはフロリダ州のピケンズ砦に強制収監された。",
+        "entity": [
+            "マイルズ",
+            "アパッチ族",
+            "フロリダ州",
+            "ピケンズ砦"
+        ],
+        "category": [
+            "other person",
+            "ethnic group",
+            "state or province",
+            "landmark"
+        ]
+    },
+    "sentence158": {
+        "sentence": "第3回では、『世界・ふしぎ発見!』が優勝したが、2位は『テレビ探偵団＋クイズ!!ひらめきパスワード』、3位は『わいわいスポーツ塾』となり、すべて板東英二が出演する番組が上位となった。",
+        "entity": [
+            "世界・ふしぎ発見!",
+            "テレビ探偵団",
+            "クイズ!!ひらめきパスワード",
+            "わいわいスポーツ塾",
+            "板東英二"
+        ],
+        "category": [
+            "broadcast program",
+            "broadcast program",
+            "broadcast program",
+            "broadcast program",
+            "actor"
+        ]
+    },
+    "sentence159": {
+        "sentence": "内蒙古オルドスの石炭製油所では、技術者が石炭をクリーン燃料に転化する複雑な化学過程を監視している。",
+        "entity": [
+            "内蒙古",
+            "オルドス",
+            "石炭製油所",
+            "石炭",
+            "クリーン燃料"
+        ],
+        "category": [
+            "state or province",
+            "city",
+            "energy",
+            "other chemical entity",
+            "other chemical entity"
+        ]
+    },
+    "sentence160": {
+        "sentence": "研究所及びそのプロジェクトはより融資を受けている。1990年、は当時のタイムズ・ミラー・センターの初の編集長になった。当時はロサンゼルス・タイムズの親会社であったタイムズ・ミラーにより人々の意見を集約する役割を果たしていた。",
+        "entity": [
+            "タイムズ・ミラー・センター",
+            "ロサンゼルス・タイムズ",
+            "タイムズ・ミラー"
+        ],
+        "category": [
+            "company",
+            "media",
+            "company"
+        ]
+    },
+    "sentence161": {
+        "sentence": "合唱音楽は合唱団が調和の中で歌うことに関連しており、通常はヘンデルの『メサイア』などの宗教的環境の中で歌う",
+        "entity": [
+            "合唱音楽",
+            "ヘンデル",
+            "メサイア"
+        ],
+        "category": [
+            "music genre",
+            "musician",
+            "other music"
+        ]
+    },
+    "sentence162": {
+        "sentence": "The pasta was perfectly cooked al dente and covered in a rich marinara sauce.",
+        "entity": [
+            "pasta",
+            "marinara sauce"
+        ],
+        "category": [
+            "other food",
+            "other food"
+        ]
+    },
+    "sentence163": {
+        "sentence": "ヨシュアの木はモハビル砂漠のシンボル的な特徴であり、米国南西部の干ばつ気候の中ですくすくと成長している。",
+        "entity": [
+            "ヨシュアの木",
+            "モハビル砂漠",
+            "米国南西部"
+        ],
+        "category": [
+            "species",
+            "desert",
+            "region"
+        ]
+    },
+    "sentence164": {
+        "sentence": "生物学は生体の研究であり、細胞過程から生態系と進化のすべてを探索する。",
+        "entity": [
+            "生物学",
+            "細胞",
+            "生態系",
+            "進化"
+        ],
+        "category": [
+            "discipline",
+            "other biological entity",
+            "other biological entity",
+            "other biological entity"
+        ]
+    },
+    "sentence165": {
+        "sentence": "アンコウ（Lophiomus setigerus）などアンコウ亜目の魚類とアカグツ亜目の一部（アカグツ科など）は、縦方向につぶれた縦扁型をしており、砂地での底生生活に適応している。カエルアンコウ亜目・アカグツ亜目（チョウチンアンコウの仲間）では卵型から球型の丸みを帯びた体をしている。",
+        "entity": [
+            "アンコウ",
+            "Lophiomus setigerus",
+            "アカグツ亜目",
+            "アカグツ科",
+            "カエルアンコウ亜目",
+            "チョウチンアンコウ"
+        ],
+        "category": [
+            "species",
+            "species",
+            "species",
+            "species",
+            "species",
+            "species"
+        ]
+    },
+    "sentence166": {
+        "sentence": "インターネットと同様の階層型アーキテクチャを採用している。基本的なパケット伝送機能CIGALEが重要であり、信頼できない「データグラム」サービスを提供する。なお、''datagram''はルイ・プザンが''data''と''telegram''を合成して造った言葉である。",
+        "entity": [
+            "CIGALE",
+            "datagram",
+            "ルイ・プザン"
+        ],
+        "category": [
+            "software",
+            "algorithm",
+            "scholar"
+        ]
+    },
+    "sentence167": {
+        "sentence": "スカイダイビング愛好家たちはヘリコプターから飛び降り、空中自由落下の刺激の中でアドレナリンの高騰の快感と空を征服する達成感を体験している。",
+        "entity": [
+            "スカイダイビング愛好家",
+            "ヘリコプター"
+        ],
+        "category": [
+            "other person",
+            "air"
+        ]
+    },
+    "sentence168": {
+        "sentence": "ツチフキ（土吹、Abbottinarivularis）は、コイ科カマツカ亜科に属する魚。別名にはスナモロコ・ドロモロコなどがある。",
+        "entity": [
+            "ツチフキ",
+            "スナモロコ",
+            "ドロモロコ"
+        ],
+        "category": [
+            "species",
+            "species",
+            "species"
+        ]
+    },
+    "sentence169": {
+        "sentence": "アカギカメムシ：やや細み。体色に変化が多く、オレンジや白のつや消しに黒い斑点が出る。南西諸島から東南アジア一帯に分布。九州から記録があるらしい。移動性の強い種で、海上の定点観測所でも捕獲されることがある。日本産は両肩が滑らかだが、熱帯産のものは鋭い刺が出る。卵や孵化した幼虫を保護する習性をもつ。",
+        "entity": [
+            "アカギカメムシ",
+            "南西諸島",
+            "東南アジア",
+            "九州",
+            "日本"
+        ],
+        "category": [
+            "species",
+            "region",
+            "region",
+            "region",
+            "country"
+        ]
+    },
+    "sentence170": {
+        "sentence": "郡内で4つの繊維工業の都市が合併してバレー市を作り、現在は郡内最大都市になった。現在も急速に拡大しつつある。州都モンゴメリー市とジョージア州アトランタ市の中間に位置している。",
+        "entity": [
+            "バレー市",
+            "モンゴメリー市",
+            "ジョージア州",
+            "アトランタ市"
+        ],
+        "category": [
+            "city",
+            "city",
+            "state or province",
+            "city"
+        ]
+    },
+    "sentence171": {
+        "sentence": "調べを進めるエリソンは、副保安官（ジェームズ・ランソン）の個人的な協力を得て、半世紀近く前からフィルムに写されてきた殺人事件の資料を入手する。カルト犯罪の専門家、ジョナス教授（ヴィンセント・ドノフリオ）に話を聞くと、現場にあった血染めの図案は、古代バビロニア王朝で行われていた邪教や、儀式に関係することが分かる。",
+        "entity": [
+            "エリソン",
+            "ジェームズ・ランソン",
+            "ジョナス教授",
+            "ヴィンセント・ドノフリオ",
+            "古代バビロニア王朝"
+        ],
+        "category": [
+            "other person",
+            "other person",
+            "scholar",
+            "actor",
+            "other geographical entity"
+        ]
+    },
+    "sentence172": {
+        "sentence": "分岐駅でありながら、特急の大半と快速急行は停車しない。",
+        "entity": [
+            "分岐駅"
+        ],
+        "category": [
+            "station"
+        ]
+    },
+    "sentence173": {
+        "sentence": "ユーゴー賞はSF小説やファンタジー小説の創作における優れた表現を表彰するための有名な文学賞である。",
+        "entity": [
+            "ユーゴー賞",
+            "SF小説",
+            "ファンタジー小説"
+        ],
+        "category": [
+            "literary award",
+            "literature genre",
+            "literature genre"
+        ]
+    },
+    "sentence174": {
+        "sentence": "沖縄本島北部では夜間になると県外のAMラジオ放送が受信しやすい環境にあった一方、県内の民放AMラジオ局は外国（特に中国や朝鮮半島）からの電波に遮られ、受信が困難とされていた。",
+        "entity": [
+            "沖縄本島",
+            "中国",
+            "朝鮮半島"
+        ],
+        "category": [
+            "island",
+            "country",
+            "region"
+        ]
+    },
+    "sentence175": {
+        "sentence": "サリュート4号は1974年12月26日に打ち上げられ、ゲオルギー・グレチコとアレクセイ・グバレフを乗せたソユーズ17号は16日後の1975年1月10日に打ち上げられた。",
+        "entity": [
+            "サリュート4号",
+            "ゲオルギー・グレチコ",
+            "アレクセイ・グバレフ",
+            "ソユーズ17号"
+        ],
+        "category": [
+            "other vehicle",
+            "other person",
+            "other person",
+            "other vehicle"
+        ]
+    },
+    "sentence176": {
+        "sentence": "郡の中央部を東から西にカンバーランド川が流れ、アメリカ陸軍工兵司令部により操業されるオールド・ヒッコリー・ダムとJ・パーシー・プリースト・ダムがある。主な支流はホワイト・クリーク、マンスカーズ・クリーク、ストーンズ川、ミル・クリーク、ハーパス川である。",
+        "entity": [
+            "カンバーランド川",
+            "アメリカ陸軍工兵司令部",
+            "オールド・ヒッコリー・ダム",
+            "J・パーシー・プリースト・ダム",
+            "ホワイト・クリーク",
+            "マンスカーズ・クリーク",
+            "ストーンズ川",
+            "ミル・クリーク",
+            "ハーパス川"
+        ],
+        "category": [
+            "water body",
+            "government facility",
+            "other facility",
+            "other facility",
+            "water body",
+            "water body",
+            "water body",
+            "water body",
+            "water body"
+        ]
+    },
+    "sentence177": {
+        "sentence": "完結編の登場人物だが、前編の終盤にも顔を見せる。実写映画版ではSAT（警察の特殊急襲部隊）の中隊長という設定。東福山市役所の殲滅作戦を指揮して戦い、最期には「後藤」に敗れて首を切断されるという役回りは原作と同様だが、実写映画版では浦上と共に広川が射殺される現場にも居合わせ、広川の正体が人間であることを知っても動揺しない一面を見せる。原作と異なり、「後藤」との戦いの詳細は描かれない。",
+        "entity": [
+            "東福山市役所",
+            "後藤",
+            "浦上",
+            "広川"
+        ],
+        "category": [
+            "government facility",
+            "other person",
+            "other person",
+            "other person"
+        ]
+    },
+    "sentence178": {
+        "sentence": "ウェディングデザイナーは花嫁のために伝統と現代の要素を融合させたモップウェディングをカスタマイズし、美しいレース刺繍は非凡な技術水準を示した。",
+        "entity": [
+            "ウェディングドレス"
+        ],
+        "category": [
+            "clothes"
+        ]
+    },
+    "sentence179": {
+        "sentence": "『』(1996-2001)ナイン・ネットワークNone場面はニューサウスウェールズ州(NewSouthWales)のシドニー・ハーバー(SydneyHarbour)で、シドニー水上警察にフォーカスし、117話が製作された。",
+        "entity": [
+            "ニューサウスウェールズ州",
+            "シドニー・ハーバー",
+            "シドニー水上警察"
+        ],
+        "category": [
+            "state or province",
+            "water body",
+            "government facility"
+        ]
+    },
+    "sentence180": {
+        "sentence": "世界経済フォーラム（WEF）年次総会は、経済、政治、環境への挑戦について話し合うグローバルリーダーを集めた。",
+        "entity": [
+            "世界経済フォーラム",
+            "WEF"
+        ],
+        "category": [
+            "conference",
+            "conference"
+        ]
+    },
+    "sentence181": {
+        "sentence": "リーマン面上の有理型関数のなす空間の次元は、リーマン面の位相構造によって制限を受ける(リーマン・ロッホの定理)。",
+        "entity": [
+            "リーマン面",
+            "リーマン・ロッホの定理"
+        ],
+        "category": [
+            "other scientific entity",
+            "other scientific entity"
+        ]
+    },
+    "sentence182": {
+        "sentence": "ジェームズ・クラーク・マクスウェルが発展させた電磁理論は、電気と磁気を統一し、電磁波をどのように発生させるかを説明した。",
+        "entity": [
+            "ジェームズ・クラーク・マクスウェル",
+            "電磁理論",
+            "電気",
+            "磁気",
+            "電磁波"
+        ],
+        "category": [
+            "scholar",
+            "physical theory",
+            "physical phenomenon",
+            "physical phenomenon",
+            "physical phenomenon"
+        ]
+    },
+    "sentence183": {
+        "sentence": "API（アプリケーションプログラミングインターフェース）は、異なるソフトウェアシステムが通信することを可能にし、特定の機能やデータへのアクセスを提供する。",
+        "entity": [
+            "API",
+            "アプリケーションプログラミングインターフェース",
+            "ソフトウェアシステム"
+        ],
+        "category": [
+            "other computer science entity",
+            "other computer science entity",
+            "software"
+        ]
+    },
+    "sentence184": {
+        "sentence": "雑誌『TYPE-MOONエースVOL.8』（月刊コンプティーク2013年1月増刊号、角川書店）に『ファイヤーガール1』と『Fate/Apocrypha』の抜粋版（TYPE-MOONEdition）の小冊子（二タイトル分冊）が収録された。",
+        "entity": [
+            "TYPE-MOONエース",
+            "ファイヤーガール1",
+            "Fate/Apocrypha",
+            "角川書店"
+        ],
+        "category": [
+            "other literature",
+            "other literature",
+            "other literature",
+            "company"
+        ]
+    },
+    "sentence185": {
+        "sentence": "江蘇省蘇州のユニリーバ工場では、自動化設備が各種日用品を生産しているが、労働者は品質管理と設備メンテナンスを担当している。",
+        "entity": [
+            "ユニリーバ工場",
+            "自動化設備",
+            "日用品"
+        ],
+        "category": [
+            "factory",
+            "other technology",
+            "other product"
+        ]
+    },
+    "sentence186": {
+        "sentence": "Avocados are often used in salads, sandwiches, and even smoothies for their creamy texture.",
+        "entity": [
+            "avocados",
+            "salads",
+            "sandwiches",
+            "smoothies"
+        ],
+        "category": [
+            "other food",
+            "other food",
+            "other food",
+            "beverages"
+        ]
+    },
+    "sentence187": {
+        "sentence": "北丘珠（きたおかだま）は、北海道札幌市東区の地名。北丘珠1条から北丘珠6条が置かれる。郵便番号は007-0881（北丘珠一条）から007-0886（北丘珠六条）。",
+        "entity": [
+            "北丘珠",
+            "北海道",
+            "札幌市東区"
+        ],
+        "category": [
+            "district",
+            "state or province",
+            "district"
+        ]
+    },
+    "sentence188": {
+        "sentence": "ヘウムノだけでは対処しきれず、そのうち一部はアウシュヴィッツ＝ビルケナウ強制収容所へ送られて、そこでガス殺されている。",
+        "entity": [
+            "ヘウムノ",
+            "アウシュヴィッツ＝ビルケナウ強制収容所"
+        ],
+        "category": [
+            "other gpe",
+            "other facility"
+        ]
+    },
+    "sentence189": {
+        "sentence": "退役後のラフリンについては断片的な情報しかないが、妻とともに日本へ旅行のために来日したことがあり、日本の復興ぶりに目を見張った。",
+        "entity": [
+            "ラフリン",
+            "日本"
+        ],
+        "category": [
+            "other person",
+            "country"
+        ]
+    },
+    "sentence190": {
+        "sentence": "第3回では、上記の通り『世界・ふしぎ発見!』が優勝したが、2位は『テレビ探偵団＋クイズ!!ひらめきパスワード』、3位は『わいわいスポーツ塾』となり、すべて板東英二が出演する番組が上位となった（『わいわい』は司会。『テレ探』を除く他はレギュラー解答者）。そのため、3位賞を受賞した時、板東は「本当に力を入れてるのは、『世界・ふしぎ発見!』です!",
+        "entity": [
+            "世界・ふしぎ発見!",
+            "テレビ探偵団",
+            "クイズ!!ひらめきパスワード",
+            "わいわいスポーツ塾",
+            "板東英二"
+        ],
+        "category": [
+            "broadcast program",
+            "broadcast program",
+            "broadcast program",
+            "broadcast program",
+            "other person"
+        ]
+    },
+    "sentence191": {
+        "sentence": "『アンネ・フランク日記』は、ホロコーストの間に隠れていたユダヤ人の女の子の生活を見ることができるような、心が砕けるような視点を提供してくれた。",
+        "entity": [
+            "アンネ・フランク",
+            "アンネ・フランク日記",
+            "ホロコースト"
+        ],
+        "category": [
+            "other person",
+            "non-fiction",
+            "political/military event"
+        ]
+    },
+    "sentence192": {
+        "sentence": "青島ハイアールインターコンチネンタルホテルのオーシャンビュー客室では、リゾート客たちがベランダでこの海辺都市の美しい風景を楽しみ、日の出を楽しんでいる。",
+        "entity": [
+            "青島ハイアールインターコンチネンタルホテル",
+            "オーシャンビュー客室",
+            "青島"
+        ],
+        "category": [
+            "hotel",
+            "other commercial facility",
+            "city"
+        ]
+    },
+    "sentence193": {
+        "sentence": "2008年1月19日のFCジロンダン・ボルドー戦(1-2)に途中出場の形で約5ヶ月ぶりに復帰するも、トゥーリオ・デ・メロのブレイクや新加入のアントニー・ル・タレクの存在もあり出場機会は少なく、モディボ・マイガやらとリザーブで競い合った。",
+        "entity": [
+            "FCジロンダン・ボルドー",
+            "トゥーリオ・デ・メロ",
+            "アントニー・ル・タレク",
+            "モディボ・マイガ"
+        ],
+        "category": [
+            "sports team/league",
+            "athlete",
+            "athlete",
+            "athlete"
+        ]
+    },
+    "sentence194": {
+        "sentence": "安徽合肥の超伝導実験室では、物理学者たちが高温超伝導材料を研究しており、エネルギー輸送分野で画期的な進展を期待している。",
+        "entity": [
+            "安徽",
+            "合肥",
+            "超伝導実験室",
+            "高温超伝導材料"
+        ],
+        "category": [
+            "state or province",
+            "city",
+            "other production facility",
+            "other physical entity"
+        ]
+    },
+    "sentence195": {
+        "sentence": "国際ロボット・自動化会議（ICRA）は、ロボット、自動化、人工知能分野の革新を示している。",
+        "entity": [
+            "国際ロボット・自動化会議",
+            "ICRA",
+            "ロボット",
+            "自動化",
+            "人工知能"
+        ],
+        "category": [
+            "conference",
+            "conference",
+            "other technology",
+            "other technology",
+            "ai"
+        ]
+    },
+    "sentence196": {
+        "sentence": "アームド級とともに統合宇宙軍に配備された宇宙艦艇。推進器はマクロスの技術を応用した熱核反応エンジンで、船体に巡航用エンジン、艦尾に戦闘用ブースターロケットを備える。",
+        "entity": [
+            "アームド級",
+            "マクロス"
+        ],
+        "category": [
+            "other vehicle",
+            "broadcast program"
+        ]
+    },
+    "sentence197": {
+        "sentence": "塩化ナトリウム（NaCl）は、一般に食塩と呼ばれ、食品の調理や保存、工業的プロセスに用いられる。",
+        "entity": [
+            "塩化ナトリウム",
+            "NaCl",
+            "食塩"
+        ],
+        "category": [
+            "compound",
+            "compound",
+            "other food"
+        ]
+    },
+    "sentence198": {
+        "sentence": "製作会社:オデッセイ・フィルムズ（ロンドン）、マタドア・ピクチャーズ（同）、ロード・ムーヴィーズ・プロドゥクツィオーン（ベルリン）、ドイツ連邦映画評議会（FFA）、アトムフィルム（協力）",
+        "entity": [
+            "オデッセイ・フィルムズ",
+            "マタドア・ピクチャーズ",
+            "ロード・ムーヴィーズ・プロドゥクツィオーン",
+            "ドイツ連邦映画評議会",
+            "アトムフィルム"
+        ],
+        "category": [
+            "company",
+            "company",
+            "company",
+            "government facility",
+            "company"
+        ]
+    },
+    "sentence199": {
+        "sentence": "座右の銘は「ポジティブ&ハッピー&スマイル」。自身のファンクラブ（解散）の名称にも「p.h.s」として使用している。このファンクラブのロゴマークは『ウルトラギャラクシー大怪獣バトルNEVERENDINGODYSSEY』で共演した唐橋充がデザインした。",
+        "entity": [
+            "ウルトラギャラクシー大怪獣バトルNEVERENDINGODYSSEY",
+            "唐橋充"
+        ],
+        "category": [
+            "broadcast program",
+            "actor"
+        ]
+    },
+    "sentence200": {
+        "sentence": "平成7年の正月、バー「カル・デ・サック」で、桑原が奈々に、昭和61年、桑原と小松崎の出会いのきっかけになった密室殺人について語り、さらに安倍晴明、そして式神について解き明かす。",
+        "entity": [
+            "カル・デ・サック",
+            "桑原",
+            "奈々",
+            "昭和61年",
+            "桑原",
+            "小松崎",
+            "安倍晴明",
+            "式神"
+        ],
+        "category": [
+            "other geographical entity",
+            "other person",
+            "other person",
+            "political/military event",
+            "other person",
+            "other person",
+            "mythological figure",
+            "mythological figure"
+        ]
+    }
+}

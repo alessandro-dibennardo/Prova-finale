@@ -1,0 +1,2354 @@
+{
+    "sentence1": {
+        "sentence": "El sitio web de Facebook se ha convertido en una plataforma para la interacción social, las noticias y la construcción de la comunidad.",
+        "entity": [
+            "Facebook"
+        ],
+        "category": [
+            "website"
+        ]
+    },
+    "sentence2": {
+        "sentence": "El oficial de policía metió cuidadosamente su pistola después de asegurar la escena.",
+        "entity": [
+            "pistola"
+        ],
+        "category": [
+            "firearms"
+        ]
+    },
+    "sentence3": {
+        "sentence": "En la planta de energía de la presa de las Tres Gargantas, un enorme generador de turbinas está funcionando a alta velocidad, convirtiendo la energía hídrica del río Yangtze en electricidad limpia y abasteciéndola a todo el país.",
+        "entity": [
+            "presa de las Tres Gargantas",
+            "río Yangtze"
+        ],
+        "category": [
+            "energy",
+            "water body"
+        ]
+    },
+    "sentence4": {
+        "sentence": "La aplicación de cerraduras de puerta inteligentes mejora la seguridad del hogar. A través del reconocimiento de huellas dactilares, la contraseña o la aplicación del teléfono móvil y otras formas, no solo facilita la entrada y salida de los miembros de la familia, sino que también mejora la función antirrobo.",
+        "entity": [
+            "cerraduras de puerta inteligentes",
+            "reconocimiento de huellas dactilares",
+            "aplicación del teléfono móvil"
+        ],
+        "category": [
+            "household",
+            "other technology",
+            "software"
+        ]
+    },
+    "sentence5": {
+        "sentence": "Municipio de Delaware ( condado de Ripley , Indiana ) REDIRECCIÓN Budapest Honvéd Football Club",
+        "entity": [
+            "Municipio de Delaware",
+            "condado de Ripley",
+            "Indiana",
+            "Budapest Honvéd Football Club"
+        ],
+        "category": [
+            "other gpe",
+            "other gpe",
+            "state or province",
+            "sports team/league"
+        ]
+    },
+    "sentence6": {
+        "sentence": "Una supernova es un evento astronómico que ocurre cuando una estrella masiva explota, liberando una enorme cantidad de energía.",
+        "entity": [
+            "supernova"
+        ],
+        "category": [
+            "astronomical object"
+        ]
+    },
+    "sentence7": {
+        "sentence": "El Padrino, dirigida por Francis Ford Coppola, es ampliamente considerada como una de las mejores películas criminales de la historia del cine.",
+        "entity": [
+            "El Padrino",
+            "Francis Ford Coppola"
+        ],
+        "category": [
+            "film",
+            "director"
+        ]
+    },
+    "sentence8": {
+        "sentence": "El personal de la estación de autobuses acuáticos ayuda a los pasajeros con movilidad limitada a bordo de forma segura, haciendo que este medio de transporte urbano único sirva a más ciudadanos.",
+        "entity": [
+            "estación de autobuses acuáticos"
+        ],
+        "category": [
+            "other transportation facility"
+        ]
+    },
+    "sentence9": {
+        "sentence": "The sailboat glides smoothly across the lake, relying solely on wind power to navigate through the calm waters.",
+        "entity": [
+            "sailboat",
+            "lake"
+        ],
+        "category": [
+            "other vehicle",
+            "water body"
+        ]
+    },
+    "sentence10": {
+        "sentence": "El origami, el arte japonés del plegado de papel, transforma hojas simples en formas intrincadas como grullas, flores y animales.",
+        "entity": [
+            "origami"
+        ],
+        "category": [
+            "other art"
+        ]
+    },
+    "sentence11": {
+        "sentence": "Durante una redada, la policía descubrió un taller donde los sospechosos estaban fabricando bombas de tubería, un tipo de explosivos improvisados.",
+        "entity": [
+            "policía",
+            "bombas de tubería"
+        ],
+        "category": [
+            "political/military",
+            "explosives"
+        ]
+    },
+    "sentence12": {
+        "sentence": "La bloguera de moda le mostró varias formas de usar camisetas de gran tamaño en las redes sociales, que son tanto casuales como de moda, lo que provocó una acalorada discusión entre los fanáticos sobre este artículo versátil.",
+        "entity": [
+            "bloguera de moda",
+            "camisetas de gran tamaño",
+            "redes sociales"
+        ],
+        "category": [
+            "other person",
+            "clothes",
+            "website"
+        ]
+    },
+    "sentence13": {
+        "sentence": "La precisión en las métricas de recuperación de información mide la proporción de resultados relevantes devueltos entre todos los resultados generados.",
+        "entity": [
+            "precisión",
+            "recuperación de información"
+        ],
+        "category": [
+            "metrics",
+            "discipline"
+        ]
+    },
+    "sentence14": {
+        "sentence": "La hepatitis C es una enfermedad hepática causada por un virus, que a menudo conduce a daños crónicos en el hígado si no se trata.",
+        "entity": [
+            "hepatitis C"
+        ],
+        "category": [
+            "disease"
+        ]
+    },
+    "sentence15": {
+        "sentence": "El tsunami del Océano Índico de 2004 causó una devastación generalizada en varios países, lo que provocó una crisis humanitaria masiva.",
+        "entity": [
+            "tsunami del Océano Índico",
+            "Océano Índico"
+        ],
+        "category": [
+            "disaster",
+            "water body"
+        ]
+    },
+    "sentence16": {
+        "sentence": "La ópera combina música orquestal con cantos dramáticos para contar historias épicas, como se ve en La Traviata de Giuseppe Verdi.",
+        "entity": [
+            "ópera",
+            "La Traviata",
+            "Giuseppe Verdi"
+        ],
+        "category": [
+            "music genre",
+            "other music",
+            "musician"
+        ]
+    },
+    "sentence17": {
+        "sentence": "El ácido sulfúrico (H2SO4) es un compuesto altamente corrosivo ampliamente utilizado en procesos industriales, como la producción y refinación de fertilizantes.",
+        "entity": [
+            "ácido sulfúrico",
+            "H2SO4"
+        ],
+        "category": [
+            "compound",
+            "compound"
+        ]
+    },
+    "sentence18": {
+        "sentence": "Cristo de la Concordia Es pelirroja y fuerte , lo que hace pensar en La Goulue en una actuación en público .",
+        "entity": [
+            "Cristo de la Concordia",
+            "La Goulue"
+        ],
+        "category": [
+            "landmark",
+            "other person"
+        ]
+    },
+    "sentence19": {
+        "sentence": "La bicicleta de montaña está diseñada para terrenos accidentados, con neumáticos gruesos y sistemas de suspensión para manejar senderos rocosos y colinas empinadas.",
+        "entity": [
+            "bicicleta de montaña"
+        ],
+        "category": [
+            "bike"
+        ]
+    },
+    "sentence20": {
+        "sentence": "El Premio Nebula es presentado anualmente por los Escritores de Ciencia Ficción y Fantasía de América para las mejores obras del género.",
+        "entity": [
+            "Premio Nebula",
+            "Escritores de Ciencia Ficción y Fantasía de América"
+        ],
+        "category": [
+            "literary award",
+            "other non-commercial organization"
+        ]
+    },
+    "sentence21": {
+        "sentence": "Islas de Guinea Ecuatorial El papel principal fue interpretado por `` Ciccio '' Cardona y Fabio Capello .",
+        "entity": [
+            "Islas de Guinea Ecuatorial",
+            "Ciccio Cardona",
+            "Fabio Capello"
+        ],
+        "category": [
+            "island",
+            "actor",
+            "athlete"
+        ]
+    },
+    "sentence22": {
+        "sentence": "Día después , Nangka se movió sobre el Mar de la China Meridional empezando a deteriorarse aún más .",
+        "entity": [
+            "Nangka",
+            "Mar de la China Meridional"
+        ],
+        "category": [
+            "disaster",
+            "water body"
+        ]
+    },
+    "sentence23": {
+        "sentence": "Bohemian Rhapsody de Queen sigue siendo una de las canciones de rock más emblemáticas, mezclando ópera y rock de una manera sin precedentes.",
+        "entity": [
+            "Bohemian Rhapsody",
+            "Queen"
+        ],
+        "category": [
+            "song",
+            "band"
+        ]
+    },
+    "sentence24": {
+        "sentence": "Los ecologistas andan en bicicleta por calles concurridas, lo que no solo reduce las emisiones de carbono, sino que también contribuye a su propia salud y al desarrollo sostenible de la ciudad.",
+        "entity": [
+            "ecologistas",
+            "bicicleta",
+            "ciudad"
+        ],
+        "category": [
+            "other person",
+            "bike",
+            "city"
+        ]
+    },
+    "sentence25": {
+        "sentence": "UFC Live : Cruz vs. Johnson como Raiden le dieran muerte , pero únicamente vio como todos a su alrededor morían .",
+        "entity": [
+            "UFC Live",
+            "Cruz",
+            "Johnson",
+            "Raiden"
+        ],
+        "category": [
+            "sporting event",
+            "athlete",
+            "athlete",
+            "other figure"
+        ]
+    },
+    "sentence26": {
+        "sentence": "El rock and roll, popularizado por Elvis Presley, trajo ritmos enérgicos y actitudes rebeldes a la vanguardia de la música popular.",
+        "entity": [
+            "rock and roll",
+            "Elvis Presley"
+        ],
+        "category": [
+            "music genre",
+            "musician"
+        ]
+    },
+    "sentence27": {
+        "sentence": "Muchas empresas utilizan Microsoft Teams como su software principal para reuniones virtuales y colaboración.",
+        "entity": [
+            "Microsoft Teams"
+        ],
+        "category": [
+            "software"
+        ]
+    },
+    "sentence28": {
+        "sentence": "En el restaurante del puesto de Nanjing, los comensales están degustando especialidades de Jinling como pato salado y sopa de fideos de sangre de pato, sintiendo el olor de los fuegos artificiales de Nanjing.",
+        "entity": [
+            "restaurante del puesto",
+            "Nanjing",
+            "Jinling"
+        ],
+        "category": [
+            "restaurant",
+            "city",
+            "other geographical entity"
+        ]
+    },
+    "sentence29": {
+        "sentence": "Provincia de Taiwán ( República Popular China ) REDIRECCIÓN Iglesia católica bizantina en Italia",
+        "entity": [
+            "Provincia de Taiwán",
+            "República Popular China",
+            "Iglesia católica bizantina en Italia"
+        ],
+        "category": [
+            "state or province",
+            "country",
+            "religious organization"
+        ]
+    },
+    "sentence30": {
+        "sentence": "Minecraft, conocido por su mecánica de construcción de bloques, permite a los jugadores crear y explorar un sinfín de paisajes y estructuras virtuales.",
+        "entity": [
+            "Minecraft"
+        ],
+        "category": [
+            "game"
+        ]
+    },
+    "sentence31": {
+        "sentence": "Plaza Sésamo, un programa infantil muy querido, ha educado a generaciones con su entretenida mezcla de marionetas, música y lecciones de vida.",
+        "entity": [
+            "Plaza Sésamo"
+        ],
+        "category": [
+            "broadcast program"
+        ]
+    },
+    "sentence32": {
+        "sentence": "Los bávaros ven mal comer la ''Weißwurst '' con piel , los entendidos siempre dejan la piel en el plato .",
+        "entity": [
+            "Weißwurst"
+        ],
+        "category": [
+            "other food"
+        ]
+    },
+    "sentence33": {
+        "sentence": "Una molécula es una entidad química compuesta por dos o más átomos unidos, como una molécula de agua (H2O).",
+        "entity": [
+            "molécula",
+            "agua",
+            "H2O"
+        ],
+        "category": [
+            "other chemical entity",
+            "compound",
+            "compound"
+        ]
+    },
+    "sentence34": {
+        "sentence": "La organización de ayuda islámica proporciona ayuda humanitaria en línea con las enseñanzas islámicas en varios países.",
+        "entity": [
+            "organización de ayuda islámica"
+        ],
+        "category": [
+            "religious organization"
+        ]
+    },
+    "sentence35": {
+        "sentence": "Municipio de Jefferson ( condado de Montgomery , Ohio ) REDIRECCIÓN Instituto Nacional de Estadística y Geografía",
+        "entity": [
+            "Municipio de Jefferson",
+            "condado de Montgomery",
+            "Ohio",
+            "Instituto Nacional de Estadística y Geografía"
+        ],
+        "category": [
+            "district",
+            "district",
+            "state or province",
+            "government organization"
+        ]
+    },
+    "sentence36": {
+        "sentence": "Siempre guardan un frasco de mantequilla de maní en la despensa para sándwiches fáciles.",
+        "entity": [
+            "mantequilla de maní"
+        ],
+        "category": [
+            "packaged foods"
+        ]
+    },
+    "sentence37": {
+        "sentence": "Protectorado español de Marruecos REDIRECCIÓN Área de conservación Cordillera Volcánica Central",
+        "entity": [
+            "Protectorado español de Marruecos",
+            "Área de conservación Cordillera Volcánica Central"
+        ],
+        "category": [
+            "region",
+            "other geographical entity"
+        ]
+    },
+    "sentence38": {
+        "sentence": "La erupción es un síntoma cutáneo que puede indicar una reacción alérgica, infección o trastorno autoinmune, que varía en apariencia.",
+        "entity": [
+            "erupción",
+            "reacción alérgica",
+            "infección",
+            "trastorno autoinmune"
+        ],
+        "category": [
+            "symptom",
+            "other medical entity",
+            "disease",
+            "disease"
+        ]
+    },
+    "sentence39": {
+        "sentence": "Dick Edgar Ibarra Grasso La idea fue financiada inicialmente por la Fundación Nacional para la Ciencia y llevada primero a Microsoft .",
+        "entity": [
+            "Dick Edgar Ibarra Grasso",
+            "Fundación Nacional para la Ciencia",
+            "Microsoft"
+        ],
+        "category": [
+            "scholar",
+            "other non-commercial organization",
+            "company"
+        ]
+    },
+    "sentence40": {
+        "sentence": "En el centro comercial de Shanghai Xintiandi, los amantes de la moda están navegando por la última serie de las principales marcas de lujo y disfrutando de una experiencia de compra de alta gama.",
+        "entity": [
+            "Shanghai Xintiandi",
+            "Shanghai"
+        ],
+        "category": [
+            "market/mall",
+            "city"
+        ]
+    },
+    "sentence41": {
+        "sentence": "En Argentina , Colombia , España , Uruguay y Venezuela se suele llamar «Piedra , papel o tijera» .",
+        "entity": [
+            "Argentina",
+            "Colombia",
+            "España",
+            "Uruguay",
+            "Venezuela",
+            "Piedra , papel o tijera"
+        ],
+        "category": [
+            "country",
+            "country",
+            "country",
+            "country",
+            "country",
+            "game"
+        ]
+    },
+    "sentence42": {
+        "sentence": "La imprenta se especializa en servicios de impresión de alta calidad, proporcionando diseños personalizados, folletos, tarjetas de visita y pancartas para individuos y empresas.",
+        "entity": [
+            "imprenta"
+        ],
+        "category": [
+            "other commercial facility"
+        ]
+    },
+    "sentence43": {
+        "sentence": "El lanzamiento de Coca-Cola en 1886 marcó el comienzo de una de las marcas más reconocidas del mundo.",
+        "entity": [
+            "lanzamiento de Coca-Cola"
+        ],
+        "category": [
+            "business event"
+        ]
+    },
+    "sentence44": {
+        "sentence": "Hermione Granger, una de las mejores amigas de Harry Potter, sobresalió en sus estudios en Hogwarts y jugó un papel crucial en la lucha contra las fuerzas oscuras.",
+        "entity": [
+            "Hermione Granger",
+            "Harry Potter",
+            "Hogwarts"
+        ],
+        "category": [
+            "other figure",
+            "other figure",
+            "other geographical entity"
+        ]
+    },
+    "sentence45": {
+        "sentence": "Jane Eyre de Charlotte Brontë cuenta la historia de una niña huérfana que crece para encontrar el amor y la independencia.",
+        "entity": [
+            "Jane Eyre",
+            "Charlotte Brontë"
+        ],
+        "category": [
+            "fiction",
+            "author"
+        ]
+    },
+    "sentence46": {
+        "sentence": "Macbeth, otra obra de Shakespeare, profundiza en la ambición, el poder y las consecuencias del deseo incontronado.",
+        "entity": [
+            "Macbeth",
+            "Shakespeare"
+        ],
+        "category": [
+            "play",
+            "author"
+        ]
+    },
+    "sentence47": {
+        "sentence": "En ultravioleta de Paul Pairet, un restaurante Michelin de tres estrellas en el Bund de Shanghai, los huéspedes están experimentando una cena multisensorial que combina comida, proyección y música.",
+        "entity": [
+            "Ultravioleta de Paul Pairet",
+            "Bund",
+            "Shanghai",
+            "Paul Pairet"
+        ],
+        "category": [
+            "restaurant",
+            "landmark",
+            "city",
+            "other person"
+        ]
+    },
+    "sentence48": {
+        "sentence": "En el Parque Juzizhoutou en Changsha, los turistas se paran frente a la joven estatua de Mao Zedong y miran hacia atrás en la historia del gran hombre cuando era joven.",
+        "entity": [
+            "Parque Juzizhoutou",
+            "Changsha",
+            "Mao Zedong"
+        ],
+        "category": [
+            "park",
+            "city",
+            "politician"
+        ]
+    },
+    "sentence49": {
+        "sentence": "El puente del Aeropuerto Internacional Lukou de Nanjing está acoplando con un vuelo internacional que acaba de aterrizar, y los auxiliares de vuelo están haciendo los preparativos finales para los pasajeros.",
+        "entity": [
+            "Aeropuerto Internacional Lukou",
+            "Nanjing"
+        ],
+        "category": [
+            "airport",
+            "city"
+        ]
+    },
+    "sentence50": {
+        "sentence": "Los incendios forestales australianos de 2019-2020 devastaron vastas áreas de tierra, afectando a la vida silvestre y las comunidades.",
+        "entity": [
+            "incendios forestales australianos",
+            "Australia"
+        ],
+        "category": [
+            "disaster",
+            "country"
+        ]
+    },
+    "sentence51": {
+        "sentence": "Los amantes de la guitarra se sientan en la playa, tocando y cantando canciones populares. El tono nítido de la guitarra acústica está perfectamente integrado con el sonido de las olas, creando un ambiente relajado y agradable.",
+        "entity": [
+            "amantes de la guitarra",
+            "playa",
+            "guitarra acústica",
+            "canciones populares"
+        ],
+        "category": [
+            "other person",
+            "other geographical entity",
+            "musical instruments",
+            "song"
+        ]
+    },
+    "sentence52": {
+        "sentence": "Nirvana ( álbum ) Tiene los ingredientes que más tarde desarrollará en su obra más exitosa , Aa ! Megami-sama '' .",
+        "entity": [
+            "Nirvana",
+            "Aa ! Megami-sama"
+        ],
+        "category": [
+            "album",
+            "other art"
+        ]
+    },
+    "sentence53": {
+        "sentence": "Municipio de Garfield ( condado de Decatur , Kansas ) REDIRECCIÓN Juan Pablo Escobar Martínez",
+        "entity": [
+            "Municipio de Garfield",
+            "condado de Decatur",
+            "Kansas",
+            "Juan Pablo Escobar Martínez"
+        ],
+        "category": [
+            "district",
+            "district",
+            "state or province",
+            "other person"
+        ]
+    },
+    "sentence54": {
+        "sentence": "Esta reputación trajo a su negocio bandas entre las que se incluye a Grateful Dead , Big Brother and the Holding Company , y Carlos Santana .",
+        "entity": [
+            "Grateful Dead",
+            "Big Brother and the Holding Company",
+            "Carlos Santana"
+        ],
+        "category": [
+            "band",
+            "band",
+            "musician"
+        ]
+    },
+    "sentence55": {
+        "sentence": "Se encontró una daga afilada escondida dentro del abrigo del criminal.",
+        "entity": [
+            "daga"
+        ],
+        "category": [
+            "cold weapon"
+        ]
+    },
+    "sentence56": {
+        "sentence": "La tecnología biométrica, incluyendo el reconocimiento de huellas dactilares y facial, mejora la seguridad de los dispositivos electrónicos y los sistemas de control de acceso.",
+        "entity": [
+            "tecnología biométrica",
+            "reconocimiento de huellas dactilares",
+            "reconocimiento facial"
+        ],
+        "category": [
+            "other technology",
+            "other technology",
+            "other technology"
+        ]
+    },
+    "sentence57": {
+        "sentence": "Condado de Delaware ( Indiana ) Habita en Camerún , Gabón , Nigeria , posiblemente República del Congo y posiblemente Guinea Ecuatorial .",
+        "entity": [
+            "Condado de Delaware",
+            "Indiana",
+            "Camerún",
+            "Gabón",
+            "Nigeria",
+            "República del Congo",
+            "Guinea Ecuatorial"
+        ],
+        "category": [
+            "other gpe",
+            "state or province",
+            "country",
+            "country",
+            "country",
+            "country",
+            "country"
+        ]
+    },
+    "sentence58": {
+        "sentence": "El impacto del Brexit en los mercados financieros de Londres afectó significativamente el comercio y la inversión mundiales.",
+        "entity": [
+            "impacto del Brexit",
+            "Londres"
+        ],
+        "category": [
+            "business event",
+            "city"
+        ]
+    },
+    "sentence59": {
+        "sentence": "Los vecinos los capturaron , desarmaron y entregaron a la Policía Técnica Judicial , incautándoseles dos armas .",
+        "entity": [
+            "Policía Técnica Judicial"
+        ],
+        "category": [
+            "government facility"
+        ]
+    },
+    "sentence60": {
+        "sentence": "Carlos Flores Córdova Ha sido profesor visitante en la Universidad Hebrea de Jerusalén y en la Universidad de Princeton .",
+        "entity": [
+            "Carlos Flores Córdova",
+            "Universidad Hebrea de Jerusalén",
+            "Universidad de Princeton"
+        ],
+        "category": [
+            "scholar",
+            "school",
+            "school"
+        ]
+    },
+    "sentence61": {
+        "sentence": "Organización territorial de Canadá Se celebraba irregularmente , y fue restablecida por Domiciano en el año 86 cada cuatro años .",
+        "entity": [
+            "Organización territorial de Canadá",
+            "Domiciano"
+        ],
+        "category": [
+            "other gpe",
+            "other person"
+        ]
+    },
+    "sentence62": {
+        "sentence": "La química es la disciplina que examina la composición, la estructura y las propiedades de las sustancias y cómo interactúan.",
+        "entity": [
+            "química"
+        ],
+        "category": [
+            "discipline"
+        ]
+    },
+    "sentence63": {
+        "sentence": "Los entusiastas del ciclismo de montaña desafían las empinadas carreteras de montaña, las ruedas corren por los caminos embarrados, disfrutan de la combinación perfecta de velocidad y naturaleza, y experimentan la sensación de logro de superar dificultades.",
+        "entity": [
+            "entusiastas del ciclismo de montaña",
+            "carreteras de montaña",
+            "caminos embarrados"
+        ],
+        "category": [
+            "other person",
+            "road",
+            "road"
+        ]
+    },
+    "sentence64": {
+        "sentence": "La hipótesis del mundo del ARN propone que las primeras formas de vida dependían del ARN para la información genética y las funciones catalíticas.",
+        "entity": [
+            "hipótesis del mundo del ARN",
+            "ARN"
+        ],
+        "category": [
+            "biological theory",
+            "other biological entity"
+        ]
+    },
+    "sentence65": {
+        "sentence": "Las fuerzas militares a menudo utilizan explosivos C-4 en operaciones de demolición debido a su alta eficacia y flexibilidad.",
+        "entity": [
+            "fuerzas militares",
+            "explosivos C-4"
+        ],
+        "category": [
+            "military",
+            "explosives"
+        ]
+    },
+    "sentence66": {
+        "sentence": "Cadalso de los Vidrios REDIRECCIÓN Unión de Partidos Comunistas - Partido Comunista de la Unión Soviética",
+        "entity": [
+            "Cadalso de los Vidrios",
+            "Unión de Partidos Comunistas - Partido Comunista de la Unión Soviética"
+        ],
+        "category": [
+            "city",
+            "other commercial organization"
+        ]
+    },
+    "sentence67": {
+        "sentence": "Blas de Sebaste 200 - ДВIСТI ГРИВЕНЬ - Lesya Ukrainka - УКРАÏНА - НАЦİОНАΛЬНИЙ БАНК УКРАÏНИ",
+        "entity": [
+            "Blas de Sebaste",
+            "Lesya Ukrainka",
+            "УКРАÏНА",
+            "НАЦİОНАΛЬНИЙ БАНК УКРАÏНИ"
+        ],
+        "category": [
+            "other person",
+            "author",
+            "country",
+            "government facility"
+        ]
+    },
+    "sentence68": {
+        "sentence": "En la mina de hierro de Benxi, provincia de Liaoning, los expertos en restauración ecológica están trabajando en la restauración de la vegetación y se esfuerzan por equilibrar la relación entre el desarrollo y la protección del medio ambiente.",
+        "entity": [
+            "Benxi",
+            "Liaoning"
+        ],
+        "category": [
+            "city",
+            "state or province"
+        ]
+    },
+    "sentence69": {
+        "sentence": "El beso de Gustav Klimt muestra la belleza del amor y la intimidad, destacada por su característico uso de pan de oro.",
+        "entity": [
+            "El beso",
+            "Gustav Klimt"
+        ],
+        "category": [
+            "painting",
+            "artist"
+        ]
+    },
+    "sentence70": {
+        "sentence": "Liga de Béisbol Profesional Nacional REDIRECCIÓN Calle Houston ( línea de la Séptima Avenida–Broadway )",
+        "entity": [
+            "Liga de Béisbol Profesional Nacional",
+            "Calle Houston",
+            "línea de la Séptima Avenida–Broadway"
+        ],
+        "category": [
+            "sports team/league",
+            "road",
+            "other address"
+        ]
+    },
+    "sentence71": {
+        "sentence": "La tecnología de conducción autónoma de Tesla está impulsada por algoritmos avanzados de IA que permiten al automóvil navegar por las carreteras de forma autónoma.",
+        "entity": [
+            "Tesla",
+            "IA",
+            "conducción autónoma"
+        ],
+        "category": [
+            "company",
+            "other technology",
+            "other technology"
+        ]
+    },
+    "sentence72": {
+        "sentence": "Nuevas Generaciones del Partido Popular Tras esta mala campaña , fue despedido y reemplazado por Walter Mazzarri .",
+        "entity": [
+            "Nuevas Generaciones del Partido Popular",
+            "Walter Mazzarri"
+        ],
+        "category": [
+            "political/military",
+            "other person"
+        ]
+    },
+    "sentence73": {
+        "sentence": "Una estructura de datos organiza los datos de manera eficiente, como matrices, listas vinculadas, pilas y colas, para optimizar el procesamiento.",
+        "entity": [
+            "estructura de datos",
+            "matrices",
+            "listas vinculadas",
+            "pilas",
+            "colas"
+        ],
+        "category": [
+            "other computer science entity",
+            "other computer science entity",
+            "other computer science entity",
+            "other computer science entity",
+            "other computer science entity"
+        ]
+    },
+    "sentence74": {
+        "sentence": "Las vidrieras, que se ven comúnmente en las catedrales góticas, representan historias bíblicas con colores vibrantes y diseños intrincados.",
+        "entity": [
+            "vidrieras",
+            "catedrales góticas"
+        ],
+        "category": [
+            "other visual art",
+            "other facility"
+        ]
+    },
+    "sentence75": {
+        "sentence": "El horno microondas calienta los alimentos rápidamente usando ondas electromagnéticas.",
+        "entity": [
+            "horno microondas",
+            "ondas electromagnéticas"
+        ],
+        "category": [
+            "electronics",
+            "physical phenomenon"
+        ]
+    },
+    "sentence76": {
+        "sentence": "Al conectar al Palacio del Congreso con la Casa de Gobierno , las manifestaciones políticas y marchas se concentraron sobre todo en ella .",
+        "entity": [
+            "Palacio del Congreso",
+            "Casa de Gobierno"
+        ],
+        "category": [
+            "government facility",
+            "government facility"
+        ]
+    },
+    "sentence77": {
+        "sentence": "La liberación accidental de bacterias de la tularemia de un laboratorio destacó los peligros de manipular posibles agentes biológicos de armas.",
+        "entity": [
+            "bacterias de la tularemia",
+            "laboratorio"
+        ],
+        "category": [
+            "biological",
+            "other facility"
+        ]
+    },
+    "sentence78": {
+        "sentence": "Además , Inicia su etapa clasificatoria para la Copa Mundial de Fútbol de 2014 , en Brasil .",
+        "entity": [
+            "Copa Mundial de Fútbol de 2014",
+            "Brasil"
+        ],
+        "category": [
+            "sporting event",
+            "country"
+        ]
+    },
+    "sentence79": {
+        "sentence": "En el área de villas de lujo junto al lago del oeste en Hangzhou, los propietarios están celebrando una fiesta de barbacoa de fin de semana en su jardín privado y disfrutando de una vida tranquila.",
+        "entity": [
+            "área de villas de lujo",
+            "lago del oeste",
+            "Hangzhou"
+        ],
+        "category": [
+            "residential",
+            "water body",
+            "city"
+        ]
+    },
+    "sentence80": {
+        "sentence": "Distrito Escolar Independiente de Carrollton-Farmers Branch REDIRECCIÓN Superliga de baloncesto de Ucrania",
+        "entity": [
+            "Distrito Escolar Independiente de Carrollton-Farmers Branch",
+            "Superliga de baloncesto de Ucrania"
+        ],
+        "category": [
+            "educational and research",
+            "sports team/league"
+        ]
+    },
+    "sentence81": {
+        "sentence": "Futuro y Libertad para Italia Por su parte la DOS-8 se transformó primero en lo que fue el proyecto Mir-2 .",
+        "entity": [
+            "Futuro y Libertad para Italia",
+            "DOS-8",
+            "Mir-2"
+        ],
+        "category": [
+            "political/military",
+            "other technology",
+            "other technology"
+        ]
+    },
+    "sentence82": {
+        "sentence": "Las agencias de alquiler de coches permiten a los viajeros alquilar vehículos para uso a corto plazo, proporcionando soluciones convenientes a las necesidades de transporte durante las vacaciones o los viajes de negocios.",
+        "entity": [
+            "agencias de alquiler de coches"
+        ],
+        "category": [
+            "other commercial facility"
+        ]
+    },
+    "sentence83": {
+        "sentence": "El ejército entrenó a sus soldados para reconocer los signos de exposición a agentes nerviosos.",
+        "entity": [
+            "ejército",
+            "soldados",
+            "agentes nerviosos"
+        ],
+        "category": [
+            "military",
+            "military",
+            "chemical weapon"
+        ]
+    },
+    "sentence84": {
+        "sentence": "En el Teatro Poly de Shenzhen, se está escenenando una obra moderna sobre temas sociales, que ha desencadenado el profundo pensamiento y la discusión de la audiencia.",
+        "entity": [
+            "Teatro Poly",
+            "Shenzhen"
+        ],
+        "category": [
+            "theater/cinema",
+            "city"
+        ]
+    },
+    "sentence85": {
+        "sentence": "Elon Musk, el CEO de Tesla y SpaceX, anunció un plan innovador para revolucionar el mercado mundial de vehículos eléctricos.",
+        "entity": [
+            "Elon Musk",
+            "Tesla",
+            "SpaceX"
+        ],
+        "category": [
+            "business executive",
+            "company",
+            "company"
+        ]
+    },
+    "sentence86": {
+        "sentence": "La popularidad de los vehículos eléctricos está cambiando el patrón de la industria del automóvil, que no solo reduce las emisiones de carbono, sino que también promueve el desarrollo de nuevas tecnologías energéticas y la construcción de infraestructura de carga.",
+        "entity": [
+            "vehículos eléctricos",
+            "industria del automóvil",
+            "tecnologías energéticas",
+            "infraestructura de carga"
+        ],
+        "category": [
+            "car",
+            "other commercial organization",
+            "other technology",
+            "other facility"
+        ]
+    },
+    "sentence87": {
+        "sentence": "La ficción distópica, como en Los juegos del hambre, representa sociedades opresivas y explora temas de poder, control y rebelión.",
+        "entity": [
+            "ficción distópica",
+            "Los juegos del hambre"
+        ],
+        "category": [
+            "literature genre",
+            "fiction"
+        ]
+    },
+    "sentence88": {
+        "sentence": "Cantón de San Galo Una vez allí , el vocalista Chris Martin dijo que se obsesionaron con la grabación .",
+        "entity": [
+            "Cantón de San Galo",
+            "Chris Martin"
+        ],
+        "category": [
+            "state or province",
+            "musician"
+        ]
+    },
+    "sentence89": {
+        "sentence": "En el campo de tiro, a los participantes se les enseña cómo cargar y descargar correctamente un arma.",
+        "entity": [
+            "campo de tiro",
+            "arma"
+        ],
+        "category": [
+            "other facility",
+            "firearms"
+        ]
+    },
+    "sentence90": {
+        "sentence": "No hay relación probada con otros idiomas , tampoco incluso con las familias lingüísticas del norte del Cáucaso .",
+        "entity": [
+            "Cáucaso"
+        ],
+        "category": [
+            "region"
+        ]
+    },
+    "sentence91": {
+        "sentence": "Oda a un ruiseñal de John Keats captura la belleza fugaz de la vida y el deseo de escapar a la naturaleza.",
+        "entity": [
+            "Oda a un ruiseñal",
+            "John Keats"
+        ],
+        "category": [
+            "poem",
+            "author"
+        ]
+    },
+    "sentence92": {
+        "sentence": "Una máquina de rayos X es un dispositivo de imagen que ayuda a diagnosticar fracturas, infecciones y otras afecciones internas al capturar imágenes de huesos.",
+        "entity": [
+            "máquina de rayos X"
+        ],
+        "category": [
+            "other medical entity"
+        ]
+    },
+    "sentence93": {
+        "sentence": "Vishnu es una importante deidad hindú conocida como la conservadora del universo.",
+        "entity": [
+            "Vishnu"
+        ],
+        "category": [
+            "god"
+        ]
+    },
+    "sentence94": {
+        "sentence": "Pero la Crisis de 1930 afectó seriamente a su trabajo y a su empresa , que no pudo sostener y debió cerrar .",
+        "entity": [
+            "Crisis de 1930"
+        ],
+        "category": [
+            "political/military event"
+        ]
+    },
+    "sentence95": {
+        "sentence": "El episodio fue escrito por Al Jean , Mike Reiss , Jay Kogen , Wallace Wolodarsky , Sam Simon y Jon Vitti , y dirigido por Carlos Baeza .",
+        "entity": [
+            "Al Jean",
+            "Mike Reiss",
+            "Jay Kogen",
+            "Wallace Wolodarsky",
+            "Sam Simon",
+            "Jon Vitti",
+            "Carlos Baeza"
+        ],
+        "category": [
+            "director",
+            "other person",
+            "other person",
+            "other person",
+            "other person",
+            "other person",
+            "director"
+        ]
+    },
+    "sentence96": {
+        "sentence": "Un coloide es una mezcla en la que una sustancia se dispersa dentro de otra, como la leche, que contiene gotas de grasa suspendidas en agua.",
+        "entity": [
+            "coloide",
+            "leche",
+            "agua"
+        ],
+        "category": [
+            "other chemical entity",
+            "other food",
+            "compound"
+        ]
+    },
+    "sentence97": {
+        "sentence": "Anteriormente se sabía que ese problema estaba en NP , si bien no en NP-completo , ahora se sabe que también está en P .",
+        "entity": [
+            "NP",
+            "NP-completo",
+            "P"
+        ],
+        "category": [
+            "other computer science entity",
+            "other computer science entity",
+            "other computer science entity"
+        ]
+    },
+    "sentence98": {
+        "sentence": "La lavandería está equipada con lavadoras y secadoras, y los clientes pueden lavar y secar su ropa mientras esperan en la cómoda área de descanso.",
+        "entity": [
+            "lavandería"
+        ],
+        "category": [
+            "other commercial facility"
+        ]
+    },
+    "sentence99": {
+        "sentence": "Prometeo, que desafió a Zeus, robó fuego del Monte Olimpo y se lo dio a la humanidad, otorgándoles el conocimiento para sobrevivir y prosperar.",
+        "entity": [
+            "Prometeo",
+            "Zeus",
+            "Monte Olimpo"
+        ],
+        "category": [
+            "mythological figure",
+            "mythological figure",
+            "mountain"
+        ]
+    },
+    "sentence100": {
+        "sentence": "Municipio de Sibley ( condado de Sibley , Minnesota ) REDIRECCIÓN Las extraordinarias aventuras de Adèle Blanc-Sec",
+        "entity": [
+            "Municipio de Sibley",
+            "condado de Sibley",
+            "Minnesota",
+            "Las extraordinarias aventuras de Adèle Blanc-Sec"
+        ],
+        "category": [
+            "other gpe",
+            "other gpe",
+            "state or province",
+            "other art"
+        ]
+    },
+    "sentence101": {
+        "sentence": "Júpiter era el dios supremo en la mitología romana, equivalente a Zeus.",
+        "entity": [
+            "Júpiter",
+            "mitología romana",
+            "Zeus"
+        ],
+        "category": [
+            "mythological figure",
+            "miscellaneous",
+            "mythological figure"
+        ]
+    },
+    "sentence102": {
+        "sentence": "En la base minera de mineral de hierro en Chengde, provincia de Hebei, los ingenieros están depurando el equipo de producción inteligente recién instalado para mejorar la eficiencia y la seguridad de la producción.",
+        "entity": [
+            "Chengde",
+            "Hebei",
+            "base minera de mineral de hierro"
+        ],
+        "category": [
+            "city",
+            "state or province",
+            "mine"
+        ]
+    },
+    "sentence103": {
+        "sentence": "El texto original del Antiguo Testamento está escrito en hebreo y arameo, que es la primera parte de la Biblia cristiana.",
+        "entity": [
+            "Antiguo Testamento",
+            "hebreo",
+            "arameo",
+            "Biblia cristiana"
+        ],
+        "category": [
+            "other literature",
+            "language",
+            "language",
+            "other literature"
+        ]
+    },
+    "sentence104": {
+        "sentence": "Los trabajadores de carga ferroviaria están ocupados cargando y descargando mercancías en la plataforma de carga para garantizar que todo tipo de mercancías puedan ser entregadas a tiempo en todo el país a través de la red ferroviaria.",
+        "entity": [
+            "trabajadores de carga ferroviaria",
+            "plataforma de carga",
+            "red ferroviaria"
+        ],
+        "category": [
+            "other person",
+            "other facility",
+            "railway"
+        ]
+    },
+    "sentence105": {
+        "sentence": "The speedboat races through the waves, ideal for water sports enthusiasts who enjoy activities like wakeboarding, tubing, and water skiing.",
+        "entity": [
+            "speedboat"
+        ],
+        "category": [
+            "other vehicle"
+        ]
+    },
+    "sentence106": {
+        "sentence": "El baile sobre hielo, una forma de patinaje artístico, combina atletismo y arte mientras las parejas realizan rutinas coreografiadas sobre hielo.",
+        "entity": [
+            "baile sobre hielo",
+            "patinaje artístico"
+        ],
+        "category": [
+            "other art",
+            "other art"
+        ]
+    },
+    "sentence107": {
+        "sentence": "Asociación del Fútbol Argentino Su sede oficial es el Konzerthaus Berlin '' , diseñada por el arquitecto Karl Friedrich Schinkel .",
+        "entity": [
+            "Asociación del Fútbol Argentino",
+            "Konzerthaus Berlin",
+            "Karl Friedrich Schinkel"
+        ],
+        "category": [
+            "sports team/league",
+            "landmark",
+            "artist"
+        ]
+    },
+    "sentence108": {
+        "sentence": "Liberdade ( distrito de São Paulo ) Realizó un papel en la serie `` Blue Water High '' como 'Bec ' .",
+        "entity": [
+            "Liberdade",
+            "São Paulo",
+            "Blue Water High"
+        ],
+        "category": [
+            "district",
+            "city",
+            "broadcast program"
+        ]
+    },
+    "sentence109": {
+        "sentence": "La inercia es la resistencia de un objeto a los cambios en su estado de movimiento, un concepto clave en la primera ley del movimiento de Newton.",
+        "entity": [
+            "inercia",
+            "primera ley del movimiento de Newton"
+        ],
+        "category": [
+            "physical phenomenon",
+            "physical theory"
+        ]
+    },
+    "sentence110": {
+        "sentence": "Copa Mundial de Fútbol de 2002 El SI estaba respaldado por partidos como el Partido Popular Social Cristiano .",
+        "entity": [
+            "Copa Mundial de Fútbol de 2002",
+            "SI",
+            "Partido Popular Social Cristiano"
+        ],
+        "category": [
+            "sporting event",
+            "political/military",
+            "political/military"
+        ]
+    },
+    "sentence111": {
+        "sentence": "La reciente prueba de Corea del Norte de un arma nuclear ha suscitado preocupaciones mundiales sobre la proliferación de tal tecnología destructiva.",
+        "entity": [
+            "Corea del Norte",
+            "arma nuclear"
+        ],
+        "category": [
+            "country",
+            "nuclear"
+        ]
+    },
+    "sentence112": {
+        "sentence": "Selección femenina de rugby de Nueva Zelanda REDIRECCIÓN Unión Cristiana y Demócrata-Partido Popular Checoslovaco",
+        "entity": [
+            "Selección femenina de rugby de Nueva Zelanda",
+            "Unión Cristiana y Demócrata-Partido Popular Checoslovaco"
+        ],
+        "category": [
+            "sports team/league",
+            "political/military"
+        ]
+    },
+    "sentence113": {
+        "sentence": "La Copa Stanley se otorga anualmente al equipo de la NHL que gana el campeonato de playoffs en hockey sobre hielo.",
+        "entity": [
+            "Copa Stanley",
+            "NHL",
+            "hockey sobre hielo"
+        ],
+        "category": [
+            "sports award",
+            "sports team/league",
+            "sporting event"
+        ]
+    },
+    "sentence114": {
+        "sentence": "La invasión de Normandía (Día D) en 1944 marcó un punto de inflexión en la Segunda Guerra Mundial cuando las fuerzas aliadas desembarcaron en la Francia ocupada por los nazis.",
+        "entity": [
+            "Normandía",
+            "Día D",
+            "Segunda Guerra Mundial",
+            "Francia"
+        ],
+        "category": [
+            "region",
+            "political/military event",
+            "political/military event",
+            "country"
+        ]
+    },
+    "sentence115": {
+        "sentence": "Alianza por el Gran Cambio REDIRECCIÓN Campaña Internacional para la Prohibición de las Minas Antipersona",
+        "entity": [
+            "Alianza por el Gran Cambio",
+            "Campaña Internacional para la Prohibición de las Minas Antipersona"
+        ],
+        "category": [
+            "political/military",
+            "other non-commercial organization"
+        ]
+    },
+    "sentence116": {
+        "sentence": "Las gasolineras no solo proporcionan combustible para los vehículos, sino que también tienen una tienda de conveniencia donde los clientes pueden comprar bocadillos, bebidas y suministros para automóviles.",
+        "entity": [
+            "gasolineras"
+        ],
+        "category": [
+            "other commercial facility"
+        ]
+    },
+    "sentence117": {
+        "sentence": "XII Distrito de París ' '' ''Argentina latente '' ' '' es una película documental dirigida por Pino Solanas .",
+        "entity": [
+            "XII Distrito de París",
+            "Argentina latente",
+            "Pino Solanas"
+        ],
+        "category": [
+            "district",
+            "film",
+            "director"
+        ]
+    },
+    "sentence118": {
+        "sentence": "Un núcleo es el núcleo central de un átomo, que contiene protones y neutrones, representando la mayor parte de su masa.",
+        "entity": [
+            "núcleo",
+            "protones",
+            "neutrones"
+        ],
+        "category": [
+            "other physical entity",
+            "other physical entity",
+            "other physical entity"
+        ]
+    },
+    "sentence119": {
+        "sentence": "Canal de Isabel II Se dice que Servio Tulio fue el primero en erigirle templos al ser quien erigió tumbas y estableció el equipamiento necesario para funerales , incluidos los enterradores .",
+        "entity": [
+            "Canal de Isabel II",
+            "Servio Tulio"
+        ],
+        "category": [
+            "water body",
+            "other person"
+        ]
+    },
+    "sentence120": {
+        "sentence": "La aspirina (C9H8O4) es un analgésico y un medicamento antiinflamatorio de uso común, lo que demuestra la importancia de los compuestos orgánicos en la medicina.",
+        "entity": [
+            "aspirina",
+            "C9H8O4"
+        ],
+        "category": [
+            "compound",
+            "compound"
+        ]
+    },
+    "sentence121": {
+        "sentence": "Muchas personas sueñan con viajar por todo el continente europeo, explorando países como Francia, Italia y España.",
+        "entity": [
+            "continente europeo",
+            "Francia",
+            "Italia",
+            "España"
+        ],
+        "category": [
+            "continent",
+            "country",
+            "country",
+            "country"
+        ]
+    },
+    "sentence122": {
+        "sentence": "En la fábrica de chips Intel en Dalian, provincia de Liaoning, los técnicos están fabricando chips en el taller libre de polvo para garantizar la precisión de cada paso del proceso.",
+        "entity": [
+            "fábrica de chips Intel",
+            "Dalian",
+            "Liaoning",
+            "chips"
+        ],
+        "category": [
+            "factory",
+            "city",
+            "state or province",
+            "electronics"
+        ]
+    },
+    "sentence123": {
+        "sentence": "El director Peter Brook hizo una película sobre Gurdjíeff usando ''Encuentro con hombres notables '' ( vídeo )",
+        "entity": [
+            "Peter Brook",
+            "Gurdjíeff",
+            "Encuentro con hombres notables"
+        ],
+        "category": [
+            "director",
+            "other person",
+            "film"
+        ]
+    },
+    "sentence124": {
+        "sentence": "En ese momento , Cris Morena estaba buscando desesperadamente un financista para su nuevo proyecto , Rebelde Way .",
+        "entity": [
+            "Cris Morena",
+            "Rebelde Way"
+        ],
+        "category": [
+            "artist",
+            "broadcast program"
+        ]
+    },
+    "sentence125": {
+        "sentence": "Los diplomáticos militares participan en las negociaciones internacionales de control de armas y se comprometen a reducir los conflictos militares a través de medios diplomáticos y a mantener la paz y la seguridad en el mundo.",
+        "entity": [
+            "diplomáticos militares"
+        ],
+        "category": [
+            "military"
+        ]
+    },
+    "sentence126": {
+        "sentence": "South Ferry–Calle Whitehall ( línea de la Séptima Avenida–Broadway ) Club Atlético Osasuna `` B ''",
+        "entity": [
+            "South Ferry–Calle Whitehall",
+            "línea de la Séptima Avenida–Broadway",
+            "Club Atlético Osasuna `` B ''"
+        ],
+        "category": [
+            "station",
+            "other transportation facility",
+            "sports team/league"
+        ]
+    },
+    "sentence127": {
+        "sentence": "I Will Always Love You de Whitney Houston muestra su increíble rango vocal y sigue siendo una balada de amor atemporal.",
+        "entity": [
+            "I Will Always Love You",
+            "Whitney Houston"
+        ],
+        "category": [
+            "song",
+            "musician"
+        ]
+    },
+    "sentence128": {
+        "sentence": "El equipo disputa sus partidos como local en el estadio Avanhard y juega en la Liga Premier de Ucrania .",
+        "entity": [
+            "estadio Avanhard",
+            "Liga Premier de Ucrania"
+        ],
+        "category": [
+            "sports facility",
+            "sports team/league"
+        ]
+    },
+    "sentence129": {
+        "sentence": "La Reunión Anual de la Sociedad Americana de Oncología Clínica (ASCO) presenta nuevos hallazgos de investigación en el tratamiento del cáncer y la atención al paciente.",
+        "entity": [
+            "Reunión Anual de la Sociedad Americana de Oncología Clínica",
+            "ASCO",
+            "cáncer"
+        ],
+        "category": [
+            "conference",
+            "conference",
+            "disease"
+        ]
+    },
+    "sentence130": {
+        "sentence": "El arreglo floral, como se ve en ikebana, es un arte que enfatiza la armonía, el equilibrio y la belleza natural de los elementos florales.",
+        "entity": [
+            "arreglo floral",
+            "ikebana"
+        ],
+        "category": [
+            "other art",
+            "other art"
+        ]
+    },
+    "sentence131": {
+        "sentence": "Una contusión, comúnmente conocida como hematoma, es el resultado de la ruptura de los vasos sanguíneos debajo de la piel debido a un trauma de fuerza contundente.",
+        "entity": [
+            "contusión",
+            "hematoma"
+        ],
+        "category": [
+            "injury",
+            "injury"
+        ]
+    },
+    "sentence132": {
+        "sentence": "El David de bronce de Donatello fue la primera estatua desnuda independiente desde la antigüedad y marcó una nueva era en las técnicas escultóricas.",
+        "entity": [
+            "David de bronce",
+            "Donatello"
+        ],
+        "category": [
+            "sculpture",
+            "artist"
+        ]
+    },
+    "sentence133": {
+        "sentence": "El escuadrón de bombas descubrió una gran cantidad de TNT escondida dentro de un vehículo cerca de la embajada, lo que indica un ataque planeado con explosivos.",
+        "entity": [
+            "escuadrón de bombas",
+            "TNT",
+            "embajada"
+        ],
+        "category": [
+            "military",
+            "explosives",
+            "government facility"
+        ]
+    },
+    "sentence134": {
+        "sentence": "En la fábrica de zapatos Delta en Xiamen, Fujian, los diseñadores están discutiendo el diseño del producto del nuevo trimestre, tratando de encontrar un equilibrio entre moda y comodidad.",
+        "entity": [
+            "Delta",
+            "Xiamen",
+            "Fujian"
+        ],
+        "category": [
+            "company",
+            "city",
+            "state or province"
+        ]
+    },
+    "sentence135": {
+        "sentence": "Los países con armas nucleares están obligados a seguir protocolos estrictos para evitar lanzamientos accidentales o no autorizados.",
+        "entity": [
+            "países",
+            "armas nucleares",
+            "protocolos"
+        ],
+        "category": [
+            "country",
+            "nuclear",
+            "law"
+        ]
+    },
+    "sentence136": {
+        "sentence": "El modelo biopsicosocial es una teoría médica integral que integra factores biológicos, psicológicos y sociales en la salud y la enfermedad.",
+        "entity": [
+            "modelo biopsicosocial"
+        ],
+        "category": [
+            "medical theory"
+        ]
+    },
+    "sentence137": {
+        "sentence": "Una orquesta consiste en varios instrumentos que tocan juntos, creando un sonido rico y armonioso, como se ve en las sinfonías.",
+        "entity": [
+            "orquesta",
+            "sinfonías"
+        ],
+        "category": [
+            "other music",
+            "other music"
+        ]
+    },
+    "sentence138": {
+        "sentence": "La teoría de la evolución, propuesta por Charles Darwin, sugiere que las especies cambian con el tiempo a través de la selección natural.",
+        "entity": [
+            "teoría de la evolución",
+            "Charles Darwin",
+            "selección natural"
+        ],
+        "category": [
+            "biological theory",
+            "scholar",
+            "biological theory"
+        ]
+    },
+    "sentence139": {
+        "sentence": "Servicio de Edificios Históricos de Estados Unidos REDIRECCIÓN Wycombe Wanderers Football Club",
+        "entity": [
+            "Servicio de Edificios Históricos de Estados Unidos",
+            "Wycombe Wanderers Football Club"
+        ],
+        "category": [
+            "government facility",
+            "sports team/league"
+        ]
+    },
+    "sentence140": {
+        "sentence": "El salmón a la parrilla con una guarnición de espárragos es su opción favorita para una cena saludable.",
+        "entity": [
+            "salmón",
+            "espárragos"
+        ],
+        "category": [
+            "other food",
+            "other food"
+        ]
+    },
+    "sentence141": {
+        "sentence": "El salbutamol es un medicamento broncodilatador utilizado para aliviar los síntomas del asma relajando los músculos de las vías respiratorias.",
+        "entity": [
+            "salbutamol",
+            "asma"
+        ],
+        "category": [
+            "medication",
+            "disease"
+        ]
+    },
+    "sentence142": {
+        "sentence": "El retorno de la inversión (ROI) es una métrica financiera utilizada para evaluar la rentabilidad de una inversión en relación con su costo.",
+        "entity": [
+            "retorno de la inversión",
+            "ROI"
+        ],
+        "category": [
+            "metrics",
+            "metrics"
+        ]
+    },
+    "sentence143": {
+        "sentence": "Campos Elíseos ( mitología ) Aun así , tuvo una destacada participación en la derrota ' '' 2-3 '' ' en el Estadio Nemesio Díez , donde consiguió un doblete.",
+        "entity": [
+            "Campos Elíseos",
+            "Estadio Nemesio Díez"
+        ],
+        "category": [
+            "mythological figure",
+            "sports facility"
+        ]
+    },
+    "sentence144": {
+        "sentence": "Biblioteca Pública de Fort Worth El Distrito Escolar Unificado de West Contra Costa gestiona escuelas públicas .",
+        "entity": [
+            "Biblioteca Pública de Fort Worth",
+            "Distrito Escolar Unificado de West Contra Costa"
+        ],
+        "category": [
+            "library",
+            "educational and research"
+        ]
+    },
+    "sentence145": {
+        "sentence": "Su casa de la infancia en 555 Magnolia Court guarda muchos buenos recuerdos de reuniones familiares.",
+        "entity": [
+            "555 Magnolia Court"
+        ],
+        "category": [
+            "address"
+        ]
+    },
+    "sentence146": {
+        "sentence": "El algoritmo de búsqueda en profundidad (DFS) atraviesa un gráfico explorando lo más lejos posible a lo largo de cada rama antes de retroceder.",
+        "entity": [
+            "algoritmo de búsqueda en profundidad",
+            "DFS"
+        ],
+        "category": [
+            "algorithm",
+            "algorithm"
+        ]
+    },
+    "sentence147": {
+        "sentence": "Movimiento Ecológico de Venezuela REDIRECCIÓN Universidad Católica Nuestra Señora de la Asunción",
+        "entity": [
+            "Movimiento Ecológico de Venezuela",
+            "Universidad Católica Nuestra Señora de la Asunción"
+        ],
+        "category": [
+            "political/military",
+            "educational and research"
+        ]
+    },
+    "sentence148": {
+        "sentence": "Call of Duty: Modern Warfare ofrece una acción de disparos en primera persona intensa y realista amientada en varias zonas de conflicto global.",
+        "entity": [
+            "Call of Duty: Modern Warfare"
+        ],
+        "category": [
+            "game"
+        ]
+    },
+    "sentence149": {
+        "sentence": "La literatura de fantasía, como El Señor de los Anillos, crea reinos imaginarios con criaturas mágicas, misiones épicas y héroes legendarios.",
+        "entity": [
+            "literatura de fantasía",
+            "El Señor de los Anillos"
+        ],
+        "category": [
+            "literature genre",
+            "fiction"
+        ]
+    },
+    "sentence150": {
+        "sentence": "El spray de pimienta es un arma de autodefensa común utilizada por los civiles.",
+        "entity": [
+            "spray de pimienta"
+        ],
+        "category": [
+            "other weapon"
+        ]
+    },
+    "sentence151": {
+        "sentence": "El fotógrafo con dron controló el sofisticado avión y capturó la magnífica vista panorámica del horizonte de la ciudad, presentando a la audiencia una vista de pájaro del mundo.",
+        "entity": [
+            "fotógrafo con dron",
+            "dron",
+            "ciudad"
+        ],
+        "category": [
+            "other person",
+            "air",
+            "city"
+        ]
+    },
+    "sentence152": {
+        "sentence": "Guns, Germs, and Steel de Jared Diamond explora cómo la geografía y el medio ambiente dieron forma a la historia y la civilización humanas.",
+        "entity": [
+            "Guns, Germs, and Steel",
+            "Jared Diamond"
+        ],
+        "category": [
+            "non-fiction",
+            "author"
+        ]
+    },
+    "sentence153": {
+        "sentence": "En el Centro de Recursos Digitales de la Biblioteca de Shanghai, los lectores son competentes en el uso del sistema de recuperación electrónica para encontrar los libros electrónicos y los trabajos académicos que necesitan.",
+        "entity": [
+            "Biblioteca de Shanghai",
+            "Shanghai"
+        ],
+        "category": [
+            "library",
+            "city"
+        ]
+    },
+    "sentence154": {
+        "sentence": "Los algoritmos de software de TikTok son muy efectivos para seleccionar contenido de vídeo personalizado para los usuarios en función de sus preferencias.",
+        "entity": [
+            "TikTok"
+        ],
+        "category": [
+            "software"
+        ]
+    },
+    "sentence155": {
+        "sentence": "Sultán Fateh Ali Tipu REDIRECCIÓN Clasificación de Conmebol para la Copa Mundial de Fútbol de 1994",
+        "entity": [
+            "Sultán Fateh Ali Tipu",
+            "Conmebol",
+            "Copa Mundial de Fútbol",
+            "1994"
+        ],
+        "category": [
+            "politician",
+            "sports team/league",
+            "sporting event",
+            "other event"
+        ]
+    },
+    "sentence156": {
+        "sentence": "REDIRECCIÓN Festival de la Canción de Eurovisión Junior REDIRECCIÓN Festival de la Canción de Eurovisión Junior",
+        "entity": [
+            "Festival de la Canción de Eurovisión Junior"
+        ],
+        "category": [
+            "other event"
+        ]
+    },
+    "sentence157": {
+        "sentence": "Al morir a los cincuenta y cuatro años , confió su hija a sus amigos , Edgar Degas y Stéphane Mallarmé .",
+        "entity": [
+            "Edgar Degas",
+            "Stéphane Mallarmé"
+        ],
+        "category": [
+            "artist",
+            "author"
+        ]
+    },
+    "sentence158": {
+        "sentence": "Iglesia de Santa María del Carmine Allí cantaron también otras memorables figuras como Olga Tañón , Danny Rivera , Silvio Rodríguez .",
+        "entity": [
+            "Iglesia de Santa María del Carmine",
+            "Olga Tañón",
+            "Danny Rivera",
+            "Silvio Rodríguez"
+        ],
+        "category": [
+            "landmark",
+            "musician",
+            "musician",
+            "musician"
+        ]
+    },
+    "sentence159": {
+        "sentence": "En aquellos años iniciaron además los reportajes sobre América Latina que han caracterizado su carrera .",
+        "entity": [
+            "América Latina"
+        ],
+        "category": [
+            "region"
+        ]
+    },
+    "sentence160": {
+        "sentence": "Cabe señalar en este aspecto , por ejemplo , el trabajo que sobre Homero realizaron Zenódoto de Éfeso y Aristarco de Samotracia .",
+        "entity": [
+            "Homero",
+            "Zenódoto de Éfeso",
+            "Aristarco de Samotracia"
+        ],
+        "category": [
+            "author",
+            "scholar",
+            "scholar"
+        ]
+    },
+    "sentence161": {
+        "sentence": "El Señor de los Anillos: La Comunidad del Anillo establece el estándar para las películas de fantasía épica con sus impresionantes imágenes y su narración.",
+        "entity": [
+            "El Señor de los Anillos: La Comunidad del Anillo"
+        ],
+        "category": [
+            "film"
+        ]
+    },
+    "sentence162": {
+        "sentence": "El reparto lo completan Kristen Stewart , quien interpreta a la legendaría Joan Jett y Dakota Fanning como Cherie Currie , entre otras .",
+        "entity": [
+            "Kristen Stewart",
+            "Joan Jett",
+            "Dakota Fanning",
+            "Cherie Currie"
+        ],
+        "category": [
+            "actor",
+            "musician",
+            "actor",
+            "musician"
+        ]
+    },
+    "sentence163": {
+        "sentence": "El francotirador tomó su posición, ajustando el visor de su rifle de largo alcance.",
+        "entity": [
+            "francotirador",
+            "rifle de largo alcance"
+        ],
+        "category": [
+            "military",
+            "firearms"
+        ]
+    },
+    "sentence164": {
+        "sentence": "El asma es una enfermedad respiratoria caracterizada por inflamación y estrechamiento de las vías respiratorias, lo que causa dificultades para respirar.",
+        "entity": [
+            "asma",
+            "dificultades para respirar"
+        ],
+        "category": [
+            "disease",
+            "symptom"
+        ]
+    },
+    "sentence165": {
+        "sentence": "PHP es un lenguaje de scripting del lado del servidor ampliamente empleado en el desarrollo web para crear sitios web dinámicos e interactivos.",
+        "entity": [
+            "PHP",
+            "desarrollo web"
+        ],
+        "category": [
+            "programlang",
+            "discipline"
+        ]
+    },
+    "sentence166": {
+        "sentence": "Las tormentas de arena en el desierto de Lut de Irán crean un entorno impresionante pero desafiante, con temperaturas récord.",
+        "entity": [
+            "tormentas de arena",
+            "desierto de Lut",
+            "Irán"
+        ],
+        "category": [
+            "other event",
+            "desert",
+            "country"
+        ]
+    },
+    "sentence167": {
+        "sentence": "Sin embargo , esta situación resultó ser permanente ( porque su hermano Johannes Magnus entró en enemistad religiosa con Gustavo I de Suecia ) .",
+        "entity": [
+            "Johannes Magnus",
+            "Gustavo I de Suecia"
+        ],
+        "category": [
+            "scholar",
+            "politician"
+        ]
+    },
+    "sentence168": {
+        "sentence": "Los pianistas tocaron apasionadamente en la sala de conciertos, y sus dedos saltaron de manera flexible sobre las teclas en blanco y negro, trayendo un festín auditivo al público, mostrando la elegancia y el poder de este instrumento.",
+        "entity": [
+            "pianistas",
+            "sala de conciertos",
+            "piano"
+        ],
+        "category": [
+            "musician",
+            "other public facility",
+            "musical instruments"
+        ]
+    },
+    "sentence169": {
+        "sentence": "Los rompecabezas no solo ejercitan la paciencia y la concentración de los niños, sino que también ayudan a los ancianos a mantener la vitalidad de su cerebro y se convierten en juguetes populares a través de las edades.",
+        "entity": [
+            "rompecabezas",
+            "niños",
+            "ancianos"
+        ],
+        "category": [
+            "toys",
+            "other social group",
+            "other social group"
+        ]
+    },
+    "sentence170": {
+        "sentence": "La tecnología de vehículos eléctricos ha avanzado rápidamente, con Tesla liderando el mercado en el desarrollo de automóviles eficientes y de largo alcance.",
+        "entity": [
+            "vehículos eléctricos",
+            "Tesla"
+        ],
+        "category": [
+            "other technology",
+            "company"
+        ]
+    },
+    "sentence171": {
+        "sentence": "Stairway to Heaven de Led Zeppelin es un clásico del rock que pasa de melodías acústicas suaves a poderosos riffs eléctricos.",
+        "entity": [
+            "Stairway to Heaven",
+            "Led Zeppelin"
+        ],
+        "category": [
+            "song",
+            "band"
+        ]
+    },
+    "sentence172": {
+        "sentence": "El portugués se habla en países como Brasil, Portugal y partes de África, con una diversidad lingüística significativa.",
+        "entity": [
+            "portugués",
+            "Brasil",
+            "Portugal",
+            "África"
+        ],
+        "category": [
+            "language",
+            "country",
+            "country",
+            "continent"
+        ]
+    },
+    "sentence173": {
+        "sentence": "Bill Gates, cofundador de Microsoft, ha prometido miles de millones de dólares para combatir el cambio climático a través de su fundación filantrópica.",
+        "entity": [
+            "Bill Gates",
+            "Microsoft"
+        ],
+        "category": [
+            "business executive",
+            "company"
+        ]
+    },
+    "sentence174": {
+        "sentence": "Selección de fútbol de Guatemala REDIRECCIÓN Parque natural de las Sierras de Cazorla , Segura y Las Villas",
+        "entity": [
+            "Selección de fútbol de Guatemala",
+            "Parque natural de las Sierras de Cazorla , Segura y Las Villas"
+        ],
+        "category": [
+            "sports team/league",
+            "park"
+        ]
+    },
+    "sentence175": {
+        "sentence": "El ferrocarril Orient Express era famoso por ofrecer lujosos viajes en tren por toda Europa.",
+        "entity": [
+            "ferrocarril Orient Express",
+            "Europa"
+        ],
+        "category": [
+            "railway",
+            "continent"
+        ]
+    },
+    "sentence176": {
+        "sentence": "Shake It Off de Taylor Swift es un himno pop sobre ignorar la negatividad y vivir la vida al máximo.",
+        "entity": [
+            "Shake It Off",
+            "Taylor Swift"
+        ],
+        "category": [
+            "song",
+            "musician"
+        ]
+    },
+    "sentence177": {
+        "sentence": "El baterista se sienta detrás de la batería, y sus extremidades golpean cada superficie de la batería y los tambores en coordinación, proporcionando un fuerte apoyo rítmico para toda la banda.",
+        "entity": [
+            "baterista",
+            "batería",
+            "tambores",
+            "banda"
+        ],
+        "category": [
+            "musician",
+            "musical instruments",
+            "musical instruments",
+            "band"
+        ]
+    },
+    "sentence178": {
+        "sentence": "Copa Mundial de Fútbol de 1998 Condujo para Radio Nacional durante seis años el programa `` Pampeanías '' .",
+        "entity": [
+            "Copa Mundial de Fútbol de 1998",
+            "Radio Nacional",
+            "Pampeanías"
+        ],
+        "category": [
+            "sporting event",
+            "media",
+            "broadcast program"
+        ]
+    },
+    "sentence179": {
+        "sentence": "Todos estos idiomas y sus antecesores han sido habladas históricamente en La Mixteca por una antigüedad que se remonta varios milenios atrás .",
+        "entity": [
+            "La Mixteca"
+        ],
+        "category": [
+            "region"
+        ]
+    },
+    "sentence180": {
+        "sentence": "Los entusiastas de los coches controlados a distancia organizan competiciones en el parque, controlan estos minicoches para competir en la pista especialmente diseñada y disfrutan de la combinación perfecta de velocidad y habilidad.",
+        "entity": [
+            "entusiastas de los coches controlados a distancia",
+            "coches controlados a distancia",
+            "parque",
+            "pista"
+        ],
+        "category": [
+            "other social group",
+            "toys",
+            "park",
+            "other facility"
+        ]
+    },
+    "sentence181": {
+        "sentence": "The Beginning ( álbum de Mercyful Fate ) En lo previo al Tour de Francia se suponía que la lucha por el título sería entre Alberto Contador y Andy Schleck .",
+        "entity": [
+            "The Beginning",
+            "Mercyful Fate",
+            "Tour de Francia",
+            "Alberto Contador",
+            "Andy Schleck"
+        ],
+        "category": [
+            "album",
+            "band",
+            "other event",
+            "athlete",
+            "athlete"
+        ]
+    },
+    "sentence182": {
+        "sentence": "WeChat se ha convertido en una herramienta de comunicación esencial en China, que ofrece funciones de chat, pagos y redes sociales.",
+        "entity": [
+            "WeChat",
+            "China"
+        ],
+        "category": [
+            "software",
+            "country"
+        ]
+    },
+    "sentence183": {
+        "sentence": "Los técnicos de la fábrica de tejido están depurando la nueva máquina de tejer para prepararse para la próxima serie de suéteres de lana producidos en masa y garantizar que cada suéter pueda mantener un estándar de calidad uniforme.",
+        "entity": [
+            "técnicos",
+            "fábrica de tejido",
+            "máquina de tejer",
+            "suéteres de lana"
+        ],
+        "category": [
+            "other person",
+            "factory",
+            "other technology",
+            "clothes"
+        ]
+    },
+    "sentence184": {
+        "sentence": "Los clubes de motociclistas son grupos sociales donde los entusiastas se reúnen para montar y participar en eventos comunitarios.",
+        "entity": [
+            "clubes de motociclistas"
+        ],
+        "category": [
+            "other social group"
+        ]
+    },
+    "sentence185": {
+        "sentence": "Partido Verde Ecologista de México El episodio fue escrito por Jeff Westbrook y dirigido por Chuck Sheetz .",
+        "entity": [
+            "Partido Verde Ecologista de México",
+            "Jeff Westbrook",
+            "Chuck Sheetz"
+        ],
+        "category": [
+            "political/military",
+            "other person",
+            "director"
+        ]
+    },
+    "sentence186": {
+        "sentence": "Brome-Missisquoi ( municipio regional de condado ) REDIRECCIÓN António Luís de Sousa , Marqués de Minas",
+        "entity": [
+            "Brome-Missisquoi",
+            "António Luís de Sousa",
+            "Marqués de Minas"
+        ],
+        "category": [
+            "other gpe",
+            "other person",
+            "other person"
+        ]
+    },
+    "sentence187": {
+        "sentence": "En la sala de exposiciones de la Biblioteca de Xi'an, se está llevando a cabo una exposición especial sobre la cultura de la Ruta de la Seda, que ha atraído a muchos ciudadanos a visitar y aprender sobre esta gloriosa historia.",
+        "entity": [
+            "Biblioteca de Xi'an",
+            "Xi'an",
+            "Ruta de la Seda"
+        ],
+        "category": [
+            "library",
+            "city",
+            "other geographical entity"
+        ]
+    },
+    "sentence188": {
+        "sentence": "En el área de demostración agrícola de ahorro de agua de Wuwei, provincia de Gansu, los expertos agrícolas están introduciendo la última tecnología de riego por goteo a los agricultores locales para ayudarles a hacer frente al desafío de la sequía.",
+        "entity": [
+            "el área de demostración agrícola de ahorro",
+            "Wuwei",
+            "Gansu"
+        ],
+        "category": [
+            "farm",
+            "city",
+            "state or province"
+        ]
+    },
+    "sentence189": {
+        "sentence": "Los ingenieros de la compañía operadora de teleféricos revisan regularmente el equipo del teleférico para garantizar un funcionamiento seguro en condiciones climáticas adversas y proporcionar comodidad a los entusiastas del esquí.",
+        "entity": [
+            "teleférico"
+        ],
+        "category": [
+            "other transportation facility"
+        ]
+    },
+    "sentence190": {
+        "sentence": "Las carteras de cuero hechas a mano están hechas de materiales de alta calidad, proporcionando durabilidad y estilo para cualquiera que busque accesorios eternos.",
+        "entity": [
+            "carteras de cuero"
+        ],
+        "category": [
+            "other product"
+        ]
+    },
+    "sentence191": {
+        "sentence": "Documental sobre su obra , con Lina Wertmüller , Riccardo Muti , Suso Cecchi D'Amico y otros .",
+        "entity": [
+            "Lina Wertmüller",
+            "Riccardo Muti",
+            "Suso Cecchi D'Amico"
+        ],
+        "category": [
+            "director",
+            "musician",
+            "other person"
+        ]
+    },
+    "sentence192": {
+        "sentence": "En la antigua casa de Gulangyu, Xiamen, los huéspedes de una casa de familia están degustando té en el balcón, disfrutando de la hermosa vista del mar y sintiendo el encanto de la isla.",
+        "entity": [
+            "antigua casa",
+            "Gulangyu",
+            "Xiamen"
+        ],
+        "category": [
+            "residential",
+            "island",
+            "city"
+        ]
+    },
+    "sentence193": {
+        "sentence": "Aún se conservan algunos detalles en Marmolite Italiano y finas decoraciones que perduran aún en la edificación .",
+        "entity": [
+            "Marmolite Italiano"
+        ],
+        "category": [
+            "other product"
+        ]
+    },
+    "sentence194": {
+        "sentence": "La economía analiza cómo las sociedades asignan los recursos, examinando la producción, la distribución y el consumo dentro de diferentes sistemas económicos.",
+        "entity": [
+            "economía"
+        ],
+        "category": [
+            "discipline"
+        ]
+    },
+    "sentence195": {
+        "sentence": "Muchos jugadores prefieren Discord como software de chat de voz debido a su fiabilidad y baja latencia.",
+        "entity": [
+            "Discord"
+        ],
+        "category": [
+            "software"
+        ]
+    },
+    "sentence196": {
+        "sentence": "Los globos meteorológicos llevan varios instrumentos de observación al cielo para recopilar datos atmosféricos, proporcionando información valiosa para que los científicos estudien los cambios climáticos y los patrones climáticos.",
+        "entity": [
+            "globos meteorológicos",
+            "científicos",
+            "cambios climáticos",
+            "patrones climáticos"
+        ],
+        "category": [
+            "air",
+            "scholar",
+            "other scientific entity",
+            "other scientific entity"
+        ]
+    },
+    "sentence197": {
+        "sentence": "Su madre se trasladó entonces con ella y su hermanastro a Europa , donde creció principalmente en Inglaterra y en Austria .",
+        "entity": [
+            "Europa",
+            "Inglaterra",
+            "Austria"
+        ],
+        "category": [
+            "continent",
+            "country",
+            "country"
+        ]
+    },
+    "sentence198": {
+        "sentence": "La gravedad es un fenómeno físico que hace que los objetos con masa se sientan atraídos entre sí, manteniendo los planetas en órbita.",
+        "entity": [
+            "gravedad"
+        ],
+        "category": [
+            "physical phenomenon"
+        ]
+    },
+    "sentence199": {
+        "sentence": "Departamento Presidente Roque Sáenz Peña El Distrito Escolar Independiente de Houston gestiona escuelas públicas .",
+        "entity": [
+            "Departamento Presidente Roque Sáenz Peña",
+            "Distrito Escolar Independiente de Houston"
+        ],
+        "category": [
+            "state or province",
+            "educational and research"
+        ]
+    },
+    "sentence200": {
+        "sentence": "El pueblo vasco, un grupo étnico en España y Francia, tiene su propio idioma único llamado Euskara.",
+        "entity": [
+            "pueblo vasco",
+            "España",
+            "Francia",
+            "Euskara"
+        ],
+        "category": [
+            "ethnic group",
+            "country",
+            "country",
+            "language"
+        ]
+    }
+}

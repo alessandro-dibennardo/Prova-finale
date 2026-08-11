@@ -1,0 +1,2402 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El sitio web de Facebook se ha convertido en una plataforma para la interacción social, las noticias y la construcción de la comunidad."
+      },
+      {
+        "from": "assistant",
+        "value": "El sitio web de ##Facebook## se ha convertido en una plataforma para la interacción social, las noticias y la construcción de la comunidad."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El oficial de policía metió cuidadosamente su pistola después de asegurar la escena."
+      },
+      {
+        "from": "assistant",
+        "value": "El oficial de policía metió cuidadosamente su ##pistola## después de asegurar la escena."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "En la planta de energía de la presa de las Tres Gargantas, un enorme generador de turbinas está funcionando a alta velocidad, convirtiendo la energía hídrica del río Yangtze en electricidad limpia y abasteciéndola a todo el país."
+      },
+      {
+        "from": "assistant",
+        "value": "En la planta de energía de la ##presa de las Tres Gargantas##, un enorme generador de turbinas está funcionando a alta velocidad, convirtiendo la energía hídrica del ##río Yangtze## en electricidad limpia y abasteciéndola a todo el país."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La aplicación de cerraduras de puerta inteligentes mejora la seguridad del hogar. A través del reconocimiento de huellas dactilares, la contraseña o la aplicación del teléfono móvil y otras formas, no solo facilita la entrada y salida de los miembros de la familia, sino que también mejora la función antirrobo."
+      },
+      {
+        "from": "assistant",
+        "value": "La aplicación de ##cerraduras de puerta inteligentes## mejora la seguridad del hogar. A través del ##reconocimiento de huellas dactilares##, la contraseña o la ##aplicación del teléfono móvil## y otras formas, no solo facilita la entrada y salida de los miembros de la familia, sino que también mejora la función antirrobo."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Municipio de Delaware ( condado de Ripley , Indiana ) REDIRECCIÓN Budapest Honvéd Football Club"
+      },
+      {
+        "from": "assistant",
+        "value": "##Municipio de Delaware## ( ##condado de Ripley## , ##Indiana## ) REDIRECCIÓN ##Budapest Honvéd Football Club##"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Una supernova es un evento astronómico que ocurre cuando una estrella masiva explota, liberando una enorme cantidad de energía."
+      },
+      {
+        "from": "assistant",
+        "value": "Una ##supernova## es un evento astronómico que ocurre cuando una estrella masiva explota, liberando una enorme cantidad de energía."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El Padrino, dirigida por Francis Ford Coppola, es ampliamente considerada como una de las mejores películas criminales de la historia del cine."
+      },
+      {
+        "from": "assistant",
+        "value": "##El Padrino##, dirigida por ##Francis Ford Coppola##, es ampliamente considerada como una de las mejores películas criminales de la historia del cine."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El personal de la estación de autobuses acuáticos ayuda a los pasajeros con movilidad limitada a bordo de forma segura, haciendo que este medio de transporte urbano único sirva a más ciudadanos."
+      },
+      {
+        "from": "assistant",
+        "value": "El personal de la ##estación de autobuses acuáticos## ayuda a los pasajeros con movilidad limitada a bordo de forma segura, haciendo que este medio de transporte urbano único sirva a más ciudadanos."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "The sailboat glides smoothly across the lake, relying solely on wind power to navigate through the calm waters."
+      },
+      {
+        "from": "assistant",
+        "value": "The ##sailboat## glides smoothly across the ##lake##, relying solely on wind power to navigate through the calm waters."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El origami, el arte japonés del plegado de papel, transforma hojas simples en formas intrincadas como grullas, flores y animales."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##origami##, el arte japonés del plegado de papel, transforma hojas simples en formas intrincadas como grullas, flores y animales."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Durante una redada, la policía descubrió un taller donde los sospechosos estaban fabricando bombas de tubería, un tipo de explosivos improvisados."
+      },
+      {
+        "from": "assistant",
+        "value": "Durante una redada, la ##policía## descubrió un taller donde los sospechosos estaban fabricando ##bombas de tubería##, un tipo de explosivos improvisados."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La bloguera de moda le mostró varias formas de usar camisetas de gran tamaño en las redes sociales, que son tanto casuales como de moda, lo que provocó una acalorada discusión entre los fanáticos sobre este artículo versátil."
+      },
+      {
+        "from": "assistant",
+        "value": "La ##bloguera de moda## le mostró varias formas de usar ##camisetas de gran tamaño## en las ##redes sociales##, que son tanto casuales como de moda, lo que provocó una acalorada discusión entre los fanáticos sobre este artículo versátil."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La precisión en las métricas de recuperación de información mide la proporción de resultados relevantes devueltos entre todos los resultados generados."
+      },
+      {
+        "from": "assistant",
+        "value": "La ##precisión## en las métricas de ##recuperación de información## mide la proporción de resultados relevantes devueltos entre todos los resultados generados."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La hepatitis C es una enfermedad hepática causada por un virus, que a menudo conduce a daños crónicos en el hígado si no se trata."
+      },
+      {
+        "from": "assistant",
+        "value": "La ##hepatitis C## es una enfermedad hepática causada por un virus, que a menudo conduce a daños crónicos en el hígado si no se trata."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El tsunami del Océano Índico de 2004 causó una devastación generalizada en varios países, lo que provocó una crisis humanitaria masiva."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##tsunami del ##Océano Índico#### de 2004 causó una devastación generalizada en varios países, lo que provocó una crisis humanitaria masiva."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La ópera combina música orquestal con cantos dramáticos para contar historias épicas, como se ve en La Traviata de Giuseppe Verdi."
+      },
+      {
+        "from": "assistant",
+        "value": "La ##ópera## combina música orquestal con cantos dramáticos para contar historias épicas, como se ve en ##La Traviata## de ##Giuseppe Verdi##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El ácido sulfúrico (H2SO4) es un compuesto altamente corrosivo ampliamente utilizado en procesos industriales, como la producción y refinación de fertilizantes."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##ácido sulfúrico## (##H2SO4##) es un compuesto altamente corrosivo ampliamente utilizado en procesos industriales, como la producción y refinación de fertilizantes."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Cristo de la Concordia Es pelirroja y fuerte , lo que hace pensar en La Goulue en una actuación en público ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Cristo de la Concordia## Es pelirroja y fuerte , lo que hace pensar en ##La Goulue## en una actuación en público ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La bicicleta de montaña está diseñada para terrenos accidentados, con neumáticos gruesos y sistemas de suspensión para manejar senderos rocosos y colinas empinadas."
+      },
+      {
+        "from": "assistant",
+        "value": "La ##bicicleta de montaña## está diseñada para terrenos accidentados, con neumáticos gruesos y sistemas de suspensión para manejar senderos rocosos y colinas empinadas."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El Premio Nebula es presentado anualmente por los Escritores de Ciencia Ficción y Fantasía de América para las mejores obras del género."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##Premio Nebula## es presentado anualmente por los ##Escritores de Ciencia Ficción y Fantasía de América## para las mejores obras del género."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Islas de Guinea Ecuatorial El papel principal fue interpretado por `` Ciccio '' Cardona y Fabio Capello ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Islas de Guinea Ecuatorial## El papel principal fue interpretado por `` Ciccio '' Cardona y ##Fabio Capello## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Día después , Nangka se movió sobre el Mar de la China Meridional empezando a deteriorarse aún más ."
+      },
+      {
+        "from": "assistant",
+        "value": "Día después , ##Nangka## se movió sobre el ##Mar de la China Meridional## empezando a deteriorarse aún más ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Bohemian Rhapsody de Queen sigue siendo una de las canciones de rock más emblemáticas, mezclando ópera y rock de una manera sin precedentes."
+      },
+      {
+        "from": "assistant",
+        "value": "##Bohemian Rhapsody## de ##Queen## sigue siendo una de las canciones de rock más emblemáticas, mezclando ópera y rock de una manera sin precedentes."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Los ecologistas andan en bicicleta por calles concurridas, lo que no solo reduce las emisiones de carbono, sino que también contribuye a su propia salud y al desarrollo sostenible de la ciudad."
+      },
+      {
+        "from": "assistant",
+        "value": "Los ##ecologistas## andan en ##bicicleta## por calles concurridas, lo que no solo reduce las emisiones de carbono, sino que también contribuye a su propia salud y al desarrollo sostenible de la ##ciudad##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "UFC Live : Cruz vs. Johnson como Raiden le dieran muerte , pero únicamente vio como todos a su alrededor morían ."
+      },
+      {
+        "from": "assistant",
+        "value": "##UFC Live## : ##Cruz## vs. ##Johnson## como ##Raiden## le dieran muerte , pero únicamente vio como todos a su alrededor morían ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El rock and roll, popularizado por Elvis Presley, trajo ritmos enérgicos y actitudes rebeldes a la vanguardia de la música popular."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##rock and roll##, popularizado por ##Elvis Presley##, trajo ritmos enérgicos y actitudes rebeldes a la vanguardia de la música popular."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Muchas empresas utilizan Microsoft Teams como su software principal para reuniones virtuales y colaboración."
+      },
+      {
+        "from": "assistant",
+        "value": "Muchas empresas utilizan ##Microsoft Teams## como su software principal para reuniones virtuales y colaboración."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "En el restaurante del puesto de Nanjing, los comensales están degustando especialidades de Jinling como pato salado y sopa de fideos de sangre de pato, sintiendo el olor de los fuegos artificiales de Nanjing."
+      },
+      {
+        "from": "assistant",
+        "value": "En el ##restaurante del puesto## de ##Nanjing##, los comensales están degustando especialidades de ##Jinling## como pato salado y sopa de fideos de sangre de pato, sintiendo el olor de los fuegos artificiales de ##Nanjing##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Provincia de Taiwán ( República Popular China ) REDIRECCIÓN Iglesia católica bizantina en Italia"
+      },
+      {
+        "from": "assistant",
+        "value": "##Provincia de Taiwán## ( ##República Popular China## ) REDIRECCIÓN ##Iglesia católica bizantina en Italia##"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Minecraft, conocido por su mecánica de construcción de bloques, permite a los jugadores crear y explorar un sinfín de paisajes y estructuras virtuales."
+      },
+      {
+        "from": "assistant",
+        "value": "##Minecraft##, conocido por su mecánica de construcción de bloques, permite a los jugadores crear y explorar un sinfín de paisajes y estructuras virtuales."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Plaza Sésamo, un programa infantil muy querido, ha educado a generaciones con su entretenida mezcla de marionetas, música y lecciones de vida."
+      },
+      {
+        "from": "assistant",
+        "value": "##Plaza Sésamo##, un programa infantil muy querido, ha educado a generaciones con su entretenida mezcla de marionetas, música y lecciones de vida."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Los bávaros ven mal comer la ''Weißwurst '' con piel , los entendidos siempre dejan la piel en el plato ."
+      },
+      {
+        "from": "assistant",
+        "value": "Los bávaros ven mal comer la ''##Weißwurst## '' con piel , los entendidos siempre dejan la piel en el plato ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Una molécula es una entidad química compuesta por dos o más átomos unidos, como una molécula de agua (H2O)."
+      },
+      {
+        "from": "assistant",
+        "value": "Una ##molécula## es una entidad química compuesta por dos o más átomos unidos, como una ##molécula## de ##agua## (##H2O##)."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La organización de ayuda islámica proporciona ayuda humanitaria en línea con las enseñanzas islámicas en varios países."
+      },
+      {
+        "from": "assistant",
+        "value": "La ##organización de ayuda islámica## proporciona ayuda humanitaria en línea con las enseñanzas islámicas en varios países."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Municipio de Jefferson ( condado de Montgomery , Ohio ) REDIRECCIÓN Instituto Nacional de Estadística y Geografía"
+      },
+      {
+        "from": "assistant",
+        "value": "##Municipio de Jefferson## ( ##condado de Montgomery## , ##Ohio## ) REDIRECCIÓN ##Instituto Nacional de Estadística y Geografía##"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Siempre guardan un frasco de mantequilla de maní en la despensa para sándwiches fáciles."
+      },
+      {
+        "from": "assistant",
+        "value": "Siempre guardan un frasco de ##mantequilla de maní## en la despensa para sándwiches fáciles."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Protectorado español de Marruecos REDIRECCIÓN Área de conservación Cordillera Volcánica Central"
+      },
+      {
+        "from": "assistant",
+        "value": "##Protectorado español de Marruecos## REDIRECCIÓN ##Área de conservación Cordillera Volcánica Central##"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La erupción es un síntoma cutáneo que puede indicar una reacción alérgica, infección o trastorno autoinmune, que varía en apariencia."
+      },
+      {
+        "from": "assistant",
+        "value": "La ##erupción## es un síntoma cutáneo que puede indicar una ##reacción alérgica##, ##infección## o ##trastorno autoinmune##, que varía en apariencia."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Dick Edgar Ibarra Grasso La idea fue financiada inicialmente por la Fundación Nacional para la Ciencia y llevada primero a Microsoft ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Dick Edgar Ibarra Grasso## La idea fue financiada inicialmente por la ##Fundación Nacional para la Ciencia## y llevada primero a ##Microsoft## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "En el centro comercial de Shanghai Xintiandi, los amantes de la moda están navegando por la última serie de las principales marcas de lujo y disfrutando de una experiencia de compra de alta gama."
+      },
+      {
+        "from": "assistant",
+        "value": "En el centro comercial de ####Shanghai## Xintiandi##, los amantes de la moda están navegando por la última serie de las principales marcas de lujo y disfrutando de una experiencia de compra de alta gama."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "En Argentina , Colombia , España , Uruguay y Venezuela se suele llamar «Piedra , papel o tijera» ."
+      },
+      {
+        "from": "assistant",
+        "value": "En ##Argentina## , ##Colombia## , ##España## , ##Uruguay## y ##Venezuela## se suele llamar «##Piedra , papel o tijera##» ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La imprenta se especializa en servicios de impresión de alta calidad, proporcionando diseños personalizados, folletos, tarjetas de visita y pancartas para individuos y empresas."
+      },
+      {
+        "from": "assistant",
+        "value": "La ##imprenta## se especializa en servicios de impresión de alta calidad, proporcionando diseños personalizados, folletos, tarjetas de visita y pancartas para individuos y empresas."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El lanzamiento de Coca-Cola en 1886 marcó el comienzo de una de las marcas más reconocidas del mundo."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##lanzamiento de Coca-Cola## en 1886 marcó el comienzo de una de las marcas más reconocidas del mundo."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Hermione Granger, una de las mejores amigas de Harry Potter, sobresalió en sus estudios en Hogwarts y jugó un papel crucial en la lucha contra las fuerzas oscuras."
+      },
+      {
+        "from": "assistant",
+        "value": "##Hermione Granger##, una de las mejores amigas de ##Harry Potter##, sobresalió en sus estudios en ##Hogwarts## y jugó un papel crucial en la lucha contra las fuerzas oscuras."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Jane Eyre de Charlotte Brontë cuenta la historia de una niña huérfana que crece para encontrar el amor y la independencia."
+      },
+      {
+        "from": "assistant",
+        "value": "##Jane Eyre## de ##Charlotte Brontë## cuenta la historia de una niña huérfana que crece para encontrar el amor y la independencia."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Macbeth, otra obra de Shakespeare, profundiza en la ambición, el poder y las consecuencias del deseo incontronado."
+      },
+      {
+        "from": "assistant",
+        "value": "##Macbeth##, otra obra de ##Shakespeare##, profundiza en la ambición, el poder y las consecuencias del deseo incontronado."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "En ultravioleta de Paul Pairet, un restaurante Michelin de tres estrellas en el Bund de Shanghai, los huéspedes están experimentando una cena multisensorial que combina comida, proyección y música."
+      },
+      {
+        "from": "assistant",
+        "value": "En ultravioleta de ##Paul Pairet##, un restaurante Michelin de tres estrellas en el ##Bund## de ##Shanghai##, los huéspedes están experimentando una cena multisensorial que combina comida, proyección y música."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "En el Parque Juzizhoutou en Changsha, los turistas se paran frente a la joven estatua de Mao Zedong y miran hacia atrás en la historia del gran hombre cuando era joven."
+      },
+      {
+        "from": "assistant",
+        "value": "En el ##Parque Juzizhoutou## en ##Changsha##, los turistas se paran frente a la joven estatua de ##Mao Zedong## y miran hacia atrás en la historia del gran hombre cuando era joven."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El puente del Aeropuerto Internacional Lukou de Nanjing está acoplando con un vuelo internacional que acaba de aterrizar, y los auxiliares de vuelo están haciendo los preparativos finales para los pasajeros."
+      },
+      {
+        "from": "assistant",
+        "value": "El puente del ##Aeropuerto Internacional Lukou## de ##Nanjing## está acoplando con un vuelo internacional que acaba de aterrizar, y los auxiliares de vuelo están haciendo los preparativos finales para los pasajeros."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Los incendios forestales australianos de 2019-2020 devastaron vastas áreas de tierra, afectando a la vida silvestre y las comunidades."
+      },
+      {
+        "from": "assistant",
+        "value": "Los ##incendios forestales australianos## de 2019-2020 devastaron vastas áreas de tierra, afectando a la vida silvestre y las comunidades."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Los amantes de la guitarra se sientan en la playa, tocando y cantando canciones populares. El tono nítido de la guitarra acústica está perfectamente integrado con el sonido de las olas, creando un ambiente relajado y agradable."
+      },
+      {
+        "from": "assistant",
+        "value": "Los ##amantes de la guitarra## se sientan en la ##playa##, tocando y cantando ##canciones populares##. El tono nítido de la ##guitarra acústica## está perfectamente integrado con el sonido de las olas, creando un ambiente relajado y agradable."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Nirvana ( álbum ) Tiene los ingredientes que más tarde desarrollará en su obra más exitosa , Aa ! Megami-sama '' ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Nirvana## ( álbum ) Tiene los ingredientes que más tarde desarrollará en su obra más exitosa , ##Aa ! Megami-sama## '' ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Municipio de Garfield ( condado de Decatur , Kansas ) REDIRECCIÓN Juan Pablo Escobar Martínez"
+      },
+      {
+        "from": "assistant",
+        "value": "##Municipio de Garfield## ( ##condado de Decatur## , ##Kansas## ) REDIRECCIÓN ##Juan Pablo Escobar Martínez##"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Esta reputación trajo a su negocio bandas entre las que se incluye a Grateful Dead , Big Brother and the Holding Company , y Carlos Santana ."
+      },
+      {
+        "from": "assistant",
+        "value": "Esta reputación trajo a su negocio bandas entre las que se incluye a ##Grateful Dead## , ##Big Brother and the Holding Company## , y ##Carlos Santana## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Se encontró una daga afilada escondida dentro del abrigo del criminal."
+      },
+      {
+        "from": "assistant",
+        "value": "Se encontró una ##daga## afilada escondida dentro del abrigo del criminal."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La tecnología biométrica, incluyendo el reconocimiento de huellas dactilares y facial, mejora la seguridad de los dispositivos electrónicos y los sistemas de control de acceso."
+      },
+      {
+        "from": "assistant",
+        "value": "La ##tecnología biométrica##, incluyendo el ##reconocimiento de huellas dactilares## y facial, mejora la seguridad de los dispositivos electrónicos y los sistemas de control de acceso."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Condado de Delaware ( Indiana ) Habita en Camerún , Gabón , Nigeria , posiblemente República del Congo y posiblemente Guinea Ecuatorial ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Condado de Delaware## ( ##Indiana## ) Habita en ##Camerún## , ##Gabón## , ##Nigeria## , posiblemente ##República del Congo## y posiblemente ##Guinea Ecuatorial## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El impacto del Brexit en los mercados financieros de Londres afectó significativamente el comercio y la inversión mundiales."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##impacto del Brexit## en los mercados financieros de ##Londres## afectó significativamente el comercio y la inversión mundiales."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Los vecinos los capturaron , desarmaron y entregaron a la Policía Técnica Judicial , incautándoseles dos armas ."
+      },
+      {
+        "from": "assistant",
+        "value": "Los vecinos los capturaron , desarmaron y entregaron a la ##Policía Técnica Judicial## , incautándoseles dos armas ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Carlos Flores Córdova Ha sido profesor visitante en la Universidad Hebrea de Jerusalén y en la Universidad de Princeton ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Carlos Flores Córdova## Ha sido profesor visitante en la ##Universidad Hebrea de Jerusalén## y en la ##Universidad de Princeton## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Organización territorial de Canadá Se celebraba irregularmente , y fue restablecida por Domiciano en el año 86 cada cuatro años ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Organización territorial de Canadá## Se celebraba irregularmente , y fue restablecida por ##Domiciano## en el año 86 cada cuatro años ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La química es la disciplina que examina la composición, la estructura y las propiedades de las sustancias y cómo interactúan."
+      },
+      {
+        "from": "assistant",
+        "value": "La ##química## es la disciplina que examina la composición, la estructura y las propiedades de las sustancias y cómo interactúan."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Los entusiastas del ciclismo de montaña desafían las empinadas carreteras de montaña, las ruedas corren por los caminos embarrados, disfrutan de la combinación perfecta de velocidad y naturaleza, y experimentan la sensación de logro de superar dificultades."
+      },
+      {
+        "from": "assistant",
+        "value": "Los ##entusiastas del ciclismo de montaña## desafían las empinadas ##carreteras de montaña##, las ruedas corren por los ##caminos embarrados##, disfrutan de la combinación perfecta de velocidad y naturaleza, y experimentan la sensación de logro de superar dificultades."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La hipótesis del mundo del ARN propone que las primeras formas de vida dependían del ARN para la información genética y las funciones catalíticas."
+      },
+      {
+        "from": "assistant",
+        "value": "La ##hipótesis del mundo del ##ARN#### propone que las primeras formas de vida dependían del ##ARN## para la información genética y las funciones catalíticas."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Las fuerzas militares a menudo utilizan explosivos C-4 en operaciones de demolición debido a su alta eficacia y flexibilidad."
+      },
+      {
+        "from": "assistant",
+        "value": "Las ##fuerzas militares## a menudo utilizan ##explosivos C-4## en operaciones de demolición debido a su alta eficacia y flexibilidad."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Cadalso de los Vidrios REDIRECCIÓN Unión de Partidos Comunistas - Partido Comunista de la Unión Soviética"
+      },
+      {
+        "from": "assistant",
+        "value": "##Cadalso de los Vidrios## REDIRECCIÓN ##Unión de Partidos Comunistas - Partido Comunista de la Unión Soviética##"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Blas de Sebaste 200 - ДВIСТI ГРИВЕНЬ - Lesya Ukrainka - УКРАÏНА - НАЦİОНАΛЬНИЙ БАНК УКРАÏНИ"
+      },
+      {
+        "from": "assistant",
+        "value": "##Blas de Sebaste## 200 - ДВIСТI ГРИВЕНЬ - ##Lesya Ukrainka## - ##УКРАÏНА## - ##НАЦİОНАΛЬНИЙ БАНК УКРАÏНИ##"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "En la mina de hierro de Benxi, provincia de Liaoning, los expertos en restauración ecológica están trabajando en la restauración de la vegetación y se esfuerzan por equilibrar la relación entre el desarrollo y la protección del medio ambiente."
+      },
+      {
+        "from": "assistant",
+        "value": "En la mina de hierro de ##Benxi##, provincia de ##Liaoning##, los expertos en restauración ecológica están trabajando en la restauración de la vegetación y se esfuerzan por equilibrar la relación entre el desarrollo y la protección del medio ambiente."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El beso de Gustav Klimt muestra la belleza del amor y la intimidad, destacada por su característico uso de pan de oro."
+      },
+      {
+        "from": "assistant",
+        "value": "##El beso## de ##Gustav Klimt## muestra la belleza del amor y la intimidad, destacada por su característico uso de pan de oro."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Liga de Béisbol Profesional Nacional REDIRECCIÓN Calle Houston ( línea de la Séptima Avenida–Broadway )"
+      },
+      {
+        "from": "assistant",
+        "value": "##Liga de Béisbol Profesional Nacional## REDIRECCIÓN ##Calle Houston## ( ##línea de la Séptima Avenida–Broadway## )"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La tecnología de conducción autónoma de Tesla está impulsada por algoritmos avanzados de IA que permiten al automóvil navegar por las carreteras de forma autónoma."
+      },
+      {
+        "from": "assistant",
+        "value": "La tecnología de ##conducción autónoma## de ##Tesla## está impulsada por algoritmos avanzados de ##IA## que permiten al automóvil navegar por las carreteras de forma autónoma."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Nuevas Generaciones del Partido Popular Tras esta mala campaña , fue despedido y reemplazado por Walter Mazzarri ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Nuevas Generaciones del Partido Popular## Tras esta mala campaña , fue despedido y reemplazado por ##Walter Mazzarri## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Una estructura de datos organiza los datos de manera eficiente, como matrices, listas vinculadas, pilas y colas, para optimizar el procesamiento."
+      },
+      {
+        "from": "assistant",
+        "value": "Una ##estructura de datos## organiza los datos de manera eficiente, como ##matrices##, ##listas vinculadas##, ##pilas## y ##colas##, para optimizar el procesamiento."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Las vidrieras, que se ven comúnmente en las catedrales góticas, representan historias bíblicas con colores vibrantes y diseños intrincados."
+      },
+      {
+        "from": "assistant",
+        "value": "Las ##vidrieras##, que se ven comúnmente en las ##catedrales góticas##, representan historias bíblicas con colores vibrantes y diseños intrincados."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El horno microondas calienta los alimentos rápidamente usando ondas electromagnéticas."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##horno microondas## calienta los alimentos rápidamente usando ##ondas electromagnéticas##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Al conectar al Palacio del Congreso con la Casa de Gobierno , las manifestaciones políticas y marchas se concentraron sobre todo en ella ."
+      },
+      {
+        "from": "assistant",
+        "value": "Al conectar al ##Palacio del Congreso## con la ##Casa de Gobierno## , las manifestaciones políticas y marchas se concentraron sobre todo en ella ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La liberación accidental de bacterias de la tularemia de un laboratorio destacó los peligros de manipular posibles agentes biológicos de armas."
+      },
+      {
+        "from": "assistant",
+        "value": "La liberación accidental de ##bacterias de la tularemia## de un ##laboratorio## destacó los peligros de manipular posibles agentes biológicos de armas."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Además , Inicia su etapa clasificatoria para la Copa Mundial de Fútbol de 2014 , en Brasil ."
+      },
+      {
+        "from": "assistant",
+        "value": "Además , Inicia su etapa clasificatoria para la ##Copa Mundial de Fútbol de 2014## , en ##Brasil## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "En el área de villas de lujo junto al lago del oeste en Hangzhou, los propietarios están celebrando una fiesta de barbacoa de fin de semana en su jardín privado y disfrutando de una vida tranquila."
+      },
+      {
+        "from": "assistant",
+        "value": "En el ##área de villas de lujo## junto al ##lago del oeste## en ##Hangzhou##, los propietarios están celebrando una fiesta de barbacoa de fin de semana en su jardín privado y disfrutando de una vida tranquila."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Distrito Escolar Independiente de Carrollton-Farmers Branch REDIRECCIÓN Superliga de baloncesto de Ucrania"
+      },
+      {
+        "from": "assistant",
+        "value": "##Distrito Escolar Independiente de Carrollton-Farmers Branch## REDIRECCIÓN ##Superliga de baloncesto de Ucrania##"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Futuro y Libertad para Italia Por su parte la DOS-8 se transformó primero en lo que fue el proyecto Mir-2 ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Futuro y Libertad para Italia## Por su parte la ##DOS-8## se transformó primero en lo que fue el proyecto ##Mir-2## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Las agencias de alquiler de coches permiten a los viajeros alquilar vehículos para uso a corto plazo, proporcionando soluciones convenientes a las necesidades de transporte durante las vacaciones o los viajes de negocios."
+      },
+      {
+        "from": "assistant",
+        "value": "Las ##agencias de alquiler de coches## permiten a los viajeros alquilar vehículos para uso a corto plazo, proporcionando soluciones convenientes a las necesidades de transporte durante las vacaciones o los viajes de negocios."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El ejército entrenó a sus soldados para reconocer los signos de exposición a agentes nerviosos."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##ejército## entrenó a sus ##soldados## para reconocer los signos de exposición a ##agentes nerviosos##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "En el Teatro Poly de Shenzhen, se está escenenando una obra moderna sobre temas sociales, que ha desencadenado el profundo pensamiento y la discusión de la audiencia."
+      },
+      {
+        "from": "assistant",
+        "value": "En el ##Teatro Poly## de ##Shenzhen##, se está escenenando una obra moderna sobre temas sociales, que ha desencadenado el profundo pensamiento y la discusión de la audiencia."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Elon Musk, el CEO de Tesla y SpaceX, anunció un plan innovador para revolucionar el mercado mundial de vehículos eléctricos."
+      },
+      {
+        "from": "assistant",
+        "value": "##Elon Musk##, el CEO de ##Tesla## y ##SpaceX##, anunció un plan innovador para revolucionar el mercado mundial de vehículos eléctricos."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La popularidad de los vehículos eléctricos está cambiando el patrón de la industria del automóvil, que no solo reduce las emisiones de carbono, sino que también promueve el desarrollo de nuevas tecnologías energéticas y la construcción de infraestructura de carga."
+      },
+      {
+        "from": "assistant",
+        "value": "La popularidad de los ##vehículos eléctricos## está cambiando el patrón de la ##industria del automóvil##, que no solo reduce las emisiones de carbono, sino que también promueve el desarrollo de nuevas ##tecnologías energéticas## y la construcción de ##infraestructura de carga##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La ficción distópica, como en Los juegos del hambre, representa sociedades opresivas y explora temas de poder, control y rebelión."
+      },
+      {
+        "from": "assistant",
+        "value": "La ##ficción distópica##, como en ##Los juegos del hambre##, representa sociedades opresivas y explora temas de poder, control y rebelión."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Cantón de San Galo Una vez allí , el vocalista Chris Martin dijo que se obsesionaron con la grabación ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Cantón de San Galo## Una vez allí , el vocalista ##Chris Martin## dijo que se obsesionaron con la grabación ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "En el campo de tiro, a los participantes se les enseña cómo cargar y descargar correctamente un arma."
+      },
+      {
+        "from": "assistant",
+        "value": "En el ##campo de tiro##, a los participantes se les enseña cómo cargar y descargar correctamente un ##arma##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "No hay relación probada con otros idiomas , tampoco incluso con las familias lingüísticas del norte del Cáucaso ."
+      },
+      {
+        "from": "assistant",
+        "value": "No hay relación probada con otros idiomas , tampoco incluso con las familias lingüísticas del norte del ##Cáucaso## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Oda a un ruiseñal de John Keats captura la belleza fugaz de la vida y el deseo de escapar a la naturaleza."
+      },
+      {
+        "from": "assistant",
+        "value": "##Oda a un ruiseñal## de ##John Keats## captura la belleza fugaz de la vida y el deseo de escapar a la naturaleza."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Una máquina de rayos X es un dispositivo de imagen que ayuda a diagnosticar fracturas, infecciones y otras afecciones internas al capturar imágenes de huesos."
+      },
+      {
+        "from": "assistant",
+        "value": "Una ##máquina de rayos X## es un dispositivo de imagen que ayuda a diagnosticar fracturas, infecciones y otras afecciones internas al capturar imágenes de huesos."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Vishnu es una importante deidad hindú conocida como la conservadora del universo."
+      },
+      {
+        "from": "assistant",
+        "value": "##Vishnu## es una importante deidad hindú conocida como la conservadora del universo."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Pero la Crisis de 1930 afectó seriamente a su trabajo y a su empresa , que no pudo sostener y debió cerrar ."
+      },
+      {
+        "from": "assistant",
+        "value": "Pero la ##Crisis de 1930## afectó seriamente a su trabajo y a su empresa , que no pudo sostener y debió cerrar ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El episodio fue escrito por Al Jean , Mike Reiss , Jay Kogen , Wallace Wolodarsky , Sam Simon y Jon Vitti , y dirigido por Carlos Baeza ."
+      },
+      {
+        "from": "assistant",
+        "value": "El episodio fue escrito por ##Al Jean## , ##Mike Reiss## , ##Jay Kogen## , ##Wallace Wolodarsky## , ##Sam Simon## y ##Jon Vitti## , y dirigido por ##Carlos Baeza## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Un coloide es una mezcla en la que una sustancia se dispersa dentro de otra, como la leche, que contiene gotas de grasa suspendidas en agua."
+      },
+      {
+        "from": "assistant",
+        "value": "Un ##coloide## es una mezcla en la que una sustancia se dispersa dentro de otra, como la ##leche##, que contiene gotas de grasa suspendidas en ##agua##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Anteriormente se sabía que ese problema estaba en NP , si bien no en NP-completo , ahora se sabe que también está en P ."
+      },
+      {
+        "from": "assistant",
+        "value": "Anteriormente se sabía que ese problema estaba en ##N##P#### , si bien no en ####N##P####-completo## , ahora se sabe que también está en ##P## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La lavandería está equipada con lavadoras y secadoras, y los clientes pueden lavar y secar su ropa mientras esperan en la cómoda área de descanso."
+      },
+      {
+        "from": "assistant",
+        "value": "La ##lavandería## está equipada con lavadoras y secadoras, y los clientes pueden lavar y secar su ropa mientras esperan en la cómoda área de descanso."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Prometeo, que desafió a Zeus, robó fuego del Monte Olimpo y se lo dio a la humanidad, otorgándoles el conocimiento para sobrevivir y prosperar."
+      },
+      {
+        "from": "assistant",
+        "value": "##Prometeo##, que desafió a ##Zeus##, robó fuego del ##Monte Olimpo## y se lo dio a la humanidad, otorgándoles el conocimiento para sobrevivir y prosperar."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Municipio de Sibley ( condado de Sibley , Minnesota ) REDIRECCIÓN Las extraordinarias aventuras de Adèle Blanc-Sec"
+      },
+      {
+        "from": "assistant",
+        "value": "##Municipio de Sibley## ( ##condado de Sibley## , ##Minnesota## ) REDIRECCIÓN ##Las extraordinarias aventuras de Adèle Blanc-Sec##"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Júpiter era el dios supremo en la mitología romana, equivalente a Zeus."
+      },
+      {
+        "from": "assistant",
+        "value": "##Júpiter## era el dios supremo en la ##mitología romana##, equivalente a ##Zeus##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "En la base minera de mineral de hierro en Chengde, provincia de Hebei, los ingenieros están depurando el equipo de producción inteligente recién instalado para mejorar la eficiencia y la seguridad de la producción."
+      },
+      {
+        "from": "assistant",
+        "value": "En la ##base minera de mineral de hierro## en ##Chengde##, provincia de ##Hebei##, los ingenieros están depurando el equipo de producción inteligente recién instalado para mejorar la eficiencia y la seguridad de la producción."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El texto original del Antiguo Testamento está escrito en hebreo y arameo, que es la primera parte de la Biblia cristiana."
+      },
+      {
+        "from": "assistant",
+        "value": "El texto original del ##Antiguo Testamento## está escrito en ##hebreo## y ##arameo##, que es la primera parte de la ##Biblia cristiana##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Los trabajadores de carga ferroviaria están ocupados cargando y descargando mercancías en la plataforma de carga para garantizar que todo tipo de mercancías puedan ser entregadas a tiempo en todo el país a través de la red ferroviaria."
+      },
+      {
+        "from": "assistant",
+        "value": "Los ##trabajadores de carga ferroviaria## están ocupados cargando y descargando mercancías en la ##plataforma de carga## para garantizar que todo tipo de mercancías puedan ser entregadas a tiempo en todo el país a través de la ##red ferroviaria##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "The speedboat races through the waves, ideal for water sports enthusiasts who enjoy activities like wakeboarding, tubing, and water skiing."
+      },
+      {
+        "from": "assistant",
+        "value": "The ##speedboat## races through the waves, ideal for water sports enthusiasts who enjoy activities like wakeboarding, tubing, and water skiing."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El baile sobre hielo, una forma de patinaje artístico, combina atletismo y arte mientras las parejas realizan rutinas coreografiadas sobre hielo."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##baile sobre hielo##, una forma de ##patinaje artístico##, combina atletismo y arte mientras las parejas realizan rutinas coreografiadas sobre hielo."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Asociación del Fútbol Argentino Su sede oficial es el Konzerthaus Berlin '' , diseñada por el arquitecto Karl Friedrich Schinkel ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Asociación del Fútbol Argentino## Su sede oficial es el ##Konzerthaus Berlin## '' , diseñada por el arquitecto ##Karl Friedrich Schinkel## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Liberdade ( distrito de São Paulo ) Realizó un papel en la serie `` Blue Water High '' como 'Bec ' ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Liberdade## ( distrito de ##São Paulo## ) Realizó un papel en la serie `` ##Blue Water High## '' como 'Bec ' ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La inercia es la resistencia de un objeto a los cambios en su estado de movimiento, un concepto clave en la primera ley del movimiento de Newton."
+      },
+      {
+        "from": "assistant",
+        "value": "La ##inercia## es la resistencia de un objeto a los cambios en su estado de movimiento, un concepto clave en la ##primera ley del movimiento de Newton##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Copa Mundial de Fútbol de 2002 El SI estaba respaldado por partidos como el Partido Popular Social Cristiano ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Copa Mundial de Fútbol de 2002## El ##SI## estaba respaldado por partidos como el ##Partido Popular Social Cristiano## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La reciente prueba de Corea del Norte de un arma nuclear ha suscitado preocupaciones mundiales sobre la proliferación de tal tecnología destructiva."
+      },
+      {
+        "from": "assistant",
+        "value": "La reciente prueba de ##Corea del Norte## de un ##arma nuclear## ha suscitado preocupaciones mundiales sobre la proliferación de tal tecnología destructiva."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Selección femenina de rugby de Nueva Zelanda REDIRECCIÓN Unión Cristiana y Demócrata-Partido Popular Checoslovaco"
+      },
+      {
+        "from": "assistant",
+        "value": "##Selección femenina de rugby de Nueva Zelanda## REDIRECCIÓN ##Unión Cristiana y Demócrata-Partido Popular Checoslovaco##"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La Copa Stanley se otorga anualmente al equipo de la NHL que gana el campeonato de playoffs en hockey sobre hielo."
+      },
+      {
+        "from": "assistant",
+        "value": "La ##Copa Stanley## se otorga anualmente al equipo de la ##NHL## que gana el campeonato de playoffs en ##hockey sobre hielo##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La invasión de Normandía (Día D) en 1944 marcó un punto de inflexión en la Segunda Guerra Mundial cuando las fuerzas aliadas desembarcaron en la Francia ocupada por los nazis."
+      },
+      {
+        "from": "assistant",
+        "value": "La invasión de ##Normandía## (##Día D##) en 1944 marcó un punto de inflexión en la ##Segunda Guerra Mundial## cuando las fuerzas aliadas desembarcaron en la ##Francia## ocupada por los nazis."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Alianza por el Gran Cambio REDIRECCIÓN Campaña Internacional para la Prohibición de las Minas Antipersona"
+      },
+      {
+        "from": "assistant",
+        "value": "##Alianza por el Gran Cambio## REDIRECCIÓN ##Campaña Internacional para la Prohibición de las Minas Antipersona##"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Las gasolineras no solo proporcionan combustible para los vehículos, sino que también tienen una tienda de conveniencia donde los clientes pueden comprar bocadillos, bebidas y suministros para automóviles."
+      },
+      {
+        "from": "assistant",
+        "value": "Las ##gasolineras## no solo proporcionan combustible para los vehículos, sino que también tienen una tienda de conveniencia donde los clientes pueden comprar bocadillos, bebidas y suministros para automóviles."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "XII Distrito de París ' '' ''Argentina latente '' ' '' es una película documental dirigida por Pino Solanas ."
+      },
+      {
+        "from": "assistant",
+        "value": "##XII Distrito de París## ' '' ''##Argentina latente## '' ' '' es una película documental dirigida por ##Pino Solanas## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Un núcleo es el núcleo central de un átomo, que contiene protones y neutrones, representando la mayor parte de su masa."
+      },
+      {
+        "from": "assistant",
+        "value": "Un ##núcleo## es el ##núcleo## central de un átomo, que contiene ##protones## y ##neutrones##, representando la mayor parte de su masa."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Canal de Isabel II Se dice que Servio Tulio fue el primero en erigirle templos al ser quien erigió tumbas y estableció el equipamiento necesario para funerales , incluidos los enterradores ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Canal de Isabel II## Se dice que ##Servio Tulio## fue el primero en erigirle templos al ser quien erigió tumbas y estableció el equipamiento necesario para funerales , incluidos los enterradores ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La aspirina (C9H8O4) es un analgésico y un medicamento antiinflamatorio de uso común, lo que demuestra la importancia de los compuestos orgánicos en la medicina."
+      },
+      {
+        "from": "assistant",
+        "value": "La ##aspirina## (##C9H8O4##) es un analgésico y un medicamento antiinflamatorio de uso común, lo que demuestra la importancia de los compuestos orgánicos en la medicina."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Muchas personas sueñan con viajar por todo el continente europeo, explorando países como Francia, Italia y España."
+      },
+      {
+        "from": "assistant",
+        "value": "Muchas personas sueñan con viajar por todo el ##continente europeo##, explorando países como ##Francia##, ##Italia## y ##España##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "En la fábrica de chips Intel en Dalian, provincia de Liaoning, los técnicos están fabricando chips en el taller libre de polvo para garantizar la precisión de cada paso del proceso."
+      },
+      {
+        "from": "assistant",
+        "value": "En la ##fábrica de ##chips## Intel## en ##Dalian##, provincia de ##Liaoning##, los técnicos están fabricando ##chips## en el taller libre de polvo para garantizar la precisión de cada paso del proceso."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El director Peter Brook hizo una película sobre Gurdjíeff usando ''Encuentro con hombres notables '' ( vídeo )"
+      },
+      {
+        "from": "assistant",
+        "value": "El director ##Peter Brook## hizo una película sobre ##Gurdjíeff## usando ''##Encuentro con hombres notables## '' ( vídeo )"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "En ese momento , Cris Morena estaba buscando desesperadamente un financista para su nuevo proyecto , Rebelde Way ."
+      },
+      {
+        "from": "assistant",
+        "value": "En ese momento , ##Cris Morena## estaba buscando desesperadamente un financista para su nuevo proyecto , ##Rebelde Way## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Los diplomáticos militares participan en las negociaciones internacionales de control de armas y se comprometen a reducir los conflictos militares a través de medios diplomáticos y a mantener la paz y la seguridad en el mundo."
+      },
+      {
+        "from": "assistant",
+        "value": "Los ##diplomáticos militares## participan en las negociaciones internacionales de control de armas y se comprometen a reducir los conflictos militares a través de medios diplomáticos y a mantener la paz y la seguridad en el mundo."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "South Ferry–Calle Whitehall ( línea de la Séptima Avenida–Broadway ) Club Atlético Osasuna `` B ''"
+      },
+      {
+        "from": "assistant",
+        "value": "##South Ferry–Calle Whitehall## ( ##línea de la Séptima Avenida–Broadway## ) ##Club Atlético Osasuna `` B ''##"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "I Will Always Love You de Whitney Houston muestra su increíble rango vocal y sigue siendo una balada de amor atemporal."
+      },
+      {
+        "from": "assistant",
+        "value": "##I Will Always Love You## de ##Whitney Houston## muestra su increíble rango vocal y sigue siendo una balada de amor atemporal."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El equipo disputa sus partidos como local en el estadio Avanhard y juega en la Liga Premier de Ucrania ."
+      },
+      {
+        "from": "assistant",
+        "value": "El equipo disputa sus partidos como local en el ##estadio Avanhard## y juega en la ##Liga Premier de Ucrania## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La Reunión Anual de la Sociedad Americana de Oncología Clínica (ASCO) presenta nuevos hallazgos de investigación en el tratamiento del cáncer y la atención al paciente."
+      },
+      {
+        "from": "assistant",
+        "value": "La ##Reunión Anual de la Sociedad Americana de Oncología Clínica## (##ASCO##) presenta nuevos hallazgos de investigación en el tratamiento del ##cáncer## y la atención al paciente."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El arreglo floral, como se ve en ikebana, es un arte que enfatiza la armonía, el equilibrio y la belleza natural de los elementos florales."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##arreglo floral##, como se ve en ##ikebana##, es un arte que enfatiza la armonía, el equilibrio y la belleza natural de los elementos florales."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Una contusión, comúnmente conocida como hematoma, es el resultado de la ruptura de los vasos sanguíneos debajo de la piel debido a un trauma de fuerza contundente."
+      },
+      {
+        "from": "assistant",
+        "value": "Una ##contusión##, comúnmente conocida como ##hematoma##, es el resultado de la ruptura de los vasos sanguíneos debajo de la piel debido a un trauma de fuerza contundente."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El David de bronce de Donatello fue la primera estatua desnuda independiente desde la antigüedad y marcó una nueva era en las técnicas escultóricas."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##David de bronce## de ##Donatello## fue la primera estatua desnuda independiente desde la antigüedad y marcó una nueva era en las técnicas escultóricas."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El escuadrón de bombas descubrió una gran cantidad de TNT escondida dentro de un vehículo cerca de la embajada, lo que indica un ataque planeado con explosivos."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##escuadrón de bombas## descubrió una gran cantidad de ##TNT## escondida dentro de un vehículo cerca de la ##embajada##, lo que indica un ataque planeado con explosivos."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "En la fábrica de zapatos Delta en Xiamen, Fujian, los diseñadores están discutiendo el diseño del producto del nuevo trimestre, tratando de encontrar un equilibrio entre moda y comodidad."
+      },
+      {
+        "from": "assistant",
+        "value": "En la fábrica de zapatos ##Delta## en ##Xiamen##, ##Fujian##, los diseñadores están discutiendo el diseño del producto del nuevo trimestre, tratando de encontrar un equilibrio entre moda y comodidad."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Los países con armas nucleares están obligados a seguir protocolos estrictos para evitar lanzamientos accidentales o no autorizados."
+      },
+      {
+        "from": "assistant",
+        "value": "Los ##países## con ##armas nucleares## están obligados a seguir ##protocolos## estrictos para evitar lanzamientos accidentales o no autorizados."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El modelo biopsicosocial es una teoría médica integral que integra factores biológicos, psicológicos y sociales en la salud y la enfermedad."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##modelo biopsicosocial## es una teoría médica integral que integra factores biológicos, psicológicos y sociales en la salud y la enfermedad."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Una orquesta consiste en varios instrumentos que tocan juntos, creando un sonido rico y armonioso, como se ve en las sinfonías."
+      },
+      {
+        "from": "assistant",
+        "value": "Una ##orquesta## consiste en varios instrumentos que tocan juntos, creando un sonido rico y armonioso, como se ve en las ##sinfonías##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La teoría de la evolución, propuesta por Charles Darwin, sugiere que las especies cambian con el tiempo a través de la selección natural."
+      },
+      {
+        "from": "assistant",
+        "value": "La ##teoría de la evolución##, propuesta por ##Charles Darwin##, sugiere que las especies cambian con el tiempo a través de la ##selección natural##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Servicio de Edificios Históricos de Estados Unidos REDIRECCIÓN Wycombe Wanderers Football Club"
+      },
+      {
+        "from": "assistant",
+        "value": "##Servicio de Edificios Históricos de Estados Unidos## REDIRECCIÓN ##Wycombe Wanderers Football Club##"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El salmón a la parrilla con una guarnición de espárragos es su opción favorita para una cena saludable."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##salmón## a la parrilla con una guarnición de ##espárragos## es su opción favorita para una cena saludable."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El salbutamol es un medicamento broncodilatador utilizado para aliviar los síntomas del asma relajando los músculos de las vías respiratorias."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##salbutamol## es un medicamento broncodilatador utilizado para aliviar los síntomas del ##asma## relajando los músculos de las vías respiratorias."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El retorno de la inversión (ROI) es una métrica financiera utilizada para evaluar la rentabilidad de una inversión en relación con su costo."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##retorno de la inversión## (##ROI##) es una métrica financiera utilizada para evaluar la rentabilidad de una inversión en relación con su costo."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Campos Elíseos ( mitología ) Aun así , tuvo una destacada participación en la derrota ' '' 2-3 '' ' en el Estadio Nemesio Díez , donde consiguió un doblete."
+      },
+      {
+        "from": "assistant",
+        "value": "##Campos Elíseos## ( mitología ) Aun así , tuvo una destacada participación en la derrota ' '' 2-3 '' ' en el ##Estadio Nemesio Díez## , donde consiguió un doblete."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Biblioteca Pública de Fort Worth El Distrito Escolar Unificado de West Contra Costa gestiona escuelas públicas ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Biblioteca Pública de Fort Worth## El ##Distrito Escolar Unificado de West Contra Costa## gestiona escuelas públicas ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Su casa de la infancia en 555 Magnolia Court guarda muchos buenos recuerdos de reuniones familiares."
+      },
+      {
+        "from": "assistant",
+        "value": "Su casa de la infancia en ##555 Magnolia Court## guarda muchos buenos recuerdos de reuniones familiares."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El algoritmo de búsqueda en profundidad (DFS) atraviesa un gráfico explorando lo más lejos posible a lo largo de cada rama antes de retroceder."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##algoritmo de búsqueda en profundidad## (##DFS##) atraviesa un gráfico explorando lo más lejos posible a lo largo de cada rama antes de retroceder."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Movimiento Ecológico de Venezuela REDIRECCIÓN Universidad Católica Nuestra Señora de la Asunción"
+      },
+      {
+        "from": "assistant",
+        "value": "##Movimiento Ecológico de Venezuela## REDIRECCIÓN ##Universidad Católica Nuestra Señora de la Asunción##"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Call of Duty: Modern Warfare ofrece una acción de disparos en primera persona intensa y realista amientada en varias zonas de conflicto global."
+      },
+      {
+        "from": "assistant",
+        "value": "##Call of Duty: Modern Warfare## ofrece una acción de disparos en primera persona intensa y realista amientada en varias zonas de conflicto global."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La literatura de fantasía, como El Señor de los Anillos, crea reinos imaginarios con criaturas mágicas, misiones épicas y héroes legendarios."
+      },
+      {
+        "from": "assistant",
+        "value": "La ##literatura de fantasía##, como ##El Señor de los Anillos##, crea reinos imaginarios con criaturas mágicas, misiones épicas y héroes legendarios."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El spray de pimienta es un arma de autodefensa común utilizada por los civiles."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##spray de pimienta## es un arma de autodefensa común utilizada por los civiles."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El fotógrafo con dron controló el sofisticado avión y capturó la magnífica vista panorámica del horizonte de la ciudad, presentando a la audiencia una vista de pájaro del mundo."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##fotógrafo con ##dron#### controló el sofisticado avión y capturó la magnífica vista panorámica del horizonte de la ##ciudad##, presentando a la audiencia una vista de pájaro del mundo."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Guns, Germs, and Steel de Jared Diamond explora cómo la geografía y el medio ambiente dieron forma a la historia y la civilización humanas."
+      },
+      {
+        "from": "assistant",
+        "value": "##Guns, Germs, and Steel## de ##Jared Diamond## explora cómo la geografía y el medio ambiente dieron forma a la historia y la civilización humanas."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "En el Centro de Recursos Digitales de la Biblioteca de Shanghai, los lectores son competentes en el uso del sistema de recuperación electrónica para encontrar los libros electrónicos y los trabajos académicos que necesitan."
+      },
+      {
+        "from": "assistant",
+        "value": "En el Centro de Recursos Digitales de la ##Biblioteca de ##Shanghai####, los lectores son competentes en el uso del sistema de recuperación electrónica para encontrar los libros electrónicos y los trabajos académicos que necesitan."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Los algoritmos de software de TikTok son muy efectivos para seleccionar contenido de vídeo personalizado para los usuarios en función de sus preferencias."
+      },
+      {
+        "from": "assistant",
+        "value": "Los algoritmos de software de ##TikTok## son muy efectivos para seleccionar contenido de vídeo personalizado para los usuarios en función de sus preferencias."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Sultán Fateh Ali Tipu REDIRECCIÓN Clasificación de Conmebol para la Copa Mundial de Fútbol de 1994"
+      },
+      {
+        "from": "assistant",
+        "value": "##Sultán Fateh Ali Tipu## REDIRECCIÓN Clasificación de ##Conmebol## para la ##Copa Mundial de Fútbol## de ##1994##"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "REDIRECCIÓN Festival de la Canción de Eurovisión Junior REDIRECCIÓN Festival de la Canción de Eurovisión Junior"
+      },
+      {
+        "from": "assistant",
+        "value": "REDIRECCIÓN ##Festival de la Canción de Eurovisión Junior## REDIRECCIÓN ##Festival de la Canción de Eurovisión Junior##"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Al morir a los cincuenta y cuatro años , confió su hija a sus amigos , Edgar Degas y Stéphane Mallarmé ."
+      },
+      {
+        "from": "assistant",
+        "value": "Al morir a los cincuenta y cuatro años , confió su hija a sus amigos , ##Edgar Degas## y ##Stéphane Mallarmé## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Iglesia de Santa María del Carmine Allí cantaron también otras memorables figuras como Olga Tañón , Danny Rivera , Silvio Rodríguez ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Iglesia de Santa María del Carmine## Allí cantaron también otras memorables figuras como ##Olga Tañón## , ##Danny Rivera## , ##Silvio Rodríguez## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "En aquellos años iniciaron además los reportajes sobre América Latina que han caracterizado su carrera ."
+      },
+      {
+        "from": "assistant",
+        "value": "En aquellos años iniciaron además los reportajes sobre ##América Latina## que han caracterizado su carrera ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Cabe señalar en este aspecto , por ejemplo , el trabajo que sobre Homero realizaron Zenódoto de Éfeso y Aristarco de Samotracia ."
+      },
+      {
+        "from": "assistant",
+        "value": "Cabe señalar en este aspecto , por ejemplo , el trabajo que sobre ##Homero## realizaron ##Zenódoto de Éfeso## y ##Aristarco de Samotracia## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El Señor de los Anillos: La Comunidad del Anillo establece el estándar para las películas de fantasía épica con sus impresionantes imágenes y su narración."
+      },
+      {
+        "from": "assistant",
+        "value": "##El Señor de los Anillos: La Comunidad del Anillo## establece el estándar para las películas de fantasía épica con sus impresionantes imágenes y su narración."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El reparto lo completan Kristen Stewart , quien interpreta a la legendaría Joan Jett y Dakota Fanning como Cherie Currie , entre otras ."
+      },
+      {
+        "from": "assistant",
+        "value": "El reparto lo completan ##Kristen Stewart## , quien interpreta a la legendaría ##Joan Jett## y ##Dakota Fanning## como ##Cherie Currie## , entre otras ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El francotirador tomó su posición, ajustando el visor de su rifle de largo alcance."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##francotirador## tomó su posición, ajustando el visor de su ##rifle de largo alcance##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El asma es una enfermedad respiratoria caracterizada por inflamación y estrechamiento de las vías respiratorias, lo que causa dificultades para respirar."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##asma## es una enfermedad respiratoria caracterizada por inflamación y estrechamiento de las vías respiratorias, lo que causa ##dificultades para respirar##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "PHP es un lenguaje de scripting del lado del servidor ampliamente empleado en el desarrollo web para crear sitios web dinámicos e interactivos."
+      },
+      {
+        "from": "assistant",
+        "value": "##PHP## es un lenguaje de scripting del lado del servidor ampliamente empleado en el ##desarrollo web## para crear sitios web dinámicos e interactivos."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Las tormentas de arena en el desierto de Lut de Irán crean un entorno impresionante pero desafiante, con temperaturas récord."
+      },
+      {
+        "from": "assistant",
+        "value": "Las ##tormentas de arena## en el ##desierto de Lut## de ##Irán## crean un entorno impresionante pero desafiante, con temperaturas récord."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Sin embargo , esta situación resultó ser permanente ( porque su hermano Johannes Magnus entró en enemistad religiosa con Gustavo I de Suecia ) ."
+      },
+      {
+        "from": "assistant",
+        "value": "Sin embargo , esta situación resultó ser permanente ( porque su hermano ##Johannes Magnus## entró en enemistad religiosa con ##Gustavo I de Suecia## ) ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Los pianistas tocaron apasionadamente en la sala de conciertos, y sus dedos saltaron de manera flexible sobre las teclas en blanco y negro, trayendo un festín auditivo al público, mostrando la elegancia y el poder de este instrumento."
+      },
+      {
+        "from": "assistant",
+        "value": "Los ##pianistas## tocaron apasionadamente en la ##sala de conciertos##, y sus dedos saltaron de manera flexible sobre las teclas en blanco y negro, trayendo un festín auditivo al público, mostrando la elegancia y el poder de este instrumento."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Los rompecabezas no solo ejercitan la paciencia y la concentración de los niños, sino que también ayudan a los ancianos a mantener la vitalidad de su cerebro y se convierten en juguetes populares a través de las edades."
+      },
+      {
+        "from": "assistant",
+        "value": "Los ##rompecabezas## no solo ejercitan la paciencia y la concentración de los ##niños##, sino que también ayudan a los ##ancianos## a mantener la vitalidad de su cerebro y se convierten en juguetes populares a través de las edades."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La tecnología de vehículos eléctricos ha avanzado rápidamente, con Tesla liderando el mercado en el desarrollo de automóviles eficientes y de largo alcance."
+      },
+      {
+        "from": "assistant",
+        "value": "La tecnología de ##vehículos eléctricos## ha avanzado rápidamente, con ##Tesla## liderando el mercado en el desarrollo de automóviles eficientes y de largo alcance."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Stairway to Heaven de Led Zeppelin es un clásico del rock que pasa de melodías acústicas suaves a poderosos riffs eléctricos."
+      },
+      {
+        "from": "assistant",
+        "value": "##Stairway to Heaven## de ##Led Zeppelin## es un clásico del rock que pasa de melodías acústicas suaves a poderosos riffs eléctricos."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El portugués se habla en países como Brasil, Portugal y partes de África, con una diversidad lingüística significativa."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##portugués## se habla en países como ##Brasil##, ##Portugal## y partes de ##África##, con una diversidad lingüística significativa."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Bill Gates, cofundador de Microsoft, ha prometido miles de millones de dólares para combatir el cambio climático a través de su fundación filantrópica."
+      },
+      {
+        "from": "assistant",
+        "value": "##Bill Gates##, cofundador de ##Microsoft##, ha prometido miles de millones de dólares para combatir el cambio climático a través de su fundación filantrópica."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Selección de fútbol de Guatemala REDIRECCIÓN Parque natural de las Sierras de Cazorla , Segura y Las Villas"
+      },
+      {
+        "from": "assistant",
+        "value": "##Selección de fútbol de Guatemala## REDIRECCIÓN ##Parque natural de las Sierras de Cazorla , Segura y Las Villas##"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El ferrocarril Orient Express era famoso por ofrecer lujosos viajes en tren por toda Europa."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##ferrocarril Orient Express## era famoso por ofrecer lujosos viajes en tren por toda ##Europa##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Shake It Off de Taylor Swift es un himno pop sobre ignorar la negatividad y vivir la vida al máximo."
+      },
+      {
+        "from": "assistant",
+        "value": "##Shake It Off## de ##Taylor Swift## es un himno pop sobre ignorar la negatividad y vivir la vida al máximo."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El baterista se sienta detrás de la batería, y sus extremidades golpean cada superficie de la batería y los tambores en coordinación, proporcionando un fuerte apoyo rítmico para toda la banda."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##baterista## se sienta detrás de la ##batería##, y sus extremidades golpean cada superficie de la ##batería## y los ##tambores## en coordinación, proporcionando un fuerte apoyo rítmico para toda la ##banda##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Copa Mundial de Fútbol de 1998 Condujo para Radio Nacional durante seis años el programa `` Pampeanías '' ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Copa Mundial de Fútbol de 1998## Condujo para ##Radio Nacional## durante seis años el programa `` ##Pampeanías## '' ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Todos estos idiomas y sus antecesores han sido habladas históricamente en La Mixteca por una antigüedad que se remonta varios milenios atrás ."
+      },
+      {
+        "from": "assistant",
+        "value": "Todos estos idiomas y sus antecesores han sido habladas históricamente en ##La Mixteca## por una antigüedad que se remonta varios milenios atrás ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Los entusiastas de los coches controlados a distancia organizan competiciones en el parque, controlan estos minicoches para competir en la pista especialmente diseñada y disfrutan de la combinación perfecta de velocidad y habilidad."
+      },
+      {
+        "from": "assistant",
+        "value": "Los ##entusiastas de los ##coches controlados a distancia#### organizan competiciones en el ##parque##, controlan estos minicoches para competir en la ##pista## especialmente diseñada y disfrutan de la combinación perfecta de velocidad y habilidad."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "The Beginning ( álbum de Mercyful Fate ) En lo previo al Tour de Francia se suponía que la lucha por el título sería entre Alberto Contador y Andy Schleck ."
+      },
+      {
+        "from": "assistant",
+        "value": "##The Beginning## ( álbum de ##Mercyful Fate## ) En lo previo al ##Tour de Francia## se suponía que la lucha por el título sería entre ##Alberto Contador## y ##Andy Schleck## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "WeChat se ha convertido en una herramienta de comunicación esencial en China, que ofrece funciones de chat, pagos y redes sociales."
+      },
+      {
+        "from": "assistant",
+        "value": "##WeChat## se ha convertido en una herramienta de comunicación esencial en ##China##, que ofrece funciones de chat, pagos y redes sociales."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Los técnicos de la fábrica de tejido están depurando la nueva máquina de tejer para prepararse para la próxima serie de suéteres de lana producidos en masa y garantizar que cada suéter pueda mantener un estándar de calidad uniforme."
+      },
+      {
+        "from": "assistant",
+        "value": "Los ##técnicos## de la ##fábrica de tejido## están depurando la nueva ##máquina de tejer## para prepararse para la próxima serie de ##suéteres de lana## producidos en masa y garantizar que cada suéter pueda mantener un estándar de calidad uniforme."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Los clubes de motociclistas son grupos sociales donde los entusiastas se reúnen para montar y participar en eventos comunitarios."
+      },
+      {
+        "from": "assistant",
+        "value": "Los ##clubes de motociclistas## son grupos sociales donde los entusiastas se reúnen para montar y participar en eventos comunitarios."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Partido Verde Ecologista de México El episodio fue escrito por Jeff Westbrook y dirigido por Chuck Sheetz ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Partido Verde Ecologista de México## El episodio fue escrito por ##Jeff Westbrook## y dirigido por ##Chuck Sheetz## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Brome-Missisquoi ( municipio regional de condado ) REDIRECCIÓN António Luís de Sousa , Marqués de Minas"
+      },
+      {
+        "from": "assistant",
+        "value": "##Brome-Missisquoi## ( municipio regional de condado ) REDIRECCIÓN ##António Luís de Sousa## , ##Marqués de Minas##"
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "En la sala de exposiciones de la Biblioteca de Xi'an, se está llevando a cabo una exposición especial sobre la cultura de la Ruta de la Seda, que ha atraído a muchos ciudadanos a visitar y aprender sobre esta gloriosa historia."
+      },
+      {
+        "from": "assistant",
+        "value": "En la sala de exposiciones de la ##Biblioteca de ##Xi'an####, se está llevando a cabo una exposición especial sobre la cultura de la ##Ruta de la Seda##, que ha atraído a muchos ciudadanos a visitar y aprender sobre esta gloriosa historia."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "En el área de demostración agrícola de ahorro de agua de Wuwei, provincia de Gansu, los expertos agrícolas están introduciendo la última tecnología de riego por goteo a los agricultores locales para ayudarles a hacer frente al desafío de la sequía."
+      },
+      {
+        "from": "assistant",
+        "value": "En ##el área de demostración agrícola de ahorro## de agua de ##Wuwei##, provincia de ##Gansu##, los expertos agrícolas están introduciendo la última tecnología de riego por goteo a los agricultores locales para ayudarles a hacer frente al desafío de la sequía."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Los ingenieros de la compañía operadora de teleféricos revisan regularmente el equipo del teleférico para garantizar un funcionamiento seguro en condiciones climáticas adversas y proporcionar comodidad a los entusiastas del esquí."
+      },
+      {
+        "from": "assistant",
+        "value": "Los ingenieros de la compañía operadora de ##teleférico##s revisan regularmente el equipo del ##teleférico## para garantizar un funcionamiento seguro en condiciones climáticas adversas y proporcionar comodidad a los entusiastas del esquí."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Las carteras de cuero hechas a mano están hechas de materiales de alta calidad, proporcionando durabilidad y estilo para cualquiera que busque accesorios eternos."
+      },
+      {
+        "from": "assistant",
+        "value": "Las ##carteras de cuero## hechas a mano están hechas de materiales de alta calidad, proporcionando durabilidad y estilo para cualquiera que busque accesorios eternos."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Documental sobre su obra , con Lina Wertmüller , Riccardo Muti , Suso Cecchi D'Amico y otros ."
+      },
+      {
+        "from": "assistant",
+        "value": "Documental sobre su obra , con ##Lina Wertmüller## , ##Riccardo Muti## , ##Suso Cecchi D'Amico## y otros ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "En la antigua casa de Gulangyu, Xiamen, los huéspedes de una casa de familia están degustando té en el balcón, disfrutando de la hermosa vista del mar y sintiendo el encanto de la isla."
+      },
+      {
+        "from": "assistant",
+        "value": "En la ##antigua casa## de ##Gulangyu##, ##Xiamen##, los huéspedes de una casa de familia están degustando té en el balcón, disfrutando de la hermosa vista del mar y sintiendo el encanto de la isla."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Aún se conservan algunos detalles en Marmolite Italiano y finas decoraciones que perduran aún en la edificación ."
+      },
+      {
+        "from": "assistant",
+        "value": "Aún se conservan algunos detalles en ##Marmolite Italiano## y finas decoraciones que perduran aún en la edificación ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La economía analiza cómo las sociedades asignan los recursos, examinando la producción, la distribución y el consumo dentro de diferentes sistemas económicos."
+      },
+      {
+        "from": "assistant",
+        "value": "La ##economía## analiza cómo las sociedades asignan los recursos, examinando la producción, la distribución y el consumo dentro de diferentes sistemas económicos."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Muchos jugadores prefieren Discord como software de chat de voz debido a su fiabilidad y baja latencia."
+      },
+      {
+        "from": "assistant",
+        "value": "Muchos jugadores prefieren ##Discord## como software de chat de voz debido a su fiabilidad y baja latencia."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Los globos meteorológicos llevan varios instrumentos de observación al cielo para recopilar datos atmosféricos, proporcionando información valiosa para que los científicos estudien los cambios climáticos y los patrones climáticos."
+      },
+      {
+        "from": "assistant",
+        "value": "Los ##globos meteorológicos## llevan varios instrumentos de observación al cielo para recopilar datos atmosféricos, proporcionando información valiosa para que los ##científicos## estudien los ##cambios climáticos## y los ##patrones climáticos##."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Su madre se trasladó entonces con ella y su hermanastro a Europa , donde creció principalmente en Inglaterra y en Austria ."
+      },
+      {
+        "from": "assistant",
+        "value": "Su madre se trasladó entonces con ella y su hermanastro a ##Europa## , donde creció principalmente en ##Inglaterra## y en ##Austria## ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "La gravedad es un fenómeno físico que hace que los objetos con masa se sientan atraídos entre sí, manteniendo los planetas en órbita."
+      },
+      {
+        "from": "assistant",
+        "value": "La ##gravedad## es un fenómeno físico que hace que los objetos con masa se sientan atraídos entre sí, manteniendo los planetas en órbita."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Departamento Presidente Roque Sáenz Peña El Distrito Escolar Independiente de Houston gestiona escuelas públicas ."
+      },
+      {
+        "from": "assistant",
+        "value": "##Departamento Presidente Roque Sáenz Peña## El ##Distrito Escolar Independiente de Houston## gestiona escuelas públicas ."
+      }
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "user",
+        "value": "El pueblo vasco, un grupo étnico en España y Francia, tiene su propio idioma único llamado Euskara."
+      },
+      {
+        "from": "assistant",
+        "value": "El ##pueblo vasco##, un grupo étnico en ##España## y ##Francia##, tiene su propio idioma único llamado ##Euskara##."
+      }
+    ]
+  }
+]

@@ -1,0 +1,4141 @@
+{
+    "sentence1": {
+        "sentence": "历史是调查过去事件、人物和文明的学科，为理解当代问题提供背景。",
+        "entity": [
+            "历史"
+        ],
+        "category": [
+            "discipline"
+        ]
+    },
+    "sentence2": {
+        "sentence": "一箱农夫山泉2 8 瓶，零售价3 6 元一箱，批发市场2 8 元一箱，娃哈哈批发价2 1 元，1 9 0 0 箱农夫山泉5 3 2 0 0 元，1 9 0 0 箱娃哈哈3 9 9 0 0 元。",
+        "entity": [
+            "农夫山泉",
+            "娃哈哈",
+            "农夫山泉",
+            "娃哈哈"
+        ],
+        "category": [
+            "beverages",
+            "beverages",
+            "beverages",
+            "beverages"
+        ]
+    },
+    "sentence3": {
+        "sentence": "能量守恒原理断言，能量不能被创造或被摧毁，只能从一种形式转化为另一种形式。",
+        "entity": [
+            "能量守恒原理",
+            "能量"
+        ],
+        "category": [
+            "physical theory",
+            "other physical entity"
+        ]
+    },
+    "sentence4": {
+        "sentence": "穷鼠还有一个名字忧游有情人内容如名字一般连我都要为小攻同志三番四次出轨心惊加郁闷，为小受同学死缠烂打的坚贞不渝赶脚汗颜。",
+        "entity": [
+            "小攻同志",
+            "小受同学"
+        ],
+        "category": [
+            "other figure",
+            "other figure"
+        ]
+    },
+    "sentence5": {
+        "sentence": "豐當是葡萄牙的城鎮，位於該國中部，由布朗庫堡區負責管轄，始建於1747年，面積700.20平方公里，2011年人口29,213，該城鎮人口密度每平方公里42人。",
+        "entity": [
+            "豐當",
+            "葡萄牙",
+            "布朗庫堡區"
+        ],
+        "category": [
+            "city",
+            "country",
+            "state or province"
+        ]
+    },
+    "sentence6": {
+        "sentence": "電擊文庫MAGAZINE從2010年5月號開始連載合鴨ひろゆき作畫的漫畫版和あかりりゅりゅ羽作畫的搞笑四格漫畫《》。月刊Comic電擊大王於2012年3月號開始連載笹倉綾人作畫的外傳漫畫《》。",
+        "entity": [
+            "電擊文庫MAGAZINE",
+            "合鴨ひろゆき",
+            "あかりりゅりゅ羽",
+            "月刊Comic電擊大王",
+            "笹倉綾人"
+        ],
+        "category": [
+            "media",
+            "author",
+            "author",
+            "media",
+            "author"
+        ]
+    },
+    "sentence7": {
+        "sentence": "2011年1月31日，利迪娜被有條件釋放，當局要求她從首都明斯克遷回家鄉科布林，並且安排國安人員予以監視，不准她離開科布林；她的護照也被沒收，並且不得隨意提及她所涉及的案情。",
+        "entity": [
+            "利迪娜",
+            "明斯克",
+            "科布林"
+        ],
+        "category": [
+            "other person",
+            "city",
+            "city"
+        ]
+    },
+    "sentence8": {
+        "sentence": "推特是一个社交媒体网站，允许用户以280个字符的简短消息分享他们的想法。",
+        "entity": [
+            "推特"
+        ],
+        "category": [
+            "website"
+        ]
+    },
+    "sentence9": {
+        "sentence": "2010-12年洲際沙灘排球賽為2012年奧運沙灘排球比賽的資格賽。本賽事從2010年6月1日開始，到2012年6月24日結束，比賽分為次區域、區域和洲際三個階段。",
+        "entity": [
+            "2010-12年洲際沙灘排球賽",
+            "2012年奧運沙灘排球比賽"
+        ],
+        "category": [
+            "sporting event",
+            "sporting event"
+        ]
+    },
+    "sentence10": {
+        "sentence": "钠是维持液体平衡和在人体中传递神经冲动的基本元素。",
+        "entity": [
+            "钠",
+            "神经冲动"
+        ],
+        "category": [
+            "element",
+            "other biological entity"
+        ]
+    },
+    "sentence11": {
+        "sentence": "成都海峡两岸科技产业开发园位于中國四川省成都市西郊的温江区，是国家级经济开发区，区内包括台湾统一集团等台资企业，也有面向中小企业的产业孵化园，西南财经大学（本科部）、四川教育学院、成都中医药大学（本科部）、四川交通职业技术学院等也该区内。",
+        "entity": [
+            "成都海峡两岸科技产业开发园",
+            "四川省",
+            "成都市",
+            "温江区",
+            "台湾统一集团",
+            "西南财经大学",
+            "四川教育学院",
+            "成都中医药大学",
+            "四川交通职业技术学院"
+        ],
+        "category": [
+            "other facility",
+            "state or province",
+            "city",
+            "district",
+            "company",
+            "school",
+            "school",
+            "school",
+            "school"
+        ]
+    },
+    "sentence12": {
+        "sentence": "叉车操作员在仓库里熟练地操控着这种工业车辆，高效地完成货物的搬运和堆放，是物流系统中不可或缺的一环。",
+        "entity": [
+            "叉车操作员",
+            "叉车",
+            "仓库"
+        ],
+        "category": [
+            "other person",
+            "other vehicle",
+            "other facility"
+        ]
+    },
+    "sentence13": {
+        "sentence": "九龙江的入海口",
+        "entity": [
+            "九龙江"
+        ],
+        "category": [
+            "water body"
+        ]
+    },
+    "sentence14": {
+        "sentence": "香港著名电影从业员、监制黄百鸣",
+        "entity": [
+            "黄百鸣"
+        ],
+        "category": [
+            "artist"
+        ]
+    },
+    "sentence15": {
+        "sentence": "丙型肝炎是一种由病毒引起的肝脏疾病，如果不加以治疗，通常会导致慢性肝脏损伤。",
+        "entity": [
+            "丙型肝炎",
+            "病毒",
+            "肝脏",
+            "慢性肝脏损伤"
+        ],
+        "category": [
+            "disease",
+            "species",
+            "other biological entity",
+            "disease"
+        ]
+    },
+    "sentence16": {
+        "sentence": "回到香港後，他先後任職於洋行或商行、建築公司、教育機構等，業餘從事寫作，以不同筆名發表了大量的小說、散文、新詩等作品，並結集出版。其中短篇小說《鯉魚門的霧》一文更被人全文抄襲兩次，在徵文比賽中得獎，傳為美談。",
+        "entity": [
+            "香港",
+            "鯉魚門的霧"
+        ],
+        "category": [
+            "city",
+            "fiction"
+        ]
+    },
+    "sentence17": {
+        "sentence": "在苏州园林东方大酒店的中式花园里,游客们正在欣赏精美的园林景观,感受这座古城的文化底蕴。",
+        "entity": [
+            "苏州园林东方大酒店",
+            "中式花园",
+            "园林景观"
+        ],
+        "category": [
+            "hotel",
+            "other public facility",
+            "other visual art"
+        ]
+    },
+    "sentence18": {
+        "sentence": "索诺兰沙漠位于北美，仙人掌和其他独特的植物种类繁多，令人吃惊。",
+        "entity": [
+            "索诺兰沙漠",
+            "北美",
+            "仙人掌"
+        ],
+        "category": [
+            "desert",
+            "continent",
+            "species"
+        ]
+    },
+    "sentence19": {
+        "sentence": "1984年起，洛桑益西强白嘉措接触到越来越多的印度人和西方人，并为他们在菩提伽耶大塔附近举办露天教学。在那里，他使100位印度人皈依佛门。他的愿望是使佛教在其缘起之地印度重新弘扬。",
+        "entity": [
+            "洛桑益西强白嘉措",
+            "印度",
+            "菩提伽耶大塔",
+            "佛教"
+        ],
+        "category": [
+            "other person",
+            "country",
+            "landmark",
+            "religious organization"
+        ]
+    },
+    "sentence20": {
+        "sentence": "公元79年，维苏威火山的庞贝火山埃将这座罗马城市埋葬，保存了几个世纪。",
+        "entity": [
+            "维苏威火山",
+            "庞贝",
+            "罗马"
+        ],
+        "category": [
+            "mountain",
+            "city",
+            "country"
+        ]
+    },
+    "sentence21": {
+        "sentence": "我们热诚希望致公党在今后的工作中，充分发挥与海外联系广泛的优势，多渠道、多层次、多形式地开展海外联络工作，积极宣传邓小平“一国两制”的科学构想和江泽民同志关于台湾问题的八项主张，为保持香港的繁荣稳定，为澳门的顺利回归和促进祖国完全统一作出新的更大的贡献。",
+        "entity": [
+            "致公党",
+            "邓小平",
+            "江泽民",
+            "台湾",
+            "香港",
+            "澳门"
+        ],
+        "category": [
+            "political/military",
+            "politician",
+            "politician",
+            "state or province",
+            "city",
+            "city"
+        ]
+    },
+    "sentence22": {
+        "sentence": "《王冠》戏剧化地瞥见了伊丽莎白二世女王和英国王室的生活和统治。",
+        "entity": [
+            "王冠",
+            "伊丽莎白二世",
+            "英国"
+        ],
+        "category": [
+            "broadcast program",
+            "other person",
+            "country"
+        ]
+    },
+    "sentence23": {
+        "sentence": "在南京大排档餐厅,食客们正在品尝着盐水鸭、鸭血粉丝汤等金陵特色菜,感受着南京的烟火气息。",
+        "entity": [
+            "南京大排档餐厅",
+            "盐水鸭",
+            "鸭血粉丝汤",
+            "南京",
+            "金陵"
+        ],
+        "category": [
+            "restaurant",
+            "other food",
+            "other food",
+            "city",
+            "other geographical entity"
+        ]
+    },
+    "sentence24": {
+        "sentence": "江泽民说，访问期间，我同克林顿总统举行了会谈，就两国关系和共同关心的世界与地区问题深入交换了意见，达成了广泛共识，发表了《中美联合声明》，确定了中美关系未来发展的目标，这就是，为了促进世界和平与发展的崇高事业，中美应该加强合作，努力建立面向２１世纪的建设性的战略伙伴关系。",
+        "entity": [
+            "江泽民",
+            "克林顿",
+            "中",
+            "美",
+            "中",
+            "美",
+            "中",
+            "美"
+        ],
+        "category": [
+            "politician",
+            "politician",
+            "country",
+            "country",
+            "country",
+            "country",
+            "country",
+            "country"
+        ]
+    },
+    "sentence25": {
+        "sentence": "瓦爾蔡納是瑞士的城鎮，位於該國東部，由格勞賓登州負責管轄，面積11.44平方公里，海拔高度1,114米，2010年人口139，人口密度每平方公里12人。",
+        "entity": [
+            "瓦爾蔡納",
+            "瑞士",
+            "格勞賓登州"
+        ],
+        "category": [
+            "city",
+            "country",
+            "state or province"
+        ]
+    },
+    "sentence26": {
+        "sentence": "作为甜点，他们分享了一片巧克力蛋糕和鲜奶油。",
+        "entity": [
+            "巧克力蛋糕",
+            "鲜奶油"
+        ],
+        "category": [
+            "other food",
+            "other food"
+        ]
+    },
+    "sentence27": {
+        "sentence": "隨著北京南站京沪普速场于2009年12月25日开通，由2010年1月19日起，来往上海—北京之间、包括D313/314次列车在内的5對臥鋪動車組由北京站調整為北京南站高速場始發終到。",
+        "entity": [
+            "北京南站",
+            "京沪普速场",
+            "上海",
+            "北京",
+            "D313",
+            "314次列车",
+            "北京站"
+        ],
+        "category": [
+            "station",
+            "station",
+            "city",
+            "city",
+            "rail",
+            "rail",
+            "station"
+        ]
+    },
+    "sentence28": {
+        "sentence": "此外，由於缺乏一個正式的認證程序，這樣很難鼓勵主機板廠商使用高質素的音效元件，作音響高度傳真性的輸出。從技術層面看，沒有通過認證的主機板一樣能處理未經處理的聲音，例如MP3和CD。",
+        "entity": [
+            "主機板",
+            "音效元件",
+            "MP3",
+            "CD"
+        ],
+        "category": [
+            "electronics",
+            "electronics",
+            "electronics",
+            "electronics"
+        ]
+    },
+    "sentence29": {
+        "sentence": "本片公映的版本中有几段镜头被删去了，其中一段是五对来客离开神秘住宅时，王督查的车遇到了前来赴宴的两位英国绅士，其中一位较瘦的不喜交谈，另一位较胖的向王督查询问情况，两人的原型是歇洛克·福尔摩斯和他的助手约翰·华生。",
+        "entity": [
+            "歇洛克·福尔摩斯",
+            "约翰·华生"
+        ],
+        "category": [
+            "other figure",
+            "other figure"
+        ]
+    },
+    "sentence30": {
+        "sentence": "铁是造血的重要元素，因为它是红细胞中血红蛋白的关键成分。",
+        "entity": [
+            "铁",
+            "血红蛋白",
+            "红细胞"
+        ],
+        "category": [
+            "element",
+            "protein",
+            "other biological entity"
+        ]
+    },
+    "sentence31": {
+        "sentence": "之前踩坤哥抬轿拼盘演唱会也就罢了，今天居然把幺蛾子的极品行径搞到我大坤哥面前去了，见过不专业的，没见过那么不专业的",
+        "entity": [
+            "坤哥",
+            "坤哥"
+        ],
+        "category": [
+            "musician",
+            "musician"
+        ]
+    },
+    "sentence32": {
+        "sentence": "1968–69年香港甲組足球聯賽，是第58屆香港甲組足球聯賽，本屆聯賽共有12隊參賽球隊，冠軍是，他們以22場17勝4和1合共取得38分。南華隊第23次贏得港甲冠軍。",
+        "entity": [
+            "香港甲組足球聯賽",
+            "南華隊",
+            "港甲冠軍"
+        ],
+        "category": [
+            "sporting event",
+            "sports team/league",
+            "sports award"
+        ]
+    },
+    "sentence33": {
+        "sentence": "帕亚孔布（Payakumbuh）是印度尼西亚武吉丁宜西北部的一座城市。面积为80.43Nonekm²，人口超过99300人。该城市名称的字面意思为“草地沼泽”。",
+        "entity": [
+            "帕亚孔布",
+            "Payakumbuh",
+            "印度尼西亚",
+            "武吉丁宜"
+        ],
+        "category": [
+            "city",
+            "city",
+            "country",
+            "region"
+        ]
+    },
+    "sentence34": {
+        "sentence": "药妆店的工作人员耐心地为顾客讲解不同类型的洗面奶和爽肤水的功效，帮助他们根据自己的肤质选择合适的基础护肤品。",
+        "entity": [
+            "药妆店",
+            "工作人员",
+            "洗面奶",
+            "爽肤水"
+        ],
+        "category": [
+            "other commercial facility",
+            "other person",
+            "personal care",
+            "personal care"
+        ]
+    },
+    "sentence35": {
+        "sentence": "在中国致公党第十一次全国代表大会隆重召开之际，中国共产党中央委员会谨向大会表示热烈的祝贺，向致公党的同志们致以亲切的问候！",
+        "entity": [
+            "中国致公党",
+            "全国代表大会",
+            "中国共产党中央委员会",
+            "致公党"
+        ],
+        "category": [
+            "political/military",
+            "political/military event",
+            "political/military",
+            "political/military"
+        ]
+    },
+    "sentence36": {
+        "sentence": "民政事務總署沙田區民政事務專員獲委任為選舉主任。1月11日，總選舉事務主任於憲報刊登補選公告，把3月10日指定為補選的投票日。補選的提名期由1月18日開始，至1月31日結束。",
+        "entity": [
+            "民政事務總署",
+            "沙田區"
+        ],
+        "category": [
+            "political/military",
+            "district"
+        ]
+    },
+    "sentence37": {
+        "sentence": "爵士乐融合将爵士乐与摇滚、放克或R&B元素融合在一起，创造了一种由Herbie Hancock等艺术家开创的动态流派。",
+        "entity": [
+            "爵士乐融合",
+            "爵士乐",
+            "摇滚",
+            "放克",
+            "R&B",
+            "Herbie Hancock"
+        ],
+        "category": [
+            "music genre",
+            "music genre",
+            "music genre",
+            "music genre",
+            "music genre",
+            "musician"
+        ]
+    },
+    "sentence38": {
+        "sentence": "九龍巴士50線是香港一條已停駛的巴士路線，來往元朗至佐敦道碼頭，經屯門、荃灣、葵涌、深水埗區往返。當時屯門公路尚未通車，需駛經青山公路來往，路線顯得相當迂迴。",
+        "entity": [
+            "九龍巴士50線",
+            "香港",
+            "元朗",
+            "佐敦道碼頭",
+            "屯門",
+            "荃灣",
+            "葵涌",
+            "深水埗區",
+            "屯門公路",
+            "青山公路"
+        ],
+        "category": [
+            "other vehicle",
+            "city",
+            "district",
+            "port",
+            "district",
+            "district",
+            "district",
+            "district",
+            "road",
+            "road"
+        ]
+    },
+    "sentence39": {
+        "sentence": "參賽者賣出寶箱前銀行家最高出價：HK$650,000（2007年12月23日，參賽者胡杏兒接受出價，剩餘寶箱金額為HK$50、HK$250,000及HK$3,000,000，參賽者的寶箱內有HK$3,000,000）",
+        "entity": [
+            "胡杏兒",
+            "HK$"
+        ],
+        "category": [
+            "other person",
+            "miscellaneous"
+        ]
+    },
+    "sentence40": {
+        "sentence": "在深圳市的柔性显示屏生产线上,技术人员正在调试新型的折叠屏生产设备,推动显示技术的革新。",
+        "entity": [
+            "柔性显示屏生产线",
+            "折叠屏",
+            "显示技术",
+            "深圳"
+        ],
+        "category": [
+            "other production facility",
+            "electronics",
+            "other technology",
+            "city"
+        ]
+    },
+    "sentence41": {
+        "sentence": "圣巴斯弟盎圣殿（Basilica collegiata di San Sebastiano）是一座罗马天主教宗座圣殿，位于意大利阿奇雷亚莱，被列为意大利国家古迹。",
+        "entity": [
+            "圣巴斯弟盎圣殿",
+            "意大利",
+            "阿奇雷亚莱"
+        ],
+        "category": [
+            "landmark",
+            "country",
+            "city"
+        ]
+    },
+    "sentence42": {
+        "sentence": "圣马洛区（法语：），是法国伊勒-维莱讷省所辖的一个区。总面积958平方公里，总人口141115，人口密度147人/平方公里（1999年）。主要城镇为圣马洛。",
+        "entity": [
+            "圣马洛区",
+            "法国",
+            "伊勒-维莱讷省",
+            "圣马洛"
+        ],
+        "category": [
+            "region",
+            "country",
+            "state or province",
+            "city"
+        ]
+    },
+    "sentence43": {
+        "sentence": "加佐尔多德利伊波利蒂，是意大利曼托瓦省的一个市镇。总面积12平方公里，人口2981人，人口密度248.4人/平方公里（2009年）。国家统计（ISTAT）代码为020024。",
+        "entity": [
+            "加佐尔多德利伊波利蒂",
+            "意大利",
+            "曼托瓦省"
+        ],
+        "category": [
+            "district",
+            "country",
+            "state or province"
+        ]
+    },
+    "sentence44": {
+        "sentence": "奥莱萨-德蒙特塞拉特，是西班牙加泰罗尼亚巴塞罗那省的一个市镇。总面积16.63平方公里，总人口23742人（2013年），人口密度1428人/平方公里。",
+        "entity": [
+            "奥莱萨-德蒙特塞拉特",
+            "西班牙",
+            "加泰罗尼亚",
+            "巴塞罗那省"
+        ],
+        "category": [
+            "city",
+            "country",
+            "region",
+            "state or province"
+        ]
+    },
+    "sentence45": {
+        "sentence": "哮喘是一种呼吸道疾病，其特征是气道发炎和狭窄，导致呼吸困难。",
+        "entity": [
+            "哮喘",
+            "呼吸道",
+            "气道发炎",
+            "气道狭窄",
+            "呼吸困难"
+        ],
+        "category": [
+            "disease",
+            "other biological entity",
+            "symptom",
+            "symptom",
+            "symptom"
+        ]
+    },
+    "sentence46": {
+        "sentence": "电动汽车技术发展迅速，特斯拉在开发高效、长程汽车方面处于市场领先地位。",
+        "entity": [
+            "电动汽车技术",
+            "特斯拉"
+        ],
+        "category": [
+            "other technology",
+            "company"
+        ]
+    },
+    "sentence47": {
+        "sentence": "然而監警會僅有審核而沒有主動調查的權力，一直為社會詬病，以致有時內部調查科拖延多時未有議決，監警會亦無從覆核，而外國如英國的監警組織就有主動調查權。監警會前委員張達明律師贊同可引入適量調查權。張達明：可引入部分調查權,DBC,2015-02-09.",
+        "entity": [
+            "監警會",
+            "英國",
+            "張達明",
+            "DBC"
+        ],
+        "category": [
+            "government facility",
+            "country",
+            "politician",
+            "media"
+        ]
+    },
+    "sentence48": {
+        "sentence": "角蛋白是構成头发、指甲和皮肤外层的主要蛋白质，提供力量和保护。",
+        "entity": [
+            "角蛋白"
+        ],
+        "category": [
+            "protein"
+        ]
+    },
+    "sentence49": {
+        "sentence": "关于武器化禽流感的研究引起了人们对可能制造毁灭性生物武器的道德担忧。",
+        "entity": [
+            "禽流感",
+            "生物武器"
+        ],
+        "category": [
+            "disease",
+            "biological"
+        ]
+    },
+    "sentence50": {
+        "sentence": "达芬奇的科学作品手稿「莱斯特抄本」（Codex Leicester）于纽约佳士得拍卖，US$3,080万成交，买家为微软创办人比尔盖茨。",
+        "entity": [
+            "达芬奇",
+            "莱斯特抄本",
+            "纽约",
+            "佳士得",
+            "比尔盖茨",
+            "微软"
+        ],
+        "category": [
+            "artist",
+            "other literature",
+            "city",
+            "company",
+            "business executive",
+            "company"
+        ]
+    },
+    "sentence51": {
+        "sentence": "根据美国农业部的数据，家庭农场占到美国农场的98%。然而剩下的2%却占美国14%的农业产量，尽管这2%里有一半每年销售额不到5万美金。从大体上看，美国91%的农场属于'小型家庭农场'，每年销售额不足25万美金，占美国农业产量的27%。",
+        "entity": [
+            "美国农业部",
+            "美国"
+        ],
+        "category": [
+            "government facility",
+            "country"
+        ]
+    },
+    "sentence52": {
+        "sentence": "在华盛顿期间，我同克林顿总统就双边关系以及共同关心的国际和地区问题交换了意见，取得了积极的、建设性的成果。",
+        "entity": [
+            "华盛顿",
+            "克林顿"
+        ],
+        "category": [
+            "city",
+            "politician"
+        ]
+    },
+    "sentence53": {
+        "sentence": "J的情歌。Alfred Prufrock 作者：T.S.艾略特探讨了优柔寡断、渴望和对变老的恐惧等主题。",
+        "entity": [
+            "T.S.艾略特",
+            "J的情歌。Alfred Prufrock"
+        ],
+        "category": [
+            "author",
+            "poem"
+        ]
+    },
+    "sentence54": {
+        "sentence": "由汤姆·汉克斯主演的《阿甘正传》讲述了一个无意中影响重要历史事件的普通人的生活故事。",
+        "entity": [
+            "汤姆·汉克斯",
+            "阿甘正传"
+        ],
+        "category": [
+            "actor",
+            "film"
+        ]
+    },
+    "sentence55": {
+        "sentence": "1816年拉普拉塔联合省宣布脱离西班牙独立独立后，在1820年和1826年之间，联合省只是一个松散的自治省联盟，没有有效的中央政府，最高执政官(Supreme directors)為國家元首。",
+        "entity": [
+            "拉普拉塔联合省",
+            "西班牙",
+            "最高执政官"
+        ],
+        "category": [
+            "country",
+            "country",
+            "politician"
+        ]
+    },
+    "sentence56": {
+        "sentence": "夜深人静的时候总会有很多的想法，基本都是消极的、悲观的，如果一不小心以文字的形势展现出来，第二天自己看了都会难为情，万一再不巧和好友抒发一下，那就更不幸了，万众瞩目的好像还是昨天，可是的最后个月已经过了天还是天了，晚安吧〜",
+        "entity": [
+            "好友"
+        ],
+        "category": [
+            "other social group"
+        ]
+    },
+    "sentence57": {
+        "sentence": "而民主進步黨提名的蘇貞昌，以「台北超越台北」為競選主軸，並強調「市民才是市政專家」、「遠見的基礎是實踐」，且發表社福、交通、綠化、教育、公共工程、文化、都市發展、國際化等政策白皮書。此外，蘇貞昌也與同黨籍的新北市長參選人蔡英文聯合推出合作文宣。",
+        "entity": [
+            "民主進步黨",
+            "蘇貞昌",
+            "台北",
+            "蔡英文"
+        ],
+        "category": [
+            "political/military",
+            "politician",
+            "city",
+            "politician"
+        ]
+    },
+    "sentence58": {
+        "sentence": "鄭國輝在剛轉全職時，每月只從香港體育學院取得500港元的資助，其後資助增加到4,000港元。及至2006年，他首次拿到世界冠軍，資助額亦增加至最高的甲級資助2萬多元。但其後三年由於沒有成績，又降回乙級資助約萬多元。",
+        "entity": [
+            "鄭國輝",
+            "香港體育學院"
+        ],
+        "category": [
+            "athlete",
+            "school"
+        ]
+    },
+    "sentence59": {
+        "sentence": "由日本組合嵐成員大野智飾演的打工仔樽井翔太郎，從小到大也夢想著能夠成為「超級英雄」。某一天，他偶然遇見黑道家族花園一家的二小姐花園繪里香（新垣結衣飾），並受到她的委託，計劃了一場假的綁架事件。",
+        "entity": [
+            "嵐",
+            "大野智",
+            "樽井翔太郎",
+            "花園繪里香",
+            "新垣結衣"
+        ],
+        "category": [
+            "band",
+            "actor",
+            "other figure",
+            "other figure",
+            "actor"
+        ]
+    },
+    "sentence60": {
+        "sentence": "「泰山諸將」首領。年少以孝烈聞名，為人孝順忠勇、講義氣。年少時曾召集數人將獲罪的父親救出，此後四處流亡。後來成為陶謙麾下的騎都尉，負責募兵抵抗黃巾軍。",
+        "entity": [
+            "泰山諸將",
+            "陶謙",
+            "黃巾軍"
+        ],
+        "category": [
+            "other social group",
+            "military",
+            "political/military"
+        ]
+    },
+    "sentence61": {
+        "sentence": "海森堡提出的不确定性原理指出，粒子的位置和动量不能同时精确测量。",
+        "entity": [
+            "海森堡",
+            "不确定性原理",
+            "粒子"
+        ],
+        "category": [
+            "scholar",
+            "physical theory",
+            "other physical entity"
+        ]
+    },
+    "sentence62": {
+        "sentence": "辽宁本溪的铁矿山上,生态修复专家正在进行植被恢复工作,努力平衡开发与环境保护的关系。",
+        "entity": [
+            "铁矿山",
+            "植被恢复",
+            "本溪",
+            "辽宁"
+        ],
+        "category": [
+            "mine",
+            "other scientific entity",
+            "city",
+            "state or province"
+        ]
+    },
+    "sentence63": {
+        "sentence": "当物体因外部振动而以固有频率振动时，就会发生共振，如吉他弦所示。",
+        "entity": [
+            "共振",
+            "吉他"
+        ],
+        "category": [
+            "physical phenomenon",
+            "musical instruments"
+        ]
+    },
+    "sentence64": {
+        "sentence": "2006年12月，广州市莲香楼由国有企业转制成为「广州市莲香楼有限公司」。经过公开招标后，「广州市西关世家园林酒家有限公司」购入广州市莲香楼有限公司百分之九十九的股权。但商标仍然属於“国有”的「广州饮食服务企业集团有限公司」，并不属广州市莲香楼有限公司。",
+        "entity": [
+            "广州市莲香楼",
+            "广州市西关世家园林酒家有限公司",
+            "广州饮食服务企业集团有限公司"
+        ],
+        "category": [
+            "restaurant",
+            "company",
+            "company"
+        ]
+    },
+    "sentence65": {
+        "sentence": "人工智能驱动的翻译工具，如谷歌翻译，使不同语言的沟通比以往任何时候都更容易。",
+        "entity": [
+            "人工智能",
+            "谷歌翻译"
+        ],
+        "category": [
+            "ai",
+            "software"
+        ]
+    },
+    "sentence66": {
+        "sentence": "在重庆解放碑威斯汀酒店的健身中心,客人们正在使用先进的健身设备,保持良好的身体状态。",
+        "entity": [
+            "重庆解放碑威斯汀酒店",
+            "健身中心"
+        ],
+        "category": [
+            "hotel",
+            "other public facility"
+        ]
+    },
+    "sentence67": {
+        "sentence": "电子音乐制作人在工作室里摆弄着合成器和MIDI键盘，创造出前卫的音乐作品，展现了科技对音乐创作的深远影响。",
+        "entity": [
+            "电子音乐制作人",
+            "合成器",
+            "MIDI键盘",
+            "电子音乐"
+        ],
+        "category": [
+            "musician",
+            "musical instruments",
+            "musical instruments",
+            "music genre"
+        ]
+    },
+    "sentence68": {
+        "sentence": "2015年6月1日起，《理財博客》取消10:20的一節，至此《理財博客》全面停播；另《理財博客之即市錦囊》和《理財博客之投資多面睇》取消於亞洲台播放，改為只於本港台播放。",
+        "entity": [
+            "理財博客",
+            "亞洲台",
+            "本港台"
+        ],
+        "category": [
+            "broadcast program",
+            "company",
+            "company"
+        ]
+    },
+    "sentence69": {
+        "sentence": "拉赫蒙·纳比耶维奇·纳比耶夫（；，）塔吉克斯坦政治家。1973年至1982年担任塔吉克苏维埃社会主义共和国部长会议主席，1982年至1985年担任塔吉克斯坦共产党第一书记，1991年至1992年当选为塔吉克斯坦总统。",
+        "entity": [
+            "拉赫蒙·纳比耶维奇·纳比耶夫",
+            "塔吉克斯坦",
+            "塔吉克苏维埃社会主义共和国",
+            "塔吉克斯坦共产党"
+        ],
+        "category": [
+            "politician",
+            "country",
+            "country",
+            "political/military"
+        ]
+    },
+    "sentence70": {
+        "sentence": "阿扎吉亚潘迪亚普拉姆（Azhagiapandiapuram），是印度泰米尔纳德邦Kanniyakumari县的一个城镇。总人口12060（2001年）。",
+        "entity": [
+            "阿扎吉亚潘迪亚普拉姆",
+            "印度",
+            "泰米尔纳德邦",
+            "Kanniyakumari县"
+        ],
+        "category": [
+            "city",
+            "country",
+            "state or province",
+            "district"
+        ]
+    },
+    "sentence71": {
+        "sentence": "由安迪·沃霍尔推广的波普艺术，使用大众文化的意象，将高级艺术与消费主义和广告融合在一起。",
+        "entity": [
+            "安迪·沃霍尔",
+            "波普艺术"
+        ],
+        "category": [
+            "artist",
+            "visual art genre"
+        ]
+    },
+    "sentence72": {
+        "sentence": "阿雷纽斯理论将酸定义为质子供体，碱性定义为质子受体，影响水溶液中的反应。",
+        "entity": [
+            "阿雷纽斯理论",
+            "酸",
+            "碱",
+            "质子",
+            "水溶液"
+        ],
+        "category": [
+            "chemical theory",
+            "other chemical entity",
+            "other chemical entity",
+            "other chemical entity",
+            "other chemical entity"
+        ]
+    },
+    "sentence73": {
+        "sentence": "深圳保利剧院里,一部探讨社会议题的现代话剧正在上演,引发了观众的深思和讨论。",
+        "entity": [
+            "深圳保利剧院",
+            "现代话剧",
+            "深圳"
+        ],
+        "category": [
+            "theater/cinema",
+            "other art",
+            "city"
+        ]
+    },
+    "sentence74": {
+        "sentence": "青岛啤酒街上的海鲜大排档里,游客们正在品尝新鲜的海鲜,配上冰镇青岛啤酒,享受着惬意的海滨生活。",
+        "entity": [
+            "青岛啤酒街",
+            "海鲜",
+            "青岛啤酒",
+            "青岛"
+        ],
+        "category": [
+            "other geographical entity",
+            "other food",
+            "beverages",
+            "city"
+        ]
+    },
+    "sentence75": {
+        "sentence": "电影《蜘蛛人》中，在蜘蛛侠与绿恶魔的第一次战斗，史丹·李把一个小女孩从塌陷的废墟中推出去。他在DVD的删减镜头中还有更多亮相，扮演一位试图将一副「就像蜘蛛侠戴的那样」的太阳镜卖给皮特·帕克。",
+        "entity": [
+            "《蜘蛛人》",
+            "蜘蛛侠",
+            "绿恶魔",
+            "史丹·李",
+            "皮特·帕克"
+        ],
+        "category": [
+            "film",
+            "other figure",
+            "other figure",
+            "other figure",
+            "other figure"
+        ]
+    },
+    "sentence76": {
+        "sentence": "无限的未知",
+        "entity": [
+            "无限的未知"
+        ],
+        "category": [
+            "community"
+        ]
+    },
+    "sentence77": {
+        "sentence": "2009年（民國98年），臺東垃圾焚化廠首次進行試燒，也是臺東垃圾焚化廠唯一一次燃燒垃圾。為此，達和大豐針對焚化廠一案聲請解約仲裁，要求臺東縣政府以29.6億元將焚化廠產權收購，並且賠償該公司損失。",
+        "entity": [
+            "臺東垃圾焚化廠",
+            "達和大豐",
+            "臺東縣政府"
+        ],
+        "category": [
+            "other public facility",
+            "company",
+            "political/military"
+        ]
+    },
+    "sentence78": {
+        "sentence": "2007年奧倫道夫在3A開始。9月9日，奧倫道夫升上大聯盟，在9月11日第一次登板投球，面對的隊伍為多倫多藍鳥隊，投1局無失分。第二次登板是面對波士頓紅襪隊，投1.1局被打一支全壘打，但也送出4次三振。",
+        "entity": [
+            "奧倫道夫",
+            "多倫多藍鳥隊",
+            "波士頓紅襪隊"
+        ],
+        "category": [
+            "athlete",
+            "sports team/league",
+            "sports team/league"
+        ]
+    },
+    "sentence79": {
+        "sentence": "尽管其环境恶劣，但印度的塔尔沙漠支持着几个社区和充满活力的文化。",
+        "entity": [
+            "印度",
+            "塔尔沙漠"
+        ],
+        "category": [
+            "country",
+            "desert"
+        ]
+    },
+    "sentence80": {
+        "sentence": "P i n g # P u n g # - # 潮爆",
+        "entity": [
+            "PingPung"
+        ],
+        "category": [
+            "band"
+        ]
+    },
+    "sentence81": {
+        "sentence": "在哈尔滨冰雪大世界,游客们正在体验冰上自行车等冰雪运动项目,感受冰雪运动的独特魅力。",
+        "entity": [
+            "哈尔滨冰雪大世界",
+            "冰上自行车",
+            "冰雪运动"
+        ],
+        "category": [
+            "sports facility",
+            "other vehicle",
+            "other art"
+        ]
+    },
+    "sentence82": {
+        "sentence": "今年７月１日我国政府恢复对香港行使主权，标志着“一国两制”构想的巨大成功，标志着中国人民在祖国统一大业的道路上迈出了重要的一步。",
+        "entity": [
+            "香港",
+            "中国"
+        ],
+        "category": [
+            "city",
+            "country"
+        ]
+    },
+    "sentence83": {
+        "sentence": "应江泽民主席邀请叶利钦总统抵京进行国事访问",
+        "entity": [
+            "江泽民",
+            "叶利钦",
+            "京"
+        ],
+        "category": [
+            "politician",
+            "politician",
+            "city"
+        ]
+    },
+    "sentence84": {
+        "sentence": "2001年12月，韩庚参加了由韓國藝人事務所SMEntertainment主辦的H.O.TChina新人徵選。競爭率是3000比1，韓庚在選秀活動結束後沒預想自己會被選中。",
+        "entity": [
+            "韩庚",
+            "SMEntertainment",
+            "H.O.TChina"
+        ],
+        "category": [
+            "actor",
+            "company",
+            "other event"
+        ]
+    },
+    "sentence85": {
+        "sentence": "弗拉德斯德拉谢拉，是西班牙卡斯蒂利亚-莱昂萨拉曼卡省的一个市镇。总面积28平方公里，总人口255人（2001年），人口密度9人/平方公里。",
+        "entity": [
+            "弗拉德斯德拉谢拉",
+            "西班牙",
+            "卡斯蒂利亚-莱昂",
+            "萨拉曼卡省"
+        ],
+        "category": [
+            "city",
+            "country",
+            "region",
+            "state or province"
+        ]
+    },
+    "sentence86": {
+        "sentence": "在我访美前夕，中国派出的经贸代表团同美方签署了包括航空、石化、电力电站等领域的经贸和技术合作合同和协议，金额达数十亿美元，显示了中美经贸合作的潜力巨大，前景广阔。",
+        "entity": [
+            "美",
+            "中国",
+            "美",
+            "美元",
+            "中",
+            "美"
+        ],
+        "category": [
+            "country",
+            "country",
+            "country",
+            "miscellaneous",
+            "country",
+            "country"
+        ]
+    },
+    "sentence87": {
+        "sentence": "由基努·里维斯主演的《黑客帝国》结合了武术和哲学，讲述了一个关于计算机生成的现实的故事。",
+        "entity": [
+            "基努·里维斯",
+            "黑客帝国"
+        ],
+        "category": [
+            "actor",
+            "film"
+        ]
+    },
+    "sentence88": {
+        "sentence": "广州南沙港的汽车滚装码头上,工人们正在将新生产的汽车驶入专用货轮,准备出口到海外市场。",
+        "entity": [
+            "广州南沙港",
+            "汽车滚装码头",
+            "货轮",
+            "广州"
+        ],
+        "category": [
+            "port",
+            "other transportation facility",
+            "other vehicle",
+            "city"
+        ]
+    },
+    "sentence89": {
+        "sentence": "蘇格蘭乙組聯賽（第二組別）-冠軍1950/51年,2001/02年;亞軍-1932/33年,1961/62年,1974/75年,1980/81年,1985/86年；",
+        "entity": [
+            "蘇格蘭乙組聯賽"
+        ],
+        "category": [
+            "sports team/league"
+        ]
+    },
+    "sentence90": {
+        "sentence": "阿卜杜拉国王科技大学（King Abdullah University of Science and Technology，KAUST）是一所国际化的研究型大学，位于沙特阿拉伯西部港口城市吉达附近的渔村图沃。阿卜杜拉国王科技大学2009年9月正式成立，其创办宗旨是促进全球的科技研究水平，建校时的捐赠总额达到100亿美元。",
+        "entity": [
+            "阿卜杜拉国王科技大学",
+            "沙特阿拉伯",
+            "吉达",
+            "图沃"
+        ],
+        "category": [
+            "school",
+            "country",
+            "city",
+            "district"
+        ]
+    },
+    "sentence91": {
+        "sentence": "内衣品牌推出了无钢圈文胸系列，采用柔软舒适的面料，为女性提供全天候的贴身舒适体验。",
+        "entity": [
+            "内衣品牌",
+            "无钢圈文胸"
+        ],
+        "category": [
+            "company",
+            "clothes"
+        ]
+    },
+    "sentence92": {
+        "sentence": "在今天的会上，刘永好等二十五名非公有制经济代表人士获得『光彩事业奖章』，这是光彩事业实施三年多来首次对贡献突出的非公有制经济人士进行表彰。",
+        "entity": [
+            "刘永好",
+            "光彩事业奖章"
+        ],
+        "category": [
+            "other person",
+            "other award"
+        ]
+    },
+    "sentence93": {
+        "sentence": "亚历山大·弗莱明在1928年发现青霉素，彻底改变了医学。",
+        "entity": [
+            "亚历山大·弗莱明",
+            "青霉素"
+        ],
+        "category": [
+            "scholar",
+            "medication"
+        ]
+    },
+    "sentence94": {
+        "sentence": "维珍集团的创始人理查德·布兰森继续通过投资商业空间旅游等创新产业来突破界限。",
+        "entity": [
+            "理查德·布兰森",
+            "维珍集团",
+            "商业空间旅游"
+        ],
+        "category": [
+            "business executive",
+            "company",
+            "other technology"
+        ]
+    },
+    "sentence95": {
+        "sentence": "长笛演奏家站在舞台中央，吹奏出清亮悦耳的音色，细腻的表现力让观众仿佛看到了音符在空中飞舞。",
+        "entity": [
+            "长笛演奏家",
+            "长笛"
+        ],
+        "category": [
+            "musician",
+            "musical instruments"
+        ]
+    },
+    "sentence96": {
+        "sentence": "皇后乐队的《歌剧之夜》以雄心勃勃的方式融合了各种音乐风格，包括摇滚、歌剧和民谣。",
+        "entity": [
+            "皇后乐队",
+            "歌剧之夜",
+            "摇滚",
+            "歌剧",
+            "民谣"
+        ],
+        "category": [
+            "band",
+            "album",
+            "music genre",
+            "music genre",
+            "music genre"
+        ]
+    },
+    "sentence97": {
+        "sentence": "窈窕淑女# 饰# 金贵祥",
+        "entity": [
+            "窈窕淑女",
+            "金贵祥"
+        ],
+        "category": [
+            "film",
+            "artist"
+        ]
+    },
+    "sentence98": {
+        "sentence": "梅林庫埃是阿根廷的城鎮，位於該國東北部聖大非省，是洛佩茲將軍縣的首府，始建於1777年，面積277平方公里，海拔高度87米，2010年人口2,237，人口密度每平方公里0.01人。",
+        "entity": [
+            "梅林庫埃",
+            "阿根廷",
+            "聖大非省",
+            "洛佩茲將軍縣"
+        ],
+        "category": [
+            "district",
+            "country",
+            "state or province",
+            "district"
+        ]
+    },
+    "sentence99": {
+        "sentence": "現存最早以建築為主題的文字作品是《》，由罗马時代的建築家维特鲁威在西元一世紀早期所著。根據维特鲁威，一個好的建築物應該具備「強（firmitas）、用（utilitas）、美（venustas）」三項要素，這三項要素的定義大致上是指：",
+        "entity": [
+            "维特鲁威",
+            "罗马"
+        ],
+        "category": [
+            "artist",
+            "country"
+        ]
+    },
+    "sentence100": {
+        "sentence": "2012年10月30日，民進黨政策會執行長吳釗燮承認，過去民進黨處理轉型正義議題時，常常只把轉型正義當成選舉工具，沒有掌握機會好好處理相關問題，這樣的處理是錯的。",
+        "entity": [
+            "民進黨",
+            "吳釗燮"
+        ],
+        "category": [
+            "political/military",
+            "politician"
+        ]
+    },
+    "sentence101": {
+        "sentence": "水上巴士站的工作人员帮助行动不便的乘客安全登船，使这种独特的城市交通方式能够服务于更多的市民。",
+        "entity": [
+            "水上巴士站",
+            "水上巴士"
+        ],
+        "category": [
+            "station",
+            "other vehicle"
+        ]
+    },
+    "sentence102": {
+        "sentence": "由昆汀·塔伦蒂诺执导的《纸浆小说》以非线性的方式将多个故事情节编织在一起，重新定义了现代电影制作。",
+        "entity": [
+            "昆汀·塔伦蒂诺",
+            "纸浆小说"
+        ],
+        "category": [
+            "director",
+            "film"
+        ]
+    },
+    "sentence103": {
+        "sentence": "加密是将数据转换为安全格式的过程，以保护数据在传输过程中免受未经授权的访问。",
+        "entity": [
+            "加密"
+        ],
+        "category": [
+            "other computer science entity"
+        ]
+    },
+    "sentence104": {
+        "sentence": "盾牌既可以是防御工具，也可以是熟练手中的武器。",
+        "entity": [
+            "盾牌"
+        ],
+        "category": [
+            "cold weapon"
+        ]
+    },
+    "sentence105": {
+        "sentence": "Flower arranging, as seen in ikebana, is an art that emphasizes harmony, balance, and the natural beauty of floral elements.",
+        "entity": [
+            "Flower arranging",
+            "ikebana"
+        ],
+        "category": [
+            "other art",
+            "other art"
+        ]
+    },
+    "sentence106": {
+        "sentence": "普罗米修斯藐视宙斯，从奥林匹斯山偷走了火，并将其交给了人类，赋予了他们生存和繁荣的知识。",
+        "entity": [
+            "普罗米修斯",
+            "宙斯",
+            "奥林匹斯山"
+        ],
+        "category": [
+            "mythological figure",
+            "mythological figure",
+            "mountain"
+        ]
+    },
+    "sentence107": {
+        "sentence": "北17線老梅－豬槽潭，是位於新北市的一條鄉道，北起新北市石門區老梅里老梅，南至新北市石門區老梅里豬槽潭，全長3.375公里。本線主要沿老梅溪西側向南，結束於跨老梅溪的豬槽潭橋彼岸。",
+        "entity": [
+            "北17線",
+            "新北市",
+            "石門區",
+            "老梅",
+            "豬槽潭",
+            "老梅溪",
+            "豬槽潭橋"
+        ],
+        "category": [
+            "road",
+            "city",
+            "district",
+            "district",
+            "district",
+            "water body",
+            "other transportation facility"
+        ]
+    },
+    "sentence108": {
+        "sentence": "泰尔莫利，是意大利坎波巴索省的一个市镇。总面积55.1平方公里，人口32606人，人口密度591.8人/平方公里（2009年）。ISTAT代码为070078。",
+        "entity": [
+            "泰尔莫利",
+            "意大利",
+            "坎波巴索省"
+        ],
+        "category": [
+            "city",
+            "country",
+            "state or province"
+        ]
+    },
+    "sentence109": {
+        "sentence": "我们率先推出寸以上的大屏智能手机，不只是想先人一步开拓市场，还希望更多人知道，华为，没有不可能。",
+        "entity": [
+            "智能手机",
+            "华为"
+        ],
+        "category": [
+            "electronics",
+            "company"
+        ]
+    },
+    "sentence110": {
+        "sentence": "巴拉贾诺，是意大利波坦察省的一个市镇。总面积29平方公里，人口2709人，人口密度93.4人/平方公里（2009年）。ISTAT代码为076010。",
+        "entity": [
+            "巴拉贾诺",
+            "意大利",
+            "波坦察省"
+        ],
+        "category": [
+            "city",
+            "country",
+            "state or province"
+        ]
+    },
+    "sentence111": {
+        "sentence": "咳嗽是一种反射症状，可以清除呼吸道的刺激物或粘液，通常出现在呼吸道感染中。",
+        "entity": [
+            "咳嗽",
+            "呼吸道",
+            "呼吸道感染"
+        ],
+        "category": [
+            "symptom",
+            "other biological entity",
+            "disease"
+        ]
+    },
+    "sentence112": {
+        "sentence": "毛宗崗：徐晃聲東擊西，此沒彼現，只一員正將，兩員副將，寫來似有千軍萬馬之勢，可謂用兵之能者矣。晃之戰沔水，與張遼之戰合淝，仿佛相類。兩人皆有大將才，故關公與之友善。",
+        "entity": [
+            "毛宗崗",
+            "徐晃",
+            "張遼",
+            "沔水",
+            "合淝",
+            "關公"
+        ],
+        "category": [
+            "military",
+            "military",
+            "military",
+            "water body",
+            "city",
+            "military"
+        ]
+    },
+    "sentence113": {
+        "sentence": "奥尔梅达德尔雷，是西班牙卡斯蒂利亚-拉曼恰昆卡省的一个市镇。总面积75平方公里，总人口225人（2001年），人口密度3人/平方公里。",
+        "entity": [
+            "奥尔梅达德尔雷",
+            "西班牙",
+            "卡斯蒂利亚-拉曼恰",
+            "昆卡省"
+        ],
+        "category": [
+            "city",
+            "country",
+            "region",
+            "state or province"
+        ]
+    },
+    "sentence114": {
+        "sentence": "'''恰沃伊'''（匈牙利语：），是匈牙利南部巴奇-基什孔州所辖的一个村，总面积47.43平方公里，总人口2104，人口密度44.3人/平方公里（2001年）。地理坐标为46.191°N19.147°E。",
+        "entity": [
+            "恰沃伊",
+            "匈牙利",
+            "巴奇-基什孔州"
+        ],
+        "category": [
+            "district",
+            "country",
+            "state or province"
+        ]
+    },
+    "sentence115": {
+        "sentence": "凤凰是古代传说中的一种神话鸟，据说死后会燃烧起来，然后从自己的灰烬中重生，象征着复兴。",
+        "entity": [
+            "凤凰"
+        ],
+        "category": [
+            "mythological figure"
+        ]
+    },
+    "sentence116": {
+        "sentence": "增强现实技术正被用于教育，以创造互动学习体验，将数字内容叠加到现实世界中。",
+        "entity": [
+            "增强现实技术"
+        ],
+        "category": [
+            "other technology"
+        ]
+    },
+    "sentence117": {
+        "sentence": "加拿大的两位心理学家和一位统计学家合作，分析了5 名6 岁到4 岁《星际争霸2 》玩家的表现，发现与年龄相关的反应速度下降是从4 岁开始。",
+        "entity": [
+            "加拿大",
+            "星际争霸2"
+        ],
+        "category": [
+            "country",
+            "game"
+        ]
+    },
+    "sentence118": {
+        "sentence": "历任省委组织部人才工作处处长，大安市委副书记、市长，延边州委常委、组织部部长，吉林省委组织部副部长，常务副部长。2012年5月，任吉林省委常委、宣传部部长。是全国最年轻的省级党委宣传部长。2015年5月，转任吉林省副省长。",
+        "entity": [
+            "大安市",
+            "延边州",
+            "吉林省"
+        ],
+        "category": [
+            "city",
+            "district",
+            "state or province"
+        ]
+    },
+    "sentence119": {
+        "sentence": "1918年，他决定将餐厅现代化，聘用了埃及国王前主厨弗朗索瓦·列斯皮納斯（François Lespinas）掌勺。后来餐厅已成为全球美食烹饪的典范，受到众多名流追捧。",
+        "entity": [
+            "埃及",
+            "弗朗索瓦·列斯皮納斯"
+        ],
+        "category": [
+            "country",
+            "other person"
+        ]
+    },
+    "sentence120": {
+        "sentence": "人们对转基因病毒作为一种新型生物武器的潜在滥用的担忧越来越大。",
+        "entity": [
+            "转基因病毒",
+            "生物武器"
+        ],
+        "category": [
+            "biological",
+            "biological"
+        ]
+    },
+    "sentence121": {
+        "sentence": "2015年3月，向守志接受解放军报记者采访时，称“习主席在新年贺词中深情地说，‘我要为我们伟大的人民点赞’，我深受感染，也想说句心里话——我为我们伟大的党点赞！”并评论周永康、徐才厚等人“抛弃信仰，背叛党旗下的誓言，走到党和人民的对立面，可耻可悲。”",
+        "entity": [
+            "向守志",
+            "习主席",
+            "周永康",
+            "徐才厚",
+            "解放军报"
+        ],
+        "category": [
+            "military",
+            "politician",
+            "politician",
+            "politician",
+            "media"
+        ]
+    },
+    "sentence122": {
+        "sentence": "圣若望区：在中世纪，这里是政治和宗教力量的焦点。圣若望主教座堂，是高卢主教长的座堂，里昂总主教至今仍享有这一头衔，是哥特式建筑的典范。毗邻主教座堂有一些罗曼式建筑。过去的唱经班学校，现在设有主教座堂珍宝博物馆。",
+        "entity": [
+            "圣若望区",
+            "圣若望主教座堂",
+            "高卢",
+            "里昂",
+            "主教座堂珍宝博物馆"
+        ],
+        "category": [
+            "district",
+            "landmark",
+            "region",
+            "city",
+            "museum"
+        ]
+    },
+    "sentence123": {
+        "sentence": "节能灯具的广泛使用不仅降低了家庭用电成本，还响应了国家的节能减排政策，体现了科技进步对日常生活的积极影响。",
+        "entity": [
+            "节能灯具",
+            "节能减排政策"
+        ],
+        "category": [
+            "household",
+            "law"
+        ]
+    },
+    "sentence124": {
+        "sentence": "圣马力诺分为9个堡（castelli），分别为：阿夸维瓦、圣马力诺市、博尔戈·马吉欧雷、基埃萨努欧瓦、菲奥伦蒂诺、蒙泰吉阿迪诺、塞拉瓦莱、多玛尼亚诺、法尔齐亚诺。",
+        "entity": [
+            "圣马力诺",
+            "阿夸维瓦",
+            "圣马力诺市",
+            "博尔戈·马吉欧雷",
+            "基埃萨努欧瓦",
+            "菲奥伦蒂诺",
+            "蒙泰吉阿迪诺",
+            "塞拉瓦莱",
+            "多玛尼亚诺",
+            "法尔齐亚诺"
+        ],
+        "category": [
+            "country",
+            "region",
+            "city",
+            "city",
+            "city",
+            "city",
+            "city",
+            "city",
+            "city",
+            "city"
+        ]
+    },
+    "sentence125": {
+        "sentence": "撕裂是皮肤的深切或撕裂，可能需要缝合才能正常愈合并防止感染。",
+        "entity": [
+            "撕裂",
+            "皮肤",
+            "感染"
+        ],
+        "category": [
+            "injury",
+            "other biological entity",
+            "disease"
+        ]
+    },
+    "sentence126": {
+        "sentence": "1900年7月9日，义和团运动中，在主教座堂的艾士杰、副主教富格辣，雷体仁、德奥理2位神父，安助理修士，五名修道生，七名外籍修女，九名服役教徒，共26人，均在山西巡抚衙门前被杀死，主教座堂及教会所有房屋，全毁于火，是为太原教案。艾士杰主教卒年66岁。",
+        "entity": [
+            "义和团",
+            "艾士杰",
+            "富格辣",
+            "雷体仁",
+            "德奥理",
+            "山西",
+            "太原教案"
+        ],
+        "category": [
+            "political/military event",
+            "other person",
+            "other person",
+            "other person",
+            "other person",
+            "state or province",
+            "political/military event"
+        ]
+    },
+    "sentence127": {
+        "sentence": "9世纪末，该地区绝大部分成为法国、西班牙和意大利的殖民地。今日，除休达和梅利利亚两个地区尚属于西班牙外，其他地区均已合并入摩洛哥、阿尔及利亚和突尼西亞三国。",
+        "entity": [
+            "法国",
+            "西班牙",
+            "意大利",
+            "休达",
+            "梅利利亚",
+            "摩洛哥",
+            "阿尔及利亚",
+            "突尼西亞"
+        ],
+        "category": [
+            "country",
+            "country",
+            "country",
+            "region",
+            "region",
+            "country",
+            "country",
+            "country"
+        ]
+    },
+    "sentence128": {
+        "sentence": "实验研究中的对照组是一个基本实体，作为比较实验结果的基线。",
+        "entity": [
+            "对照组",
+            "实验研究"
+        ],
+        "category": [
+            "other scientific entity",
+            "other scientific entity"
+        ]
+    },
+    "sentence129": {
+        "sentence": "抗体是免疫系统产生的蛋白质，用于识别和中和细菌和病毒等外来入侵者。",
+        "entity": [
+            "抗体",
+            "细菌",
+            "病毒"
+        ],
+        "category": [
+            "protein",
+            "species",
+            "species"
+        ]
+    },
+    "sentence130": {
+        "sentence": "梅濟博日是捷克的城鎮，位於該國西北部，距離利特威諾夫約2公里，由烏斯季州負責管轄，面積14.4平方公里，海拔高度512米，2011年人口4,817。",
+        "entity": [
+            "梅濟博日",
+            "捷克",
+            "利特威諾夫",
+            "烏斯季州"
+        ],
+        "category": [
+            "city",
+            "country",
+            "city",
+            "state or province"
+        ]
+    },
+    "sentence131": {
+        "sentence": "本报波士顿１１月１日电记者陈特安、李云飞报道：江泽民主席一行今天上午乘专机从纽约抵达波士顿访问。",
+        "entity": [
+            "波士顿",
+            "陈特安",
+            "李云飞",
+            "江泽民",
+            "纽约",
+            "波士顿"
+        ],
+        "category": [
+            "city",
+            "other person",
+            "other person",
+            "politician",
+            "city",
+            "city"
+        ]
+    },
+    "sentence132": {
+        "sentence": "其他区域不属于联盟领土，但是他们具有法国国籍的居民参与欧洲选举。某些关于欧盟的条约可以在这些地方应用，比如马约特和圣皮埃尔和密克隆群岛使用欧元。但法屬玻里尼西亞與新喀里多尼亞則是使用與歐元固定匯率的法屬玻里尼西亞法郎。",
+        "entity": [
+            "法国",
+            "欧盟",
+            "马约特",
+            "圣皮埃尔和密克隆群岛",
+            "法屬玻里尼西亞",
+            "新喀里多尼亞",
+            "欧元",
+            "法屬玻里尼西亞法郎"
+        ],
+        "category": [
+            "country",
+            "political/military",
+            "region",
+            "region",
+            "region",
+            "region",
+            "miscellaneous",
+            "miscellaneous"
+        ]
+    },
+    "sentence133": {
+        "sentence": "山东青岛的海洋科技创新中心内,科学家们正在研发新型的海水淡化技术,为解决全球水资源短缺问题贡献力量。",
+        "entity": [
+            "海洋科技创新中心",
+            "海水淡化技术",
+            "水资源",
+            "青岛",
+            "山东"
+        ],
+        "category": [
+            "other production facility",
+            "other technology",
+            "other scientific entity",
+            "city",
+            "state or province"
+        ]
+    },
+    "sentence134": {
+        "sentence": "當寶路華升上甲組時，曾經希望找胡國雄加入。胡國雄說要兩支球隊的兩位班主，即是黃創山及黃創保兄弟自己決定。當年兩人父親也加入討論，3個人一起開家庭會議，結果胡國雄留在精工，但是其他精工球員就任由黃創保選擇。",
+        "entity": [
+            "寶路華",
+            "胡國雄",
+            "黃創山",
+            "黃創保",
+            "精工"
+        ],
+        "category": [
+            "sports team/league",
+            "athlete",
+            "business executive",
+            "business executive",
+            "sports team/league"
+        ]
+    },
+    "sentence135": {
+        "sentence": "2005年12月，俄罗斯天然气工业股份公司（简称Gazprom）控股了俱乐部。交易是由圣彼得堡市长瓦莲京娜·马特维延科宣布的。Gazprom买下了俱乐部大部分的股权并且投资超过一亿美元用来进行球员交易和建设新球场。",
+        "entity": [
+            "俄罗斯天然气工业股份公司",
+            "Gazprom",
+            "圣彼得堡",
+            "瓦莲京娜·马特维延科"
+        ],
+        "category": [
+            "company",
+            "company",
+            "city",
+            "politician"
+        ]
+    },
+    "sentence136": {
+        "sentence": "Jared Diamond的《枪支、细菌和钢铁》探讨了地理和环境如何塑造人类历史和文明。",
+        "entity": [
+            "Jared Diamond",
+            "枪支、细菌和钢铁"
+        ],
+        "category": [
+            "author",
+            "non-fiction"
+        ]
+    },
+    "sentence137": {
+        "sentence": "2009年正讀中五的林司敏，因拍攝《YES!》中的《城市驚喜》而被發掘，成為《YES!》御用model之一，其後被現時經理人賞識而簽約成為寰宇旗下藝人。",
+        "entity": [
+            "林司敏",
+            "YES!",
+            "城市驚喜",
+            "寰宇"
+        ],
+        "category": [
+            "actor",
+            "media",
+            "media",
+            "company"
+        ]
+    },
+    "sentence138": {
+        "sentence": "钙是骨骼健康的重要元素，在肌肉收缩和神经功能中也起着至关重要的作用。",
+        "entity": [
+            "钙",
+            "骨骼",
+            "肌肉",
+            "神经"
+        ],
+        "category": [
+            "element",
+            "other biological entity",
+            "other biological entity",
+            "other biological entity"
+        ]
+    },
+    "sentence139": {
+        "sentence": "斯塔爾科夫是捷克的城鎮，位於該國北部，距離納霍德13公里，由赫拉德茨-克拉洛韋州負責管轄，面積16.52平方公里，海拔高度441米，2012年人口628。",
+        "entity": [
+            "斯塔爾科夫",
+            "捷克",
+            "納霍德",
+            "赫拉德茨-克拉洛韋州"
+        ],
+        "category": [
+            "city",
+            "country",
+            "city",
+            "state or province"
+        ]
+    },
+    "sentence140": {
+        "sentence": "战略核武器旨在远程瞄准军事设施和基础设施。",
+        "entity": [
+            "战略核武器",
+            "军事设施",
+            "基础设施"
+        ],
+        "category": [
+            "nuclear",
+            "other facility",
+            "other facility"
+        ]
+    },
+    "sentence141": {
+        "sentence": "耶格羅斯是巴拉圭的城鎮，位於該國東南部，由卡薩帕省負責管轄，始建於1891年12月17日，距離亞松森283公里，面積872平方公里，海拔高度105米，2002年人口6,212，人口密度每平方公里6.8人。",
+        "entity": [
+            "耶格羅斯",
+            "巴拉圭",
+            "卡薩帕省",
+            "亞松森"
+        ],
+        "category": [
+            "city",
+            "country",
+            "state or province",
+            "city"
+        ]
+    },
+    "sentence142": {
+        "sentence": "R是一种专门为统计计算和数据可视化设计的编程语言，在数据分析师中很受欢迎。",
+        "entity": [
+            "R",
+            "统计计算",
+            "数据可视化",
+            "数据分析"
+        ],
+        "category": [
+            "programlang",
+            "other computer science entity",
+            "other computer science entity",
+            "discipline"
+        ]
+    },
+    "sentence143": {
+        "sentence": "针织工厂的技术人员正在调试新型针织机，为即将量产的羊毛衫系列做准备，确保每件毛衣都能保持统一的质量标准。",
+        "entity": [
+            "针织工厂",
+            "针织机",
+            "羊毛衫"
+        ],
+        "category": [
+            "factory",
+            "electronics",
+            "clothes"
+        ]
+    },
+    "sentence144": {
+        "sentence": "社会学年度回顾全面回顾了社会学研究和理论的关键主题和发展。",
+        "entity": [
+            "社会学年度回顾",
+            "社会学"
+        ],
+        "category": [
+            "academic journal",
+            "discipline"
+        ]
+    },
+    "sentence145": {
+        "sentence": "考虑复函数f(z)=1/z，设积分路径L为单位圆（模长为1的复数的集合）。我们使用γ(t)=e^it来将路径参数化，其中t在[0,2π]内。代入积分式就得到：",
+        "entity": [
+            "f(z)",
+            "L",
+            "单位圆",
+            "γ(t)",
+            "e^it"
+        ],
+        "category": [
+            "other scientific entity",
+            "other scientific entity",
+            "other scientific entity",
+            "other scientific entity",
+            "other scientific entity"
+        ]
+    },
+    "sentence146": {
+        "sentence": "在2009年日本眾議院議員選舉，宏池會所屬的眾議員少了一半，只得25人。但因第1派閥清和政策研究會和第2派閥平成研究會都只贏得之前1/3議席下，宏池會成為眾議院第1派閥，直至2012年日本眾議院議員選舉自民黨重新執政為止。",
+        "entity": [
+            "日本",
+            "宏池會",
+            "清和政策研究會",
+            "平成研究會",
+            "眾議院",
+            "自民黨"
+        ],
+        "category": [
+            "country",
+            "political/military",
+            "educational and research",
+            "educational and research",
+            "government facility",
+            "political/military"
+        ]
+    },
+    "sentence147": {
+        "sentence": "凡为刺客，皆暴虎冯河，死而无悔者也。刘主有知人之鉴，而惑於此客，则此客必一时之奇士也。又语诸葛云“足以助君补益”，则亦诸葛之流亚也。凡如诸葛之俦，鲜有为人作刺客者矣，时主亦当惜其器用，必不投之死地也。且此人不死，要应显达为魏，竟是谁乎？何其寂蔑而无闻！",
+        "entity": [
+            "刘主",
+            "诸葛",
+            "魏"
+        ],
+        "category": [
+            "mythological figure",
+            "mythological figure",
+            "country"
+        ]
+    },
+    "sentence148": {
+        "sentence": "20世纪晚期以来的社会学并没有摆脱赖特·米尔斯所揭示的问题。可以认为，社会学作为一个“社会科学”学科，面临着比经济学更加严重的危机。二十世纪中晚期以来的社会学日益学院化，在社會學家對社會進行解構分析後，難以提出解決結構性問題的方法，視為社會學家的一類挑戰。",
+        "entity": [
+            "赖特·米尔斯",
+            "社会学",
+            "经济学"
+        ],
+        "category": [
+            "scholar",
+            "discipline",
+            "discipline"
+        ]
+    },
+    "sentence149": {
+        "sentence": "白光辉（）是一名中国律师，天津和瀛律师事务所主任、首席合伙人，中国政法大学法学士、南开大学法律硕士，中华全国律师协会民商事委员会研究员，青联委员。",
+        "entity": [
+            "白光辉",
+            "天津和瀛律师事务所",
+            "中国政法大学",
+            "南开大学",
+            "中华全国律师协会"
+        ],
+        "category": [
+            "other person",
+            "company",
+            "school",
+            "school",
+            "other non-commercial organization"
+        ]
+    },
+    "sentence150": {
+        "sentence": "翌年，1995年布萊恩·亞當斯再度為電影獻聲，演唱由強尼·戴普主演的電影『這個男人有點色』主題曲〈HaveYouEverReallyLovedAWoman〉，該曲成為布萊恩·亞當斯生平第四首全美冠軍單曲。",
+        "entity": [
+            "布萊恩·亞當斯",
+            "強尼·戴普",
+            "這個男人有點色",
+            "HaveYouEverReallyLovedAWoman"
+        ],
+        "category": [
+            "musician",
+            "actor",
+            "film",
+            "song"
+        ]
+    },
+    "sentence151": {
+        "sentence": "卡恩巴韦，是意大利瓦莱达奥斯塔的一个市镇。总面积21平方公里，人口954人，人口密度45.4人/平方公里（2009年）。ISTAT代码为007015。",
+        "entity": [
+            "卡恩巴韦",
+            "意大利",
+            "瓦莱达奥斯塔"
+        ],
+        "category": [
+            "city",
+            "country",
+            "state or province"
+        ]
+    },
+    "sentence152": {
+        "sentence": "投资回报率（ROI）是一种财务指标，用于评估投资相对于其成本的盈利能力。",
+        "entity": [
+            "投资回报率",
+            "ROI",
+            "财务指标"
+        ],
+        "category": [
+            "metrics",
+            "metrics",
+            "metrics"
+        ]
+    },
+    "sentence153": {
+        "sentence": "1899年他接替扬·康斯坦丁·布勒蒂亚努当选为国家自由党领袖，并四次出任总理首相。1907年最后一次组阁，国王卡罗尔一世派遣他处理3月农民起义产生的危机。",
+        "entity": [
+            "扬·康斯坦丁·布勒蒂亚努",
+            "国家自由党",
+            "卡罗尔一世"
+        ],
+        "category": [
+            "politician",
+            "political/military",
+            "politician"
+        ]
+    },
+    "sentence154": {
+        "sentence": "加入中国共产党，担任中国文化遗产研究院研究员、原院长。2008年，当选第十一届全国政协委员，代表文化艺术界，分入第二十八组。并担任文史和学习委员会专委。",
+        "entity": [
+            "中国共产党",
+            "中国文化遗产研究院",
+            "全国政协",
+            "文史和学习委员会"
+        ],
+        "category": [
+            "political/military",
+            "educational and research",
+            "political/military",
+            "educational and research"
+        ]
+    },
+    "sentence155": {
+        "sentence": "【炝炒胡萝卜片】胡萝卜2 根，蒜苗，干辣椒，盐油1 胡萝卜洗净去皮，切菱形片2 锅中放入适量水和少量油，胡萝卜放入煮熟，捞出沥干待用3 蒜苗洗净拍松切成段，干辣椒去籽切丝4 炒锅烧热，放入少量油，将干辣椒炒香5 放入蒜苗炒香6 加入胡萝卜片炒匀，加盐调味即可。",
+        "entity": [
+            "胡萝卜",
+            "胡萝卜",
+            "蒜苗辣椒",
+            "盐",
+            "油",
+            "胡萝卜",
+            "油",
+            "胡萝卜",
+            "蒜苗",
+            "辣椒",
+            "油",
+            "辣椒",
+            "蒜苗",
+            "胡萝卜",
+            "盐"
+        ],
+        "category": [
+            "other food",
+            "other food",
+            "other food",
+            "other food",
+            "other food",
+            "other food",
+            "other food",
+            "other food",
+            "other food",
+            "other food",
+            "other food",
+            "other food",
+            "other food",
+            "other food"
+        ]
+    },
+    "sentence156": {
+        "sentence": "莫里诺，是意大利阿奎拉省的一个市镇。总面积52.55平方公里，人口1537人，人口密度29.2人/平方公里（2009年）。ISTAT代码为066057。",
+        "entity": [
+            "莫里诺",
+            "意大利",
+            "阿奎拉省"
+        ],
+        "category": [
+            "city",
+            "country",
+            "state or province"
+        ]
+    },
+    "sentence157": {
+        "sentence": "在射击场，参与者被教导如何正确装卸武器。",
+        "entity": [
+            "射击场",
+            "武器"
+        ],
+        "category": [
+            "other public facility",
+            "firearms"
+        ]
+    },
+    "sentence158": {
+        "sentence": "1948年高中毕业后，到苏北解放区参加革命。1949年随军南下，任新华社苏州分社采访员、新苏州报记者、工业组长等。1988年开始直到去世前，一直致力于主编《苏州杂志》。",
+        "entity": [
+            "苏北解放区",
+            "新华社",
+            "苏州",
+            "苏州杂志"
+        ],
+        "category": [
+            "region",
+            "media",
+            "city",
+            "media"
+        ]
+    },
+    "sentence159": {
+        "sentence": "在2013年IDW漫畫《My Little Pony Micro Series: Celestia》中，可以找到小馬化的戈登作為該漫畫的其中一個多名虛構人物小馬化彩蛋。辦別他的方法是：卡通化的粗話。後來他在自己的Twitter也轉載這些自己小馬化的圖片。",
+        "entity": [
+            "IDW漫畫",
+            "My Little Pony Micro Series: Celestia",
+            "戈登",
+            "Twitter"
+        ],
+        "category": [
+            "media",
+            "broadcast program",
+            "other person",
+            "website"
+        ]
+    },
+    "sentence160": {
+        "sentence": "斐济是一个拥有300多个岛屿的岛国，为潜水员提供清澈的泻湖和珊瑚礁。",
+        "entity": [
+            "斐济",
+            "泻湖",
+            "珊瑚礁"
+        ],
+        "category": [
+            "country",
+            "water body",
+            "other geographical entity"
+        ]
+    },
+    "sentence161": {
+        "sentence": "青年团体为青少年提供社交、学习新技能和参与社区服务的空间。",
+        "entity": [
+            "青年团体"
+        ],
+        "category": [
+            "other social group"
+        ]
+    },
+    "sentence162": {
+        "sentence": "发挥会员与香港同胞和台湾、澳门同胞、海外侨胞及国外工商界人士联系广泛的优势，协助引进资金、技术和人才，取得了显著的成绩，受到社会的普遍赞誉。",
+        "entity": [
+            "香港",
+            "台湾",
+            "澳门"
+        ],
+        "category": [
+            "city",
+            "state or province",
+            "city"
+        ]
+    },
+    "sentence163": {
+        "sentence": "福爾努什迪阿爾戈德里什是葡萄牙的城鎮，位於該國中北部，由瓜達區負責管轄，面積131.45平方公里，2011年人口4,989，人口密度每平方公里37.95人。",
+        "entity": [
+            "福爾努什迪阿爾戈德里什",
+            "葡萄牙",
+            "瓜達區"
+        ],
+        "category": [
+            "city",
+            "country",
+            "state or province"
+        ]
+    },
+    "sentence164": {
+        "sentence": "意大利面熟透了，上面覆盖着浓郁的玛丽娜拉酱。",
+        "entity": [
+            "意大利面",
+            "玛丽娜拉酱"
+        ],
+        "category": [
+            "other food",
+            "other food"
+        ]
+    },
+    "sentence165": {
+        "sentence": "希臘高增長期在1974年希臘軍政府倒台後立刻結束。那年希臘經歷了戰後最嚴重的經濟萎縮（國內生產總值下滑大約5%）。1980年代希臘也經歷了國內生產總值小幅度下滑，不過因當時黑市經濟的出現，總體經濟並未什麼影響。",
+        "entity": [
+            "希臘",
+            "希臘軍政府"
+        ],
+        "category": [
+            "country",
+            "political/military"
+        ]
+    },
+    "sentence166": {
+        "sentence": "格鲁吉亚临海一带为狭小平原，全境三分之二为山地，大部在海拔1,000米以上，属高加索山区。冬季西部温和，东部山地寒冷，夏季全境较热；年降水量西部1,000－3,000毫米，东部仅300－800毫米。",
+        "entity": [
+            "格鲁吉亚",
+            "高加索山区"
+        ],
+        "category": [
+            "country",
+            "region"
+        ]
+    },
+    "sentence167": {
+        "sentence": "曹乃谦出生时小名叫做“招人”，来被养母换梅偷养，儿时在马峪村由姥姥带大，早年做过装煤工、当过铁匠、唱过戏曲、文工团职员。",
+        "entity": [
+            "曹乃谦",
+            "马峪村"
+        ],
+        "category": [
+            "author",
+            "district"
+        ]
+    },
+    "sentence168": {
+        "sentence": "（新华社北京１１月１日电）",
+        "entity": [
+            "新华社",
+            "北京"
+        ],
+        "category": [
+            "media",
+            "city"
+        ]
+    },
+    "sentence169": {
+        "sentence": "2016年的英国脱欧公投导致英国决定离开欧盟。",
+        "entity": [
+            "英国脱欧公投",
+            "英国",
+            "欧盟"
+        ],
+        "category": [
+            "political/military event",
+            "country",
+            "other commercial organization"
+        ]
+    },
+    "sentence170": {
+        "sentence": "2016年中国中央电视台六一晚会（简称2016年六一晚会）是中国中央电视台于2016年六一儿童节举办的少儿文艺晚会，该晚会的主题为“快乐成长”，由邬纯芳执导。",
+        "entity": [
+            "2016年中国中央电视台六一晚会",
+            "中国中央电视台",
+            "邬纯芳"
+        ],
+        "category": [
+            "broadcast program",
+            "company",
+            "director"
+        ]
+    },
+    "sentence171": {
+        "sentence": "胶体是一种混合物，一种物质分散在另一种物质中，如牛奶，牛奶含有悬浮在水中的脂肪液滴。",
+        "entity": [
+            "胶体",
+            "牛奶",
+            "水",
+            "脂肪"
+        ],
+        "category": [
+            "other chemical entity",
+            "other food",
+            "compound",
+            "other chemical entity"
+        ]
+    },
+    "sentence172": {
+        "sentence": "希望黄埔同学会在已有成绩的基础上，加倍努力，发挥特有的作用，继续为完成祖国的统一大业做出更大的贡献。",
+        "entity": [
+            "黄埔同学会"
+        ],
+        "category": [
+            "educational and research"
+        ]
+    },
+    "sentence173": {
+        "sentence": "健身社区在当地公园聚会进行团体锻炼，鼓励健康和保健。",
+        "entity": [
+            "健身社区",
+            "公园"
+        ],
+        "category": [
+            "other social group",
+            "park"
+        ]
+    },
+    "sentence174": {
+        "sentence": "欧洲大陆的政治和经济联盟塑造了其现代发展和增长。",
+        "entity": [
+            "欧洲"
+        ],
+        "category": [
+            "continent"
+        ]
+    },
+    "sentence175": {
+        "sentence": "2008年9月18日，恆生指數於上午狂瀉超過1,300點，低見16,283點，但於下午恆指卻因多國央行及香港金融管理局向市場注入資金，突然大幅反彈，更一度倒升逾200點，反彈幅度超過1,500點，收市報17,632點，微跌4點。",
+        "entity": [
+            "恆生指數",
+            "香港金融管理局"
+        ],
+        "category": [
+            "metrics",
+            "government facility"
+        ]
+    },
+    "sentence176": {
+        "sentence": "阿尔库维利亚德拉斯佩尼亚斯，是西班牙卡斯蒂利亚-莱昂索里亚省的一个市镇。总面积86平方公里，总人口99人（2001年），人口密度1人/平方公里。",
+        "entity": [
+            "阿尔库维利亚德拉斯佩尼亚斯",
+            "西班牙",
+            "卡斯蒂利亚-莱昂",
+            "索里亚省"
+        ],
+        "category": [
+            "city",
+            "country",
+            "region",
+            "state or province"
+        ]
+    },
+    "sentence177": {
+        "sentence": "李瑞环对获奖者以及新当选的全国工商联领导同志表示祝贺和敬意。",
+        "entity": [
+            "李瑞环",
+            "全国工商联"
+        ],
+        "category": [
+            "politician",
+            "political/military"
+        ]
+    },
+    "sentence178": {
+        "sentence": "圣路加堂（SanLucaEvangelista）是一座罗马天主教教堂，位于意大利威尼斯圣马可区。该堂始建于11世纪，由丹多罗家族捐资兴建。此后经过数次重建。虽然立面简单，但内部装饰华丽。",
+        "entity": [
+            "圣路加堂",
+            "意大利",
+            "威尼斯",
+            "圣马可区",
+            "丹多罗家族"
+        ],
+        "category": [
+            "landmark",
+            "country",
+            "city",
+            "district",
+            "other social group"
+        ]
+    },
+    "sentence179": {
+        "sentence": "Maya Angelou的《Still I Rise》是对逆境时力量和韧性的有力宣言。",
+        "entity": [
+            "Maya Angelou",
+            "Still I Rise"
+        ],
+        "category": [
+            "author",
+            "poem"
+        ]
+    },
+    "sentence180": {
+        "sentence": "许多公司用于客户服务的人工智能聊天机器人可以同时处理多个查询。",
+        "entity": [
+            "人工智能聊天机器人"
+        ],
+        "category": [
+            "ai"
+        ]
+    },
+    "sentence181": {
+        "sentence": "今后一个时期，中国将重点发展能源、交通、通信、原材料、汽车、电子等产业，这些都是加州具有资金和技术优势的领域。",
+        "entity": [
+            "中国",
+            "加州"
+        ],
+        "category": [
+            "country",
+            "state or province"
+        ]
+    },
+    "sentence182": {
+        "sentence": "普通亚音速民航客机由纽约飞往巴黎需要花上8小时，但协和飞机完成同样旅程仅仅需要少于3.5小时，平均巡航速度达2.02马赫（2,140公里/小时），最高巡航高度为18,300米，比普通飞机快超过两倍。",
+        "entity": [
+            "纽约",
+            "巴黎",
+            "协和飞机"
+        ],
+        "category": [
+            "city",
+            "city",
+            "air"
+        ]
+    },
+    "sentence183": {
+        "sentence": "牙医们在进行口腔检查后，向患者推荐适合的牙膏和漱口水，指导正确的刷牙方法，帮助维护口腔健康。",
+        "entity": [
+            "牙医",
+            "牙膏",
+            "漱口水"
+        ],
+        "category": [
+            "other person",
+            "personal care",
+            "personal care"
+        ]
+    },
+    "sentence184": {
+        "sentence": "圆满结束对美国的国事访问江主席离开洛杉矶回国，洛杉矶友好团体为江主席举行盛大午宴。",
+        "entity": [
+            "美国",
+            "江主席",
+            "洛杉矶",
+            "洛杉矶",
+            "江主席"
+        ],
+        "category": [
+            "country",
+            "politician",
+            "city",
+            "city",
+            "politician"
+        ]
+    },
+    "sentence185": {
+        "sentence": "美甲师们专注地在客人的指甲上绘制精美的图案，同时推荐使用滋养的指甲油和护手霜，让双手保持柔软细腻。",
+        "entity": [
+            "美甲师",
+            "指甲油",
+            "护手霜"
+        ],
+        "category": [
+            "other person",
+            "personal care",
+            "personal care"
+        ]
+    },
+    "sentence186": {
+        "sentence": "耆那教宗教团体以其非暴力和严格的素食主义而闻名。",
+        "entity": [
+            "耆那教宗教团体"
+        ],
+        "category": [
+            "religious group"
+        ]
+    },
+    "sentence187": {
+        "sentence": "该企业在市中心著名的建筑伯奇路890号运营。",
+        "entity": [
+            "伯奇路890号"
+        ],
+        "category": [
+            "address"
+        ]
+    },
+    "sentence188": {
+        "sentence": "合金是一种由两种或两种以上元素组成的金属物质，如结合了铁和碳的钢。",
+        "entity": [
+            "合金",
+            "钢",
+            "铁",
+            "碳"
+        ],
+        "category": [
+            "other chemical entity",
+            "other chemical entity",
+            "element",
+            "element"
+        ]
+    },
+    "sentence189": {
+        "sentence": "皮洛士性格善变而不沉稳，并不能被称为是睿智的君主，但是他的军事才能无疑是杰出的，是那个时代军事家中的佼佼者。普魯塔克記載，迦太基名将汉尼拔認為皮洛士是古今最偉大的將領，然而，在阿庇安的版本裡，漢尼拔排第一是亞歷山大大帝，第二是皮洛士，第三才是自己。",
+        "entity": [
+            "皮洛士",
+            "普魯塔克",
+            "汉尼拔",
+            "亚历山大大帝"
+        ],
+        "category": [
+            "military",
+            "scholar",
+            "military",
+            "military"
+        ]
+    },
+    "sentence190": {
+        "sentence": "无锡地铁目前在运营中的有地铁一号线和二号线，全长55.75公里，形成了东西向和南北向的十字形轨道交通网络骨架。规划中，无锡市将会建设5条市区地铁线路、两条市域轨道交通线路。",
+        "entity": [
+            "无锡地铁",
+            "无锡市"
+        ],
+        "category": [
+            "company",
+            "city"
+        ]
+    },
+    "sentence191": {
+        "sentence": "并没有禁止抗生素生长促进剂的使用",
+        "entity": [
+            "抗生素"
+        ],
+        "category": [
+            "medication"
+        ]
+    },
+    "sentence192": {
+        "sentence": "在Corel於2001年8月終止Linux的業務後，其系統源始碼及開發人員給Xandros公司收購，然而Corel自身也是Xandros的股東之一，因此算是把Linux業務售予子公司。",
+        "entity": [
+            "Corel",
+            "Linux",
+            "Xandros"
+        ],
+        "category": [
+            "company",
+            "software",
+            "company"
+        ]
+    },
+    "sentence193": {
+        "sentence": "二胡演奏者拉动琴弓，悠扬婉转的旋律从这件中国传统乐器中流淌而出，展现了东方音乐的独特魅力。",
+        "entity": [
+            "二胡演奏者",
+            "二胡",
+            "东方音乐"
+        ],
+        "category": [
+            "musician",
+            "musical instruments",
+            "music genre"
+        ]
+    },
+    "sentence194": {
+        "sentence": "太阳能电池板生产线上，工人们仔细检查每一块电池板的质量，确保其能够高效地将阳光转化为电能。",
+        "entity": [
+            "太阳能电池板生产线",
+            "太阳能电池板",
+            "电能"
+        ],
+        "category": [
+            "other production facility",
+            "other technology",
+            "other scientific entity"
+        ]
+    },
+    "sentence195": {
+        "sentence": "他说，黄埔军校是民主革命的先行者孙中山先生和以周恩来为代表的中国共产党人道创建的。",
+        "entity": [
+            "黄埔军校",
+            "孙中山",
+            "周恩来",
+            "中国共产党"
+        ],
+        "category": [
+            "educational and research",
+            "politician",
+            "politician",
+            "political/military"
+        ]
+    },
+    "sentence196": {
+        "sentence": "脉冲星是一种快速旋转的中子星，会发出辐射束，这些辐射束可以作为规则脉冲从地球上检测到。",
+        "entity": [
+            "脉冲星",
+            "中子星",
+            "辐射",
+            "地球"
+        ],
+        "category": [
+            "astronomical object",
+            "astronomical object",
+            "physical phenomenon",
+            "astronomical object"
+        ]
+    },
+    "sentence197": {
+        "sentence": "卫生假说提出，在幼儿期接触某些微生物有助于发展健康的免疫系统。",
+        "entity": [
+            "卫生假说",
+            "微生物",
+            "免疫系统"
+        ],
+        "category": [
+            "medical theory",
+            "species",
+            "other biological entity"
+        ]
+    },
+    "sentence198": {
+        "sentence": "他们总是在储藏室里放一罐花生酱，作为简单的三明治。",
+        "entity": [
+            "花生酱"
+        ],
+        "category": [
+            "packaged foods"
+        ]
+    },
+    "sentence199": {
+        "sentence": "大犬座/ / @ 北京天文馆詹想: 大犬座！",
+        "entity": [
+            "北京",
+            "天文馆",
+            "詹想"
+        ],
+        "category": [
+            "city",
+            "museum",
+            "other person"
+        ]
+    },
+    "sentence200": {
+        "sentence": "長勝院（），本名於萬，父親是三河國池鯉鮒神社的主祭，永見淡路守貞英（也有人說是志摩守吉英），據說母親是刈谷城主水野忠政的女兒，在天文十七年（1548年）時在知立城生下於萬。是德川幕府初代將軍德川家康的側室，結城秀康的生母。",
+        "entity": [
+            "長勝院",
+            "三河國",
+            "池鯉鮒神社",
+            "永見淡路守貞英",
+            "志摩守吉英",
+            "水野忠政",
+            "知立城",
+            "德川幕府",
+            "德川家康",
+            "結城秀康"
+        ],
+        "category": [
+            "other person",
+            "state or province",
+            "landmark",
+            "other person",
+            "other person",
+            "other person",
+            "landmark",
+            "government facility",
+            "military",
+            "military"
+        ]
+    },
+    "sentence201": {
+        "sentence": "蝙蝠侠，也被称为布鲁斯·韦恩，发誓要保护哥谭市免受犯罪和腐败的侵害，他利用自己作为蒙面治安维持者的财富和技能。",
+        "entity": [
+            "蝙蝠侠",
+            "布鲁斯·韦恩",
+            "哥谭市"
+        ],
+        "category": [
+            "other figure",
+            "other figure",
+            "city"
+        ]
+    },
+    "sentence202": {
+        "sentence": "党的执行委员会控制着一个由工人、学生和军人组成的小组网络。在1879-83年间，民意党渗透进了近50个城市，特别是在乌克兰和伏尔加河地区。尽管成员数从未超过500，但民意党拥有相当的支持者和同情者。",
+        "entity": [
+            "党的执行委员会",
+            "民意党",
+            "乌克兰",
+            "伏尔加河地区"
+        ],
+        "category": [
+            "political/military",
+            "political/military",
+            "country",
+            "region"
+        ]
+    },
+    "sentence203": {
+        "sentence": "在重庆江北国际机场,一场特殊的应急演练正在进行,确保机场能够应对各种突发情况。",
+        "entity": [
+            "重庆江北国际机场",
+            "应急演练",
+            "重庆"
+        ],
+        "category": [
+            "airport",
+            "other event",
+            "city"
+        ]
+    },
+    "sentence204": {
+        "sentence": "巴斯克人是西班牙和法国的一个民族，他们有自己独特的语言，叫做Euskara。",
+        "entity": [
+            "巴斯克人",
+            "西班牙",
+            "法国",
+            "Euskara"
+        ],
+        "category": [
+            "ethnic group",
+            "country",
+            "country",
+            "language"
+        ]
+    },
+    "sentence205": {
+        "sentence": "普罗旺斯的薰衣草，我想带着你一起去看。",
+        "entity": [
+            "普罗旺斯"
+        ],
+        "category": [
+            "region"
+        ]
+    },
+    "sentence206": {
+        "sentence": "南京保利大剧院正在上演一部经典京剧,台上演员的唱念做打精彩纷呈,台下观众掌声不断。",
+        "entity": [
+            "南京保利大剧院",
+            "京剧",
+            "南京"
+        ],
+        "category": [
+            "theater/cinema",
+            "other art",
+            "city"
+        ]
+    },
+    "sentence207": {
+        "sentence": "原子是化学元素的基本单位，由质子、中子和电子组成。",
+        "entity": [
+            "原子",
+            "化学元素",
+            "质子",
+            "中子",
+            "电子"
+        ],
+        "category": [
+            "other physical entity",
+            "element",
+            "other physical entity",
+            "other physical entity",
+            "other physical entity"
+        ]
+    },
+    "sentence208": {
+        "sentence": "大学同宿舍三年，以为都还算了解你。",
+        "entity": [
+            "大学",
+            "宿舍"
+        ],
+        "category": [
+            "school",
+            "residential"
+        ]
+    },
+    "sentence209": {
+        "sentence": "1911年，上海法租界公董局越界修筑此路，名称为麦琪路。1943年汪精卫政权接收租界，改名为中迪化路。1946年改名迪化中路。1954年改名乌鲁木齐中路。沿路为住宅区。2013年路牌一度改为“乌中路”，后被更正。",
+        "entity": [
+            "上海法租界",
+            "麦琪路",
+            "中迪化路",
+            "迪化中路",
+            "乌鲁木齐中路",
+            "乌中路"
+        ],
+        "category": [
+            "region",
+            "road",
+            "road",
+            "road",
+            "road",
+            "road"
+        ]
+    },
+    "sentence210": {
+        "sentence": "哈哈哈，笑到了赵小晚一定要戳他微博看半天才明白怎么回事哈哈哈哈哈哈哈哈哈",
+        "entity": [
+            "赵小晚",
+            "微博"
+        ],
+        "category": [
+            "other person",
+            "website"
+        ]
+    },
+    "sentence211": {
+        "sentence": "2013年4月29日，O'Nolan为实施Ghost项目计划在Kickstarter筹款£25,000。而这个新项目在29天内获得£196,362筹款。成功获得了WooThemes，ENVATO和微软公司的支持。",
+        "entity": [
+            "O'Nolan",
+            "Ghost项目",
+            "Kickstarter",
+            "WooThemes",
+            "ENVATO",
+            "微软公司"
+        ],
+        "category": [
+            "other person",
+            "miscellaneous",
+            "website",
+            "company",
+            "company",
+            "company"
+        ]
+    },
+    "sentence212": {
+        "sentence": "卡瓦尔尼亚，是意大利科莫省的一个市镇。总面积15平方公里，人口262人，人口密度17.5人/平方公里（2009年）。ISTAT代码为013062。",
+        "entity": [
+            "卡瓦尔尼亚",
+            "意大利",
+            "科莫省"
+        ],
+        "category": [
+            "city",
+            "country",
+            "state or province"
+        ]
+    },
+    "sentence213": {
+        "sentence": "2011年3月1日吳光正家族以私人名義買入菲拉格慕母公司SalvatoreFerragamoItaliaSpa8%股權，於2013年1月起將公司的大中華區經銷公司股權佔比由50%提升至75%。",
+        "entity": [
+            "吳光正家族",
+            "菲拉格慕",
+            "SalvatoreFerragamoItaliaSpa"
+        ],
+        "category": [
+            "other social group",
+            "company",
+            "company"
+        ]
+    },
+    "sentence214": {
+        "sentence": "GALATI級运输船為中國解放軍於1960年代向羅馬尼亞Galati的Santieral造船廠訂購的9艘商用貨船之一,1970年代初期兩艘本級船改裝為海軍運輸艦,目前只有一艘在役，共有海運318,海運600兩艘。",
+        "entity": [
+            "GALATI級运输船",
+            "中國解放軍",
+            "羅馬尼亞",
+            "Galati",
+            "Santieral造船廠",
+            "海運318",
+            "海運600"
+        ],
+        "category": [
+            "water",
+            "political/military",
+            "country",
+            "city",
+            "company",
+            "water",
+            "water"
+        ]
+    },
+    "sentence215": {
+        "sentence": "2013年7月初，中國水務集團以240,000,000港元收購該公司股份，在12月19日完成，該公司當時在2008年2月14日停牌，直至2013年12月31日復牌。",
+        "entity": [
+            "中國水務集團"
+        ],
+        "category": [
+            "company"
+        ]
+    },
+    "sentence216": {
+        "sentence": "姜均成與李相昆、田尤成、羅成浩組成美聲組合（韓語意為“霞光”）。2002年以專輯《抓住》出道。JYP娛樂曾經給Noel投資了100億韓元，2006年因成員兵役問題短暫解散。2011年9月簽約新公司YNB娛樂，重新開始。",
+        "entity": [
+            "姜均成",
+            "李相昆",
+            "田尤成",
+            "羅成浩",
+            "JYP娛樂",
+            "Noel",
+            "YNB娛樂"
+        ],
+        "category": [
+            "musician",
+            "musician",
+            "musician",
+            "musician",
+            "company",
+            "band",
+            "company"
+        ]
+    },
+    "sentence217": {
+        "sentence": "Animal Crossing: New Horizons offers a relaxing experience, allowing players to build and customize their island paradise.",
+        "entity": [
+            "Animal Crossing: New Horizons"
+        ],
+        "category": [
+            "game"
+        ]
+    },
+    "sentence218": {
+        "sentence": "加勒比岛牙买加以其雷鬼音乐、充满活力的文化和美味的美食而闻名。",
+        "entity": [
+            "加勒比",
+            "牙买加",
+            "雷鬼音乐"
+        ],
+        "category": [
+            "other geographical entity",
+            "country",
+            "music genre"
+        ]
+    },
+    "sentence219": {
+        "sentence": "Toskan是專業化妝師及攝影師，而Angelo則是商人。二人認為在時裝攝影中沒有適合而可靠的化妝品，因此合作創辦MAC。FrankAngelo在1997年1月12日逝世。",
+        "entity": [
+            "Toskan",
+            "Angelo",
+            "MAC",
+            "FrankAngelo"
+        ],
+        "category": [
+            "other person",
+            "business executive",
+            "company",
+            "business executive"
+        ]
+    },
+    "sentence220": {
+        "sentence": "二战后，日本的昭和天皇每年都要参拜靖国神社。但自从1978年甲级战犯被列入神社供奉，據侍衛長的回憶顯示，裕仁因為不滿神社供奉二戰甲級戰犯，再也没有正式参拜靖国神社。",
+        "entity": [
+            "日本",
+            "昭和天皇",
+            "靖国神社",
+            "裕仁",
+            "甲级战犯"
+        ],
+        "category": [
+            "country",
+            "other person",
+            "landmark",
+            "other person",
+            "military"
+        ]
+    },
+    "sentence221": {
+        "sentence": "香港時間逢星期一至日08:00-08:30播出（如星期一至五當天不播放《教育電視》，則於08:00-09:00播出）；9月3日起改為逢星期一至五08:00-09:00及星期六、日08:00-08:30播出",
+        "entity": [
+            "香港時間",
+            "教育電視"
+        ],
+        "category": [
+            "miscellaneous",
+            "broadcast program"
+        ]
+    },
+    "sentence222": {
+        "sentence": "随后，叶利钦总统与中国工商联领导人们及驻华使馆代表一起合影，在气氛轻松和谐的气氛中，互致问候，简短的交谈后，叶利钦总统登上了专车前往京城。",
+        "entity": [
+            "叶利钦",
+            "中国",
+            "工商联",
+            "叶利钦",
+            "京城"
+        ],
+        "category": [
+            "politician",
+            "political/military",
+            "political/military",
+            "politician",
+            "city"
+        ]
+    },
+    "sentence223": {
+        "sentence": "卢卡西库拉，是意大利阿格里真托省的一个市镇。总面积18.41平方公里，人口1920人，人口密度104.3人/平方公里（2009年）。ISTAT代码为084022。",
+        "entity": [
+            "卢卡西库拉",
+            "意大利",
+            "阿格里真托省"
+        ],
+        "category": [
+            "city",
+            "country",
+            "state or province"
+        ]
+    },
+    "sentence224": {
+        "sentence": "1979年1月1日，P-MODEL成立。第一代成员为MANDRAKE的成员平泽进、田中靖美、田井中贞利，以及原本是他们的狂热歌迷的秋山胜彦。首次登台表演是同年3月在下北泽LOFT。同年9月，为摇滚乐队范·海伦的巡回演唱会“”在日本的部分做开场演出。",
+        "entity": [
+            "P-MODEL",
+            "MANDRAKE",
+            "平泽进",
+            "田中靖美",
+            "田井中贞利",
+            "秋山胜彦",
+            "范·海伦",
+            "日本"
+        ],
+        "category": [
+            "band",
+            "band",
+            "musician",
+            "musician",
+            "musician",
+            "musician",
+            "band",
+            "country"
+        ]
+    },
+    "sentence225": {
+        "sentence": "此列表列出了之前的意大利（包括西西里和萨丁尼亚）的分布的民族。几乎所有这些民族的名称都来自古希腊古罗马学者的论述。这些民族存在的时间大概是前750年（罗马城建立）到前300年（罗马共和国中期）。",
+        "entity": [
+            "意大利",
+            "西西里",
+            "萨丁尼亚",
+            "古希腊",
+            "古罗马"
+        ],
+        "category": [
+            "country",
+            "region",
+            "region",
+            "country",
+            "country"
+        ]
+    },
+    "sentence226": {
+        "sentence": "穿着拖鞋坐在图书馆前面瞎看~ 有着急回宿舍的、有小情侣散步的、有悲催的骑自行车回华兴的~ ~ 回到宿舍这个点吃巧乐兹！",
+        "entity": [
+            "图书馆",
+            "宿舍",
+            "华兴",
+            "宿舍",
+            "巧乐兹"
+        ],
+        "category": [
+            "library",
+            "residential",
+            "region",
+            "residential",
+            "packaged foods"
+        ]
+    },
+    "sentence227": {
+        "sentence": "中华人民共和国成立之后，沈阳拥有有轨电车170辆，居全国首位。但随着第一条无轨电车线路在沈阳出现，有轨电车的发展逐渐让位给了无轨电车。1974年8月1日，沈阳站到太清宫的有轨电车线路被拆除，沈阳原有的有轨电车系统告别了历史舞台。",
+        "entity": [
+            "中华人民共和国",
+            "沈阳",
+            "沈阳站",
+            "太清宫"
+        ],
+        "category": [
+            "country",
+            "city",
+            "station",
+            "landmark"
+        ]
+    },
+    "sentence228": {
+        "sentence": "哥伦布大道（PasseigdeColom）是西班牙加泰罗尼亚巴塞罗那一条排列着棕榈树的宽阔大道，位于旧城区，从哥伦布纪念碑向东到中央邮局所在的安东尼奥·洛佩斯广场，于1878年拆除海墙时兴建。",
+        "entity": [
+            "哥伦布大道",
+            "西班牙",
+            "加泰罗尼亚",
+            "巴塞罗那",
+            "哥伦布纪念碑",
+            "安东尼奥·洛佩斯广场"
+        ],
+        "category": [
+            "road",
+            "country",
+            "state or province",
+            "city",
+            "landmark",
+            "landmark"
+        ]
+    },
+    "sentence229": {
+        "sentence": "《指环王：魔戒》以其令人惊叹的视觉效果和故事讲述为史诗奇幻电影设定了标准。",
+        "entity": [
+            "指环王：魔戒"
+        ],
+        "category": [
+            "film"
+        ]
+    },
+    "sentence230": {
+        "sentence": "瓦爾特港是巴西的城鎮，位於該國西北部，由阿克里州負責管轄，始建於1910年6月25日，面積6,136平方公里，2014年人口10,453，人口密度每平方公里1.7人。",
+        "entity": [
+            "瓦爾特港",
+            "巴西",
+            "阿克里州"
+        ],
+        "category": [
+            "city",
+            "country",
+            "state or province"
+        ]
+    },
+    "sentence231": {
+        "sentence": "医学上认为，细胞理论指出，所有生物体都由细胞组成，细胞是生命和功能的基本单位。",
+        "entity": [
+            "细胞理论",
+            "细胞"
+        ],
+        "category": [
+            "medical theory",
+            "other biological entity"
+        ]
+    },
+    "sentence232": {
+        "sentence": "１９９６年，加州对华出口比上年增长３９％，经加州港口输入的中国产品高达２１１亿美元。",
+        "entity": [
+            "加州",
+            "华",
+            "加州",
+            "中国"
+        ],
+        "category": [
+            "state or province",
+            "country",
+            "state or province",
+            "country"
+        ]
+    },
+    "sentence233": {
+        "sentence": "实现建设有中国特色社会主义的宏伟目标，是中国共产党和作为参政党的各民主党派共同肩负的历史使命。",
+        "entity": [
+            "中国",
+            "中国共产党"
+        ],
+        "category": [
+            "country",
+            "political/military"
+        ]
+    },
+    "sentence234": {
+        "sentence": "皇帝雖然命太子薩洛尼努斯與禁衛隊長西拉留守基帕拿（即今科隆），以確保太子安全，並藉此抑制波斯圖穆斯的野心。然而在經過少量的邊境戰鬥後，波斯圖穆斯控制了基帕拿，並處決了太子和其侍衛。",
+        "entity": [
+            "薩洛尼努斯",
+            "西拉",
+            "基帕拿",
+            "科隆",
+            "波斯圖穆斯"
+        ],
+        "category": [
+            "military",
+            "military",
+            "city",
+            "city",
+            "military"
+        ]
+    },
+    "sentence235": {
+        "sentence": "《清洁空气法》对固定和流动来源的空气排放进行监管，以保护公众健康。",
+        "entity": [
+            "清洁空气法"
+        ],
+        "category": [
+            "law"
+        ]
+    },
+    "sentence236": {
+        "sentence": "越南战争是一场旷日持久的军事冲突，在美国引起了意见分歧，并造成了重大的政治动荡。",
+        "entity": [
+            "越南战争",
+            "美国"
+        ],
+        "category": [
+            "political/military event",
+            "country"
+        ]
+    },
+    "sentence237": {
+        "sentence": "1352年，约翰二世将这座城堡给了他的儿子那不勒斯的路易一世。路易娶了富有的布列塔尼公爵夏尔·德·布卢瓦的女儿，改建城堡，在1373年委托布鲁日画家Hennequin和巴黎的挂毯织工尼古拉巴塔耶完成了著名的启示录挂毯。",
+        "entity": [
+            "约翰二世",
+            "那不勒斯",
+            "路易一世",
+            "布列塔尼",
+            "夏尔·德·布卢瓦",
+            "布鲁日",
+            "Hennequin",
+            "巴黎",
+            "尼古拉巴塔耶",
+            "启示录挂毯"
+        ],
+        "category": [
+            "politician",
+            "city",
+            "politician",
+            "region",
+            "politician",
+            "city",
+            "artist",
+            "city",
+            "artist",
+            "visual art genre"
+        ]
+    },
+    "sentence238": {
+        "sentence": "據林森回憶：「總理對他的革命主張和三民主義雖然十分堅持，必須貫徹到底，但是他待人接物，可是十分博大寬厚，無所不容。無論同志之間，或是敵人，祗要表示誠心接受他的主義，對於他們已往的過失，是決不計較的。」",
+        "entity": [
+            "林森",
+            "三民主義"
+        ],
+        "category": [
+            "politician",
+            "miscellaneous"
+        ]
+    },
+    "sentence239": {
+        "sentence": "此詞在中华人民共和国教育部和财政部联合制定了《高等学校学生勤工助学管理办法》和《共青团中央、教育部关于进一步做好大学生勤工助学工作的意见》（中青联发〔2005〕14号）等文件、指示及办法而被确定。",
+        "entity": [
+            "中华人民共和国教育部",
+            "财政部",
+            "高等学校学生勤工助学管理办法",
+            "共青团中央",
+            "中青联发〔2005〕14号"
+        ],
+        "category": [
+            "political/military",
+            "political/military",
+            "law",
+            "political/military",
+            "law"
+        ]
+    },
+    "sentence240": {
+        "sentence": "蓝调，有像B.B.这样的先驱者。King用深情的吉他riff和发自内心的歌词来表达生活的挣扎。",
+        "entity": [
+            "蓝调",
+            "B.B. King"
+        ],
+        "category": [
+            "music genre",
+            "musician"
+        ]
+    },
+    "sentence241": {
+        "sentence": "UCAR同时负责提供和更新netCDF软件以及制定标准。NetCDF格式是一种开放标准。NetCDF的经典格式和64位偏移格式是开放地理空间协会采用的国际标准。",
+        "entity": [
+            "UCAR",
+            "netCDF",
+            "开放地理空间协会"
+        ],
+        "category": [
+            "other non-commercial organization",
+            "software",
+            "educational and research"
+        ]
+    },
+    "sentence242": {
+        "sentence": "維拉港國際機場（Port Vila International Airport或Bauerfield International Airport）是一個位於瓦努阿圖首都維拉港的國際機場，也是瓦努阿圖航空的樞紐之一。",
+        "entity": [
+            "維拉港國際機場",
+            "瓦努阿圖",
+            "維拉港",
+            "瓦努阿圖航空"
+        ],
+        "category": [
+            "airport",
+            "country",
+            "city",
+            "company"
+        ]
+    },
+    "sentence243": {
+        "sentence": "目前，加州已有１９个城市同中国有关城市建立了友城关系。",
+        "entity": [
+            "加州",
+            "中国"
+        ],
+        "category": [
+            "state or province",
+            "country"
+        ]
+    },
+    "sentence244": {
+        "sentence": "2000年，在人民大会堂举行五十周年庆祝大会，时任全国人大常委会委员长李鹏和教育部部长陈至立到会祝贺。这是第一所大学的学院在人民大会堂万人大礼堂举行院庆活动。",
+        "entity": [
+            "人民大会堂",
+            "全国人大常委会",
+            "李鹏",
+            "教育部",
+            "陈至立"
+        ],
+        "category": [
+            "government facility",
+            "political/military",
+            "politician",
+            "political/military",
+            "politician"
+        ]
+    },
+    "sentence245": {
+        "sentence": "帕金森病影响神经系统，导致颤抖、僵硬以及运动和协调困难。",
+        "entity": [
+            "帕金森病",
+            "神经系统",
+            "颤抖",
+            "僵硬",
+            "运动和协调困难"
+        ],
+        "category": [
+            "disease",
+            "other biological entity",
+            "symptom",
+            "symptom",
+            "symptom"
+        ]
+    },
+    "sentence246": {
+        "sentence": "格里高利圣歌是僧侣齐唱的一种古老音乐形式，通常与礼仪崇拜有关。",
+        "entity": [
+            "格里高利圣歌",
+            "僧侣",
+            "音乐形式",
+            "礼仪崇拜"
+        ],
+        "category": [
+            "other music",
+            "religious group",
+            "music genre",
+            "tradition"
+        ]
+    },
+    "sentence247": {
+        "sentence": "車站屬於2面2線的側式月台。南面的月台（南9条西6丁目）為往薄野方向、而北面的月台（南8条西6丁目）則是往西4丁目方向，並設置安全區域。安全區域設置地面融雪系統及有蓋月台。",
+        "entity": [
+            "車站",
+            "薄野",
+            "南9条西6丁目",
+            "南8条西6丁目",
+            "西4丁目"
+        ],
+        "category": [
+            "station",
+            "district",
+            "address",
+            "address",
+            "address"
+        ]
+    },
+    "sentence248": {
+        "sentence": "保護區旁開闢龍山、雙園、華中河濱公園及華江雁鴨自然公園。1998年，保護區及鄰近地區被國際鳥盟列為重要野鳥棲地。在2007年也由內政部營建署劃設為「大漢新店國家重要濕地」的一部分。",
+        "entity": [
+            "龍山",
+            "雙園",
+            "華中河濱公園",
+            "華江雁鴨自然公園",
+            "國際鳥盟",
+            "大漢新店國家重要濕地"
+        ],
+        "category": [
+            "park",
+            "park",
+            "park",
+            "park",
+            "community",
+            "park"
+        ]
+    },
+    "sentence249": {
+        "sentence": "由於這項動作所表演的方式極具高危險，若動作失當，稍有不慎，嚴重會因頸椎斷裂，當場導致喪命。台灣藝人羅志祥表示，他曾目睹有位表演者因頭轉動作過程中，發生頭部與身體沒有一起旋轉，後來不斷抽搐，這位表演者就往生了。",
+        "entity": [
+            "羅志祥"
+        ],
+        "category": [
+            "actor"
+        ]
+    },
+    "sentence250": {
+        "sentence": "得名由鳳凰山的鳳凰徑為大嶼山的主要遠足徑，其中鳳凰徑第三段由伯公坳開始，至昂坪結束，途經鳳凰山山頂。沿鳳凰徑上走，在700多米高的山脊上，可到達「南北天門」。南天門和北天門為一著名的景點，該處南面有兩邊峭壁左右對峙，遊人從中間的缺口可俯瞰塘福鄉郊的村屋。",
+        "entity": [
+            "鳳凰山",
+            "鳳凰徑",
+            "大嶼山",
+            "伯公坳",
+            "昂坪",
+            "南天門",
+            "北天門",
+            "塘福"
+        ],
+        "category": [
+            "mountain",
+            "road",
+            "island",
+            "landmark",
+            "landmark",
+            "landmark",
+            "landmark",
+            "district"
+        ]
+    },
+    "sentence251": {
+        "sentence": "霍尔被视为忠诚于苏共做法的一派，他本人在党内的影响于战后上升。1946年他被选入美共全国执行委员会受时任总书记的尤金·丹尼斯领导。丹尼斯为苏共派的马列主义者，接替刚刚被逐出党外的厄尔·白劳德担任当时的总书记一职。",
+        "entity": [
+            "霍尔",
+            "苏共",
+            "美共",
+            "尤金·丹尼斯",
+            "厄尔·白劳德"
+        ],
+        "category": [
+            "politician",
+            "political/military",
+            "political/military",
+            "politician",
+            "politician"
+        ]
+    },
+    "sentence252": {
+        "sentence": "鳄梨因其奶油质地而经常用于沙拉、三明治甚至冰沙中。",
+        "entity": [
+            "鳄梨",
+            "沙拉",
+            "三明治",
+            "冰沙"
+        ],
+        "category": [
+            "other food",
+            "other food",
+            "other food",
+            "beverages"
+        ]
+    },
+    "sentence253": {
+        "sentence": "是一部2007年上映的香港電影。小電影由七個短故事組成，每個故事的長度不一，短的只有數分鐘，長的則有十數分鐘。由彭浩翔執導，一眾明星主演。在2007年12月20日香港上映。",
+        "entity": [
+            "彭浩翔",
+            "香港"
+        ],
+        "category": [
+            "director",
+            "city"
+        ]
+    },
+    "sentence254": {
+        "sentence": "涅槃乐队的《Smells Like Teen Spirit》成为垃圾运动的国歌，捕捉到了青少年的焦虑和反叛。",
+        "entity": [
+            "涅槃乐队",
+            "Smells Like Teen Spirit",
+            "垃圾运动"
+        ],
+        "category": [
+            "band",
+            "song",
+            "music genre"
+        ]
+    },
+    "sentence255": {
+        "sentence": "一个装满Semtex炸药的手提箱炸弹在公共广场上引爆，造成广泛破坏和受伤。",
+        "entity": [
+            "Semtex炸药",
+            "手提箱炸弹",
+            "公共广场"
+        ],
+        "category": [
+            "explosives",
+            "explosives",
+            "other public facility"
+        ]
+    },
+    "sentence256": {
+        "sentence": "让我们在邓小平理论的指引下，更加紧密地团结在以江泽民同志为核心的中共中央周围，以高度的历史责任感和时代紧迫感，积极投身于改革开放和社会主义现代化建设的伟大实践，共同谱写我国社会主义现代化建设的新篇章，迎接辉煌的２１世纪！",
+        "entity": [
+            "邓小平",
+            "江泽民",
+            "中共中央"
+        ],
+        "category": [
+            "politician",
+            "politician",
+            "political/military"
+        ]
+    },
+    "sentence257": {
+        "sentence": "2008年5月17日，艾希莉跟拍拖兩年的歌手彼特·溫茲奉子成婚；同年11月20日生下兒子，BronxMowgliWentz。2011年2月8日，她以“不可调停的分歧”为由与温兹离婚。",
+        "entity": [
+            "艾希莉",
+            "彼特·溫茲",
+            "BronxMowgliWentz"
+        ],
+        "category": [
+            "other person",
+            "musician",
+            "other person"
+        ]
+    },
+    "sentence258": {
+        "sentence": "Goncourt奖是法国最负盛名的文学奖项，颁发给今年最好和最具想象力的散文作品。",
+        "entity": [
+            "Goncourt奖",
+            "法国"
+        ],
+        "category": [
+            "literary award",
+            "country"
+        ]
+    },
+    "sentence259": {
+        "sentence": "流感是一种病毒性疾病，通过呼吸道飞沫传播，引起发烧、咳嗽和身体疼痛等症状。",
+        "entity": [
+            "流感",
+            "发烧",
+            "咳嗽",
+            "身体疼痛"
+        ],
+        "category": [
+            "disease",
+            "symptom",
+            "symptom",
+            "symptom"
+        ]
+    },
+    "sentence260": {
+        "sentence": "深度优先搜索（DFS）算法在回溯之前通过沿着每个分支尽可能远地探索来遍历图形。",
+        "entity": [
+            "深度优先搜索",
+            "DFS算法"
+        ],
+        "category": [
+            "algorithm",
+            "algorithm"
+        ]
+    },
+    "sentence261": {
+        "sentence": "@ 手机用户1 0 6 1 2 1 7 2 2 7 ，你正式成为我家的居民啦！",
+        "entity": [
+            "手机",
+            "居民"
+        ],
+        "category": [
+            "electronics",
+            "other person"
+        ]
+    },
+    "sentence262": {
+        "sentence": "重庆解放碑步行街的商业购物中心内,市民们正在享受周末的购物时光,体验这座山城的现代商业氛围。",
+        "entity": [
+            "重庆解放碑步行街",
+            "商业购物中心",
+            "重庆"
+        ],
+        "category": [
+            "market/mall",
+            "market/mall",
+            "city"
+        ]
+    },
+    "sentence263": {
+        "sentence": "百事可乐前首席执行官Indra Nooyi讨论了可持续商业实践的重要性及其对企业长期成功的影响。",
+        "entity": [
+            "Indra Nooyi",
+            "百事可乐"
+        ],
+        "category": [
+            "business executive",
+            "company"
+        ]
+    },
+    "sentence264": {
+        "sentence": "老年社区中心为老年居民提供活动和社交活动。",
+        "entity": [
+            "老年社区中心"
+        ],
+        "category": [
+            "other public facility"
+        ]
+    },
+    "sentence265": {
+        "sentence": "江主席的贺辞说，中俄建设面向２１世纪的战略协作伙伴关系，无论在中国，还是在俄罗斯，都有着广泛的社会基础，中俄长期友好合作的思想日益深入人心。",
+        "entity": [
+            "江",
+            "中",
+            "俄",
+            "中国",
+            "俄罗斯",
+            "中",
+            "俄"
+        ],
+        "category": [
+            "politician",
+            "country",
+            "country",
+            "country",
+            "country",
+            "country",
+            "country"
+        ]
+    },
+    "sentence266": {
+        "sentence": "军医们在野战医院里为受伤的士兵进行紧急救治，他们的专业技能和奉献精神挽救了无数战士的生命。",
+        "entity": [
+            "军医",
+            "野战医院",
+            "士兵"
+        ],
+        "category": [
+            "military",
+            "hospital",
+            "military"
+        ]
+    },
+    "sentence267": {
+        "sentence": "卡拉哈里沙漠是各种野生动物的家园，包括猫鬃、羚羊和非洲狮子。",
+        "entity": [
+            "卡拉哈里沙漠",
+            "猫鬃",
+            "羚羊",
+            "非洲狮子"
+        ],
+        "category": [
+            "desert",
+            "species",
+            "species",
+            "species"
+        ]
+    },
+    "sentence268": {
+        "sentence": "1453年君士坦丁堡的陷落标志着拜占庭帝国的终结。",
+        "entity": [
+            "君士坦丁堡",
+            "拜占庭帝国"
+        ],
+        "category": [
+            "city",
+            "country"
+        ]
+    },
+    "sentence269": {
+        "sentence": "利纳斯-德尔巴列斯（加泰罗尼亚语：），是西班牙加泰罗尼亚巴塞罗那省的一个市镇。总面积28平方公里，总人口7238人（2001年），人口密度259人/平方公里。",
+        "entity": [
+            "利纳斯-德尔巴列斯",
+            "西班牙",
+            "加泰罗尼亚",
+            "巴塞罗那省"
+        ],
+        "category": [
+            "city",
+            "country",
+            "region",
+            "state or province"
+        ]
+    },
+    "sentence270": {
+        "sentence": "他是個大嘴巴，講秘密的時候常被大夥排斥在外。喜歡唱歌，夢想成為歌手，不過卻是個音痴。非常喜歡吃肉丸子和章魚燒(台灣巧連智則是肉丸子)，但討厭打雷和妖怪。1988年的初始設定是皮膚為綠色，穿淺藍色無袖帶有紅色領結的上衣。",
+        "entity": [
+            "台灣巧連智"
+        ],
+        "category": [
+            "media"
+        ]
+    },
+    "sentence271": {
+        "sentence": "EDM（电子舞曲）成为一种全球现象，像Calvin Harris这样的DJ创作了主导舞池的曲目。",
+        "entity": [
+            "EDM",
+            "电子舞曲",
+            "Calvin Harris"
+        ],
+        "category": [
+            "music genre",
+            "music genre",
+            "musician"
+        ]
+    },
+    "sentence272": {
+        "sentence": "2015年6月6日，京畿道富川市發現一名感染途徑不明的MERS病毒陽性反應者，他因未與其他感染者接觸過而未被列入隔離對象，因此說明在醫院外部可能存在其他的感染途徑。",
+        "entity": [
+            "京畿道",
+            "富川市",
+            "MERS病毒"
+        ],
+        "category": [
+            "state or province",
+            "city",
+            "other biological entity"
+        ]
+    },
+    "sentence273": {
+        "sentence": "中国同加利福尼亚州的友好交往源远流长。",
+        "entity": [
+            "中国",
+            "加利福尼亚州"
+        ],
+        "category": [
+            "country",
+            "state or province"
+        ]
+    },
+    "sentence274": {
+        "sentence": "凡購買《Everyday、髮箍》的Type-A和Type-B的普通版或限量版，均可獲得總選投票券一張。另外，AKB48歌迷會「柱之會」會員、「AKB48Mobile」會員、「AKB48LIVE!!」",
+        "entity": [
+            "Everyday、髮箍",
+            "Type-A",
+            "Type-B",
+            "AKB48",
+            "柱之會",
+            "AKB48Mobile",
+            "AKB48LIVE"
+        ],
+        "category": [
+            "song",
+            "album",
+            "album",
+            "band",
+            "community",
+            "community",
+            "community"
+        ]
+    },
+    "sentence275": {
+        "sentence": "中華人民共和國與美國建交，同時中華民國與美國斷交後，中華人民共和國政府向美國政府請求把當時的中華民國在美國的大使官邸「雙橡園」過渡，不過中華民國政府以十美元象徵性出售給自由中國之友協會，之後再購回，事件才告段落。",
+        "entity": [
+            "中華人民共和國",
+            "美國",
+            "中華民國",
+            "雙橡園",
+            "自由中國之友協會"
+        ],
+        "category": [
+            "country",
+            "country",
+            "country",
+            "landmark",
+            "other non-commercial organization"
+        ]
+    },
+    "sentence276": {
+        "sentence": "Makerspace社区为对DIY项目感兴趣的个人提供工具和资源。",
+        "entity": [
+            "Makerspace社区"
+        ],
+        "category": [
+            "other social group"
+        ]
+    },
+    "sentence277": {
+        "sentence": "伊德羅湖是意大利的湖泊，位於該國北部，由布雷西亞省和特倫托自治省負責管轄，長11公里、寬1.9公里，面積11.4平方公里，集水區面積617平方公里，湖岸線長度24公里，海拔高度368米，最大水深122米，蓄水量0.33方公里。",
+        "entity": [
+            "伊德羅湖",
+            "意大利",
+            "布雷西亞省",
+            "特倫托自治省"
+        ],
+        "category": [
+            "water body",
+            "country",
+            "state or province",
+            "state or province"
+        ]
+    },
+    "sentence278": {
+        "sentence": "化学动力学中的速率定律根据反应物的浓度和速率常数决定了反应的速度。",
+        "entity": [
+            "化学动力学",
+            "速率定律",
+            "反应物",
+            "速率常数"
+        ],
+        "category": [
+            "chemical theory",
+            "other chemical entity",
+            "other chemical entity",
+            "other chemical entity"
+        ]
+    },
+    "sentence279": {
+        "sentence": "在杭州湖滨银泰购物中心,年轻人们正在参加一场快闪活动,现场气氛热闹非凡。",
+        "entity": [
+            "杭州湖滨银泰购物中心",
+            "快闪活动",
+            "杭州"
+        ],
+        "category": [
+            "market/mall",
+            "business event",
+            "city"
+        ]
+    },
+    "sentence280": {
+        "sentence": "波是一种通过空间或介质传输能量的物理实体，在声波和光波中可以看到。",
+        "entity": [
+            "波",
+            "声波",
+            "光波"
+        ],
+        "category": [
+            "physical phenomenon",
+            "physical phenomenon",
+            "physical phenomenon"
+        ]
+    },
+    "sentence281": {
+        "sentence": "維權律師滕彪說「這次對大抓捕，這是中共當局精心策劃的對整個維權律師群體的一種清洗，原來當局對維權律師早就恨之入骨了，想要找機會要進行大規模的抓捕，雖然看來主要集中在鋒銳律師事務所和屠夫案上，但是它是全國範圍內針對整個維權律師的群體一致行動。」",
+        "entity": [
+            "滕彪",
+            "中共",
+            "鋒銳律師事務所",
+            "屠夫案"
+        ],
+        "category": [
+            "scholar",
+            "political/military",
+            "company",
+            "political/military event"
+        ]
+    },
+    "sentence282": {
+        "sentence": "《資本投資者入境計劃》於2003年10月27日實施，截至2012年4月底，入境事務處共接獲21,036宗申請，獲批准的個案共14,512宗，當中約12,300人為取得外國永久居民身份的中國籍人士；計劃共吸納投資金額1,063億9千萬港元。",
+        "entity": [
+            "資本投資者入境計劃",
+            "入境事務處",
+            "中國"
+        ],
+        "category": [
+            "law",
+            "government facility",
+            "country"
+        ]
+    },
+    "sentence283": {
+        "sentence": "Ice dancing, a form of figure skating, combines athleticism and artistry as pairs perform choreographed routines on ice.",
+        "entity": [
+            "Ice dancing",
+            "figure skating"
+        ],
+        "category": [
+            "other art",
+            "other art"
+        ]
+    },
+    "sentence284": {
+        "sentence": "羽绒服设计师在保暖的基础上，通过创新剪裁和面料处理，让这件冬季必备单品更加轻薄时尚，不再显得臃肿。",
+        "entity": [
+            "羽绒服设计师",
+            "羽绒服"
+        ],
+        "category": [
+            "other person",
+            "clothes"
+        ]
+    },
+    "sentence285": {
+        "sentence": "馬丁斯·美耶斯（Martins Meiers）是一位拉脫維亞籃球運動員。他現在效力於拉脫維亞球隊里加籃球俱樂部。他也代表拉脫維亞國家男子籃球隊參賽，參加了2011年歐洲籃球錦標賽和2013年歐洲籃球錦標賽。",
+        "entity": [
+            "馬丁斯·美耶斯",
+            "拉脫維亞",
+            "里加籃球俱樂部",
+            "拉脫維亞國家男子籃球隊",
+            "2011年歐洲籃球錦標賽",
+            "2013年歐洲籃球錦標賽"
+        ],
+        "category": [
+            "athlete",
+            "country",
+            "sports team/league",
+            "sports team/league",
+            "sporting event",
+            "sporting event"
+        ]
+    },
+    "sentence286": {
+        "sentence": "在武汉火车站,志愿者们正在帮助行动不便的老年旅客办理乘车手续,体现着城市的温情。",
+        "entity": [
+            "武汉火车站",
+            "武汉"
+        ],
+        "category": [
+            "station",
+            "city"
+        ]
+    },
+    "sentence287": {
+        "sentence": "埃尔普拉特-德略布雷加特（[əɫˈpɾaddəʎuβɾəˈɣat]），是西班牙加泰罗尼亚巴塞罗那省的一个市镇。总面积32平方公里，总人口63312人（2013年），人口密度2000人/平方公里。",
+        "entity": [
+            "埃尔普拉特-德略布雷加特",
+            "加泰罗尼亚",
+            "巴塞罗那省"
+        ],
+        "category": [
+            "city",
+            "region",
+            "state or province"
+        ]
+    },
+    "sentence288": {
+        "sentence": "荷兰首相馬克·呂特说：利比亚人曾冒着巨大的生命危险去反抗卡扎菲的统治，“我们宁愿看到他由于所犯下的罪行而在海牙受审，无论如何，让我们期望其他罪犯能到国际刑事法院受审。",
+        "entity": [
+            "荷兰",
+            "馬克·呂特",
+            "利比亚",
+            "卡扎菲",
+            "海牙",
+            "国际刑事法院"
+        ],
+        "category": [
+            "country",
+            "politician",
+            "country",
+            "politician",
+            "city",
+            "other non-commercial organization"
+        ]
+    },
+    "sentence289": {
+        "sentence": "Ruby是一种动态的开源编程语言，通常与Ruby on Rails框架一起使用，用于Web应用程序开发。",
+        "entity": [
+            "Ruby",
+            "Ruby on Rails",
+            "Web应用程序开发"
+        ],
+        "category": [
+            "programlang",
+            "software",
+            "other computer science entity"
+        ]
+    },
+    "sentence290": {
+        "sentence": "在重庆中国三峡博物馆,游客们正在了解长江三峡工程的历史和影响,感受这一世纪工程的宏大规模。",
+        "entity": [
+            "重庆中国三峡博物馆",
+            "长江三峡工程",
+            "长江"
+        ],
+        "category": [
+            "museum",
+            "other production facility",
+            "water body"
+        ]
+    },
+    "sentence291": {
+        "sentence": "未成名作家尼克从中西部故乡来到纽约，在他住所旁边正是盖茨比的豪华宅第。这里每晚都在举行盛大的宴会。尼克和盖茨比相识，并对盖茨比充满探究的兴趣。探究的结果是：尼克了解到盖茨比内心深处有一段不了之情。",
+        "entity": [
+            "尼克",
+            "中西部",
+            "纽约",
+            "盖茨比"
+        ],
+        "category": [
+            "author",
+            "region",
+            "city",
+            "other figure"
+        ]
+    },
+    "sentence292": {
+        "sentence": "10月22日，中共湖南省纪委对湖南省司法厅原党组成员、副厅长万传友严重违纪问题进行了立案审查，决定给予万传友开除党籍处分；报省政府批准，给予其开除公职处分。对万传友涉嫌犯罪问题及线索，已移送司法机关依法处理。",
+        "entity": [
+            "中共湖南省纪委",
+            "湖南省司法厅",
+            "万传友",
+            "省政府",
+            "司法机关"
+        ],
+        "category": [
+            "political/military",
+            "political/military",
+            "politician",
+            "political/military",
+            "political/military"
+        ]
+    },
+    "sentence293": {
+        "sentence": "2011年初，埃里克森转会到另一支第二级别球队阿特维达堡。他在2011赛季出场30次，射进15球，位列联赛射手榜第三位，并帮助球队获得联赛冠军，升级到顶级联赛。2012前半赛季，他出场20次，射进11球。",
+        "entity": [
+            "埃里克森",
+            "阿特维达堡"
+        ],
+        "category": [
+            "athlete",
+            "sports team/league"
+        ]
+    },
+    "sentence294": {
+        "sentence": "有些人不鸣则已，一鸣惊人，我鸣了1 0 0 次，才获得了【语惊四座】勋章，我痛苦地发现：嗓门小，害死人啊！",
+        "entity": [
+            "语惊四座勋章"
+        ],
+        "category": [
+            "other award"
+        ]
+    },
+    "sentence295": {
+        "sentence": "1990年代，商業電台為鼓勵本地創作音樂，商業二台（叱咤903）曾經指定只播放香港本地創作流行音樂，直至1990年代中期為止。1990年代商業電台也孕育出不少人才，有軟硬天師，在填詞界舉足輕重的林夕和黃偉文等。",
+        "entity": [
+            "商業電台",
+            "商業二台",
+            "香港",
+            "叱咤903",
+            "軟硬天師",
+            "林夕",
+            "黃偉文"
+        ],
+        "category": [
+            "media",
+            "media",
+            "city",
+            "media",
+            "artist",
+            "artist",
+            "artist"
+        ]
+    },
+    "sentence296": {
+        "sentence": "'''亞瓜龍'''是巴拉圭的城鎮，位於該國西南部，由巴拉瓜里省負責管轄，距離亞松森48公里，始建於1539年，面積192平方公里，海拔高度61米，2002年人口27,250，人口密度每平方公里135人。",
+        "entity": [
+            "亞瓜龍",
+            "巴拉圭",
+            "巴拉瓜里省",
+            "亞松森"
+        ],
+        "category": [
+            "district",
+            "country",
+            "state or province",
+            "city"
+        ]
+    },
+    "sentence297": {
+        "sentence": "少数历史文献将松筠庵的“筠”字写作“云”，也有的写作“鹤”。《天府广志》认为，写作“鹤”字是错的。王渔洋集中的“筠”写作“云”，王渔洋所撰《高公墓志》中则作“筠”，可见两字可以相通。《乾隆京城全图》上也标有“松筠庵”。松筠庵是长椿寺的下院。",
+        "entity": [
+            "松筠庵",
+            "天府广志",
+            "王渔洋",
+            "乾隆京城全图",
+            "长椿寺"
+        ],
+        "category": [
+            "landmark",
+            "non-fiction",
+            "scholar",
+            "painting",
+            "landmark"
+        ]
+    },
+    "sentence298": {
+        "sentence": "秦时明月官方微博卫庄大人果然是忧国思民的典范哈哈",
+        "entity": [
+            "秦时明月",
+            "卫庄大人"
+        ],
+        "category": [
+            "film",
+            "other person"
+        ]
+    },
+    "sentence299": {
+        "sentence": "海洋之水护肤品圈里最最安全的保湿水！",
+        "entity": [
+            "海洋之水"
+        ],
+        "category": [
+            "personal care"
+        ]
+    },
+    "sentence300": {
+        "sentence": "1994年，在AIESEC亚太地区领导力峰会中再次提出建立AIESEC中国大陆区。后来，在瑞士、美国、德国、以及日本AIESEC总会的帮助下，AIESEC正式在中国大陆区建立。",
+        "entity": [
+            "AIESEC",
+            "亚太地区",
+            "瑞士",
+            "美国",
+            "德国",
+            "日本",
+            "中国大陆"
+        ],
+        "category": [
+            "other non-commercial organization",
+            "region",
+            "country",
+            "country",
+            "country",
+            "country",
+            "state or province"
+        ]
+    }
+}
