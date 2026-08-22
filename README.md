@@ -1,48 +1,23 @@
-# DynamicNER: A Dynamic, Multilingual, and Fine-Grained Dataset for LLM-based Named Entity Recognition
-This repository is supplement material for the paper: [DynamicNER: A Dynamic, Multilingual, and Fine-Grained Dataset for LLM-based Named Entity Recognition](https://arxiv.org/abs/2409.11022). This is accpeted by EMNLP 2025 Main Conference.
+## Riconoscimenti e Architettura
+Questo progetto adatta per l'italiano il framework originale **DynamicNER** e la pipeline **CascadeNER**. I crediti per l'architettura originaria vanno ai rispettivi autori ([DynamicNER: A Dynamic, Multilingual, and Fine-Grained Dataset for LLM-based Named Entity Recognition](https://aclanthology.org/2025.emnlp-main.835/) (Luo et al., EMNLP 2025)), mentre i dati di validazione e fine-tuning derivano dal dataset **MultiCoNER**. La pipeline, basata sul modello `Qwen2.5-1.5B-Instruct`, si divide in due fasi sequenziali:
+*   **Stage 1 (Extractor):** Individua i confini delle entità testuali racchiudendole tra speciali delimitatori (`##entità##`).
+*   **Stage 2 (Classifier):** Naviga un'ontologia gerarchica a 155 categorie per assegnare a ciascuna estrazione l'etichetta semantica corretta.
 
-## 💓Update!
-* Our paper is accpeted by EMNLP 2025!!!
+## Esperimenti: Zero-Shot e Fine-Tuning
+Il progetto confronta due diversi approcci di addestramento e inferenza:
+*   **Baseline Zero-Shot (Cross-Lingual):** Inizialmente, il modello è stato addestrato esclusivamente su dati in lingua inglese e testato in modalità zero-shot sul dataset italiano, dimostrando le capacità native di transfer learning cross-linguale dell'architettura.
+*   **Fine-Tuning Nativo (Italiano):** Il modello è stato successivamente ottimizzato (LoRA) con `ms-swift` direttamente su dati italiani, portando a un drastico incremento delle prestazioni. I checkpoint ottimali individuati tramite Early Stopping sono lo Step 2200 per l'Extractor e lo Step 9100 per il Classifier.
 
-* We add more existing open-source datasets in our format and also the format for fine-tuning and inferrence based on SWIFT! You can test CascadeNER easier!
+## Stress Test su Dati Reali
+Per valutare il fenomeno del *Domain Shift*, la cartella `test_reali/` include test su documenti PDF originali:
+*   **Out-of-Domain (Gazzetta Ufficiale):** Applicato a sintassi burocratiche complesse, l'Extractor ha mostrato difficoltà (allucinazioni testuali), mentre il Classifier ha generato risultati `unknown` per concetti amministrativi estranei all'ontologia originaria.
+*   **In-Domain (Recensione "Titanic"):** Su testi narrativo-giornalistici, il modello ha ripreso a estrarre in modo impeccabile luoghi, attori e opere, confermando l'efficacia del fine-tuning italiano su strutture sintattiche standard.
 
-* We discover a problem that as SWIFT has been updated and some parameters has been changed, so please use the old version (according to requirements.txt).
+## Comandi di Inferenza e Riproducibilità
+Dopo aver generato il formato JSONL dai PDF tramite gli script Python dedicati, eseguire i seguenti comandi dalla radice `CascadeNER`:
 
-* We provide `demo.py` for testing CascadeNER easier.
+*   **Stage 1 (Extractor):**
+    `swift infer --ckpt_dir "model/extractor_it/qwen2_5-1_5b-instruct/v0-20260807-115116/checkpoint-2200" --custom_val_dataset_path "test_reali/test_titanic_infer.jsonl" --result_dir "test_reali/titanic_stage1" --save_result true --max_new_tokens 256 --repetition_penalty 1.3 --do_sample false`
 
-## 📚 Features
-* This repository includes DynamicNER and CascadeNER, our NER dataset and framework.
-
-* DynamicNER is the first dataset specially designed for NER with LLMs with a novel dynamic categorization system. It's multilingual and fine-grained.
-
-* CascadeNER is the first universal and multilingual NER framework with SLMs, which supports both few-shot and zero-shot scenarios and achieves SOTA performance on low-resource and fine-grained datasets
-
-
-## 📈 Quantitive Result:
-
-<p align="center">
-  <img src="figure/dynamic.png" width="90%"/>
-</p>
-
-## 📌 Prerequisites
-
-1. `conda create -n dynamicner python=3.10`
-2. `pip install -r requirements.txt`
-3. You may also use a standard environment for [SWIFT](https://github.com/modelscope/ms-swift).
-4. You may also download `./DynamicNER.7z` and unzip it to obtain the dataset for training.
-
-## 🌟 Usage
-* **Dataset preparation**: the `DynamicNER_process` directory contains the scripts for generating dynamic datasets, running format conversions, and validating labels. See `DynamicNER_process/readme.md` for the full checklist (including `check_dynamic_classify.py`, `prune_dynamic_classify.py`, and `sync_extract.py`).
-
-* **Training data**: please use [SWIFT](https://github.com/modelscope/ms-swift) for model training. We strongly recommend Qwen series for your base models. You may follow the examples in any `train.json` from BASE-format datasets on Hugging Face to understand the training layout. A concrete example is provided in `./DynamicNER_process/example.json`.
-
-* **CascadeNER inference**: Stage-1 extraction, Stage-2 classification, and evaluation are documented in `./CascadeNER/README.md`. Configure paths via CLI arguments/environment variables rather than editing the scripts directly. Typical usage involves running `extract.sh`, then `python model/infer.py`, and finally `python evaluate.py`.
-
-* **Transformation utilities**: to transform your own corpora into SWIFT/BIO formats, use `./DynamicNER_process/transformation/stage1_trans.py` and `stage2_trans.py`; BIO exports are handled by `BIO_trans.py` (and `BIO_trans_zh.py`).
-
-* PS: Due to the update of SWIFT, you may need to use the old version to directly use our code, or you can modify the code slightly with the guidance from [SWIFT](https://github.com/modelscope/ms-swift). We will later provide a updated version of code for this problem.
-
-## ❤️ Acknowledgement
-* We thank QwenLM for opening source their [Qwen](https://github.com/QwenLM/Qwen) model for us
-* We thank ModelScope for opening source their [SWIFT](https://github.com/modelscope/ms-swift) framework for us
-* We thank teams of CoNLL2003, CrossNER, FewNERD, MultiCoNER and PAN-X for opening source their datasets
+*   **Stage 2 (Classifier):**
+    `python model/infer.py --responses_dir "test_reali/titanic_stage1" --classifier_model "model/classifier_it/qwen2_5-1_5b-instruct/v0-20260808-111412/checkpoint-9100" --category_file "../DynamicNER_process/DynamicNER.json" --output_file "test_reali/cascade_titanic_pred.json" --device cuda`
