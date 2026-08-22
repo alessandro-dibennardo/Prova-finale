@@ -1,0 +1,2350 @@
+{
+  "sentence1": {
+    "sentence": "- Psicologia generale, neuropsicologia e neuroscienze cognitive, psicometria, per la Facoltà di lettere e filosofia.",
+    "entity": [
+      "Psicologia"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence2": {
+    "sentence": "02/PHYS-03 - Fisica sperimentale della materia e applicazioni",
+    "entity": [
+      "02/PHYS-03",
+      "Fisica sperimentale della materia e applicazioni"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence3": {
+    "sentence": "02/PHYS-05 - Astrofisica e cosmologia, fisica dello spazio,",
+    "entity": [
+      "02/PHYS-05",
+      "Astrofisica e cosmologia"
+    ],
+    "category": [
+      "unknown",
+      "other scientific entity"
+    ]
+  },
+  "sentence4": {
+    "sentence": "05/BIOS-10 - Biologia cellulare e applicata BIOS-10/A - Biologia cellulare e applicata",
+    "entity": [
+      "05/BIOS-10 - Biologia cellulare e applicata",
+      "BIOS-10/A - Biologia cellulare e applicata"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence5": {
+    "sentence": "05/BIOS-13 - Istologia ed embriologia umana BIOS-13/A - Istologia ed embriologia umana",
+    "entity": [
+      "05/BIOS-13 - ",
+      " BIOS-13/A - "
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence6": {
+    "sentence": "06/MEDS-01 - Genetica medica MEDS-01/A - Genetica medica Dipartimento di salute della donna e del bambino - SDB",
+    "entity": [
+      "MEDS-01",
+      "Genetica medica"
+    ],
+    "category": [
+      "unknown",
+      "other medical entity"
+    ]
+  },
+  "sentence7": {
+    "sentence": "06/MEDS-05 - Medicina interna MEDS-05/A - Medicina interna Dipartimento di medicina - DIMED",
+    "entity": [
+      "MEDS-05",
+      "Medicina interna"
+    ],
+    "category": [
+      "unknown",
+      "other medical entity"
+    ]
+  },
+  "sentence8": {
+    "sentence": "06/MEDS-10 - gastroenterologia, malattie infettive e malattie cutanee",
+    "entity": [
+      "06/MEDS-10",
+      "gastroenterologia"
+    ],
+    "category": [
+      "unknown",
+      "other medical entity"
+    ]
+  },
+  "sentence9": {
+    "sentence": "06/MEDS-20 - Pediatria generale e specialistica e neuropsichiatria infantile",
+    "entity": [
+      "MEDS-20"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence10": {
+    "sentence": "06/MEDS-24 - Statistica medica, igiene generale e applicata e scienze infermieristiche generali, cliniche, pediatriche e ostetrico-ginecologiche e neonatali",
+    "entity": [
+      "MEDS-24"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence11": {
+    "sentence": "07/AGRI-04 - Ingegneria agraria, forestale e dei biosistemi AGRI-04/B - Meccanica agraria Dipartimento di territorio e sistemi agro-forestali - TESAF",
+    "entity": [
+      "07/AGRI-04 - Ingegneria agraria, forestale e dei biosistemi AGRI-04/B - "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence12": {
+    "sentence": "09/IIND-06 - Macchine e sistemi per l’energia e l’ambiente",
+    "entity": [
+      "09/IIND-06",
+      "Macchine e sistemi per l’energia e l’ambiente"
+    ],
+    "category": [
+      "other product",
+      "other product"
+    ]
+  },
+  "sentence13": {
+    "sentence": "1 1 rttAR_30D_0726_02/PHYS-04 02/PHYS-04 PHYS-04/A fisica",
+    "entity": [],
+    "category": []
+  },
+  "sentence14": {
+    "sentence": "1 rttAP_29D_0726_02/PHYS-03 02/ PHYS-03 PHYS-03/A Fisica",
+    "entity": [
+      "rttAP_29D_0726_02/PHYS-03 02/ "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence15": {
+    "sentence": "10 1 rttAR_30D_0726_01/INFO-01P 01/INFO-01 INFO-01/A pedagogia, psicologia, filosofia",
+    "entity": [],
+    "category": []
+  },
+  "sentence16": {
+    "sentence": "10 rttAP_29D_0726_01/INFO-01 01/ INFO-01 INFO-01/A Matematica e informatica",
+    "entity": [
+      "rttAP_29D_0726_01",
+      "INFO-01"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence17": {
+    "sentence": "10/ANGL-01 - Anglistica e angloamericanistica ANGL-01/A - Letteratura inglese Dipartimento di studi linguistici e letterari - DISLL",
+    "entity": [
+      "10/ANGL-01 - Anglistica e angloamericanistica "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence18": {
+    "sentence": "10/HELL-01 - Lingua e letteratura greca HELL-01/D - Lingua e letteratura neogreca",
+    "entity": [
+      "10/HELL-01",
+      "Lingua e letteratura greca",
+      "Lingua e letteratura neogreca"
+    ],
+    "category": [
+      "unknown",
+      "fiction",
+      "fiction"
+    ]
+  },
+  "sentence19": {
+    "sentence": "10/LIFI-01- Linguistica e filologia italiana LIFI-01/A - Linguistica italiana Dipartimento di studi linguistici e letterari - DISLL",
+    "entity": [],
+    "category": []
+  },
+  "sentence20": {
+    "sentence": "11 1 rttAR_30D_0726_06/MEDS-03 06/MEDS-03 MEDS-03/A scienze biomediche",
+    "entity": [],
+    "category": []
+  },
+  "sentence21": {
+    "sentence": "11 rttAP_29D_0726_01/MATH-02 01/ MATH-02 MATH-02/B Matematica e informatica",
+    "entity": [
+      "rttAP_29D_0726_01",
+      "MATH-02"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence22": {
+    "sentence": "11/GEOG-01 – Geografia GEOG-01/B - Geografia economico-politica",
+    "entity": [
+      "11/GEOG-01",
+      "Geografia GEOG-01/B"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence23": {
+    "sentence": "11/PHIL-03 - Filosofia morale PHIL-03/A - Filosofia morale Dipartimento di medicina molecolare - DMM",
+    "entity": [
+      "11/PHIL-03 "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence24": {
+    "sentence": "12 1 rttAR_30D_0726_03/CHEM-04 03/CHEM-04 CHEM-04/A scienze chimiche e geologiche",
+    "entity": [
+      "03"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence25": {
+    "sentence": "12 rttAP_29D_0726_03/CHEM-01 03/ CHEM-01 CHEM-01/A Scienze chimiche e geologiche",
+    "entity": [
+      "rttAP_29D_0726_03"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence26": {
+    "sentence": "13 1 rttAR_30D_0726_05/BIOS-01 05/BIOS-01 BIOS-01/C scienze della vita e dell’ambiente",
+    "entity": [],
+    "category": []
+  },
+  "sentence27": {
+    "sentence": "13 rttAP_29D_0726_04/GEOS-01 04/ GEOS-01 GEOS-01/A Scienze chimiche e geologiche",
+    "entity": [
+      "rttAP_29D_0726_04/GEOS-01",
+      "04/ GEOS-01"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence28": {
+    "sentence": "13/ECON-08 - Organizzazione aziendale ECON-08/A - Organizzazione aziendale",
+    "entity": [
+      "13/ECON-08",
+      "Organizzazione aziendale ECON-08/A"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence29": {
+    "sentence": "14 1 rttAR_30D_0726_13/STAT-01 13/STAT-01 STAT-01/A scienze economiche ed aziendali",
+    "entity": [
+      "STAT-01/A"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence30": {
+    "sentence": "14 rttAP_29D_0726_04/GEOS-03 04/ GEOS-03 GEOS-03/A Scienze chimiche e geologiche",
+    "entity": [
+      "rttAP_29D_0726_04/GEOS-03",
+      "04/ GEOS-03"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence31": {
+    "sentence": "14/GSPS-01 - Filosofia politica GSPS-01/A - Filosofia politica",
+    "entity": [
+      "14/GSPS-01",
+      "Filosofia politica"
+    ],
+    "category": [
+      "unknown",
+      "fiction"
+    ]
+  },
+  "sentence32": {
+    "sentence": "14/GSPS-08 - Sociologia dei processi economici, del lavoro, dell’ambiente e del territorio",
+    "entity": [
+      "14/GSPS-08"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence33": {
+    "sentence": "15 1 rttAR_30D_0726_06/MEDS-09 06/MEDS-09 MEDS-09/A scienze mediche e sanità pubblica",
+    "entity": [
+      "rttAR_30D_0726_06"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence34": {
+    "sentence": "15 rttAP_29D_0726_03/CHEM-07 03/ CHEM-07 CHEM-07/A Scienze della vita e dell’ambiente",
+    "entity": [
+      "rttAP_29D_0726_03",
+      "CHEM-07 03/ CHEM-07 CHEM-07"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence35": {
+    "sentence": "16 1 rttAR_30D_0726_06/MEDS-26 06/MEDS-26 MEDS-26/C scienze mediche e sanità pubblica",
+    "entity": [
+      "rttAR_30D_0726_06"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence36": {
+    "sentence": "16 rttAP_29D_0726_05/BIOS-05 05/ BIOS-05 BIOS-05/A Scienze della vita e dell’ambiente",
+    "entity": [
+      "rttAP_29D_0726_05/BIOS-05 05/ "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence37": {
+    "sentence": "17 1 rttAR_30D_0726_10/STAA-01 10/STAA-01 STAA-01/J scienze politiche e sociali",
+    "entity": [
+      "scienze politiche e sociali"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence38": {
+    "sentence": "17 rttAP_29D_0726_12/GIUR-02 12/ GIUR-02 GIUR-02/A Scienze economiche ed aziendali",
+    "entity": [
+      "rttAP_29D_0726_12",
+      "GIUR-02 12/ GIUR-02 GIUR-02/A Scienze economiche ed aziendali"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence39": {
+    "sentence": "2 1 rttAR_30D_0726_02/PHYS-06 02/PHYS-06 PHYS-06/B fisica",
+    "entity": [],
+    "category": []
+  },
+  "sentence40": {
+    "sentence": "2 rttAP_29D_0726_08/CEAR-02 08/ CEAR-02 CEAR-02/A Ingegneria civile, ambientale e architettura",
+    "entity": [],
+    "category": []
+  },
+  "sentence41": {
+    "sentence": "3 1 rttAR_30D_0726_12/GIUR-05 12/GIUR-05 GIUR-05/A giurisprudenza",
+    "entity": [
+      "rttAR_30D_0726_12"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence42": {
+    "sentence": "3 rttAP_29D_0726_08/CEAR-08 08/ CEAR-08 CEAR-08/C Ingegneria civile, ambientale e architettura",
+    "entity": [],
+    "category": []
+  },
+  "sentence43": {
+    "sentence": "4 1 rttAR_30D_0726_08/CEAR-03 08/CEAR-03 CEAR-03/C ingegneria civile, ambientale e architettura",
+    "entity": [],
+    "category": []
+  },
+  "sentence44": {
+    "sentence": "4 rttAP_29D_0726_09/IIND-07 09/ IIND-07 IIND-07/B Ingegneria civile, ambientale e architettura",
+    "entity": [
+      "rttAP_29D_0726_09/IIND-07 09/ "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence45": {
+    "sentence": "5 1 rttAR_30D_0726_09/IBIO-01 09/IBIO-01 IBIO-01/A ingegneria elettrica ed elettronica",
+    "entity": [],
+    "category": []
+  },
+  "sentence46": {
+    "sentence": "5 rttAP_29D_0726_09/IIET-01 09/ IIET-01 IIET-01/A Ingegneria elettrica ed elettronica",
+    "entity": [
+      "rttAP_29D_0726_09/IIET-01 09/ "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence47": {
+    "sentence": "6 1 rttAR_30D_0726_09/IIND-06 09/IIND-06 IIND-06/B ingegneria meccanica, chimica e dei materiali",
+    "entity": [],
+    "category": []
+  },
+  "sentence48": {
+    "sentence": "6 rttAP_29D_0726_09/IIND-08 09/ IIND-08 IIND-08/A Ingegneria elettrica ed elettronica",
+    "entity": [
+      "rttAP_29D_0726_09/IIND-08 09/ "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence49": {
+    "sentence": "7 1 rttAR_30D_0726_09/IMAT-01 09/IMAT-01 IMAT-01/A ingegneria meccanica, chimica e dei materiali",
+    "entity": [
+      "ingegneria meccanica, chimica e dei materiali"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence50": {
+    "sentence": "7 rttAP_29D_0726_09/IINF-03 09/ IINF-03 IINF-03/A Ingegneria elettrica ed elettronica",
+    "entity": [
+      "rttAP_29D_0726_09/IINF-03 09/ "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence51": {
+    "sentence": "8 1 rttAR_30D_0726_11/PAED-02 11/PAED-02 PAED-02/A lettere, lingue e beni culturali",
+    "entity": [
+      "11/PAED-02"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence52": {
+    "sentence": "8 rttAP_29D_0726_09/IINF-05 09/ IINF-05 IINF-05/A Ingegneria elettrica ed elettronica",
+    "entity": [
+      "rttAP_29D_0726_09/IINF-05 09/ "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence53": {
+    "sentence": "9 2 rttAR_30D_0726_01/INFO-01M 01/INFO-01 INFO-01/A matematica e informatica",
+    "entity": [],
+    "category": []
+  },
+  "sentence54": {
+    "sentence": "9 rttAP_29D_0726_09/IIND-06 09/ IIND-06 IIND-06/A Ingegneria meccanica, chimica e dei materiali",
+    "entity": [
+      "rttAP_29D_0726_09/IIND-06 09/ "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence55": {
+    "sentence": "Ad avvenuta pubblicazione del presente avviso nella Gazzetta Ufficiale della Repubblica italiana - 4ª Serie speciale «Concorsi ed esami», il provvedimento di rettifica è reso immediatamente disponibile sui siti web dell’Ateneo (http://www.unige.it/concorsi), del Ministero dell’istruzione, dell’università e della ricerca (http://bandi.miur.it), dell’Unione europea https://euraxess.ec.europa.eu ).",
+    "entity": [],
+    "category": []
+  },
+  "sentence56": {
+    "sentence": "Ai fini della valutazione della produzione scientifica ( impact factor , citation analysis e continuità), la commissione utilizzerà gli indici bibliometrici accreditati dalla comunità scientifica internazionale ( web of science e/o scopus ) e analizzerà specificamente i seguenti aspetti:",
+    "entity": [
+      "indici"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence57": {
+    "sentence": "Ai fini della valutazione delle capacità manageriali, la Commissione analizzerà il volume totale dei finanziamenti ottenuti dal candidato negli ultimi dieci anni, l’esperienza nella gestione delle banche di materiale biologico, l’entità del materiale bancato e il numero delle forniture a terzi, la posizione di coordinamento/responsabilità di strutture di ricerca/assistenza, con incarichi di durata non inferiori a un anno.",
+    "entity": [
+      "Commissione"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence58": {
+    "sentence": "Ai fini della valutazione di tale criterio, la Commissione analizzerà, nell’ambito dell’area di riconoscimento dell’IRCCS, la complessità dei progetti presentati, le iniziative scientifiche, svolte in ambito nazionale e internazionale, con il relativo impatto, la rilevanza delle reti nazionali ed estere, il ruolo del candidato in esse svolto e l’attività di ricerca traslazionale svolta dal medesimo con le ricadute sulla ricerca clinica.",
+    "entity": [
+      "Commissione"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence59": {
+    "sentence": "Ai fini della valutazione, la Commissione terrà conto della laurea, della specializzazione e/o dottorato, dell’attività specifica attualmente svolta, delle docenze in corsi di laurea e/o presso istituzioni pubbliche, con particolare attenzione all’attinenza alla disciplina di riconoscimento dell’IRCCS.",
+    "entity": [
+      "Commissione"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence60": {
+    "sentence": "Ai sensi dell’art. 18 della legge n. 240/2010 e del regolamento relativo alla disciplina delle procedure di chiamata nel ruolo dei professori di prima fascia e dei professori di seconda fascia emanato con decreto rettorale n. 2294 del 10 aprile 2026, si comunica che l’Università cattolica del Sacro Cuore ha bandito con decreto rettorale n. 2568 del 1° luglio 2026, la seguente procedura di valutazione scientificodidattica di un professore di ruolo di prima fascia da effettuare mediante chiamata.",
+    "entity": [
+      "legge"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence61": {
+    "sentence": "Ai sensi dell’art. 18 della legge n. 240/2010 e del regolamento relativo alla disciplina delle procedure di chiamata nel ruolo dei professori di prima fascia e dei professori di seconda fascia emanato con decreto rettorale n. 2294 del 10 aprile 2026, si comunica che l’Università cattolica del Sacro Cuore ha bandito con decreto rettorale n. 2578 del 6 luglio 2026, la seguente procedura di valutazione scientifico-didattica a un posto di professore di ruolo di prima fascia da effettuare mediante chiamata.",
+    "entity": [
+      "18"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence62": {
+    "sentence": "Ai sensi dell’art. 18, comma 4 -ter , della legge n. 240/2010 e del regolamento relativo alla disciplina delle procedure di chiamata nel ruolo dei professori di prima fascia e dei professori di seconda fascia emanato con decreto rettorale n. 2294 del 10 aprile 2026, si comunica che l’Università cattolica del Sacro Cuore ha bandito con decreto rettorale n. 2569 del 1° luglio 2026, la seguente procedura di valutazione scientifico-didattica di un professore di ruolo di prima fascia da effettuare mediante chiamata.",
+    "entity": [
+      "18"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence63": {
+    "sentence": "Ai sensi dell’art. 24 della legge 30 dicembre 2010, n. 240 come modificato dalla legge 29 giugno 2022, n. 79 e del regolamento relativo alla disciplina dei ricercatori a tempo determinato (RTT) emanato con decreto rettorale n. 1559 del 1° settembre 2025, si comunica che l’Università Cattolica del Sacro Cuore ha bandito, con decreto rettorale n. 2570 del 1° luglio 2026, la seguente procedura di valutazione di ricercatore a tempo determinato (RTT).",
+    "entity": [
+      "art. 24 della legge 30 dicembre 2010, n. 240 come modificato dalla "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence64": {
+    "sentence": "Ai sensi dell’art. 24 della legge 30 dicembre 2010, n. 240 come modificato dalla legge 29 giugno 2022, n. 79 e del regolamento relativo alla disciplina dei ricercatori a tempo determinato (RTT) emanato con decreto rettorale n. 1559 del 1° settembre 2025, si comunica che l’Università cattolica del Sacro Cuore ha bandito, con decreto rettorale n. 2579 del 6 luglio 2026, le seguenti procedure di valutazione di ricercatore a tempo determinato (RTT).",
+    "entity": [],
+    "category": []
+  },
+  "sentence65": {
+    "sentence": "Alla presente procedura non possono partecipare i professori di prima fascia già in servizio nonché gli studiosi stabilmente impegnati all’estero in attività di ricerca o insegnamento a livello universitario in posizioni di livello pari a quello oggetto del bando.",
+    "entity": [
+      "prima fascia"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence66": {
+    "sentence": "Ammissione a taluni corsi di dottorato di ricerca,",
+    "entity": [
+      "corsi di dottorato di ricerca"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence67": {
+    "sentence": "Ammissione ad un posto con borsa di studio al corso di",
+    "entity": [
+      "corso di"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence68": {
+    "sentence": "Attività di collaborazioni con gruppi di ricerca nazionali ed esteri",
+    "entity": [],
+    "category": []
+  },
+  "sentence69": {
+    "sentence": "BR-IFC-014-2026-PI è pubblicato sul sito istituzionale del Consiglio nazionale delle ricerche http://www.urp.cnr.it/ - sezione Lavoro e formazione e nel sistema di selezioni on-line CNR https://selezionionline.cnr.it",
+    "entity": [
+      "BR-IFC-014-2026-PI"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence70": {
+    "sentence": "Codice selezione GSD Profilo (SSD) Dipartimento",
+    "entity": [
+      "GSD Profilo"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence71": {
+    "sentence": "Coloro che intendono partecipare alle selezioni sopra riportate dovranno presentare la domanda, a pena di esclusione, entro e non oltre il 7 settembre 2026, secondo le modalità previste dal bando di selezione il cui testo integrale è disponibile sul sito internet istituzionale dell’Università degli studi di Napoli Federico II al seguente indirizzo: https://www.unina.it/it/ateneo/concorsi-e-borse-di-studio/reclutamento-ricercatori-a-tempo-determinato",
+    "entity": [],
+    "category": []
+  },
+  "sentence72": {
+    "sentence": "Con decreto del rettore presso la Scuola universitaria superiore IUSS Pavia è indetta la procedura di selezione per la copertura di un posto da ricercatore a tempo determinato in tenure track (RTT) ai sensi dell’art. 24, della legge n. 240/2010, come modificata dalla legge 29 giugno 2022, n. 79, per il gruppo scientifico-disciplinare: 11/PHIL04 - Estetica e filosofia dei linguaggi, settore scientifico-disciplinare: PHIL-04/B - Filosofia e teoria dei linguaggi.",
+    "entity": [
+      "la Scuola universitaria superiore"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence73": {
+    "sentence": "Con riguardo a tale procedura conseguentemente sono riaperti i termini di presentazione delle domande, da presentarsi entro le ore 12,00 del trentesimo giorno, decorrente dal giorno successivo a quello di pubblicazione del presente avviso nella Gazzetta Ufficiale della Repubblica italiana - 4ª Serie speciale «Concorsi ed esami» a pena di esclusione.",
+    "entity": [],
+    "category": []
+  },
+  "sentence74": {
+    "sentence": "Copia integrale del bando è pubblicato sul sito web di questa università all’indirizzo https://personale.unica.it/docric/public e sarà altresì disponibile sul sito del MUR all’indirizzo http://bandi.miur.it e sul sito dell’Unione europea all’indirizzo https://euraxess.ec.europa.eu/jobs",
+    "entity": [
+      "Copia integrale del bando",
+      "sito web",
+      "MUR"
+    ],
+    "category": [
+      "unknown",
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence75": {
+    "sentence": "Copia integrale del bando è pubblicato sul sito web di questa università all’indirizzo https://personale.unica.it/docric/public/ e sarà altresì disponibile sul sito del MUR all’indirizzo http://bandi.miur.it/ e sul sito dell’Unione europea all’indirizzo https://euraxess.ec.europa.eu/jobs",
+    "entity": [
+      "Copia integrale del bando",
+      "sito web",
+      "MUR"
+    ],
+    "category": [
+      "unknown",
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence76": {
+    "sentence": "DIRETTORI SCIENTIFICI DEGLI IRCCS PUBBLICI.",
+    "entity": [],
+    "category": []
+  },
+  "sentence77": {
+    "sentence": "Dal giorno successivo a quello della pubblicazione del presente avviso nella Gazzetta Ufficiale della Repubblica italiana - 4ª Serie speciale «Concorsi ed esami» - decorre il termine perentorio di trenta giorni per la presentazione delle domande di partecipazione secondo le modalità stabilite dai bandi.",
+    "entity": [
+      "Gazzetta Ufficiale"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence78": {
+    "sentence": "Dal giorno successivo a quello della pubblicazione del presente avviso nella Gazzetta Ufficiale della Repubblica italiana - 4ª Serie speciale «Concorsi ed esami» decorre il termine perentorio di trenta giorni per la presentazione delle domande di partecipazione secondo le modalità stabilite dai bandi.",
+    "entity": [
+      "Gazzetta Ufficiale"
+    ],
+    "category": [
+      "fiction"
+    ]
+  },
+  "sentence79": {
+    "sentence": "Dal giorno successivo a quello della pubblicazione del presente avviso nella Gazzetta Ufficiale della Repubblica italiana – 4ª Serie speciale «Concorsi ed esami» - decorre il termine perentorio di trenta giorni per la presentazione delle domande di partecipazione secondo le modalità stabilite dai bandi.",
+    "entity": [
+      "Gazzetta Ufficiale"
+    ],
+    "category": [
+      "fiction"
+    ]
+  },
+  "sentence80": {
+    "sentence": "Dal giorno successivo a quello della pubblicazione del presente avviso nella Gazzetta Ufficiale della Repubblica italiana – 4ª Serie speciale «Concorsi ed esami» - decorre il termine perentorio di trenta giorni per la presentazione delle domande di partecipazione secondo le modalità stabilite dal bando.",
+    "entity": [
+      "Gazzetta Ufficiale"
+    ],
+    "category": [
+      "fiction"
+    ]
+  },
+  "sentence81": {
+    "sentence": "Di particolare rilevanza, per la formulazione del giudizio della Commissione, è il programma di sviluppo presentato dal candidato per il miglioramento/potenziamento della ricerca dell’IRCCS specie per quanto concerne gli obiettivi indicati, le modalità per raggiungerli, gli investimenti e le fonti di finanziamento.",
+    "entity": [
+      "Commissione"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence82": {
+    "sentence": "Dipartimento Gruppo scientifico-disciplinare Settore scientifico-disciplinare N.",
+    "entity": [],
+    "category": []
+  },
+  "sentence83": {
+    "sentence": "Dipartimento N. posti Riserva specifica su fondi PNRR",
+    "entity": [
+      "Dipartimento N. posti",
+      "Riserva specifica"
+    ],
+    "category": [
+      "unknown",
+      "other facility"
+    ]
+  },
+  "sentence84": {
+    "sentence": "Dipartimento di beni culturali: archeologia, storia dell’arte, del cinema e della musica - DBC",
+    "entity": [
+      "DBC"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence85": {
+    "sentence": "Dipartimento di fisica e astronomia «Galileo Galilei» - DFA",
+    "entity": [],
+    "category": []
+  },
+  "sentence86": {
+    "sentence": "Dipartimento di medicina traslazionale 1 No",
+    "entity": [],
+    "category": []
+  },
+  "sentence87": {
+    "sentence": "Dipartimento di salute della donna e del bambino - SDB",
+    "entity": [],
+    "category": []
+  },
+  "sentence88": {
+    "sentence": "Dipartimento di scienze della salute 1 No",
+    "entity": [
+      "Dipartimento di scienze della salute",
+      "No"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence89": {
+    "sentence": "Dipartimento di scienze e innovazione tecnologica 1 Si",
+    "entity": [],
+    "category": []
+  },
+  "sentence90": {
+    "sentence": "Dipartimento di scienze giuridiche e dell’impresa dell’Università LUM «Giuseppe Degennaro».",
+    "entity": [],
+    "category": []
+  },
+  "sentence91": {
+    "sentence": "Dipartimento per lo sviluppo e la transizione ecologica",
+    "entity": [],
+    "category": []
+  },
+  "sentence92": {
+    "sentence": "Eventuali e successive modifiche e/o integrazioni al bando verranno pubblicizzati sul medesimo sito.",
+    "entity": [
+      "sito"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence93": {
+    "sentence": "Eventuali informazioni e chiarimenti in merito alle modalità di presentazione delle domande possono essere richiesti all’ufficio concorsi - e-mail: ufficioconcorsi@lum.it - centralino rettorato LUM: 080.6978111.",
+    "entity": [
+      "ufficio concorsi"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence94": {
+    "sentence": "Eventuali informazioni e chiarimenti in merito alle modalità di presentazione delle domande possono essere richiesti all’ufficio concorsi tel. 0806978214 - e-mail: brunetti@lum.it - centralino rettorato LUM: 080.6978111.",
+    "entity": [
+      "ufficio concorsi",
+      "tel. 0806978214",
+      "brunetti@lum.it"
+    ],
+    "category": [
+      "unknown",
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence95": {
+    "sentence": "Facoltà di scienze agrarie, alimentari e ambientali (un posto):",
+    "entity": [],
+    "category": []
+  },
+  "sentence96": {
+    "sentence": "Facoltà di scienze politiche e sociali (un posto):",
+    "entity": [],
+    "category": []
+  },
+  "sentence97": {
+    "sentence": "Formazione e professionalità del candidato",
+    "entity": [
+      "professionalità"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence98": {
+    "sentence": "GSD - Descrizione SSD - Descrizione Dipartimento",
+    "entity": [
+      "GSD",
+      "Descrizione SSD",
+      "Descrizione Dipartimento"
+    ],
+    "category": [
+      "unknown",
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence99": {
+    "sentence": "GSPS-08/A - Sociologia dei processi economici e del lavoro",
+    "entity": [
+      "GSPS-08/A"
+    ],
+    "category": [
+      "fiction"
+    ]
+  },
+  "sentence100": {
+    "sentence": "Gli interessati possono prendere visione del bando sul sito internet dell’Università all’indirizzo: http://www.uniparthenope.it/",
+    "entity": [
+      "bando"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence101": {
+    "sentence": "Gli oneri relativi al trattamento di missione dei componenti della Commissione graveranno sul Capitolo 3125 p.g. 3, «Spese per il funzionamento - compresi i gettoni di presenza, i compensi ai componenti e le indennità di missione ed il rimborso spese di trasporto ai membri estranei all’amministrazione della salute - di consigli, comitati e commissioni in materia di ricerca medica», nell’ambito della Missione «Ricerca e innovazione» - Programma «Ricerca per il settore della sanità pubblica» - «Funzionamento» - C.D.R. «Direzione della ricerca e dell’innovazione in sanità», allocato nello stato di previsione della spesa del Ministero della salute per l’esercizio 2026 e corrispondenti esercizi degli anni successivi.",
+    "entity": [],
+    "category": []
+  },
+  "sentence102": {
+    "sentence": "I bandi sono pubblicati all’albo on-line e sul sito web di Ateneo nella pagina https://www.uniupo.it/it/concorsi/concorsi-il-personale-docentee-ricercatore-e-asn/ricercatori-tempo-determinato; l’avviso di indizione è pubblicizzato sul sito http://bandi.miur.it e sul sito dell’U.E. https:// euraxess.ec.europa.eu",
+    "entity": [
+      "I bandi",
+      "pubblicati"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence103": {
+    "sentence": "I bandi sono pubblicati nel sito dell’Università http://www.unive. it/bandi-ric240",
+    "entity": [
+      "sito"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence104": {
+    "sentence": "I bandi sono resi pubblici nella Gazzetta Ufficiale della Repubblica italiana - 4ª Serie speciale «Concorsi ed esami» - e sul sito internet dell’Ateneo all’indirizzo: https://progetti.unicatt.it/progetti-ateneomilano-brescia-piacenza-e-cremona-chiamata-di-professori-di-prima-eseconda-fascia-legge-240#content",
+    "entity": [
+      "I bandi"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence105": {
+    "sentence": "I bandi sono resi pubblici nella Gazzetta Ufficiale della Repubblica italiana e sul sito internet dell’Ateneo all’indirizzo:",
+    "entity": [],
+    "category": []
+  },
+  "sentence106": {
+    "sentence": "I dati personali forniti dai candidati con la domanda di partecipazione alla selezione saranno raccolti dall’Ufficio 2 della Direzione generale della ricerca e dell’innovazione in sanità e trattati per le finalità di gestione della procedura ai sensi del decreto legislativo 30 giugno 2003, n. 196, come modificato dal decreto legislativo 10 agosto 2018, n. 101, concernente l’adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016.",
+    "entity": [
+      "2"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence107": {
+    "sentence": "I requisiti per ottenere l’ammissione devono essere posseduti alla data di presentazione della domanda.",
+    "entity": [
+      "requisiti"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence108": {
+    "sentence": "I requisiti per ottenere l’ammissione devono essere posseduti alla data di scadenza del termine utile per la presentazione delle domande.",
+    "entity": [
+      "requisiti"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence109": {
+    "sentence": "IIND-06/B - Sistemi per l’energia e l’ambiente Dipartimento di ingegneria industriale DII",
+    "entity": [
+      "IIND-06/B"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence110": {
+    "sentence": "Il bando di concorso è disponibile alla pagina https://dottorati.unicatt.it/candidarsi/i-bandi.html Eventuali successive modifiche e/o integrazioni al bando verranno pubblicizzate sul medesimo sito.",
+    "entity": [
+      "Il bando di concorso",
+      "https://dottorati.unicatt.it/candidarsi/i-bandi.html"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence111": {
+    "sentence": "Il bando di concorso è disponibile alla pagina https://dottorati.unicatt.it/candidarsi/i-bandi.html#tabs-9b75856387-item7885da869c-tab Eventuali successive modifiche e/o integrazioni al bando verranno pubblicizzate sul medesimo sito.",
+    "entity": [
+      "Il bando di concorso",
+      "https://dottorati.unicatt.it/candidarsi/i-bandi.html#tabs-9b75856387-item7885da869c-tab"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence112": {
+    "sentence": "Il bando è reso pubblico nella Gazzetta Ufficiale della Repubblica italiana - 4ª Serie speciale «Concorsi ed esami» - e sul sito internet dell’Ateneo all’indirizzo http://progetti.unicatt.it/progetti-ateneo-romaricercatori-a-tempo-determinato-legge-240-2010-art-24",
+    "entity": [],
+    "category": []
+  },
+  "sentence113": {
+    "sentence": "Il bando è reso pubblico nella Gazzetta Ufficiale della Repubblica italiana - 4ª Serie speciale «Concorsi ed esami» e sul sito internet dell’Ateneo all’indirizzo: http://progetti.unicatt.it/progetti-ateneo-milanobrescia-piacenza-e-cremona-1icercatori-a-tempo-detern1inato-legge-240-2 O 1 0-art-24#content La domanda di ammissione alla procedura selettiva, nonché i titoli posseduti, i documenti e le pubblicazioni ritenute utili, devono essere presentati, a pena di esclusione, per via telematica, utilizzando l’applicazione informatica PICA (Piattaforma integrata concorsi Atenei) https:// pica.cineca.it/unicatt/",
+    "entity": [
+      "Ateneo"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence114": {
+    "sentence": "Il bando è reso pubblico nella Gazzetta Ufficiale della Repubblica italiana – 4ª Serie speciale «Concorsi ed esami» - e sul sito internet dell’Ateneo all’indirizzo http://progetti.unicatt.it/progetti-ateneo-romachiamata-di-professori-di-prima-e-seconda-fascia-legge-240-2010-art18#content La domanda di ammissione alla procedura selettiva, nonchè i titoli posseduti, i documenti e le pubblicazioni ritenute utili, devono essere presentati, a pena di esclusione, per via telematica, utilizzando l’applicazione informatica PICA (Piattaforma integrata concorsi atenei) https://pica.cineca.it/unicatt",
+    "entity": [],
+    "category": []
+  },
+  "sentence115": {
+    "sentence": "Il candidato deve dimostrare un impegno scientifico continuativo e di qualità, indirizzato a temi, modelli e metodologie clinico-sperimentali, nuove applicazioni tecnologiche e loro ricadute sull’organizzazione dei servizi e sulla salute della popolazione, in coerenza con la missione degli IRCCS, che è quella di coniugare la ricerca scientifica, prevalentemente traslazionale, con l’attività clinica a livello di eccellenza.",
+    "entity": [
+      "modelli",
+      "metodologie"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence116": {
+    "sentence": "Il presente decreto è pubblicato nella Gazzetta Ufficiale della Repubblica italiana - 4ª Serie speciale «Concorsi ed esami».",
+    "entity": [
+      "Gazzetta Ufficiale"
+    ],
+    "category": [
+      "fiction"
+    ]
+  },
+  "sentence117": {
+    "sentence": "Il responsabile del procedimento è il Capo dell’Ufficio concorsi personale docente e ricercatore.",
+    "entity": [
+      "Capo dell’Ufficio concorsi personale docente e ricercatore"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence118": {
+    "sentence": "Il responsabile del procedimento è il responsabile del settore centrale personale dell’Università del Piemonte Orientale.",
+    "entity": [
+      "settore centrale",
+      "Università del Piemonte Orientale"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence119": {
+    "sentence": "Il termine per la presentazione delle domande scade alle ore 13,00 CET del trentesimo giorno successivo alla data di pubblicazione del presente avviso nella Gazzetta Ufficiale della Repubblica italiana – 4 a Serie speciale «Concorsi ed esami».",
+    "entity": [
+      "ore"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence120": {
+    "sentence": "Il testo integrale dei bandi sarà disponibile al seguente link: https://www.unipd.it/procedure-personale-docente",
+    "entity": [
+      "bandi"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence121": {
+    "sentence": "Il testo integrale del bando di cui al presente avviso è consultabile sul sito dell’Università di Pisa (https://bandi.unipi.it/public/Bandi?type=DOC).",
+    "entity": [
+      "bando"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence122": {
+    "sentence": "Il testo integrale del bando è consultabile sul sito web della scuola alla sezione bandi e concorsi: https://www.iusspavia.it/it/la-scuola/ struttura-organizzativa/concorsi-bandi-e-selezioni",
+    "entity": [
+      "Il testo integrale del bando",
+      "sito web della scuola"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence123": {
+    "sentence": "Il testo integrale del bando, con allegato il facsimile della domanda e con l’indicazione dei requisiti e delle modalità di partecipazione alle sopraindicate procedure di valutazione comparativa è disponibile:",
+    "entity": [
+      "testo"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence124": {
+    "sentence": "Infatti appare poco realistico utilizzare criteri numerici aspecifici, universalmente accettati, ma per questo molto poco sensibili alle peculiarità dell’IRCCS che prevedono certamente una forte competenza scientifica ma anche importanti capacità manageriali e di relazione al fine di consentire la piena coincidenza d’intenti tra la parte di ricerca con quella assistenziale.",
+    "entity": [],
+    "category": []
+  },
+  "sentence125": {
+    "sentence": "La Commissione deve esprimere tali giudizi per tutti i candidati; solo alla fine indicherà in ordine alfabetico i tre candidati prescelti indicando puntualmente le motivazioni che hanno portato alla non inclusione nella terna dei restanti.",
+    "entity": [
+      "Commissione"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence126": {
+    "sentence": "La Commissione deve preferire, infatti, quei candidati che ritiene maggiormente idonei alla direzione scientifica dell’ente e deve evidenziare in modo chiaro le motivazioni della scelta come anche le motivazioni della mancata inclusione nella terna.",
+    "entity": [
+      "Commissione"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence127": {
+    "sentence": "La Commissione, pertanto, dovrà dare un giudizio motivato relativo ai diversi aspetti assegnando giudizi coerenti e puntuali.",
+    "entity": [
+      "Commissione"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence128": {
+    "sentence": "La domanda di ammissione alla procedura selettiva, nonché i titoli posseduti, i documenti e le pubblicazioni ritenute utili, devono essere presentati, a pena di esclusione, per via telematica, utilizzando l’applicazione informatica PICA (Piattaforma integrata concorsi atenei) https://pica.cineca.it/unicatt",
+    "entity": [
+      "telematic"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence129": {
+    "sentence": "La domanda di ammissione alle procedure selettive, nonché i titoli posseduti, i documenti e le pubblicazioni ritenute utili, devono essere presentati, a pena di esclusione, per via telematica, utilizzando l’applicazione informatica PICA (Piattaforma integrata concorsi Atenei):",
+    "entity": [],
+    "category": []
+  },
+  "sentence130": {
+    "sentence": "La domanda di ammissione alle procedure selettive, nonché i titoli posseduti, i documenti e le pubblicazioni ritenute utili, devono essere presentati, a pena di esclusione, per via telematica, utilizzando l’applicazione informatica PICA (Piattaforma integrata concorsi atenei) https://pica.cineca.it/unicatt/",
+    "entity": [],
+    "category": []
+  },
+  "sentence131": {
+    "sentence": "La domanda di ammissione alle selezioni, redatta in carta semplice, deve essere indirizzata al Presidente del C.d.A. della Libera università Mediterranea LUM «Giuseppe Degennaro» - università non statale legalmente riconosciuta di Casamassima (BA) e presentata con le modalità previste dal bando entro e non oltre trenta giorni, che decorrono dal giorno successivo a quello della pubblicazione del presente avviso nella Gazzetta Ufficiale della Repubblica italiana – 4ª Serie speciale «Concorsi ed esami».",
+    "entity": [
+      "carta"
+    ],
+    "category": [
+      "fiction"
+    ]
+  },
+  "sentence132": {
+    "sentence": "La domanda di ammissione alle selezioni, redatta in carta semplice, deve essere indirizzata al presidente del C.D.A. della Libera Università Mediterranea LUM «Giuseppe Degennaro» - Università non statale legalmente riconosciuta di Casamassima (BA) e presentata con le modalità previste dal bando entro e non oltre trenta giorni, che decorrono dal giorno successivo a quello della pubblicazione del presente avviso nella Gazzetta Ufficiale della Repubblica italiana - 4ª Serie speciale «Concorsi ed esami».",
+    "entity": [
+      "C.D.A."
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence133": {
+    "sentence": "La domanda di partecipazione alla selezione, nonché i titoli posseduti, i documenti e le pubblicazioni, devono essere presentati, a pena di esclusione, per via telematica, utilizzando l’applicazione informatica dedicata alla pagina https://pica.cineca.it entro e non oltre il termine perentorio del 4 settembre 2026.",
+    "entity": [],
+    "category": []
+  },
+  "sentence134": {
+    "sentence": "La domanda di partecipazione alla selezione, nonché i titoli posseduti, i documenti e le pubblicazioni, devono essere presentati, a pena di esclusione, per via telematica, utilizzando l’applicazione informatica dedicata alla pagina https://pica.cineca.it/ entro il termine perentorio del 4 settembre 2026.",
+    "entity": [
+      "telematic"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence135": {
+    "sentence": "La domanda di partecipazione, ai sensi dell’art. 3 del bando, dovrà essere presentata, esclusivamente con procedura telematica, entro il termine perentorio delle ore 13,00 (ora italiana) del trentesimo giorno decorrente dal giorno successivo alla data di pubblicazione dell’avviso nella Gazzetta Ufficiale della Repubblica italiana - 4ª Serie speciale «Concorsi ed esami».",
+    "entity": [
+      "art. 3 del bando"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence136": {
+    "sentence": "La procedura di compilazione e invio telematico delle domande dovrà essere completata entro e non oltre le ore 13,00 del 24 agosto 2026.",
+    "entity": [
+      "compilazione"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence137": {
+    "sentence": "La scadenza per la presentazione delle candidature è di trenta giorni decorrenti dal giorno successivo a quello di pubblicazione del presente avviso nella Gazzetta Ufficiale della Repubblica italiana - 4 a Serie speciale «Concorsi ed esami».",
+    "entity": [
+      "giorno"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence138": {
+    "sentence": "La scadenza per la presentazione delle domande di ammissione alla selezione, secondo le modalità indicate nel bando stesso, è giovedì 27 agosto 2026 (ore 14.00 - ora italiana).",
+    "entity": [
+      "domande"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence139": {
+    "sentence": "La scadenza per la presentazione delle domande di ammissione alla selezione, secondo le modalità indicate nel bando stesso, è martedì 25 agosto 2026 (ore 12,00 - ora italiana).",
+    "entity": [
+      "domande"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence140": {
+    "sentence": "Le domande di ammissione alla procedura devono essere presentate, a pena di esclusione, per via telematica, utilizzando l’applicazione informatica dedicata, disponibile alla seguente pagina: https://pica.cineca.it/unipi/",
+    "entity": [
+      "telematica"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence141": {
+    "sentence": "Le domande di ammissione devono essere presentate, esclusivamente mediante la procedura telematica prevista nel bando (https://pica.cineca. it/uniupo) entro le ore 15,00 del trentesimo giorno decorrente da quello successivo alla pubblicazione del presente avviso nella Gazzetta Ufficiale - 4 a Serie speciale «Concorsi ed esami».",
+    "entity": [
+      "procedura"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence142": {
+    "sentence": "Le domande di partecipazione al concorso, da redigere esclusivamente on-line accedendo alla piattaforma https://pica.cineca.it/uniparthenope/ dottorato-42-ciclo/domande/ dovranno essere compilate pena di esclusione, entro e non oltre il 31 luglio 2026.",
+    "entity": [
+      "on-line"
+    ],
+    "category": [
+      "language"
+    ]
+  },
+  "sentence143": {
+    "sentence": "Le domande di partecipazione devono essere compilate e presentate esclusivamente via internet entro il quindicesimo giorno successivo alla data di pubblicazione del presente avviso nella Gazzetta Ufficiale della Repubblica italiana - 4ª Serie speciale «Concorsi ed esami» - utilizzando un’applicazione informatica disponibile nell’area concorsi del sito CNR all’indirizzo https://selezionionline.cnr.it",
+    "entity": [
+      "internet"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence144": {
+    "sentence": "Le domande sono esaminate dalla Commissione di valutazione che procede alla selezione dei candidati sulla base dei seguenti criteri:",
+    "entity": [
+      "Commissione di valutazione"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence145": {
+    "sentence": "L’Ateneo di Genova ha disposto una rettifica nell’ambito della procedura selettiva pubblica finalizzata al reclutamento di ricercatori a tempo determinato mediante conferimento di contratto di lavoro subordinato della durata di sei anni, non rinnovabile, ai sensi dell’art. 24 della legge 30 dicembre 2010, n. 240 come modificato dall’art. 14 della legge n. 79/2022 (c.d. ricercatori in tenure track - RTT), indetta con d.r. n. 1453 del 30 marzo 2026, il cui avviso è pubblicato nella Gazzetta Ufficiale della Repubblica italiana - 4ª Serie speciale «Concorsi ed esami» n. 31 del 21 aprile 2026, per il Dipartimento, la scuola, il gruppo scientifico-disciplinare e settore scientifico-disciplinare di seguito indicati.",
+    "entity": [],
+    "category": []
+  },
+  "sentence146": {
+    "sentence": "L’utilizzazione dei giudizi deriva dalla diversità tra gli IRCCS del tema del riconoscimento.",
+    "entity": [],
+    "category": []
+  },
+  "sentence147": {
+    "sentence": "MEDS-10/C - Malattie cutanee e veneree Dipartimento di medicina - DIMED",
+    "entity": [
+      "MEDS-10/C - Malattie cutanee e veneree",
+      "Dipartimento di medicina - DIMED"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence148": {
+    "sentence": "MEDS-20/A - Pediatria generale e specialistica",
+    "entity": [
+      "MEDS-20/A",
+      "Pediatria generale e specialistica"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence149": {
+    "sentence": "MEDS-24/C - Scienze infermieristiche generali, cliniche, pediatriche e ostetrico-ginecologiche e neonatali",
+    "entity": [
+      "MEDS-24/C"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence150": {
+    "sentence": "N. posti Codice selezione GSD Profilo (SSD) Dipartimento",
+    "entity": [
+      "N. posti",
+      "Codice selezione"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence151": {
+    "sentence": "Nel caso di presentazione di un numero maggiore, saranno valutate le prime venti dell’elenco predisposto dal candidato.",
+    "entity": [],
+    "category": []
+  },
+  "sentence152": {
+    "sentence": "Non saranno considerate più di venti pubblicazioni.",
+    "entity": [
+      "pubblicazioni"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence153": {
+    "sentence": "Nonché è dato avviso sul sito del Miur all’indirizzo: http://bandi.miur.it/ e sul sito web dell’Unione europea: https://euraxess.ec.europa.eu/",
+    "entity": [],
+    "category": []
+  },
+  "sentence154": {
+    "sentence": "PHYS-03/A - Fisica sperimentale della materia e applicazioni",
+    "entity": [
+      "PHYS-03/A",
+      "Fisica sperimentale della materia e applicazioni"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence155": {
+    "sentence": "Per i posti da ricercatore a tempo determinato (RTT) sono ammessi alle procedure di valutazione i candidati in possesso del titolo di dott. di ricerca o titolo equivalente.",
+    "entity": [],
+    "category": []
+  },
+  "sentence156": {
+    "sentence": "Per i posti da ricercatore a tempo determinato (RTT) sono ammessi alle procedure di valutazione i candidati in possesso del titolo di dottore di ricerca o titolo equivalente ovvero per i settori interessati, del diploma di specializzazione medica.",
+    "entity": [],
+    "category": []
+  },
+  "sentence157": {
+    "sentence": "Per informazioni contattare il settore centrale personale – ufficio programmazione del personale e gestione del personale docente e ricercatore ai seguenti recapiti: tel. 0161/261.587 - 0161/228.451, e-mail: concorsi@uniupo.it",
+    "entity": [
+      "settore centrale"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence158": {
+    "sentence": "Per partecipare alla procedura selettiva si deve inviare la domanda utilizzando esclusivamente l’apposita procedura resa disponibile via web .",
+    "entity": [
+      "domanda"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence159": {
+    "sentence": "Per tale motivo la commissione dovrà esprimere giudizi puntuali sulle diverse caratteristiche che distinguono i candidati.",
+    "entity": [
+      "commissione"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence160": {
+    "sentence": "Per ulteriori informazioni di carattere amministrativo gli interessati potranno rivolgersi a: ufficio dottorati di ricerca Via Acton n. 38 - 80133 Napoli.",
+    "entity": [
+      "ufficio dottorati di ricerca"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence161": {
+    "sentence": "Per ulteriori informazioni di carattere amministrativo è possibile rivolgersi all’ufficio dottorati di ricerca (dottorati.ricerca-mi@unicatt.it) o alla pagina web https://dottorati.unicatt.it/content/grandi-servizi/ateneo/dottorati-portale/it/corsi.html",
+    "entity": [
+      "ufficio dottorati"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence162": {
+    "sentence": "Per ulteriori informazioni di carattere amministrativo è possibile rivolgersi all’ufficio dottorati di ricerca (dottorati.ricerca-rm@unicatt.it) o alla pagina web https://dottorati.unicatt.it/content/grandi-servizi/ateneo/dottorati-portale/it/corsi.html",
+    "entity": [
+      "ufficio dottorati"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence163": {
+    "sentence": "Per ulteriori informazioni è possibile rivolgersi all’area risorse umane, ufficio personale docente, settore concorsi, tel. 041 2348217 -8269 -8135, e-mail: pdoc.concorsi@unive.it",
+    "entity": [],
+    "category": []
+  },
+  "sentence164": {
+    "sentence": "Presso l’Università Ca’ Foscari Venezia sono indette le seguenti procedure pubbliche di selezione per la copertura di posti di ricercatore o ricercatrice a tempo determinato in tenure track (RTT):",
+    "entity": [],
+    "category": []
+  },
+  "sentence165": {
+    "sentence": "Procedura di selezione per la chiamata di un professore di prima fascia, GSD 06/MEDS-25 - Medicina legale",
+    "entity": [],
+    "category": []
+  },
+  "sentence166": {
+    "sentence": "Procedura di selezione per la copertura di un posto di",
+    "entity": [
+      "posto"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence167": {
+    "sentence": "Procedura di selezione per la copertura di un posto di ricer-",
+    "entity": [],
+    "category": []
+  },
+  "sentence168": {
+    "sentence": "Procedura di valutazione per la copertura di un posto di",
+    "entity": [
+      "posto"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence169": {
+    "sentence": "Procedura di valutazione per la copertura di un posto di ricercatore a tempo determinato in tenure track , GSD 11/PSIC-01",
+    "entity": [],
+    "category": []
+  },
+  "sentence170": {
+    "sentence": "Procedure di selezione per la copertura di diciassette posti di",
+    "entity": [],
+    "category": []
+  },
+  "sentence171": {
+    "sentence": "Procedure di selezione per la copertura di diciotto posti di ricercatore a tempo pieno",
+    "entity": [
+      "Procedure di selezione",
+      "ricercatore a tempo pieno"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence172": {
+    "sentence": "Procedure di selezione per la copertura di dodici posti di",
+    "entity": [],
+    "category": []
+  },
+  "sentence173": {
+    "sentence": "Procedure di selezione per la copertura di posti di ricerca-",
+    "entity": [],
+    "category": []
+  },
+  "sentence174": {
+    "sentence": "Procedure di selezione per la copertura di sette posti di ricercatore a tempo pieno",
+    "entity": [
+      "Procedure di selezione",
+      "ricercatore a tempo pieno"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence175": {
+    "sentence": "Procedure di selezione, per titoli e colloquio, per la copertura di due posti di ricercatore",
+    "entity": [],
+    "category": []
+  },
+  "sentence176": {
+    "sentence": "Procedure di valutazione per la copertura di diciassette",
+    "entity": [],
+    "category": []
+  },
+  "sentence177": {
+    "sentence": "Proroga dei termini e contestuale aumento dei posti dell’ammissione",
+    "entity": [],
+    "category": []
+  },
+  "sentence178": {
+    "sentence": "Qualora il termine di scadenza cada in giorno festivo, la scadenza è prorogata al primo giorno feriale utile.",
+    "entity": [
+      "termine"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence179": {
+    "sentence": "Qualora la scadenza cada in un giorno festivo, la stessa è prorogata al primo giorno non festivo utile.",
+    "entity": [
+      "la scadenza"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence180": {
+    "sentence": "Qualora tale giorno fosse festivo, la scadenza sarà prorogata al primo giorno seguente non festivo.",
+    "entity": [
+      "festivo"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence181": {
+    "sentence": "Questa Università, con decreti rettorali n. 476 e n. 541/2026, ha prorogato la scadenza del concorso pubblico per la selezione per l’ammissione ai corsi di dottorato attivati per il XLII ciclo e ha previsto un aumento posti. (Avviso pubblicato nella Gazzetta Ufficiale della Repubblica italiana - 4ª Serie speciale «Concorsi ed esami» n. 49 del 30 giugno 2026).",
+    "entity": [
+      "Università",
+      "decreti rettorali"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence182": {
+    "sentence": "Restano invariate le restanti disposizioni di cui al decreto rettorale n. 1453 del 30 marzo 2026.",
+    "entity": [
+      "decreto rettorale"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence183": {
+    "sentence": "Rettifica e riapertura dei termini della procedura di selezione per la copertura di un posto di ricercatore a tempo determi-",
+    "entity": [],
+    "category": []
+  },
+  "sentence184": {
+    "sentence": "Ricercatore a tempo determinato (RTT) - (un posto).",
+    "entity": [
+      "Ricercatore a tempo determinato"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence185": {
+    "sentence": "Scuola politecnica: Dipartimento architettura e design (DAD):",
+    "entity": [
+      "Scuola politecnica",
+      "Dipartimento architettura e design"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence186": {
+    "sentence": "Si comunica che l’Università del Piemonte Orientale ha indetto le sotto descritte procedure selettive per la copertura di sette posti complessivi di ricercatore a tempo determinato in tenure track (RTT), ai sensi dell’art. 24 della legge n. 240/2010, nell’ambito del decreto ministeriale n. 193 del 5 marzo 2026 – Piano straordinario di reclutamento RTT riservato RTDa in scadenza 2025/2026, per i Dipartimenti dell’Università del Piemonte Orientale:",
+    "entity": [
+      "Università del Piemonte Orientale"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence187": {
+    "sentence": "Si comunica che presso questa università sono indette le selezioni pubbliche per il reclutamento di diciassette ricercatori/ricercatrici a tempo determinato e a tempo pieno, mediante stipula di un contratto sessennale di lavoro subordinato, ai sensi dell’art. 24 della legge 30 dicembre 2010, n. 240 e dell’art. 18, comma 3, del vigente «Regolamento per la stipula dei contratti da ricercatore/ricercatrice a tempo determinato tenure track (RTT) presso l’Università degli studi di Cagliari», riservati a candidati/e che sono stati ricercatori/ricercatrici a tempo determinato di tipologia a) , di cui all’art. 24, comma 3, lettera a) , della legge n. 240/2010, nel testo vigente prima della data di entrata in vigore della legge 29 giugno 2022, n. 79, nell’ambito di progetti finanziati dal PNRR, con contratto triennale o proroga biennale in scadenza negli anni 2025 o 2026, presso i seguenti Dipartimenti:",
+    "entity": [],
+    "category": []
+  },
+  "sentence188": {
+    "sentence": "Si comunica che presso questa università sono indette le selezioni pubbliche per il reclutamento di diciotto ricercatori/ricercatrici a tempo determinato e a tempo pieno, mediante stipula di un contratto sessennale di lavoro subordinato, ai sensi dell’art. 24 della legge 30 dicembre 2010, n. 240 e dell’art. 18, comma 3, del vigente «Regolamento per la stipula dei contratti da ricercatore/ricercatrice a tempo determinato tenure track (RTT) presso l’Università degli studi di Cagliari», riservati a candidati/e che sono stati ricercatori a tempo determinato di tipologia a) , di cui all’art 24, comma 3, lettera a) della legge n. 240/2010 nel testo vigente prima della data di entrata in vigore della legge 29 giugno 2022, n. 79, con contratto triennale o proroga biennale in scadenza negli anni 2025 o 2026, presso i seguenti Dipartimenti:",
+    "entity": [
+      "240"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence189": {
+    "sentence": "Si comunica che, con decreto rettorale n. 2558 del 1° luglio 2026, è stato emanato, presso l’Università Cattolica del Sacro Cuore, il bando di concorso per l’ammissione ai corsi di dottorato di ricerca in « Health systems and service research », «Medicina sperimentale e traslazionale», «Neuroscienze», «Ricerca clinica cellulare e molecolare», «Scienze biomediche di base e sanità pubblica», «Scienze della nutrizione, del metabolismo, dell’invecchiamento e delle patologie di genere» e «Scienze oncologiche», presso l’Università Cattolica del Sacro Cuore - XLII ciclo - sede di Roma.",
+    "entity": [
+      "2558"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence190": {
+    "sentence": "Si comunica che, con decreto rettorale n. 2560 del 30 giugno 2026, è stato emanato, presso l’Università cattolica del Sacro Cuore, il bando di concorso a un posto con borsa di studio per l’ammissione al corso di dottorato di ricerca in Psychology dell’Università cattolica del Sacro Cuore - XLII ciclo - sede di Milano.",
+    "entity": [
+      "2560"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence191": {
+    "sentence": "Si fornisce, comunque, alla Commissione una linea guida ed una serie di indicazioni che dovranno essere considerate per la maturazione",
+    "entity": [
+      "Commissione"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence192": {
+    "sentence": "Si rende noto che, ai sensi dell’art. 24, comma 3, della legge 30 dicembre 2010, n. 240, così come modificato dall’art. 14, comma 6 -decies , del decreto-legge 30 aprile 2022, n. 36, convertito, con modificazioni, dalla legge 29 giugno 2022, n. 79, l’Università LUM «Giuseppe Degennaro» di Casamassima (BA) ha bandito con D.P. n. 259/2026 del 9 luglio 2026 la seguente selezione pubblica:",
+    "entity": [
+      "legge",
+      "decreto-legge"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence193": {
+    "sentence": "Si rende noto che, ai sensi dell’articolo 24, comma 3, della legge 30 dicembre 2010, n. 240, così come modificato dall’art. 14, comma 6 -decies , del decreto-legge 30 aprile 2022, n. 36, convertito, con modificazioni, dalla legge 29 giugno 2022, n. 79, l’Università LUM «Giuseppe Degennaro» di Casamassima (BA) ha bandito con D.P. n. 261/2026 del 10 luglio 2026 la selezione pubblica per il reclutamento di un ricercatore con contratto a tempo determinato - tenure track - per il Dipartimento e il settore concorsuale di seguito specificato:",
+    "entity": [
+      "legge"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence194": {
+    "sentence": "Sono altresì ammessi a partecipare alla valutazione coloro che hanno usufruito per almeno tre anni dei contratti stipulati ai sensi dell’art. 1, comma 14, della legge 4 novembre 2005, n. 230.",
+    "entity": [
+      "contratt"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence195": {
+    "sentence": "Sono ammessi alla procedura di valutazione scientifico-didattica i candidati in possesso dell’abilitazione di cui all’art. 16 della legge 30 dicembre 2010, n. 240, per il settore concorsuale ovvero per uno dei settori concorsuali ricompresi nel medesimo macrosettore e per le funzioni oggetto del procedimento, secondo le regole di corrispondenza tra i gruppi scientifico-disciplinari determinati dal decreto ministeriale 9 maggio 2024, n. 639 e i settori concorsuali di cui al decreto ministeriale 30 ottobre 2015, n. 855.",
+    "entity": [
+      "abilitazione",
+      "legge 30 dicembre 2010, n. 240"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence196": {
+    "sentence": "Sono ammessi alla procedura di valutazione scientifico-didattica:",
+    "entity": [
+      "valutazione scientifico-didattica"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence197": {
+    "sentence": "Sono fatte salve le domande prodotte entro il termine di scadenza di cui al decreto rettorale n. 1453 del 30 marzo 2026.",
+    "entity": [
+      "salve"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence198": {
+    "sentence": "Sono indette le procedure selettive per l’assunzione di dieci ricercatori a tempo determinato in tenure-track (RTT) ai sensi dell’art. 24 della legge n. 240/2010 come modificato dalla legge n. 79/2022 - riservate a ricercatori di tipo a) , con contratto in scadenza nel 2025 - 2026RTT01_RIS_RTDa25.",
+    "entity": [
+      "ricerca"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence199": {
+    "sentence": "Sono indette le procedure selettive per l’assunzione di due ricercatori a tempo determinato in tenure-track (RTT) ai sensi dell’art. 24 della legge n. 240/2010 come modificato dalla legge n. 79/2022 - riservate a ricercatori di tipo a) , con contratto totalmente finanziato su progetti PNRR in scadenza nel 2025 – 2026RTT01_RIS_RTDaPNRR25.",
+    "entity": [],
+    "category": []
+  },
+  "sentence200": {
+    "sentence": "Sono indette selezioni pubbliche, per titoli e colloquio, per il reclutamento di due ricercatori in tenure track , con rapporto di lavoro subordinato a tempo determinato, ai sensi dell’art. 24 della legge n. 240/2010 e successive modificazioni ed integrazioni - riservate ai soggetti che sono, o sono stati, per una durata non inferiore a un anno, titolari di contratti di ricercatore a tempo determinato ai sensi dell’art. 24, comma 3, lettera a) , della legge n. 240/2010 (RTDA), o ai soggetti che sono stati, per una durata complessiva non inferiore a tre anni, titolari di uno o più assegni di ricerca - per lo svolgimento di attività di ricerca, di didattica, di didattica integrativa e di servizio agli studenti (codice identificativo R5_RTT_2026) come di seguito specificato:",
+    "entity": [],
+    "category": []
+  },
+  "sentence201": {
+    "sentence": "Tale giudizio deve essere seguito da una descrizione delle motivazioni che lo hanno determinato.",
+    "entity": [],
+    "category": []
+  },
+  "sentence202": {
+    "sentence": "Tipologia: un posto di ricercatore a tempo determinato in tenure track (RTT) - gruppo settori-disciplinari 13/ECON-01 - Economia politica - settore scientifico-disciplinare ECON-01/A – Economia politica.",
+    "entity": [],
+    "category": []
+  },
+  "sentence203": {
+    "sentence": "Tutti elementi che non si possono esprimere con un mero punteggio ma solo con una descrizione dei punti di forza e debolezza del candidato.",
+    "entity": [],
+    "category": []
+  },
+  "sentence204": {
+    "sentence": "UNIVERSITÀ CATTOLICA DEL SACRO CUORE DI MILANO",
+    "entity": [],
+    "category": []
+  },
+  "sentence205": {
+    "sentence": "UNIVERSITÀ E ALTRI ISTITUTI DI ISTRUZIONE",
+    "entity": [],
+    "category": []
+  },
+  "sentence206": {
+    "sentence": "UNIVERSITÀ LUM GIUSEPPE DEGENNARO DI CASAMASSIMA",
+    "entity": [
+      "UNIVERSITÀ LUM GIUSEPPE DEGENNARO DI CASAMASSIMA"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence207": {
+    "sentence": "VALUTAZIONE COMPARATIVA PER LA SELEZIONE DEI",
+    "entity": [],
+    "category": []
+  },
+  "sentence208": {
+    "sentence": "Valutazione scientifico-didattica per la chiamata di un pro-",
+    "entity": [
+      "pro"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence209": {
+    "sentence": "a tempo determinato in tenure track , vari GSD e Dipartimdenti.",
+    "entity": [
+      "tenure"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence210": {
+    "sentence": "a) i candidati in possesso dell’abilitazione di cui all’art. 16 della legge 30 dicembre 2010, n. 240, per il settore concorsuale ovvero per uno dei settori concorsuali ricompresi nel medesimo macrosettore e per le funzioni oggetto del procedimento, secondo le regole di corrispondenza tra i gruppi scientifici-disciplinari determinati dal decreto ministeriale 9 maggio 2024, n. 639 e i settori concorsuali di cui al decreto ministeriale 30 ottobre 2015, n. 855;",
+    "entity": [
+      "i candidati"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence211": {
+    "sentence": "a) per via telematica sul sito: https://www.lum.it/concorsi/",
+    "entity": [],
+    "category": []
+  },
+  "sentence212": {
+    "sentence": "a) per via telematica sul sito: https://www.lum.it/concorsi/ b) sul sito del Ministero dell’istruzione, dell’università e della ricerca all’indirizzo: http://bandi.miur.it/ e sul portale dell’Unione europea all’indirizzo:https://euraxess.ec.europa.eu",
+    "entity": [],
+    "category": []
+  },
+  "sentence213": {
+    "sentence": "ai corsi di dottorato di ricerca - XLII ciclo",
+    "entity": [
+      "ai corsi di dottorato di ricerca",
+      "XLII ciclo"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence214": {
+    "sentence": "attinenza all’area di riconoscimento dell’IRCCS;",
+    "entity": [],
+    "category": []
+  },
+  "sentence215": {
+    "sentence": "b) i professori di prima fascia inquadrati nel gruppo scientificodisciplinare oggetto del procedimento;",
+    "entity": [],
+    "category": []
+  },
+  "sentence216": {
+    "sentence": "b) i professori di prima fascia inquadrati nel gruppo scientificodisciplinare oggetto della selezione;",
+    "entity": [],
+    "category": []
+  },
+  "sentence217": {
+    "sentence": "b) sul sito del Ministero dell’istruzione, dell’università e della ricerca all’indirizzo http://bandi.miur.it/ e sul portale dell’Unione europea all’indirizzo https://euraxess.ec.europa.eu",
+    "entity": [
+      "b)"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence218": {
+    "sentence": "c) presso l’ufficio concorsi - LUM «Giuseppe Degennaro» - Casamassima (Bari).",
+    "entity": [
+      "c) presso "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence219": {
+    "sentence": "c) presso l’ufficio concorsi – LUM «Giuseppe Degennaro» – Casamassima (Bari).",
+    "entity": [
+      "c) presso "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence220": {
+    "sentence": "c) studiosi stabilmente impegnati all’estero in attività di ricerca o insegnamento a livello universitario in posizione di livello pari a quelle oggetto del bando, sulla base di tabelle di corrispondenza definite dal Ministero dell’università e della ricerca.",
+    "entity": [
+      "c)"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence221": {
+    "sentence": "c) studiosi stabilmente impegnati all’estero in attività di ricerca o insegnamento a livello universitario in posizione di livello pari a quelle oggetto del bando, sulla base di tabelle di corrispondenza definite dal Ministero.",
+    "entity": [
+      "c)"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence222": {
+    "sentence": "catore a tempo determinato in tenure track , GSD 06/ MEDS-19 - Malattie dell’apparato locomotore e medicina fisica e riabilitativa, per il Dipartimento di medicina e chirurgia.",
+    "entity": [
+      "catore a tempo determinato",
+      "tenure track",
+      "Dipartimento di medicina e chirurgia"
+    ],
+    "category": [
+      "unknown",
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence223": {
+    "sentence": "codice selezione PO2026-3; Dipartimento di patologia chirurgica, medica, molecolare e dell’area critica; gruppo scientifico-disciplinare 06/MEDS-25 - Medicina legale e del lavoro; settore scientifico-disciplinare MEDS-25/A - Medicina legale; n. posti uno.",
+    "entity": [
+      "PO2026-3;"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence224": {
+    "sentence": "del giudizio al fine di rendere omogenea e riproducibile la motivazione che porta alla selezione della terna.",
+    "entity": [
+      "del giudizio",
+      "omogenea"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence225": {
+    "sentence": "dottorato di ricerca in Psychology , XLII ciclo",
+    "entity": [
+      "Psychology"
+    ],
+    "category": [
+      "discipline"
+    ]
+  },
+  "sentence226": {
+    "sentence": "e del lavoro, per il Dipartimento di patologia chirurgica, medica, molecolare e dell’area critica.",
+    "entity": [
+      "e del lavoro,"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence227": {
+    "sentence": "e determinato in tenure track , vari GSD e Dipartimenti.",
+    "entity": [
+      "tenure"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence228": {
+    "sentence": "e determinato in tenure track di durata sessennale, vari GSD e Dipartimenti.",
+    "entity": [
+      "in tenure"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence229": {
+    "sentence": "fessore di prima fascia, GSD 06/MEDS-25 - Medicina legale e del lavoro, per la Facoltà di medicina e chirurgia A.",
+    "entity": [
+      "fessore di prima fascia, GSD 06/MEDS-25 - "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence230": {
+    "sentence": "fessore di prima fascia, GSD 07/AGRI-09 - Scienze e tecnologie animali, per la Facoltà di scienze agrarie, alimentari e ambientali.",
+    "entity": [],
+    "category": []
+  },
+  "sentence231": {
+    "sentence": "fessore di prima fascia, GSD 14/GSPS-06 - Sociologia dei processi culturali e comunicativi, per la Facoltà di scienze politiche e sociali.",
+    "entity": [
+      "fessore di prima fascia, GSD 14/GSPS-06"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence232": {
+    "sentence": "filosofia, sociologia, pedagogia e psicologia applicata - FISPPA",
+    "entity": [
+      "filosofia, sociologia, pedagogia e "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence233": {
+    "sentence": "gruppo scientifico-disciplinare 01/INFO-01, settore scientificodisciplinare INFO-01/A - Informatica riservata alle persone titolari di contratto RTD a ) in scadenza negli anni 2025 e 2026;",
+    "entity": [
+      "gruppo scientifico-disciplinare 01/INFO-01, settore scientificodisciplinare "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence234": {
+    "sentence": "gruppo scientifico-disciplinare 03/CHEM-01, settore scientifico-disciplinare CHEM-01/B - Chimica dell’ambiente e dei beni culturali, riservata alle persone titolari di contratto RTD a ) in scadenza negli anni 2025 e 2026 e finanziato integralmente su risorse PNRR.",
+    "entity": [
+      "gruppo scientifico-disciplinare 03/CHEM-01, settore scientifico-disciplinare "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence235": {
+    "sentence": "gruppo scientifico-disciplinare 06/MEDS-25 - Medicina legale e del lavoro - settore scientifico-disciplinare MEDS-25/A - Medicina legale.",
+    "entity": [
+      "gruppo scientifico-disciplinare 06/MEDS-25 - "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence236": {
+    "sentence": "gruppo scientifico-disciplinare 14/GSPS-06 - Sociologia dei processi culturali e comunicativi - settore scientifico-disciplinare GSPS06/A - Sociologia dei processi culturali e comunicativi.",
+    "entity": [
+      "gruppo scientifico-disciplinare 14/GSPS-06"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence237": {
+    "sentence": "gruppo scientifico-disciplinare: 02/PHYS-06 - Fisica per le scienze della vita, l’ambiente e i beni culturali, didattica e storia della fisica;",
+    "entity": [
+      "gruppo scientifico-disciplinare"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence238": {
+    "sentence": "gruppo scientifico-disciplinare: 05/BIOS-06 - Fisiologia; settore scientifico-disciplinare: BIOS-06/A - Fisiologia.",
+    "entity": [
+      "gruppo scientifico-disciplinare: 05/BIOS-06 - Fisiologia; settore scientifico-disciplinare: "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence239": {
+    "sentence": "gruppo scientifico-disciplinare: 05/BIOS-09 - Biochimica clinica e biologia molecolare clinica;",
+    "entity": [
+      "gruppo scientifico-disciplinare: 05/BIOS-09 - "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence240": {
+    "sentence": "gruppo scientifico-disciplinare: 06/MEDS-02 - Patologia generale e patologia clinica;",
+    "entity": [],
+    "category": []
+  },
+  "sentence241": {
+    "sentence": "gruppo scientifico-disciplinare: 06/MEDS-03 - Microbiologia e microbiologia clinica;",
+    "entity": [
+      "gruppo scientifico-disciplinare: 06/MEDS-03 - Microbiologia e "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence242": {
+    "sentence": "gruppo scientifico-disciplinare: 06/MEDS-05 - Medicina interna;",
+    "entity": [
+      "gruppo scientifico-disciplinare: 06/MEDS-05 - "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence243": {
+    "sentence": "gruppo scientifico-disciplinare: 06/MEDS-06 - Chirurgia generale;",
+    "entity": [],
+    "category": []
+  },
+  "sentence244": {
+    "sentence": "gruppo scientifico-disciplinare: 06/MEDS-08 - Endocrinologia, nefrologia e scienze dell’alimentazione e del benessere;",
+    "entity": [
+      "gruppo scientifico-disciplinare: 06/MEDS-08 - "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence245": {
+    "sentence": "gruppo scientifico-disciplinare: 06/MEDS-10 - Gastroenterologia, malattie infettive e malattie cutanee;",
+    "entity": [
+      "gruppo scientifico-disciplinare: 06/MEDS-10 - Gastroenterologia, "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence246": {
+    "sentence": "gruppo scientifico-disciplinare: 06/MEDS-11 - Psichiatria; settore scientifico-disciplinare: MEDS-11/A - Psichiatria.",
+    "entity": [],
+    "category": []
+  },
+  "sentence247": {
+    "sentence": "gruppo scientifico-disciplinare: 06/MEDS-12 - Neurologia; settore scientifico-disciplinare: MEDS-12/A - Neurologia.",
+    "entity": [],
+    "category": []
+  },
+  "sentence248": {
+    "sentence": "gruppo scientifico-disciplinare: 06/MEDS-13 - Chirurgia cardio-toraco-vascolare;",
+    "entity": [],
+    "category": []
+  },
+  "sentence249": {
+    "sentence": "gruppo scientifico-disciplinare: 06/MEDS-22 - Diagnostica per immagini, radioterapia e neuroradiologia;",
+    "entity": [
+      "gruppo scientifico-disciplinare: 06/MEDS-22 - Diagnostica per immagini, "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence250": {
+    "sentence": "gruppo scientifico-disciplinare: 07/AGRI-09 - Scienze e tecnologie animali;",
+    "entity": [],
+    "category": []
+  },
+  "sentence251": {
+    "sentence": "gruppo scientifico-disciplinare: 08/CEAR-08 - Design , tecnologia dell’architettura, architettura tecnica e gestione dell’ambiente costruito;",
+    "entity": [
+      "gruppo scientifico-disciplinare"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence252": {
+    "sentence": "gruppo scientifico-disciplinare: 11/PSIC-01 Psicologia generale, neuropsicologia e neuroscienze cognitive, psicometria; settore scientifico-disciplinare: PSIC-01/A Psicologia generale.",
+    "entity": [
+      "gruppo scientifico-disciplinare",
+      "psicometria"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence253": {
+    "sentence": "gruppo settori disciplinari: 06/MEDS-19 - Malattie dell’apparato locomotore e medicina fisica e riabilitativa;",
+    "entity": [],
+    "category": []
+  },
+  "sentence254": {
+    "sentence": "https://progetti.unicatt.it/progetti-ateneo-milano-bresciapiacenza-e-cremona-chiamata-di-professori-di-prima-e-secondafascia-legge-240#content",
+    "entity": [],
+    "category": []
+  },
+  "sentence255": {
+    "sentence": "internazionalizzazione e/o potenziale competitivo internazionale, da intendersi come posizionamento della produzione scientifica del candidato nello scenario internazionale, in termini di rilevanza, competitività, diffusione editoriale e apprezzamento della comunità scientifica, inclusa la collaborazione esplicita con ricercatori e gruppi di ricerca di altre nazioni.",
+    "entity": [
+      "internazionalizzazione",
+      "potenziale competitivo internazionale"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence256": {
+    "sentence": "nato in tenure track della durata di sei anni, non rinnovabile, GSD 08/CEAR-08 - Design , tecnologia dell’architettura, architettura tecnica e gestione dell’ambiente costruito, per il Dipartimento di architettura e design.",
+    "entity": [],
+    "category": []
+  },
+  "sentence257": {
+    "sentence": "originalità/innovazione, da intendersi come contributo a nuove acquisizioni o all’avanzamento di conoscenze, nel settore di riferimento;",
+    "entity": [],
+    "category": []
+  },
+  "sentence258": {
+    "sentence": "posti di ricercatore a tempo determinato, vari GSD, per la Facoltà di medicina e chirurgia A.",
+    "entity": [
+      "posti di ricercatore",
+      "vari GSD"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence259": {
+    "sentence": "procedura valutativa per il reclutamento di un posto di ricercatore/trice a tempo determinato in tenure track (RTT) di cui all’art. 24 della legge 30 dicembre 2010, n. 240 e successive modificazioni ed integrazioni, - riservata ai soggetti che sono, o sono stati, per una durata non inferiore a un anno, titolari di contratti di ricercatore a tempo determinato ai sensi dell’art. 24, comma 3, lettera a) della legge n. 240/2010 (RTDA), o dei soggetti che sono stati, per una durata non inferiore a tre anni, titolari di uno o più assegni di ricerca di cui all’art. 22 della legge n. 240/2010.",
+    "entity": [
+      "procedura valutativa"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence260": {
+    "sentence": "ricercatore a tempo determinato in tenure track , GSD 11/PHIL-04 - Estetica e filosofia dei linguaggi.",
+    "entity": [],
+    "category": []
+  },
+  "sentence261": {
+    "sentence": "ricercatore a tempo determinato in tenure track , GSD 13/ECON-01 - Economia politica, per il Dipartimento di scienze giuridiche e dell’impresa.",
+    "entity": [],
+    "category": []
+  },
+  "sentence262": {
+    "sentence": "ricercatore a tempo determinato in tenure track , vari GSD e Dipartimenti.",
+    "entity": [
+      "ricercatore",
+      "tenure track"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence263": {
+    "sentence": "ricercatore a tempo pieno e determinato in tenure track di durata sessennale, vari GSD e Dipartimenti.",
+    "entity": [
+      "ricercatore",
+      "tenure track"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence264": {
+    "sentence": "rilevanza, da intendersi come valore aggiunto per l’avanzamento della conoscenza nel settore e per la scienza biomedica in generale, nonché per i benefici sociali derivati, anche in termini di congruità, efficacia, tempestività e durata delle ricadute;",
+    "entity": [
+      " nel settore e per la "
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence265": {
+    "sentence": "settore scientifico-disciplinare: AGRI-09/A - Zootecnia generale e miglioramento genetico.",
+    "entity": [
+      "AGRI-09"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence266": {
+    "sentence": "settore scientifico-disciplinare: BIOS-09/A - Biochimica clinica e biologia molecolare clinica.",
+    "entity": [
+      "BIOS-09"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence267": {
+    "sentence": "settore scientifico-disciplinare: CEAR-08/C - Progettazione tecnologica e ambientale dell’architettura (un posto).",
+    "entity": [
+      "CEAR-08"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence268": {
+    "sentence": "settore scientifico-disciplinare: MEDS-02/A - Patologia generale.",
+    "entity": [
+      "MEDS-02"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence269": {
+    "sentence": "settore scientifico-disciplinare: MEDS-03/A - Microbiologia e microbiologia clinica.",
+    "entity": [
+      "MEDS-03"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence270": {
+    "sentence": "settore scientifico-disciplinare: MEDS-05/A - Medicina interna.",
+    "entity": [
+      "MEDS-05"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence271": {
+    "sentence": "settore scientifico-disciplinare: MEDS-06/A - Chirurgia generale.",
+    "entity": [
+      "MEDS-06"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence272": {
+    "sentence": "settore scientifico-disciplinare: MEDS-08/A - Endocrinologia.",
+    "entity": [
+      "MEDS-08"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence273": {
+    "sentence": "settore scientifico-disciplinare: MEDS-08/C - Scienza dell’alimentazione e delle tecniche dietetiche applicate.",
+    "entity": [
+      "MEDS-08"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence274": {
+    "sentence": "settore scientifico-disciplinare: MEDS-10/C - Malattie cutanee e veneree.",
+    "entity": [
+      "MEDS-10"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence275": {
+    "sentence": "settore scientifico-disciplinare: MEDS-13/A - Chirurgia toracica.",
+    "entity": [
+      "MEDS-13"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence276": {
+    "sentence": "settore scientifico-disciplinare: MEDS-19/A - Malattie dell’apparato locomotore.",
+    "entity": [
+      "MEDS-19",
+      "apparato locomotore"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence277": {
+    "sentence": "settore scientifico-disciplinare: MEDS-22/A - Diagnostica per immagini e radioterapia.",
+    "entity": [
+      "MEDS-22"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence278": {
+    "sentence": "settore scientifico-disciplinare: PHYS-06/A - Fisica per le scienze della vita, l’ambiente e i beni culturali.",
+    "entity": [
+      "PHYS-06"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence279": {
+    "sentence": "tore a tempo determinato in tenure track , vari GSD.",
+    "entity": [
+      "tore",
+      "tenure track"
+    ],
+    "category": [
+      "unknown",
+      "unknown"
+    ]
+  },
+  "sentence280": {
+    "sentence": "un posto di ricercatore a tempo determinato in tenure track (RTT);",
+    "entity": [
+      "posto"
+    ],
+    "category": [
+      "other facility"
+    ]
+  },
+  "sentence281": {
+    "sentence": "zioni idraulico-forestali 1 R5_RTT_2026_01",
+    "entity": [
+      "zioni idraulico-forestali"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence282": {
+    "sentence": "È importante, infatti, che il candidato possa rapidamente inserirsi nelle attività dell’IRCCS e ciò sarà possibile soltanto se ha competenze ed esperienza nel campo scientifico, nell’organizzazione e direzione dei gruppi di ricerca, nel saper fare fundraising , nella ricerca di base, ma soprattutto e necessariamente in quella clinica e traslazionale; tutto questo sarà dimostrato, anche, dalla presentazione di un esaustivo piano di rilancio dell’IRCCS coerente con la propria esperienza e con la realtà dell’Istituto.",
+    "entity": [
+      "IRCCS"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence283": {
+    "sentence": "È indetta la procedura selettiva per la copertura di un posto di professore universitario - prima fascia - da coprire mediante chiamata ai sensi dell’art. 18, comma 1, legge n. 240/2010 di seguito indicata:",
+    "entity": [
+      "professore"
+    ],
+    "category": [
+      "unknown"
+    ]
+  },
+  "sentence284": {
+    "sentence": "È indetta selezione pubblica, per titoli e colloquio, per il conferimento di una borsa di ricerca per l’area scientifica/tecnologica di oncologia sperimentale, da usufruirsi presso la sede di Pisa dell’Istituto di fisiologia clinica (IFC) del CNR, nell’ambito del progetto « Role of computational analyses in the development of novel biomarkers and innovative agents in patients with glioblastoma », CUP B53C24004580005, B53C24004580005.",
+    "entity": [
+      "borsa"
+    ],
+    "category": [
+      "unknown"
+    ]
+  }
+}

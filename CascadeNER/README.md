@@ -1,66 +1,23 @@
-## CascadeNER Inference Overview
+## Riconoscimenti e Architettura
+Questo progetto adatta per l'italiano il framework originale **DynamicNER** e la pipeline **CascadeNER**. I crediti per l'architettura originaria vanno ai rispettivi autori ([DynamicNER: A Dynamic, Multilingual, and Fine-Grained Dataset for LLM-based Named Entity Recognition](https://aclanthology.org/2025.emnlp-main.835/) (Luo et al., EMNLP 2025)), mentre i dati di validazione e fine-tuning derivano dal dataset **MultiCoNER**. La pipeline, basata sul modello `Qwen2.5-1.5B-Instruct`, si divide in due fasi sequenziali:
+*   **Stage 1 (Extractor):** Individua i confini delle entità testuali racchiudendole tra speciali delimitatori (`##entità##`).
+*   **Stage 2 (Classifier):** Naviga un'ontologia gerarchica a 155 categorie per assegnare a ciascuna estrazione l'etichetta semantica corretta.
 
-The scripts in this directory provide a lightweight two-stage pipeline for generating CascadeNER predictions with your own extractor and classifier checkpoints. The workflow assumes the DynamicNER dataset has already been prepared in `../DynamicNER_process` as described in the project README.
+## Esperimenti: Zero-Shot e Fine-Tuning
+Il progetto confronta due diversi approcci di addestramento e inferenza:
+*   **Baseline Zero-Shot (Cross-Lingual):** Inizialmente, il modello è stato addestrato esclusivamente su dati in lingua inglese e testato in modalità zero-shot sul dataset italiano, dimostrando le capacità native di transfer learning cross-linguale dell'architettura.
+*   **Fine-Tuning Nativo (Italiano):** Il modello è stato successivamente ottimizzato (LoRA) con `ms-swift` direttamente su dati italiani, portando a un drastico incremento delle prestazioni. I checkpoint ottimali individuati tramite Early Stopping sono lo Step 2200 per l'Extractor e lo Step 9100 per il Classifier.
 
-### 1. Stage‑1 Extraction
+## Stress Test su Dati Reali
+Per valutare il fenomeno del *Domain Shift*, la cartella `test_reali/` include test su documenti PDF originali:
+*   **Out-of-Domain (Gazzetta Ufficiale):** Applicato a sintassi burocratiche complesse, l'Extractor ha mostrato difficoltà (allucinazioni testuali), mentre il Classifier ha generato risultati `unknown` per concetti amministrativi estranei all'ontologia originaria.
+*   **In-Domain (Recensione "Titanic"):** Su testi narrativo-giornalistici, il modello ha ripreso a estrarre in modo impeccabile luoghi, attori e opere, confermando l'efficacia del fine-tuning italiano su strutture sintattiche standard.
 
-Run `extract.sh` to produce JSONL responses that contain the entity extraction prompts and model outputs.
+## Comandi di Inferenza e Riproducibilità
+Dopo aver generato il formato JSONL dai PDF tramite gli script Python dedicati, eseguire i seguenti comandi dalla radice `CascadeNER`:
 
-```bash
-cd CascadeNER
-DATASET_PATH=/path/to/dynamic/classify/en/dev.json \
-MODEL_PATH=./model/extractor/your_extractor_ckpt \
-CUDA_VISIBLE_DEVICES=0 \
-bash extract.sh
-```
+*   **Stage 1 (Extractor):**
+    `swift infer --ckpt_dir "model/extractor_it/qwen2_5-1_5b-instruct/v0-20260807-115116/checkpoint-2200" --custom_val_dataset_path "test_reali/test_titanic_infer.jsonl" --result_dir "test_reali/titanic_stage1" --save_result true --max_new_tokens 256 --repetition_penalty 1.3 --do_sample false`
 
-The script stores the generated JSONLs in `./model/extractor/infer_result/` by default. Set `OUTPUT_DIR` to change the destination. All parameters (Swift binary path, model path, dataset path, device, sample size) are overridable via environment variables – see the comments in `extract.sh`.
-
-### 2. Stage‑2 Classification
-
-Aggregate the Stage‑1 outputs and classify each entity with the classifier model:
-
-```bash
-python model/infer.py \
-  --responses_dir ./model/extractor/infer_result \
-  --classifier_model ./model/classifier/your_classifier_ckpt \
-  --category_file ../DynamicNER_process/DynamicNER.json \
-  --output_file outputs/cascade_predictions.json \
-  --device cuda
-```
-
-Additional arguments include `--max_new_tokens`, `--temperature`, and `--limit` to control decoding behaviour and the number of processed sentences.
-
-### 3. Evaluation
-
-Compare the predictions against a ground-truth JSON (BASE format) using:
-
-```bash
-python evaluate.py \
-  path/to/ground_truth.json \
-  outputs/cascade_predictions.json
-```
-
-This prints micro-averaged precision/recall/F1 both for `(entity, category)` pairs and entity-only metrics.
-
-### 4. Single Query Demo
-
-For quick experiments with a single sentence/entity pair:
-
-```bash
-python demo.py \
-  --model ./model/classifier/your_classifier_ckpt \
-  --category_file ../DynamicNER_process/DynamicNER.json \
-  --sentence "Kobe is out." \
-  --entity "Kobe"
-```
-
-### Model Placement
-
-Place extractor checkpoints under `model/extractor/` and classifier checkpoints under `model/classifier/`. The subfolders `please_put_models_here/` mark the expected locations.
-
-### Notes
-
-- Stage‑1 assumes the extractor is run with ModelScope Swift’s `infer` command; adjust `extract.sh` if using another interface.
-- The classification pipeline expects responses formatted with `query`/`response` keys and entities wrapped in `##...##`.
-- For large batches, consider running Stage‑2 on GPU (`--device cuda`) with `torch_dtype=float16` automatically enabled.
+*   **Stage 2 (Classifier):**
+    `python model/infer.py --responses_dir "test_reali/titanic_stage1" --classifier_model "model/classifier_it/qwen2_5-1_5b-instruct/v0-20260808-111412/checkpoint-9100" --category_file "../DynamicNER_process/DynamicNER.json" --output_file "test_reali/cascade_titanic_pred.json" --device cuda`
